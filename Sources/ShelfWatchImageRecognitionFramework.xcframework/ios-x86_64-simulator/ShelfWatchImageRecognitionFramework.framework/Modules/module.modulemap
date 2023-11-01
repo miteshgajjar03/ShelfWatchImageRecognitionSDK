@@ -1,0 +1,6 @@
+framework module ShelfWatchImageRecognitionFramework {
+  umbrella header "ShelfWatchImageRecognitionFramework.h"
+  export *
+
+  module * { export * }
+}

@@ -10,8 +10,20 @@ import ShelfWatchImageRecognitionFramework
 
 public class ShelfWatchCameraManager {
     
-    public static func showCamera(with config: CameraConfiguration, viewController: UIViewController, delegate: CameraDelegate) {
+    public static func showCamera(with config: CameraConfig, viewController: UIViewController, delegate: CameraDelegate) {
         
-        ShelfWatchCamera.show(with: config, viewController: viewController, delegate: delegate)
+        let configuration = CameraConfiguration(
+            orientation: config.orientation,
+            widthPercent: config.widthPercent,
+            deeplink: config.deeplink,
+            dimension: config.dimension,
+            referenceurl: config.referenceurl,
+            shouldNavigateCropReview: config.shouldNavigateCropReview,
+            blurCheckEnabled: config.blurCheckEnabled,
+            zoomLevel: config.zoomLevel,
+            uploadParameterJSON: config.uploadParameterJSON
+        )
+        
+        ShelfWatchCamera.show(with: configuration, viewController: viewController, delegate: delegate)
     }
 }

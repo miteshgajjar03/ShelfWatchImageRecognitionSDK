@@ -9,6 +9,8 @@ import CoreLocation
 import CoreMotion
 import DeveloperToolsSupport
 import Foundation
+import MetalKit
+import MetalPerformanceShaders
 import Photos
 @_exported import ShelfWatchImageRecognitionFramework
 import Swift

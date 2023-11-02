@@ -27,12 +27,6 @@ public enum UploadResult {
 }
 public struct CameraConfiguration {
   public init(orientation: Swift.String, widthPercent: CoreFoundation.CGFloat, deeplink: Swift.String, dimension: CoreFoundation.CGFloat, referenceurl: Swift.String, shouldNavigateCropReview: Swift.Bool, blurCheckEnabled: Swift.Bool, zoomLevel: Swift.String, uploadParameterJSON: [Swift.String : Any])
-  public static var `default`: ShelfWatchImageRecognitionFramework.CameraConfiguration {
-    get
-  }
-  public static var defaultUploadParam: [Swift.String : Any] {
-    get
-  }
 }
 public enum ResizeFramework {
   case uikit, coreImage, coreGraphics, imageIO, accelerate

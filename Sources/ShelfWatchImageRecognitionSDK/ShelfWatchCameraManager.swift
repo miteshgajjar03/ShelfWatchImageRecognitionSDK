@@ -21,15 +21,15 @@ public class ShelfWatchCameraManager {
     public func showCamera(viewController: UIViewController) {
         
         let configuration = CameraConfiguration(
-            orientation: config.orientation,
-            widthPercent: config.widthPercent,
-            deeplink: config.deeplink,
-            dimension: config.dimension,
-            referenceurl: config.referenceurl,
-            shouldNavigateCropReview: config.shouldNavigateCropReview,
-            blurCheckEnabled: config.blurCheckEnabled,
-            zoomLevel: config.zoomLevel,
-            uploadParameterJSON: config.uploadParameterJSON
+            orientation: self.config.orientation,
+            widthPercent: self.config.widthPercent,
+            deeplink: self.config.deeplink,
+            dimension: self.config.dimension,
+            referenceurl: self.config.referenceurl,
+            shouldNavigateCropReview: self.config.shouldNavigateCropReview,
+            blurCheckEnabled: self.config.blurCheckEnabled,
+            zoomLevel: self.config.zoomLevel,
+            uploadParameterJSON: self.config.uploadParameterJSON
         )
         
         ShelfWatchCamera.show(with: configuration, viewController: viewController, delegate: self)

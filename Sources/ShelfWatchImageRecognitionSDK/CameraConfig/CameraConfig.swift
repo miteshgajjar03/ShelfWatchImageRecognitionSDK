@@ -10,24 +10,34 @@ import Foundation
 public struct CameraConfig {
     
     let orientation: String
-    let widthPercent: CGFloat
-    let deeplink: String
-    let dimension: CGFloat
-    let referenceurl: String
-    let shouldNavigateCropReview: Bool
-    let blurCheckEnabled: Bool
+    let widthPercentage: CGFloat
+    let resolution: CGFloat
+    let referenceUrl: String
+    let allowCrop: Bool
+    let allowBlurCheck: Bool
     let zoomLevel: String
-    let uploadParameterJSON: [String : Any]
+    let isRetake: Bool
+    let uploadParams: [String : Any]
     
-    public init(orientation: String, widthPercent: CGFloat, deeplink: String, dimension: CGFloat, referenceurl: String, shouldNavigateCropReview: Bool, blurCheckEnabled: Bool, zoomLevel: String, uploadParameterJSON: [String : Any]) {
+    public init(
+        orientation: String,
+        widthPercentage: CGFloat,
+        resolution: CGFloat,
+        referenceUrl: String,
+        allowCrop: Bool,
+        allowBlurCheck: Bool,
+        zoomLevel: String,
+        isRetake: Bool,
+        uploadParams: [String : Any]
+    ) {
         self.orientation = orientation
-        self.widthPercent = widthPercent
-        self.deeplink = deeplink
-        self.dimension = dimension
-        self.referenceurl = referenceurl
-        self.shouldNavigateCropReview = shouldNavigateCropReview
-        self.blurCheckEnabled = blurCheckEnabled
+        self.widthPercentage = widthPercentage
+        self.resolution = resolution
+        self.referenceUrl = referenceUrl
+        self.allowCrop = allowCrop
+        self.allowBlurCheck = allowBlurCheck
         self.zoomLevel = zoomLevel
-        self.uploadParameterJSON = uploadParameterJSON
+        self.isRetake = isRetake
+        self.uploadParams = uploadParams
     }
 }

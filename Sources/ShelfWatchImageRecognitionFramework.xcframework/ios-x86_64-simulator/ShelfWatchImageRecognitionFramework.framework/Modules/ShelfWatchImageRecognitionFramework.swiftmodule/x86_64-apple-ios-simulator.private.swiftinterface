@@ -5,6 +5,7 @@
 import AVFoundation
 import AVKit
 import Accelerate
+import CoreData
 import CoreLocation
 import CoreMotion
 import DeveloperToolsSupport
@@ -19,16 +20,17 @@ import UIKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-public protocol CameraDelegate : AnyObject {
-  func didReceiveImageUpload(_ result: ShelfWatchImageRecognitionFramework.UploadResult)
+public struct ImageBatch {
+  public let sessionId: Swift.String
+  public let images: [ShelfWatchImageRecognitionFramework.ImageBatchMeta]
 }
-public enum UploadResult {
-  case success
-  case failure(error: any Swift.Error)
-  case progress(progress: Swift.Float)
+public struct ImageBatchMeta {
+  public let uri: Swift.String
+  public let uploadStatus: Swift.Bool
+  public let error: (any Swift.Error)?
 }
 public struct CameraConfiguration {
-  public init(orientation: Swift.String, widthPercent: CoreFoundation.CGFloat, deeplink: Swift.String, dimension: CoreFoundation.CGFloat, referenceurl: Swift.String, shouldNavigateCropReview: Swift.Bool, blurCheckEnabled: Swift.Bool, zoomLevel: Swift.String, uploadParameterJSON: [Swift.String : Any])
+  public init(bucket: Swift.String, orientation: Swift.String, widthPercentage: CoreFoundation.CGFloat, resolution: CoreFoundation.CGFloat, referenceUrl: Swift.String, allowCrop: Swift.Bool, allowBlurCheck: Swift.Bool, zoomLevel: Swift.String, isRetake: Swift.Bool, uploadParams: [Swift.String : Any])
 }
 public enum ResizeFramework {
   case uikit, coreImage, coreGraphics, imageIO, accelerate
@@ -43,9 +45,80 @@ public enum ImageUploadResult {
   case failure(error: any Swift.Error)
   case progress(progress: Foundation.Progress?)
 }
-@_hasMissingDesignatedInitializers public class ShelfWatchCamera {
-  public static func show(with config: ShelfWatchImageRecognitionFramework.CameraConfiguration, viewController: UIKit.UIViewController, delegate: any ShelfWatchImageRecognitionFramework.CameraDelegate)
+@_inheritsConvenienceInitializers @objc(CDCapturedImageBatch) public class CDCapturedImageBatch : CoreData.NSManagedObject {
+  @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
   @objc deinit
+}
+public class ShelfWatchCamera {
+  public init(licenseKey: Swift.String, firebaseBucket: Swift.String, delegate: any ShelfWatchImageRecognitionFramework.ImageUploadDelegate)
+  public func showCamera(with config: ShelfWatchImageRecognitionFramework.CameraConfiguration, viewController: UIKit.UIViewController)
+  @objc deinit
+}
+public protocol ImageUploadDelegate : AnyObject {
+  func didReceiveImage(result: ShelfWatchImageRecognitionFramework.BatchImageUploadResult)
+}
+public enum BatchImageUploadResult {
+  case batch(batch: ShelfWatchImageRecognitionFramework.ImageBatch)
+  case batchMetaStatus(meta: ShelfWatchImageRecognitionFramework.ImageBatchMeta)
+  case sucess(sucess: Swift.Bool)
+}
+@_inheritsConvenienceInitializers @objc(CDImageMetaData) public class CDImageMetaData : CoreData.NSManagedObject {
+  @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
+  @objc deinit
+}
+extension ShelfWatchImageRecognitionFramework.CDImageMetaData {
+  @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<ShelfWatchImageRecognitionFramework.CDImageMetaData>
+  @objc @NSManaged dynamic public var name: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var position: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var dimension: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var latitude: Swift.Double {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var longitude: Swift.Double {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var totalImageCapture: Swift.Int16 {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var orientation: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var zoomLevel: Swift.Double {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var sessionId: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var cropCoordinates: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var overlayValues: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var uploadParam: Foundation.Data? {
+    @objc get
+    @objc set
+  }
+}
+extension ShelfWatchImageRecognitionFramework.CDImageMetaData : Swift.Identifiable {
+  public typealias ID = Swift.ObjectIdentifier
 }
 extension UIKit.UIImage {
   public enum DataUnits : Swift.String {
@@ -63,6 +136,26 @@ extension UIKit.UIView {
   @_Concurrency.MainActor(unsafe) public func setBorder(width: CoreFoundation.CGFloat, color: UIKit.UIColor)
   @_Concurrency.MainActor(unsafe) public func setRadiusFor(corners: UIKit.UIRectCorner, radius: CoreFoundation.CGFloat)
   @_Concurrency.MainActor(unsafe) public func setShadow(color: UIKit.UIColor)
+}
+extension ShelfWatchImageRecognitionFramework.CDCapturedImageBatch {
+  @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<ShelfWatchImageRecognitionFramework.CDCapturedImageBatch>
+  @objc @NSManaged dynamic public var sessionId: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var images: [ShelfWatchImageRecognitionFramework.CDImageMetaData]? {
+    @objc get
+    @objc set
+  }
+}
+extension ShelfWatchImageRecognitionFramework.CDCapturedImageBatch {
+  @objc(addImagesObject:) @NSManaged dynamic public func addToImages(_ value: ShelfWatchImageRecognitionFramework.CDImageMetaData)
+  @objc(removeImagesObject:) @NSManaged dynamic public func removeFromImages(_ value: ShelfWatchImageRecognitionFramework.CDImageMetaData)
+  @objc(addImages:) @NSManaged dynamic public func addToImages(_ values: Foundation.NSSet)
+  @objc(removeImages:) @NSManaged dynamic public func removeFromImages(_ values: Foundation.NSSet)
+}
+extension ShelfWatchImageRecognitionFramework.CDCapturedImageBatch : Swift.Identifiable {
+  public typealias ID = Swift.ObjectIdentifier
 }
 extension Swift.String {
   public var trimmed: Swift.String {

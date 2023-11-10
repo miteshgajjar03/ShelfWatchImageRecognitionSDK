@@ -10,48 +10,100 @@ import ShelfWatchImageRecognitionFramework
 
 public class ShelfWatchCameraManager {
     
-    private let config: CameraConfig
-    private let delegate: ImageUploadDelegate
+    private let licenseKey: String
+    private let firebaseBucket: String
+    private weak var delegate: ShelfWatchDelegate?
     
-    public init(config: CameraConfig, delegate: ImageUploadDelegate) {
-        self.config = config
+    private var shelfWatchCamera: ShelfWatchCamera!
+    
+    public init(licenseKey: String, firebaseBucket: String, delegate: ShelfWatchDelegate) {
+        
+        self.licenseKey = licenseKey
+        self.firebaseBucket = firebaseBucket
         self.delegate = delegate
+        
+        self.shelfWatchCamera = ShelfWatchCamera(
+            licenseKey: licenseKey,
+            firebaseBucket: firebaseBucket,
+            delegate: self
+        )
     }
     
-    public func showCamera(viewController: UIViewController) {
+    public func showCamera(config: CameraConfig, viewController: UIViewController) {
         
-        let configuration = CameraConfiguration(
-            orientation: self.config.orientation,
-            widthPercent: self.config.widthPercent,
-            deeplink: self.config.deeplink,
-            dimension: self.config.dimension,
-            referenceurl: self.config.referenceurl,
-            shouldNavigateCropReview: self.config.shouldNavigateCropReview,
-            blurCheckEnabled: self.config.blurCheckEnabled,
-            zoomLevel: self.config.zoomLevel,
-            uploadParameterJSON: self.config.uploadParameterJSON
+        let config = CameraConfiguration(
+            bucket: self.firebaseBucket,
+            orientation: config.orientation,
+            widthPercentage: config.widthPercentage,
+            resolution: config.resolution,
+            referenceUrl: config.referenceUrl,
+            allowCrop: config.allowCrop,
+            allowBlurCheck: config.allowBlurCheck,
+            zoomLevel: config.zoomLevel,
+            isRetake: config.isRetake,
+            uploadParams: config.uploadParams
         )
         
-        ShelfWatchCamera.show(with: configuration, viewController: viewController, delegate: self)
+        shelfWatchCamera.showCamera(with: config, viewController: viewController)
     }
 }
 
-extension ShelfWatchCameraManager: CameraDelegate {
+//extension ShelfWatchCameraManager: CameraDelegate {
+//    
+//    public func didReceiveImageUpload(_ result: UploadResult) {
+//        switch result {
+//        case .success:
+//            self.delegate.didReceiveImageStatus(.success)
+//            
+//        case .failure(error: let error):
+//            self.delegate.didReceiveImageStatus(.failure(error: error))
+//            
+//        case .progress(progress: let progress):
+//            self.delegate.didReceiveImageStatus(.progress(progress: progress))
+//            
+//        @unknown default:
+//            fatalError("\n********************\nUnhandled CameraDelegate > UploadResult Case\n********************\n")
+//        }
+//        
+//    }
+//}
+
+extension ShelfWatchCameraManager: ImageUploadDelegate {
     
-    public func didReceiveImageUpload(_ result: UploadResult) {
+    public func didReceiveImage(result: BatchImageUploadResult) {
+        
         switch result {
-        case .success:
-            self.delegate.didReceiveImageStatus(.success)
+        case .batch(batch: let batch):
             
-        case .failure(error: let error):
-            self.delegate.didReceiveImageStatus(.failure(error: error))
+            let uploadBatch: UploadBatch = UploadBatch(
+                sessionId: batch.sessionId,
+                images: batch.images.map({
+                    UploadBatchMeta(
+                        uri: $0.uri,
+                        uploadStatus: $0.uploadStatus,
+                        error: $0.error
+                    )
+                })
+            )
             
-        case .progress(progress: let progress):
-            self.delegate.didReceiveImageStatus(.progress(progress: progress))
+            self.delegate?.didReceiveBatch(result: .batch(batch: uploadBatch))
+            
+        case .batchMetaStatus(meta: let imageBatchMeta):
+            
+            let batchMeta = UploadBatchMeta(
+                uri: imageBatchMeta.uri,
+                uploadStatus: imageBatchMeta.uploadStatus,
+                error: imageBatchMeta.error
+            )
+            
+            self.delegate?.didReceiveBatch(result: .batchMetaStatus(meta: batchMeta))
+            
+        case .sucess(sucess: let success):
+            self.delegate?.didReceiveBatch(result: .sucess(sucess: success))
             
         @unknown default:
-            fatalError("\n********************\nUnhandled CameraDelegate > UploadResult Case\n********************\n")
+            fatalError("FRAMEWORK'S UNHANDLED CASE")
         }
-        
     }
+    
 }

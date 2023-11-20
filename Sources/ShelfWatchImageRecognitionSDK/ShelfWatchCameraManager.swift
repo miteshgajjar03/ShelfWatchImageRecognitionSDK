@@ -70,6 +70,25 @@ public class ShelfWatchCameraManager {
 
 extension ShelfWatchCameraManager: ImageUploadDelegate {
     
+    public func didReceiveAllImages(batches: [ImageBatch]) {
+        
+        let pendingImages = batches.map({
+            UploadBatch(
+                sessionId: $0.sessionId,
+                images: $0.images.map({
+                    UploadBatchMeta(
+                        uri: $0.uri,
+                        uploadStatus: $0.uploadStatus,
+                        error: $0.error
+                    )
+                })
+            )
+        })
+        
+        self.delegate?.didReceiveAllBatches(results: pendingImages)
+    }
+    
+    
     public func didReceiveImage(result: BatchImageUploadResult) {
         
         switch result {

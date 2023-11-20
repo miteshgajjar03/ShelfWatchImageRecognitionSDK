@@ -12,6 +12,7 @@ import Foundation
 public protocol ShelfWatchDelegate: AnyObject {
     
     func didReceiveBatch(result: BatchUploadResult)
+    func didReceiveAllBatches(results: [UploadBatch])
 }
 
 // MARK: - Protocol Result

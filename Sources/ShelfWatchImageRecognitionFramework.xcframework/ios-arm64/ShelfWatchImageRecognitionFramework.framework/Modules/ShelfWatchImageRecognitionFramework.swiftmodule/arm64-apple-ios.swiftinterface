@@ -56,6 +56,7 @@ public class ShelfWatchCamera {
 }
 public protocol ImageUploadDelegate : AnyObject {
   func didReceiveImage(result: ShelfWatchImageRecognitionFramework.BatchImageUploadResult)
+  func didReceiveAllImages(batches: [ShelfWatchImageRecognitionFramework.ImageBatch])
 }
 public enum BatchImageUploadResult {
   case batch(batch: ShelfWatchImageRecognitionFramework.ImageBatch)

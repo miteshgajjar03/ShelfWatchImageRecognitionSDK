@@ -10517,14 +10517,21 @@
     {
       "filePath": "\/Users\/mitesh\/Library\/Developer\/Xcode\/DerivedData\/ShelfWatchImageRecognitionFramework-cqoypyuwmmmdklezvfatdcahjtpv\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ShelfWatchImageRecognitionFramework\/IntermediateBuildFilesPath\/ShelfWatchImageRecognitionFramework.build\/Release-iphoneos\/ShelfWatchImageRecognitionFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 732,
+      "offset": 744,
+      "length": 18,
+      "value": "\"camera.wideAngle\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Library\/Developer\/Xcode\/DerivedData\/ShelfWatchImageRecognitionFramework-cqoypyuwmmmdklezvfatdcahjtpv\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ShelfWatchImageRecognitionFramework\/IntermediateBuildFilesPath\/ShelfWatchImageRecognitionFramework.build\/Release-iphoneos\/ShelfWatchImageRecognitionFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 891,
       "length": 12,
       "value": "\"flash.auto\""
     },
     {
       "filePath": "\/Users\/mitesh\/Library\/Developer\/Xcode\/DerivedData\/ShelfWatchImageRecognitionFramework-cqoypyuwmmmdklezvfatdcahjtpv\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ShelfWatchImageRecognitionFramework\/IntermediateBuildFilesPath\/ShelfWatchImageRecognitionFramework.build\/Release-iphoneos\/ShelfWatchImageRecognitionFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 871,
+      "offset": 1030,
       "length": 11,
       "value": "\"flash.off\""
     }

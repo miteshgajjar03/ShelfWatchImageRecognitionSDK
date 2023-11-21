@@ -14,23 +14,23 @@
 		</data>
 		<key>Camera.storyboardc/CameraViewController.nib/objects-14.0+.nib</key>
 		<data>
-		MfVJzJIluJT+SGMspcl8oxUE/kw=
+		2NPvTgmfYYeckQDAq5KMg2R41YU=
 		</data>
 		<key>Camera.storyboardc/CameraViewController.nib/runtime.nib</key>
 		<data>
-		MfVJzJIluJT+SGMspcl8oxUE/kw=
+		2NPvTgmfYYeckQDAq5KMg2R41YU=
 		</data>
 		<key>Camera.storyboardc/Info.plist</key>
 		<data>
 		KOcc/99fdGWKneQr+1d0n+ycNAE=
 		</data>
-		<key>Camera.storyboardc/xvb-NN-DVP-view-L8g-ps-adi.nib/objects-14.0+.nib</key>
+		<key>Camera.storyboardc/t0e-vp-mUz-view-d8S-Fb-bVN.nib/objects-14.0+.nib</key>
 		<data>
-		twNiklfsbp64mHr2bzvKPZvreG0=
+		cRAFWMgtRGoGIVuNUcEdaw5ujpM=
 		</data>
-		<key>Camera.storyboardc/xvb-NN-DVP-view-L8g-ps-adi.nib/runtime.nib</key>
+		<key>Camera.storyboardc/t0e-vp-mUz-view-d8S-Fb-bVN.nib/runtime.nib</key>
 		<data>
-		ym+szdprvEaYXG/NdN0glwgeSIA=
+		dQSpBwgZKV2DamU3edLe0LlY2TM=
 		</data>
 		<key>FixOrientationView.nib</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		/lLfzfe73ki/Cj0OJAJptgavipQ=
+		GqQZ5gdkVLKgjopS+VikumlB5No=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		lA/jCwgHvmaB7xaTW8659Eq/qQA=
+		Ij2ioyM/yIDTTo2dSpbSQs4+Xyk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -157,14 +157,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6EYocEhQrHaJBQbFwtstC9UGPEuolnSlG7xj4ycSA+k=
+			s77HHgJQ3Wd61bIlUoH/lnTztAVWJaujkgH8YALF/4I=
 			</data>
 		</dict>
 		<key>Camera.storyboardc/CameraViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6EYocEhQrHaJBQbFwtstC9UGPEuolnSlG7xj4ycSA+k=
+			s77HHgJQ3Wd61bIlUoH/lnTztAVWJaujkgH8YALF/4I=
 			</data>
 		</dict>
 		<key>Camera.storyboardc/Info.plist</key>
@@ -174,18 +174,18 @@
 			CNGv5a2ka9qdcBGyrYXwWUprdZMr2CoBlakXnI6dTno=
 			</data>
 		</dict>
-		<key>Camera.storyboardc/xvb-NN-DVP-view-L8g-ps-adi.nib/objects-14.0+.nib</key>
+		<key>Camera.storyboardc/t0e-vp-mUz-view-d8S-Fb-bVN.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XvTAXq+eXCWosdUGTyoFUOyJRr84M4UG+j9OeQPBFB8=
+			7fE1frFSgR2ad9ttc4Gna3p76MWnxY4sWl5WyrycxXQ=
 			</data>
 		</dict>
-		<key>Camera.storyboardc/xvb-NN-DVP-view-L8g-ps-adi.nib/runtime.nib</key>
+		<key>Camera.storyboardc/t0e-vp-mUz-view-d8S-Fb-bVN.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fooMwiQupJos64IFbkNcsEwisBJIrzb9MCTp4LuuIe4=
+			I4Orl74haYqh81+iP+iluHhyetX0awIqGfUHm7KWmrM=
 			</data>
 		</dict>
 		<key>FixOrientationView.nib</key>
@@ -283,7 +283,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VlKYF9kXC0XsezGsK/8Yn2h100Sip+afF/K/4byFlWg=
+			wL16okpuWc6QYiflV/eaMb/wcwZdyaY+ImEQjVhO/A4=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -311,7 +311,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+yJzU1WvkWbfNn/lPaQurxCKgI5ns5rcY1YonbcR2yE=
+			VVcAffR2TSGkYJLrFIEf44u6YmrDjbLXCqSXgybIeqA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

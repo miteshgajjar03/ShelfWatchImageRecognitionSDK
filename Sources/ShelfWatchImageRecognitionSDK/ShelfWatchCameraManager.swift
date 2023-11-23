@@ -32,7 +32,6 @@ public class ShelfWatchCameraManager {
     public func showCamera(config: CameraConfig, viewController: UIViewController) {
         
         let config = CameraConfiguration(
-            bucket: self.firebaseBucket,
             orientation: config.orientation,
             widthPercentage: config.widthPercentage,
             resolution: config.resolution,

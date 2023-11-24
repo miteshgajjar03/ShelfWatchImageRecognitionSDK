@@ -117,7 +117,7 @@ extension ShelfWatchCameraManager: ImageUploadDelegate {
             self.delegate?.didReceiveBatch(result: .batchMetaStatus(meta: batchMeta))
             
         case .sucess(sucess: let success):
-            self.delegate?.didReceiveBatch(result: .success(sucess: success))
+            self.delegate?.didReceiveBatch(result: .success(success: success))
             
         @unknown default:
             fatalError("FRAMEWORK'S UNHANDLED CASE")

@@ -23,7 +23,7 @@ public enum BatchUploadResult {
 
     case batchMetaStatus(meta: UploadBatchMeta)
 
-    case sucess(sucess: Bool)
+    case success(sucess: Bool)
 }
 
 // MARK: - Result Meta

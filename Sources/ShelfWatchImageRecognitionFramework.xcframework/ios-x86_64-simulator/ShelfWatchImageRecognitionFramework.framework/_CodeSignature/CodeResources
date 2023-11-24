@@ -26,11 +26,11 @@
 		</data>
 		<key>Camera.storyboardc/t0e-vp-mUz-view-d8S-Fb-bVN.nib/objects-14.0+.nib</key>
 		<data>
-		cRAFWMgtRGoGIVuNUcEdaw5ujpM=
+		GfxMzq+QlkzqBqUcrjstbAz1l90=
 		</data>
 		<key>Camera.storyboardc/t0e-vp-mUz-view-d8S-Fb-bVN.nib/runtime.nib</key>
 		<data>
-		dQSpBwgZKV2DamU3edLe0LlY2TM=
+		DvOJbAleHeWwvJu5X2xHpCsYfO4=
 		</data>
 		<key>FixOrientationView.nib</key>
 		<data>
@@ -64,6 +64,14 @@
 		<data>
 		itShf2YJKQKMYmGajQC9VT/e/X4=
 		</data>
+		<key>ImagePreview.storyboardc/ISf-vz-NMc-view-rus-0O-yQt.nib/objects-14.0+.nib</key>
+		<data>
+		LAmRTZ0H+lV/XIKBnVFxe/gIo7E=
+		</data>
+		<key>ImagePreview.storyboardc/ISf-vz-NMc-view-rus-0O-yQt.nib/runtime.nib</key>
+		<data>
+		LAmRTZ0H+lV/XIKBnVFxe/gIo7E=
+		</data>
 		<key>ImagePreview.storyboardc/ImagePreviewViewController.nib/objects-14.0+.nib</key>
 		<data>
 		TNw7WeDNwyI+s5nlgZXHnnrx2/Q=
@@ -74,7 +82,15 @@
 		</data>
 		<key>ImagePreview.storyboardc/Info.plist</key>
 		<data>
-		J2ITCXv6EZ88cw9+NTCKYdli3ng=
+		/tb1qL2KdEmWFoBm2g9hqcjVm5s=
+		</data>
+		<key>ImagePreview.storyboardc/ReferenceImageViewerViewController.nib/objects-14.0+.nib</key>
+		<data>
+		qXuFttymF/igJGhme/vTeFsm0Ao=
+		</data>
+		<key>ImagePreview.storyboardc/ReferenceImageViewerViewController.nib/runtime.nib</key>
+		<data>
+		28EkWIeI85teJmCuYIhocwD2TUU=
 		</data>
 		<key>ImagePreview.storyboardc/YqR-Rq-jNI-view-MWa-U8-QuE.nib/objects-14.0+.nib</key>
 		<data>
@@ -90,7 +106,7 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		ugl0fDKISNZ+DJXTC/DGi35LfsI=
+		U6zW1OEggYb0Rcm6uPanO/6RY64=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -106,7 +122,7 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		gBK/ip0n4y+IE7DgEx62mkTxLLo=
+		kLueFGA+h7F40WlFi7aHUd7FVjI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -178,14 +194,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7fE1frFSgR2ad9ttc4Gna3p76MWnxY4sWl5WyrycxXQ=
+			CSUg9B1NI3SDQK0dWABYxcvZgOY7Ax4z/Q5rPSY9oyQ=
 			</data>
 		</dict>
 		<key>Camera.storyboardc/t0e-vp-mUz-view-d8S-Fb-bVN.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I4Orl74haYqh81+iP+iluHhyetX0awIqGfUHm7KWmrM=
+			/IhEOT8EdXOJMNbvDXLb+5JbNOIUL9gtDw+RaTrn3cc=
 			</data>
 		</dict>
 		<key>FixOrientationView.nib</key>
@@ -244,6 +260,20 @@
 			fonOCY+sCnafQNg8y0SXN+drDJDo2kGuYlD6YzKJhM8=
 			</data>
 		</dict>
+		<key>ImagePreview.storyboardc/ISf-vz-NMc-view-rus-0O-yQt.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WCGtckVyktKgLYJdAQBr1HOFbIGunil4xpKyYcSCv2c=
+			</data>
+		</dict>
+		<key>ImagePreview.storyboardc/ISf-vz-NMc-view-rus-0O-yQt.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WCGtckVyktKgLYJdAQBr1HOFbIGunil4xpKyYcSCv2c=
+			</data>
+		</dict>
 		<key>ImagePreview.storyboardc/ImagePreviewViewController.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -262,7 +292,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xtAiilfMZKQOQZklSDfIhAH5zNVOxR28IultkyMweYw=
+			L7ODPqdeQ++luUYrIrpcPNea7nilpchgWjjT4/be/5A=
+			</data>
+		</dict>
+		<key>ImagePreview.storyboardc/ReferenceImageViewerViewController.nib/objects-14.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/wVgr+QOpPlP8TDKX2iWD/SIh1UN5co6+JaOhbiHggc=
+			</data>
+		</dict>
+		<key>ImagePreview.storyboardc/ReferenceImageViewerViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			s+dc3ysvnmHnPduDXXnm7yYL7YlxawRRkmPjILMFVeA=
 			</data>
 		</dict>
 		<key>ImagePreview.storyboardc/YqR-Rq-jNI-view-MWa-U8-QuE.nib/objects-14.0+.nib</key>
@@ -283,7 +327,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/eoIMiiG3xQqbw9Fhj+Aia93stPcfKK35+EN3ck6BvE=
+			uotdw/ipcXNOfZGbMBPwVW7Gw6G47FaCVx0R9EKgmEU=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -311,7 +355,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VvwLzQnwtpNhtK3cxGmscjcBDJVoIg7EeTz9XqF1GtA=
+			p0/ozTVyjmfs3IxmDnGBZoAV1dMTT4rTnzrEuhZnD3s=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

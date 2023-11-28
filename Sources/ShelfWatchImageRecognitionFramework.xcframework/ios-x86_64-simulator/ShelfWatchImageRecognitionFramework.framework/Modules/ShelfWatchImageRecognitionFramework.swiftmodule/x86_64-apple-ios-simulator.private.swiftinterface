@@ -30,7 +30,7 @@ public struct ImageBatchMeta {
   public let error: (any Swift.Error)?
 }
 public struct CameraConfiguration {
-  public init(orientation: Swift.String, widthPercentage: CoreFoundation.CGFloat, resolution: CoreFoundation.CGFloat, referenceUrl: Swift.String, allowCrop: Swift.Bool, allowBlurCheck: Swift.Bool, zoomLevel: Swift.String, isRetake: Swift.Bool, uploadParams: [Swift.String : Any])
+  public init(orientation: Swift.String, widthPercentage: CoreFoundation.CGFloat, resolution: CoreFoundation.CGFloat, referenceUrl: Swift.String, allowCrop: Swift.Bool, allowBlurCheck: Swift.Bool, zoomLevel: Swift.String, isRetake: Swift.Bool, showOverlapToggleButton: Swift.Bool, uploadParams: [Swift.String : Any])
 }
 public enum ResizeFramework {
   case uikit, coreImage, coreGraphics, imageIO, accelerate
@@ -52,6 +52,7 @@ public enum ImageUploadResult {
 public class ShelfWatchCamera {
   public init(licenseKey: Swift.String, firebaseBucket: Swift.String, delegate: any ShelfWatchImageRecognitionFramework.ImageUploadDelegate)
   public func showCamera(with config: ShelfWatchImageRecognitionFramework.CameraConfiguration, viewController: UIKit.UIViewController)
+  public func uploadFailedImage()
   @objc deinit
 }
 public protocol ImageUploadDelegate : AnyObject {

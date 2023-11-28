@@ -39,7 +39,8 @@ public class ShelfWatchCameraManager {
             allowCrop: config.allowCrop,
             allowBlurCheck: config.allowBlurCheck,
             zoomLevel: config.zoomLevel,
-            isRetake: config.isRetake,
+            isRetake: config.isRetake, 
+            showOverlapToggleButton: config.showOverlapToggleButton,
             uploadParams: config.uploadParams
         )
         

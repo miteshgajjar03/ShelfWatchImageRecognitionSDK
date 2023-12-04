@@ -20,17 +20,19 @@ import UIKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-public struct ImageBatch {
-  public let sessionId: Swift.String
-  public let images: [ShelfWatchImageRecognitionFramework.ImageBatchMeta]
+@_hasMissingDesignatedInitializers public class ImageBatch {
+  final public let sessionId: Swift.String
+  public var images: [ShelfWatchImageRecognitionFramework.ImageBatchMeta]
+  @objc deinit
 }
-public struct ImageBatchMeta {
-  public let uri: Swift.String
-  public let uploadStatus: Swift.Bool
-  public let error: (any Swift.Error)?
+@_hasMissingDesignatedInitializers public class ImageBatchMeta {
+  final public let uri: Swift.String
+  final public let uploadStatus: Swift.Bool
+  final public let error: (any Swift.Error)?
+  @objc deinit
 }
 public struct CameraConfiguration {
-  public init(orientation: Swift.String, widthPercentage: CoreFoundation.CGFloat, resolution: CoreFoundation.CGFloat, referenceUrl: Swift.String, allowCrop: Swift.Bool, allowBlurCheck: Swift.Bool, zoomLevel: Swift.String, isRetake: Swift.Bool, showOverlapToggleButton: Swift.Bool, uploadParams: [Swift.String : Any])
+  public init(orientation: Swift.String, widthPercentage: CoreFoundation.CGFloat, resolution: CoreFoundation.CGFloat, referenceUrl: Swift.String, allowCrop: Swift.Bool, allowBlurCheck: Swift.Bool, zoomLevel: Swift.String, isRetake: Swift.Bool, showOverlapToggleButton: Swift.Bool, showGridlines: Swift.Bool, uploadParams: [Swift.String : Any])
 }
 public enum ResizeFramework {
   case uikit, coreImage, coreGraphics, imageIO, accelerate

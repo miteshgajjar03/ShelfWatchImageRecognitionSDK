@@ -18,6 +18,7 @@ public struct CameraConfig {
     let zoomLevel: String
     let isRetake: Bool
     let showOverlapToggleButton: Bool
+    let showGridlines: Bool
     let uploadParams: [String : Any]
     
     public init(
@@ -30,6 +31,7 @@ public struct CameraConfig {
         zoomLevel: String,
         isRetake: Bool,
         showOverlapToggleButton: Bool,
+        showGridlines: Bool,
         uploadParams: [String : Any]
     ) {
         self.orientation = orientation
@@ -41,6 +43,7 @@ public struct CameraConfig {
         self.zoomLevel = zoomLevel
         self.isRetake = isRetake
         self.showOverlapToggleButton = showOverlapToggleButton
+        self.showGridlines = showGridlines
         self.uploadParams = uploadParams
     }
 }

@@ -47,6 +47,13 @@ public class ShelfWatchCameraManager {
         
         shelfWatchCamera.showCamera(with: config, viewController: viewController)
     }
+    
+    // MARK: - Upload Failed Image
+    
+    public
+    func uploadFailedImage() {
+        self.shelfWatchCamera.uploadFailedImage()
+    }
 }
 
 //extension ShelfWatchCameraManager: CameraDelegate {

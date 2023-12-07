@@ -1980,6 +1980,23 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ShelfWatchImageRecognitionFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Network",
+        "printedName": "Network",
+        "declKind": "Import",
+        "moduleName": "ShelfWatchImageRecognitionFramework"
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -6462,819 +6479,819 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6286,
+      "offset": 6351,
       "length": 42,
       "value": "\"Portrait: \""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6310,
+      "offset": 6375,
       "length": 1,
       "value": "\" X \""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6327,
+      "offset": 6392,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6365,
+      "offset": 6430,
       "length": 43,
       "value": "\"Landscape: \""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6390,
+      "offset": 6455,
       "length": 1,
       "value": "\" X \""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6407,
+      "offset": 6472,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6619,
+      "offset": 6684,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6635,
+      "offset": 6700,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 7336,
+      "offset": 7401,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7969,
+      "offset": 8034,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 8030,
+      "offset": 8095,
       "length": 3,
       "value": "6.0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 8090,
+      "offset": 8155,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8313,
+      "offset": 8378,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8534,
+      "offset": 8599,
       "length": 44,
       "value": "\"CAMERA VIEW MODEL INITIALISATION FAILED !!\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8746,
+      "offset": 8811,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9342,
+      "offset": 9407,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9415,
+      "offset": 9480,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9516,
+      "offset": 9581,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10962,
+      "offset": 11027,
       "length": 34,
       "value": "\"Please choose camera orientation\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11087,
+      "offset": 11152,
       "length": 10,
       "value": "\"Portrait\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11178,
+      "offset": 11243,
       "length": 10,
       "value": "\"Portrait\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11312,
+      "offset": 11377,
       "length": 11,
       "value": "\"Landscape\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11404,
+      "offset": 11469,
       "length": 11,
       "value": "\"Landscape\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11634,
+      "offset": 11699,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11850,
+      "offset": 11915,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12192,
+      "offset": 12257,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12313,
+      "offset": 12378,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 13778,
+      "offset": 13843,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 13981,
+      "offset": 14046,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14017,
+      "offset": 14082,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 14149,
+      "offset": 14214,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 14203,
+      "offset": 14268,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 14915,
+      "offset": 14980,
       "length": 3,
       "value": "3.0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 14921,
+      "offset": 14986,
       "length": 3,
       "value": "4.0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 15188,
+      "offset": 15253,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15355,
+      "offset": 15420,
       "length": 4,
       "value": "20.0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15577,
+      "offset": 15642,
       "length": 3,
       "value": "3.0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15583,
+      "offset": 15648,
       "length": 3,
       "value": "4.0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15766,
+      "offset": 15831,
       "length": 4,
       "value": "40.0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 15936,
+      "offset": 16001,
       "length": 4,
       "value": "20.0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 16075,
+      "offset": 16140,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 16097,
+      "offset": 16162,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 16462,
+      "offset": 16527,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 17440,
+      "offset": 17505,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 17497,
+      "offset": 17562,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 17555,
+      "offset": 17620,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 18401,
+      "offset": 18466,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "StringLiteral",
-      "offset": 18485,
+      "offset": 18550,
       "length": 53,
       "value": "\"Error adjusting zoom: \""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "StringLiteral",
-      "offset": 18537,
+      "offset": 18602,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 19365,
+      "offset": 19430,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 19391,
+      "offset": 19456,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 19398,
+      "offset": 19463,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 19867,
+      "offset": 19932,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "StringLiteral",
-      "offset": 20024,
+      "offset": 20089,
       "length": 53,
       "value": "\"Error adjusting zoom: \""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "StringLiteral",
-      "offset": 20076,
+      "offset": 20141,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 20239,
+      "offset": 20304,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 20481,
+      "offset": 20546,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 21128,
+      "offset": 21233,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "StringLiteral",
-      "offset": 21395,
+      "offset": 21500,
       "length": 52,
       "value": "\"Error while re-setting up device zoom level to 1.0\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 21588,
+      "offset": 21693,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 22142,
+      "offset": 22247,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 22249,
+      "offset": 22354,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "StringLiteral",
-      "offset": 22598,
+      "offset": 22703,
       "length": 56,
       "value": "\"Are you sure you want to discard the captured image(s)\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 24401,
+      "offset": 24506,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 25031,
+      "offset": 25136,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 25478,
+      "offset": 25583,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 25878,
+      "offset": 25983,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 26257,
+      "offset": 26362,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 26565,
+      "offset": 26623,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 27749,
+      "offset": 29058,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 28432,
+      "offset": 29741,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 28777,
+      "offset": 30086,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 29211,
+      "offset": 30520,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 29218,
+      "offset": 30527,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 29632,
+      "offset": 30941,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 30101,
+      "offset": 31410,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 30154,
+      "offset": 31463,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 30208,
+      "offset": 31517,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 30572,
+      "offset": 31881,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 30727,
+      "offset": 32036,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 30778,
+      "offset": 32087,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 30829,
+      "offset": 32138,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 30915,
+      "offset": 32224,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 31072,
+      "offset": 32381,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 31122,
+      "offset": 32431,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 31174,
+      "offset": 32483,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 31262,
+      "offset": 32571,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 31421,
+      "offset": 32730,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 31471,
+      "offset": 32780,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 31522,
+      "offset": 32831,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 31662,
+      "offset": 32971,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 31669,
+      "offset": 32978,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 31861,
+      "offset": 33170,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 32682,
+      "offset": 33991,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 34960,
+      "offset": 36269,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 36356,
+      "offset": 37665,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 36707,
+      "offset": 38016,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 36948,
+      "offset": 38257,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "StringLiteral",
-      "offset": 37309,
+      "offset": 38618,
       "length": 32,
       "value": "\"CAPTURE IMAGE :: \""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "StringLiteral",
-      "offset": 37340,
+      "offset": 38649,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 39817,
+      "offset": 41126,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 40003,
+      "offset": 41312,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 40189,
+      "offset": 41498,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "StringLiteral",
-      "offset": 41116,
+      "offset": 42425,
       "length": 10,
       "value": "\"Settings\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "Dictionary",
-      "offset": 41321,
+      "offset": 42630,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 41496,
+      "offset": 42805,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "StringLiteral",
-      "offset": 41582,
+      "offset": 42891,
       "length": 49,
       "value": "\"LOCATION ERROR :: \""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "StringLiteral",
-      "offset": 41630,
+      "offset": 42939,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 43209,
+      "offset": 44518,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 43267,
+      "offset": 44576,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 43323,
+      "offset": 44632,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "StringLiteral",
-      "offset": 43406,
+      "offset": 44715,
       "length": 112,
       "value": "\"Change orientation to \""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "StringLiteral",
-      "offset": 43470,
+      "offset": 44779,
       "length": 1,
       "value": "\"\n (Make sure device's orientation lock is off)\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 43562,
+      "offset": 44871,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 43729,
+      "offset": 45038,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 43856,
+      "offset": 45165,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 44103,
+      "offset": 45412,
       "length": 5,
       "value": "false"
     },
@@ -7965,6 +7982,41 @@
       "value": "\"\""
     },
     {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Utility\/Reachability\/Reachability.swift",
+      "kind": "StringLiteral",
+      "offset": 392,
+      "length": 11,
+      "value": "\"Connected\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Utility\/Reachability\/Reachability.swift",
+      "kind": "StringLiteral",
+      "offset": 484,
+      "length": 13,
+      "value": "\"unsatisfied\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Utility\/Reachability\/Reachability.swift",
+      "kind": "StringLiteral",
+      "offset": 585,
+      "length": 20,
+      "value": "\"requiresConnection\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Utility\/Reachability\/Reachability.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1102,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Utility\/Reachability\/Reachability.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1146,
+      "length": 5,
+      "value": "false"
+    },
+    {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageCropper\/ResizeControl.swift",
       "kind": "BooleanLiteral",
       "offset": 514,
@@ -8435,50 +8487,71 @@
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/ViewModel\/CameraViewModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 12960,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/ViewModel\/CameraViewModel.swift",
       "kind": "Array",
-      "offset": 13257,
-      "length": 5,
-      "value": "[0, 0]"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/ViewModel\/CameraViewModel.swift",
-      "kind": "Array",
-      "offset": 13302,
-      "length": 5,
-      "value": "[1, 1]"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/ViewModel\/CameraViewModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 13632,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/ViewModel\/CameraViewModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 13636,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/ViewModel\/CameraViewModel.swift",
-      "kind": "Array",
-      "offset": 13966,
+      "offset": 13126,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/ViewModel\/CameraViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 14709,
+      "offset": 14057,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/ViewModel\/CameraViewModel.swift",
+      "kind": "Array",
+      "offset": 14354,
+      "length": 5,
+      "value": "[0, 0]"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/ViewModel\/CameraViewModel.swift",
+      "kind": "Array",
+      "offset": 14399,
+      "length": 5,
+      "value": "[1, 1]"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/ViewModel\/CameraViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14729,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/ViewModel\/CameraViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14733,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/ViewModel\/CameraViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 15102,
+      "length": 3,
+      "value": "\"0\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/ViewModel\/CameraViewModel.swift",
+      "kind": "FloatLiteral",
+      "offset": 15110,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/ViewModel\/CameraViewModel.swift",
+      "kind": "Array",
+      "offset": 18713,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/ViewModel\/CameraViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19506,
       "length": 1,
       "value": "1"
     },
@@ -10247,6 +10320,13 @@
       "value": "\"Image details not found!\""
     },
     {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/Messages\/AppMessage.swift",
+      "kind": "StringLiteral",
+      "offset": 1097,
+      "length": 44,
+      "value": "\"Internet connection appears to be offline.\""
+    },
+    {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageResize\/ImageResizeManager.swift",
       "kind": "StringLiteral",
       "offset": 380,
@@ -10375,163 +10455,149 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 988,
+      "offset": 991,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
       "kind": "StringLiteral",
-      "offset": 2932,
+      "offset": 3140,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2950,
+      "offset": 3158,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
       "kind": "StringLiteral",
-      "offset": 3561,
+      "offset": 3769,
       "length": 66,
       "value": "\"\nERROR WHILE UPLOADING IMAGE :: \""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
       "kind": "StringLiteral",
-      "offset": 3624,
+      "offset": 3832,
       "length": 1,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
       "kind": "StringLiteral",
-      "offset": 3743,
+      "offset": 3951,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 3761,
+      "offset": 3969,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4145,
+      "offset": 4786,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4158,
+      "offset": 4799,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
       "kind": "StringLiteral",
-      "offset": 4191,
+      "offset": 4832,
       "length": 72,
       "value": "\"UPLOAD PROGRESS FOR IMAGE :: \""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
       "kind": "StringLiteral",
-      "offset": 4238,
+      "offset": 4879,
       "length": 1,
       "value": "\" - \""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
       "kind": "StringLiteral",
-      "offset": 4262,
+      "offset": 4903,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
-      "kind": "Array",
-      "offset": 5217,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
       "kind": "StringLiteral",
-      "offset": 5767,
-      "length": 3,
-      "value": "\"0\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
-      "kind": "FloatLiteral",
-      "offset": 5775,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
-      "kind": "StringLiteral",
-      "offset": 7096,
+      "offset": 7819,
       "length": 52,
       "value": "\"\nIMAGE DELETED FROM LOCAL DATABASE - \""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
       "kind": "StringLiteral",
-      "offset": 7147,
+      "offset": 7870,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 7169,
+      "offset": 7892,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 7211,
+      "offset": 7934,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/AlertHelper\/Enum\/AlertButtonActionType.swift",
       "kind": "StringLiteral",
-      "offset": 360,
+      "offset": 378,
       "length": 8,
       "value": "\"Delete\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/AlertHelper\/Enum\/AlertButtonActionType.swift",
       "kind": "StringLiteral",
-      "offset": 410,
+      "offset": 428,
       "length": 8,
       "value": "\"Cancel\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/AlertHelper\/Enum\/AlertButtonActionType.swift",
       "kind": "StringLiteral",
-      "offset": 462,
+      "offset": 480,
       "length": 10,
       "value": "\"Continue\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/AlertHelper\/Enum\/AlertButtonActionType.swift",
       "kind": "StringLiteral",
-      "offset": 514,
+      "offset": 532,
       "length": 8,
       "value": "\"Retake\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/AlertHelper\/Enum\/AlertButtonActionType.swift",
+      "kind": "StringLiteral",
+      "offset": 584,
+      "length": 13,
+      "value": "\"Save & Exit\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageCropper\/CropView.swift",

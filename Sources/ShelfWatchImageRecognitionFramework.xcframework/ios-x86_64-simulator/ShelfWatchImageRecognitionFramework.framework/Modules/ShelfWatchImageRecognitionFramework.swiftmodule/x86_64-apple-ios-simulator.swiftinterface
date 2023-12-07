@@ -12,6 +12,7 @@ import DeveloperToolsSupport
 import Foundation
 import MetalKit
 import MetalPerformanceShaders
+import Network
 import Photos
 @_exported import ShelfWatchImageRecognitionFramework
 import Swift

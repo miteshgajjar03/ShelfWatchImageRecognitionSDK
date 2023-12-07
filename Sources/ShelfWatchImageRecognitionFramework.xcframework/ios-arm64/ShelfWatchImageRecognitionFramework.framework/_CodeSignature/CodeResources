@@ -110,11 +110,11 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		teus8pIodmmjC6a/Q82lSnXLh18=
+		Csp8I9SBA3W4znyw0GnhLLAsu2I=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		jWquiBoB62yuydtNR/lMQug814Q=
+		mCDivn3bp6OcW9Lc7XvoxrfhhtA=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -122,11 +122,11 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		jWquiBoB62yuydtNR/lMQug814Q=
+		mCDivn3bp6OcW9Lc7XvoxrfhhtA=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		2O5bZ4RAnpQp/DqflDPqqwfB0i0=
+		3cLXxnEadze8012OGWAkdCdxIgg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -134,7 +134,7 @@
 		</data>
 		<key>ShelfWatch.momd/ShelfWatch.mom</key>
 		<data>
-		aN4f5nO2BJsZF0fi/m6oCVYEe84=
+		FgfeyFPty506BUG1BTQ0N7T5qkM=
 		</data>
 		<key>ShelfWatch.momd/VersionInfo.plist</key>
 		<data>
@@ -338,14 +338,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Uhc6iP3onMlELGqeisYCiECQmvz66FyGQ6NPFH/K7eo=
+			CvRIt9FtxJFZvQ826AqbFYbfZwSiYxHSj/nmKA8NQKU=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ztr3G5ryBFGnFg6SHZIyYQb3tNPhLYOuCVuxa4Bknqk=
+			Yy8NEmbsQvQGNYOfxnE4dVYYblMCfehGpJnZj7bou6E=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -359,14 +359,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ztr3G5ryBFGnFg6SHZIyYQb3tNPhLYOuCVuxa4Bknqk=
+			Yy8NEmbsQvQGNYOfxnE4dVYYblMCfehGpJnZj7bou6E=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lmU60+6PrMCwNd6rju0X8SDgXphWH1SCEJtz9Wlz9nI=
+			XvQZw1VAOJASzRU11CwVXiSifnn5kstuRGNkJJue3HM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -380,7 +380,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iWuDjm8B+J7ugI0JTnSs/fSjKnj3+MbYjHUsf60vUVk=
+			ZGgGSR8O7G44cWQ+fvGyUEudsrqLcu9nx1SGON0KNiI=
 			</data>
 		</dict>
 		<key>ShelfWatch.momd/VersionInfo.plist</key>

@@ -23,12 +23,14 @@ import _SwiftConcurrencyShims
 @_hasMissingDesignatedInitializers public class ImageBatch {
   final public let sessionId: Swift.String
   public var images: [ShelfWatchImageRecognitionFramework.ImageBatchMeta]
+  public func toJSON() -> [Swift.String : Any]
   @objc deinit
 }
 @_hasMissingDesignatedInitializers public class ImageBatchMeta {
   final public let uri: Swift.String
   final public let uploadStatus: Swift.Bool
   final public let error: (any Swift.Error)?
+  public func toJSON() -> [Swift.String : Any]
   @objc deinit
 }
 public struct CameraConfiguration {

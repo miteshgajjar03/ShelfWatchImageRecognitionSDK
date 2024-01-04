@@ -41,7 +41,8 @@ public class ShelfWatchCameraManager {
             zoomLevel: config.zoomLevel,
             isRetake: config.isRetake, 
             showOverlapToggleButton: config.showOverlapToggleButton, 
-            showGridlines: config.showGridlines,
+            showGridlines: config.showGridlines, 
+            languageCode: config.languageCode,
             uploadParams: config.uploadParams
         )
         

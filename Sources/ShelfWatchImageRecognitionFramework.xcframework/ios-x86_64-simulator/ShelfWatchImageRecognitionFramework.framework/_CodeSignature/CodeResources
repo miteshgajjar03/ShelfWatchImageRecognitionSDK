@@ -36,9 +36,13 @@
 		<data>
 		Qtt/9PZtMjpfy6+MO29p9U+KapE=
 		</data>
-		<key>GoogleService-Info.plist</key>
+		<key>GoogleService-Info-ImageUpload.plist</key>
 		<data>
 		YVfToGWxDRbD2WcpgPWcizUeV8Q=
+		</data>
+		<key>GoogleService-Info.plist</key>
+		<data>
+		wkI/arIr4Hs+gY3+D+aJhjMV9eQ=
 		</data>
 		<key>GyroView.nib</key>
 		<data>
@@ -106,15 +110,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		akxvubtDlVJ4MbRt0xv9Qr/b2VE=
+		yK3e+4uCS93DTNTZvrmn7gUO3mk=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		YXsluaiamntiPTNJ1xH414Hsnyc=
+		rS6p85dqLs3sQGjjXfdjzgEmhfY=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Zj1/HvGi5eCYLss1zpE5jKAlGjs=
+		qP/8++i/5BgAtk4QG476vqhU6KQ=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -122,11 +126,11 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Zj1/HvGi5eCYLss1zpE5jKAlGjs=
+		qP/8++i/5BgAtk4QG476vqhU6KQ=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		gC5erAnD436ZTleTosuJj0ULl7k=
+		R9MUUApv07oMQwL7xUgDB8Iv98g=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -140,10 +144,28 @@
 		<data>
 		If0S78tGKTRzPigk5vMrECTGOT8=
 		</data>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/gVsqDWrFf0hN/N8y0iJemgOYFw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>info.png</key>
 		<data>
 		urn+VxRm2U+esiXjfKzQcU3q/40=
 		</data>
+		<key>pl.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			K/XVBc+7qfytrowNeK4ejwbr9Kk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>warning_black.png</key>
 		<data>
 		sn1vHSOveEHXuS+hz4JmPZWXyig=
@@ -215,11 +237,18 @@
 			mgzLOtSNr8Gil/2EJo1Bdc/U2WcMq34SPZzEHMn9fHg=
 			</data>
 		</dict>
-		<key>GoogleService-Info.plist</key>
+		<key>GoogleService-Info-ImageUpload.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			erEMnmMengatTSxde+H41M/itFeejySMDAYsll9fQbA=
+			</data>
+		</dict>
+		<key>GoogleService-Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NbtJMdJ/DKkStkF4Cfph4bx3UN6sHNFSvK7+BfKGEKc=
 			</data>
 		</dict>
 		<key>GyroView.nib</key>
@@ -338,14 +367,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YrAVjehJZ1jTr1WeKo3WdBCXSuVtGX27QQPynyFi5bg=
+			1+y9o+BOp94xqDJYCkmzdfu97dtMWCXmHWurtNFgFuk=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SGZShAZVADU9u0QXR4ZTx+6m/bsAa5AcSuOs8v3aESM=
+			fUUniG+MRkHPZFQMvPT6sjsbC17ud03gsOWJ5DjuREU=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -359,14 +388,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SGZShAZVADU9u0QXR4ZTx+6m/bsAa5AcSuOs8v3aESM=
+			fUUniG+MRkHPZFQMvPT6sjsbC17ud03gsOWJ5DjuREU=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rqDx/ECSQQfBiqrB33pZgkUz2wx/USAomXMWlDnpnW8=
+			cK8xevB8Qq+MC0QKyLpiMey737TiNawn4UcoL1jZPRk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -390,12 +419,30 @@
 			xjlKJ9txapBLwhuk+QPlf5fczaNxXw695iP0CsOF2Sk=
 			</data>
 		</dict>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gcawDYGBf92xVjH2UXxZTXizDLEZDaJaEh7ISR8d2PE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>info.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			y2t1DC9MnXDZSoV+slJhRPA6iWfflKQloJIrULJdEqY=
 			</data>
+		</dict>
+		<key>pl.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IcL2zT9KrJP671+R+38eI+oM2WwtZqooQdrmntqjTV0=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 		<key>warning_black.png</key>
 		<dict>

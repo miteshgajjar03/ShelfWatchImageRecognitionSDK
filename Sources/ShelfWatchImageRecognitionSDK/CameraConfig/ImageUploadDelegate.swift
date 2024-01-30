@@ -12,7 +12,12 @@ import Foundation
 public protocol ShelfWatchDelegate: AnyObject {
     
     func didReceiveBatch(result: BatchUploadResult)
+    
     func didReceiveAllBatches(results: [UploadBatch])
+    
+    func didCameraSDKClosed()
+    
+    func didImageUploadButtonPressed(uploadEventMeta: UploadEventMeta)
 }
 
 // MARK: - Protocol Result
@@ -66,4 +71,11 @@ public struct UploadBatchMeta {
             "error": self.error?.localizedDescription as Any
         ]
     }
+}
+
+public struct UploadEventMeta {
+    public let uploadParams: [String: Any]
+    public let images: [String]
+    public let isRetake: Bool
+    public let sessionId: String
 }

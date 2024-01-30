@@ -10,11 +10,15 @@ import ShelfWatchImageRecognitionFramework
 
 public class ShelfWatchCameraManager {
     
+    // MARK: - Properties
+    
     private let licenseKey: String
     private let firebaseBucket: String
+
+    private var shelfWatchCamera: ShelfWatchCamera!
     private weak var delegate: ShelfWatchDelegate?
     
-    private var shelfWatchCamera: ShelfWatchCamera!
+    // MARK: - Initialization
     
     public init(licenseKey: String, firebaseBucket: String, delegate: ShelfWatchDelegate) {
         
@@ -48,36 +52,29 @@ public class ShelfWatchCameraManager {
         
         shelfWatchCamera.showCamera(with: config, viewController: viewController)
     }
-    
-    // MARK: - Upload Failed Image
-    
-    public
-    func uploadFailedImage() {
-        self.shelfWatchCamera.uploadFailedImage()
-    }
 }
 
-//extension ShelfWatchCameraManager: CameraDelegate {
-//    
-//    public func didReceiveImageUpload(_ result: UploadResult) {
-//        switch result {
-//        case .success:
-//            self.delegate.didReceiveImageStatus(.success)
-//            
-//        case .failure(error: let error):
-//            self.delegate.didReceiveImageStatus(.failure(error: error))
-//            
-//        case .progress(progress: let progress):
-//            self.delegate.didReceiveImageStatus(.progress(progress: progress))
-//            
-//        @unknown default:
-//            fatalError("\n********************\nUnhandled CameraDelegate > UploadResult Case\n********************\n")
-//        }
-//        
-//    }
-//}
+// MARK: Extension
+
+// MARK: - Send Event
 
 extension ShelfWatchCameraManager: ImageUploadDelegate {
+    
+    public func didCloseCameraSDK() {
+        self.delegate?.didCameraSDKClosed()
+    }
+    
+    public func onUploadImagePressed(uploadImageEventMeta: UploadImageEventMeta) {
+        
+        let uploadEventMeta = UploadEventMeta(
+            uploadParams: uploadImageEventMeta.uploadParams,
+            images: uploadImageEventMeta.images,
+            isRetake: uploadImageEventMeta.isRetake,
+            sessionId: uploadImageEventMeta.sessionId
+        )
+        
+        self.delegate?.didImageUploadButtonPressed(uploadEventMeta: uploadEventMeta)
+    }
     
     public func didReceiveAllImages(batches: [ImageBatch]) {
         
@@ -132,6 +129,21 @@ extension ShelfWatchCameraManager: ImageUploadDelegate {
         @unknown default:
             fatalError("FRAMEWORK'S UNHANDLED CASE")
         }
+    }
+}
+
+// MARK: - Receive Event From React Native
+
+extension ShelfWatchCameraManager {
+    
+    public
+    func uploadFailedImage() {
+        self.shelfWatchCamera.uploadFailedImage()
+    }
+    
+    public
+    func logout() {
+        self.shelfWatchCamera.logout()
     }
     
 }

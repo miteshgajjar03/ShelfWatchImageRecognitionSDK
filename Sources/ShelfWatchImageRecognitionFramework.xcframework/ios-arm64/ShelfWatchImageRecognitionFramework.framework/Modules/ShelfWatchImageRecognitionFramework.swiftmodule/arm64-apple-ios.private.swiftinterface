@@ -58,20 +58,32 @@ public class ShelfWatchCamera {
   public init(licenseKey: Swift.String, firebaseBucket: Swift.String, delegate: any ShelfWatchImageRecognitionFramework.ImageUploadDelegate)
   public func showCamera(with config: ShelfWatchImageRecognitionFramework.CameraConfiguration, viewController: UIKit.UIViewController)
   public func uploadFailedImage()
+  public func logout()
   @objc deinit
 }
 public protocol ImageUploadDelegate : AnyObject {
   func didReceiveImage(result: ShelfWatchImageRecognitionFramework.BatchImageUploadResult)
   func didReceiveAllImages(batches: [ShelfWatchImageRecognitionFramework.ImageBatch])
+  func didCloseCameraSDK()
+  func onUploadImagePressed(uploadImageEventMeta: ShelfWatchImageRecognitionFramework.UploadImageEventMeta)
 }
 public enum BatchImageUploadResult {
   case batch(batch: ShelfWatchImageRecognitionFramework.ImageBatch)
   case batchMetaStatus(meta: ShelfWatchImageRecognitionFramework.ImageBatchMeta)
   case sucess(sucess: Swift.Bool)
 }
+public struct UploadImageEventMeta {
+  public let uploadParams: [Swift.String : Any]
+  public let images: [Swift.String]
+  public let isRetake: Swift.Bool
+  public let sessionId: Swift.String
+}
 @_inheritsConvenienceInitializers @objc(CDImageMetaData) public class CDImageMetaData : CoreData.NSManagedObject {
   @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
   @objc deinit
+}
+extension UIKit.UIDevice {
+  @_Concurrency.MainActor(unsafe) public static let modelName: Swift.String
 }
 extension ShelfWatchImageRecognitionFramework.CDImageMetaData {
   @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<ShelfWatchImageRecognitionFramework.CDImageMetaData>
@@ -127,11 +139,11 @@ extension ShelfWatchImageRecognitionFramework.CDImageMetaData {
     @objc get
     @objc set
   }
-  @objc @NSManaged dynamic public var gyroVertical: Swift.Double {
+  @objc @NSManaged dynamic public var imageType: Swift.String? {
     @objc get
     @objc set
   }
-  @objc @NSManaged dynamic public var gyroHorizontal: Swift.Double {
+  @objc @NSManaged dynamic public var imageSequenceNo: Swift.String? {
     @objc get
     @objc set
   }

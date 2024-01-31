@@ -5,6 +5,7 @@
 import AVFoundation
 import AVKit
 import Accelerate
+import BugfenderSDK
 import CoreData
 import CoreLocation
 import CoreMotion

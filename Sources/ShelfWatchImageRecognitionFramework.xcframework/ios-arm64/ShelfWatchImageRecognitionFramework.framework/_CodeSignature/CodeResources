@@ -26,11 +26,11 @@
 		</data>
 		<key>Camera.storyboardc/t0e-vp-mUz-view-d8S-Fb-bVN.nib/objects-14.0+.nib</key>
 		<data>
-		CNkF8k0XmLDcxkTHIsmnggRx/6M=
+		OwPphgrwkn2+CqDvqIW1N9DyXUs=
 		</data>
 		<key>Camera.storyboardc/t0e-vp-mUz-view-d8S-Fb-bVN.nib/runtime.nib</key>
 		<data>
-		2ut7cambqtwI1Bsa94PHma66v/Q=
+		tya76AVLiJkqZo14IV7QJuwlCAQ=
 		</data>
 		<key>FixOrientationView.nib</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		9nFTRuk84T9VPGxSG8L058I/zdk=
+		64ukmOahYklW2SktZG1pTFVCYsE=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -126,7 +126,7 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		oA9YOK+NBxZoWLH1LC3oWbpQdbM=
+		T6RB4p/yHZ7QI1IXF4ojP4bbro8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -216,14 +216,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			37Q6s02iYCql+FBI8GSfTf/ooDloQLK0+ypBqGNu/Kw=
+			XXZCBxHCx3ott43aGBt4T2LDnfdJg5pTXG3ScT+H0Rg=
 			</data>
 		</dict>
 		<key>Camera.storyboardc/t0e-vp-mUz-view-d8S-Fb-bVN.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			F2DulAqu9MiRTA6XTjmAKxMo71USEGu1YdYA+AkrSx8=
+			RtSthYA4tpvcHsGLk6A6TJntYWHkBGulw6HIdTh/7rs=
 			</data>
 		</dict>
 		<key>FixOrientationView.nib</key>
@@ -356,7 +356,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6q58KN2vbL78YOogDyMuVfy8+aqvmV9HqVwnxpgw9Fo=
+			NiKZMNnMoLj3/BYE1ibej//cRgWX7S8NGVI67E2g4ms=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -384,7 +384,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lCLECm6PVwsGlbYi8EyvttA29RiNnDn5xw3LzvhNmKI=
+			Ve3e42PgMt4yuhxiNWRuvmdoUPHUhYYFj+wyouasYx0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

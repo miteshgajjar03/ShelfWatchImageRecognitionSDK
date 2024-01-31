@@ -110,11 +110,11 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		loAGq+fxQmEOs//6rEu8YKkq4ak=
+		9nFTRuk84T9VPGxSG8L058I/zdk=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		Rf6j2Y11YrH31HvC+yQveUsGH1s=
+		BM42DwZrM57/dm1ExqntkFyM3FM=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -122,11 +122,11 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		Rf6j2Y11YrH31HvC+yQveUsGH1s=
+		BM42DwZrM57/dm1ExqntkFyM3FM=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		bwDalKOuO9+WwpcGaZt7VS5i6ls=
+		oA9YOK+NBxZoWLH1LC3oWbpQdbM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -356,14 +356,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iOR5rNCgQ5yUA3oMWze9mQzfdOWN5BFTXzytqVwOOgw=
+			6q58KN2vbL78YOogDyMuVfy8+aqvmV9HqVwnxpgw9Fo=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AD0fAkkpT12iPqlJy7k/RQpXTGjStAiLGJuyUetv/aw=
+			fU3G+N/lq9EZb5pypsOh1SdMkW5U4U+jRndInySyrxM=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -377,14 +377,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AD0fAkkpT12iPqlJy7k/RQpXTGjStAiLGJuyUetv/aw=
+			fU3G+N/lq9EZb5pypsOh1SdMkW5U4U+jRndInySyrxM=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4fIPrHCfTqe42/jARb/GmqWKRzvzEWPWnzuaOGG6Usc=
+			lCLECm6PVwsGlbYi8EyvttA29RiNnDn5xw3LzvhNmKI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

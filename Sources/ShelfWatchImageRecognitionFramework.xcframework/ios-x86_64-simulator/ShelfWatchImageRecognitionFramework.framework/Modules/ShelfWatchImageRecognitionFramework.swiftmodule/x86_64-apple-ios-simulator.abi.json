@@ -484,7 +484,10 @@
         "name": "BugfenderSDK",
         "printedName": "BugfenderSDK",
         "declKind": "Import",
-        "moduleName": "ShelfWatchImageRecognitionFramework"
+        "moduleName": "ShelfWatchImageRecognitionFramework",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
       },
       {
         "kind": "Import",
@@ -6568,14 +6571,14 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/BugfenderHelper\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 262,
+      "offset": 283,
       "length": 34,
       "value": "\"lz6sMkQQVpEZXeY9o7Bi7VwyCG7wTPU6\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/BugfenderHelper\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 439,
+      "offset": 460,
       "length": 4,
       "value": "\"%@\""
     },

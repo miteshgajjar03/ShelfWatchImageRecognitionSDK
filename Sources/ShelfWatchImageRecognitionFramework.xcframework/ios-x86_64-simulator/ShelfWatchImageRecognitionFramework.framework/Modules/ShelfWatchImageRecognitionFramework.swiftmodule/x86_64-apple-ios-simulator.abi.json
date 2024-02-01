@@ -10281,35 +10281,35 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/DeviceOrientation\/DeviceOrientation.swift",
       "kind": "BooleanLiteral",
-      "offset": 419,
+      "offset": 451,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/DeviceOrientation\/DeviceOrientation.swift",
       "kind": "BooleanLiteral",
-      "offset": 532,
+      "offset": 564,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/DeviceOrientation\/DeviceOrientation.swift",
       "kind": "BooleanLiteral",
-      "offset": 693,
+      "offset": 725,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/DeviceOrientation\/DeviceOrientation.swift",
       "kind": "BooleanLiteral",
-      "offset": 734,
+      "offset": 766,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/DeviceOrientation\/DeviceOrientation.swift",
       "kind": "StringLiteral",
-      "offset": 1344,
+      "offset": 1376,
       "length": 13,
       "value": "\"orientation\""
     },

@@ -24,15 +24,20 @@ import _SwiftConcurrencyShims
 @_hasMissingDesignatedInitializers public class ImageBatch {
   final public let sessionId: Swift.String
   public var images: [ShelfWatchImageRecognitionFramework.ImageBatchMeta]
-  public func toJSON() -> [Swift.String : Any]
   @objc deinit
 }
 @_hasMissingDesignatedInitializers public class ImageBatchMeta {
   final public let uri: Swift.String
   final public let uploadStatus: Swift.Bool
   final public let error: (any Swift.Error)?
-  public func toJSON() -> [Swift.String : Any]
   @objc deinit
+}
+public struct ImageUploadStatusMeta {
+  public let uri: Swift.String
+  public let status: Swift.Bool
+  public let imageMetaData: [Swift.String : Swift.String]
+  public let error: (any Swift.Error)?
+  public init(uri: Swift.String, status: Swift.Bool, imageMetaData: [Swift.String : Swift.String], error: (any Swift.Error)?)
 }
 public struct CameraConfiguration {
   public init(orientation: Swift.String, widthPercentage: CoreFoundation.CGFloat, resolution: CoreFoundation.CGFloat, referenceUrl: Swift.String, allowCrop: Swift.Bool, allowBlurCheck: Swift.Bool, zoomLevel: Swift.String, isRetake: Swift.Bool, showOverlapToggleButton: Swift.Bool, showGridlines: Swift.Bool, languageCode: Swift.String, uploadParams: [Swift.String : Any])
@@ -69,7 +74,7 @@ public protocol ImageUploadDelegate : AnyObject {
 }
 public enum BatchImageUploadResult {
   case batch(batch: ShelfWatchImageRecognitionFramework.ImageBatch)
-  case batchMetaStatus(meta: ShelfWatchImageRecognitionFramework.ImageBatchMeta)
+  case batchImageUploadStatus(meta: ShelfWatchImageRecognitionFramework.ImageUploadStatusMeta)
   case sucess(sucess: Swift.Bool)
 }
 public struct UploadImageEventMeta {

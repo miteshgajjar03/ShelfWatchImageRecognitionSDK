@@ -175,40 +175,6 @@
                 "accessorKind": "_modify"
               }
             ]
-          },
-          {
-            "kind": "Function",
-            "name": "toJSON",
-            "printedName": "toJSON()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Dictionary",
-                "printedName": "[Swift.String : Any]",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ProtocolComposition",
-                    "printedName": "Any"
-                  }
-                ],
-                "usr": "s:SD"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:35ShelfWatchImageRecognitionFramework0C5BatchC6toJSONSDySSypGyF",
-            "mangledName": "$s35ShelfWatchImageRecognitionFramework0C5BatchC6toJSONSDySSypGyF",
-            "moduleName": "ShelfWatchImageRecognitionFramework",
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",
@@ -384,40 +350,6 @@
                 "accessorKind": "get"
               }
             ]
-          },
-          {
-            "kind": "Function",
-            "name": "toJSON",
-            "printedName": "toJSON()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Dictionary",
-                "printedName": "[Swift.String : Any]",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ProtocolComposition",
-                    "printedName": "Any"
-                  }
-                ],
-                "usr": "s:SD"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:35ShelfWatchImageRecognitionFramework0C9BatchMetaC6toJSONSDySSypGyF",
-            "mangledName": "$s35ShelfWatchImageRecognitionFramework0C9BatchMetaC6toJSONSDySSypGyF",
-            "moduleName": "ShelfWatchImageRecognitionFramework",
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",
@@ -428,6 +360,307 @@
           "AccessControl"
         ],
         "hasMissingDesignatedInitializers": true
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ImageUploadStatusMeta",
+        "printedName": "ImageUploadStatusMeta",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "uri",
+            "printedName": "uri",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:35ShelfWatchImageRecognitionFramework0C16UploadStatusMetaV3uriSSvp",
+            "mangledName": "$s35ShelfWatchImageRecognitionFramework0C16UploadStatusMetaV3uriSSvp",
+            "moduleName": "ShelfWatchImageRecognitionFramework",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:35ShelfWatchImageRecognitionFramework0C16UploadStatusMetaV3uriSSvg",
+                "mangledName": "$s35ShelfWatchImageRecognitionFramework0C16UploadStatusMetaV3uriSSvg",
+                "moduleName": "ShelfWatchImageRecognitionFramework",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "status",
+            "printedName": "status",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:35ShelfWatchImageRecognitionFramework0C16UploadStatusMetaV6statusSbvp",
+            "mangledName": "$s35ShelfWatchImageRecognitionFramework0C16UploadStatusMetaV6statusSbvp",
+            "moduleName": "ShelfWatchImageRecognitionFramework",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:35ShelfWatchImageRecognitionFramework0C16UploadStatusMetaV6statusSbvg",
+                "mangledName": "$s35ShelfWatchImageRecognitionFramework0C16UploadStatusMetaV6statusSbvg",
+                "moduleName": "ShelfWatchImageRecognitionFramework",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "imageMetaData",
+            "printedName": "imageMetaData",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:35ShelfWatchImageRecognitionFramework0C16UploadStatusMetaV05imageH4DataSDyS2SGvp",
+            "mangledName": "$s35ShelfWatchImageRecognitionFramework0C16UploadStatusMetaV05imageH4DataSDyS2SGvp",
+            "moduleName": "ShelfWatchImageRecognitionFramework",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:35ShelfWatchImageRecognitionFramework0C16UploadStatusMetaV05imageH4DataSDyS2SGvg",
+                "mangledName": "$s35ShelfWatchImageRecognitionFramework0C16UploadStatusMetaV05imageH4DataSDyS2SGvg",
+                "moduleName": "ShelfWatchImageRecognitionFramework",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "error",
+            "printedName": "error",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Error?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Error",
+                    "printedName": "Swift.Error",
+                    "usr": "s:s5ErrorP"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:35ShelfWatchImageRecognitionFramework0C16UploadStatusMetaV5errors5Error_pSgvp",
+            "mangledName": "$s35ShelfWatchImageRecognitionFramework0C16UploadStatusMetaV5errors5Error_pSgvp",
+            "moduleName": "ShelfWatchImageRecognitionFramework",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Error?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:35ShelfWatchImageRecognitionFramework0C16UploadStatusMetaV5errors5Error_pSgvg",
+                "mangledName": "$s35ShelfWatchImageRecognitionFramework0C16UploadStatusMetaV5errors5Error_pSgvg",
+                "moduleName": "ShelfWatchImageRecognitionFramework",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(uri:status:imageMetaData:error:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImageUploadStatusMeta",
+                "printedName": "ShelfWatchImageRecognitionFramework.ImageUploadStatusMeta",
+                "usr": "s:35ShelfWatchImageRecognitionFramework0C16UploadStatusMetaV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:SD"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Error?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Error",
+                    "printedName": "Swift.Error",
+                    "usr": "s:s5ErrorP"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:35ShelfWatchImageRecognitionFramework0C16UploadStatusMetaV3uri6status05imageH4Data5errorACSS_SbSDyS2SGs5Error_pSgtcfc",
+            "mangledName": "$s35ShelfWatchImageRecognitionFramework0C16UploadStatusMetaV3uri6status05imageH4Data5errorACSS_SbSDyS2SGs5Error_pSgtcfc",
+            "moduleName": "ShelfWatchImageRecognitionFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:35ShelfWatchImageRecognitionFramework0C16UploadStatusMetaV",
+        "mangledName": "$s35ShelfWatchImageRecognitionFramework0C16UploadStatusMetaV",
+        "moduleName": "ShelfWatchImageRecognitionFramework",
+        "declAttributes": [
+          "AccessControl"
+        ]
       },
       {
         "kind": "Import",
@@ -2356,18 +2589,18 @@
           },
           {
             "kind": "Var",
-            "name": "batchMetaStatus",
-            "printedName": "batchMetaStatus",
+            "name": "batchImageUploadStatus",
+            "printedName": "batchImageUploadStatus",
             "children": [
               {
                 "kind": "TypeFunc",
                 "name": "Function",
-                "printedName": "(ShelfWatchImageRecognitionFramework.BatchImageUploadResult.Type) -> (ShelfWatchImageRecognitionFramework.ImageBatchMeta) -> ShelfWatchImageRecognitionFramework.BatchImageUploadResult",
+                "printedName": "(ShelfWatchImageRecognitionFramework.BatchImageUploadResult.Type) -> (ShelfWatchImageRecognitionFramework.ImageUploadStatusMeta) -> ShelfWatchImageRecognitionFramework.BatchImageUploadResult",
                 "children": [
                   {
                     "kind": "TypeFunc",
                     "name": "Function",
-                    "printedName": "(ShelfWatchImageRecognitionFramework.ImageBatchMeta) -> ShelfWatchImageRecognitionFramework.BatchImageUploadResult",
+                    "printedName": "(ShelfWatchImageRecognitionFramework.ImageUploadStatusMeta) -> ShelfWatchImageRecognitionFramework.BatchImageUploadResult",
                     "children": [
                       {
                         "kind": "TypeNominal",
@@ -2378,13 +2611,13 @@
                       {
                         "kind": "TypeNominal",
                         "name": "Tuple",
-                        "printedName": "(meta: ShelfWatchImageRecognitionFramework.ImageBatchMeta)",
+                        "printedName": "(meta: ShelfWatchImageRecognitionFramework.ImageUploadStatusMeta)",
                         "children": [
                           {
                             "kind": "TypeNominal",
-                            "name": "ImageBatchMeta",
-                            "printedName": "ShelfWatchImageRecognitionFramework.ImageBatchMeta",
-                            "usr": "s:35ShelfWatchImageRecognitionFramework0C9BatchMetaC"
+                            "name": "ImageUploadStatusMeta",
+                            "printedName": "ShelfWatchImageRecognitionFramework.ImageUploadStatusMeta",
+                            "usr": "s:35ShelfWatchImageRecognitionFramework0C16UploadStatusMetaV"
                           }
                         ]
                       }
@@ -2407,8 +2640,8 @@
               }
             ],
             "declKind": "EnumElement",
-            "usr": "s:35ShelfWatchImageRecognitionFramework05BatchC12UploadResultO15batchMetaStatusyAcA0cfJ0C_tcACmF",
-            "mangledName": "$s35ShelfWatchImageRecognitionFramework05BatchC12UploadResultO15batchMetaStatusyAcA0cfJ0C_tcACmF",
+            "usr": "s:35ShelfWatchImageRecognitionFramework05BatchC12UploadResultO05batchcG6StatusyAcA0cgJ4MetaV_tcACmF",
+            "mangledName": "$s35ShelfWatchImageRecognitionFramework05BatchC12UploadResultO05batchcG6StatusyAcA0cgJ4MetaV_tcACmF",
             "moduleName": "ShelfWatchImageRecognitionFramework"
           },
           {
@@ -2466,7 +2699,10 @@
             "declKind": "EnumElement",
             "usr": "s:35ShelfWatchImageRecognitionFramework05BatchC12UploadResultO6sucessyACSb_tcACmF",
             "mangledName": "$s35ShelfWatchImageRecognitionFramework05BatchC12UploadResultO6sucessyACSb_tcACmF",
-            "moduleName": "ShelfWatchImageRecognitionFramework"
+            "moduleName": "ShelfWatchImageRecognitionFramework",
+            "declAttributes": [
+              "RawDocComment"
+            ]
           }
         ],
         "declKind": "Enum",
@@ -6161,44 +6397,9 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/Protocol\/BatchImage.swift",
       "kind": "BooleanLiteral",
-      "offset": 819,
+      "offset": 553,
       "length": 5,
       "value": "false"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/Protocol\/BatchImage.swift",
-      "kind": "StringLiteral",
-      "offset": 1333,
-      "length": 12,
-      "value": "\"session_id\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/Protocol\/BatchImage.swift",
-      "kind": "StringLiteral",
-      "offset": 1370,
-      "length": 8,
-      "value": "\"images\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/Protocol\/BatchImage.swift",
-      "kind": "StringLiteral",
-      "offset": 1400,
-      "length": 5,
-      "value": "\"uri\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/Protocol\/BatchImage.swift",
-      "kind": "StringLiteral",
-      "offset": 1436,
-      "length": 15,
-      "value": "\"upload_status\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/Protocol\/BatchImage.swift",
-      "kind": "StringLiteral",
-      "offset": 1475,
-      "length": 7,
-      "value": "\"error\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Extension\/UIKit\/UIViewController\/UIViewController+Extension.swift",
@@ -13854,105 +14055,112 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 3333,
+      "offset": 3337,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 3902,
+      "offset": 3964,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
       "kind": "StringLiteral",
-      "offset": 4164,
+      "offset": 4226,
       "length": 66,
       "value": "\"\nERROR WHILE UPLOADING IMAGE :: \""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
       "kind": "StringLiteral",
-      "offset": 4227,
+      "offset": 4289,
       "length": 1,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
       "kind": "StringLiteral",
-      "offset": 4497,
+      "offset": 4546,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 4515,
+      "offset": 4662,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
+      "kind": "Dictionary",
+      "offset": 4684,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 5332,
+      "offset": 5509,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 5345,
+      "offset": 5522,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
       "kind": "StringLiteral",
-      "offset": 5378,
+      "offset": 5555,
       "length": 72,
       "value": "\"UPLOAD PROGRESS FOR IMAGE :: \""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
       "kind": "StringLiteral",
-      "offset": 5425,
+      "offset": 5602,
       "length": 1,
       "value": "\" - \""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
       "kind": "StringLiteral",
-      "offset": 5449,
+      "offset": 5626,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
       "kind": "StringLiteral",
-      "offset": 8372,
+      "offset": 8549,
       "length": 52,
       "value": "\"\nIMAGE DELETED FROM LOCAL DATABASE - \""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
       "kind": "StringLiteral",
-      "offset": 8423,
+      "offset": 8600,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 8445,
+      "offset": 8622,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageUploadManager\/BatchImageUploadManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 8487,
+      "offset": 8664,
       "length": 5,
       "value": "false"
     },

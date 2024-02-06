@@ -113,15 +113,16 @@ extension ShelfWatchCameraManager: ImageUploadDelegate {
             
             self.delegate?.didReceiveBatch(result: .batch(batch: uploadBatch))
             
-        case .batchMetaStatus(meta: let imageBatchMeta):
+        case .batchImageUploadStatus(meta: let uploadMeta):
             
-            let batchMeta = UploadBatchMeta(
-                uri: imageBatchMeta.uri,
-                uploadStatus: imageBatchMeta.uploadStatus,
-                error: imageBatchMeta.error
+            let uploadStatusMeta = ImageUploadStatusMeta(
+                uri: uploadMeta.uri,
+                status: uploadMeta.status,
+                imageMetaData: uploadMeta.imageMetaData,
+                error: uploadMeta.error
             )
             
-            self.delegate?.didReceiveBatch(result: .batchMetaStatus(meta: batchMeta))
+            self.delegate?.didReceiveBatch(result: .imageUploadStatus(meta: uploadStatusMeta))
             
         case .sucess(sucess: let success):
             self.delegate?.didReceiveBatch(result: .success(success: success))

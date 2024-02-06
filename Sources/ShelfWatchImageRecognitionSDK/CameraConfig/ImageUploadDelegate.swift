@@ -26,7 +26,7 @@ public enum BatchUploadResult {
 
     case batch(batch: UploadBatch)
 
-    case batchMetaStatus(meta: UploadBatchMeta)
+    case imageUploadStatus(meta: ImageUploadStatusMeta)
 
     case success(success: Bool)
 }
@@ -42,8 +42,8 @@ public struct UploadBatch {
         let batchMetaArray = self.images.map({ $0.toJSON() })
         
         return [
-            "sessionId": self.sessionId,
-            "images": batchMetaArray
+            ImageMetaKey.sessionId: self.sessionId,
+            ImageMetaKey.images: batchMetaArray
         ]
     }
 }
@@ -66,10 +66,51 @@ public struct UploadBatchMeta {
     
     public func toJSON() -> [String: Any] {
         return [
-            "uri": self.uri,
-            "uploadStatus": self.uploadStatus,
-            "error": self.error?.localizedDescription as Any
+            ImageMetaKey.uri: self.uri,
+            ImageMetaKey.uploadStatus: self.uploadStatus,
+            ImageMetaKey.error: self.error?.localizedDescription as Any
         ]
+    }
+}
+
+public struct ImageUploadStatusMeta {
+    
+    public let uri: String
+    public let status: Bool
+    public let imageMetaData: [String: String]
+    public let error: Error?
+    
+    public init(
+        uri: String,
+        status: Bool,
+        imageMetaData: [String: String],
+        error: Error?
+    ) {
+        self.uri = uri
+        self.status = status
+        self.imageMetaData = imageMetaData
+        self.error = error
+    }
+    
+    public func toJSON() -> [String: Any] {
+        return [
+            ImageMetaKey.uri: self.uri,
+            ImageMetaKey.status: self.status,
+            ImageMetaKey.imageMetaData: self.imageMetaData,
+            ImageMetaKey.error: self.error?.localizedDescription as Any
+        ]
+    }
+    
+    public func toJSONString() -> String {
+        let json: [String: Any] = self.toJSON()
+        do {
+            let jsonData = try JSONSerialization.data(withJSONObject: json)
+            let jsonString = String(data: jsonData, encoding: .utf8) ?? ""
+            return jsonString
+            
+        } catch {
+            return ""
+        }
     }
 }
 
@@ -78,4 +119,19 @@ public struct UploadEventMeta {
     public let images: [String]
     public let isRetake: Bool
     public let sessionId: String
+}
+
+// MARK: - Image Meta JSON keys
+
+struct ImageMetaKey {
+    
+    private init() { }
+    
+    static let sessionId = "session_id"
+    static let images = "images"
+    static let uri = "uri"
+    static let uploadStatus = "upload_status"
+    static let error = "error"
+    static let status = "status"
+    static let imageMetaData = "imagedata"
 }

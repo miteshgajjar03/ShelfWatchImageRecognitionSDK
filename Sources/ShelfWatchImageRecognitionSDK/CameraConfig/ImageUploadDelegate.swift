@@ -11,9 +11,11 @@ import Foundation
 
 public protocol ShelfWatchDelegate: AnyObject {
     
-    func didReceiveBatch(result: BatchUploadResult)
+    func didReceiveBatch(result: BatchResult)
     
-    func didReceiveAllBatches(results: [UploadBatch])
+//    func didReceiveBatch(result: BatchUploadResult)
+//    
+//    func didReceiveAllBatches(results: [UploadBatch])
     
     func didCameraSDKClosed()
     
@@ -22,14 +24,21 @@ public protocol ShelfWatchDelegate: AnyObject {
 
 // MARK: - Protocol Result
 
-public enum BatchUploadResult {
-
-    case batch(batch: UploadBatch)
-
-    case imageUploadStatus(meta: ImageUploadStatusMeta)
-
-    case success(success: Bool)
+public enum BatchResult {
+    case didReceiveBatches(batches: [UploadBatch])
+    case didReceiveBatch(batch: UploadBatch)
+    case didReceiveImageUploadStatus(imageStatus: ImageUploadStatusMeta)
+    case didFinishedUpload(finished: Bool)
 }
+
+//public enum BatchUploadResult {
+//
+//    case batch(batch: UploadBatch)
+//
+//    case imageUploadStatus(meta: ImageUploadStatusMeta)
+//
+//    case success(success: Bool)
+//}
 
 // MARK: - Result Meta
 public struct UploadBatch {

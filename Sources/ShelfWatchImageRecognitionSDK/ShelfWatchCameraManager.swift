@@ -56,9 +56,44 @@ public class ShelfWatchCameraManager {
 
 // MARK: Extension
 
-// MARK: - Send Event
+// MARK: - ImageUploadDelegate
 
 extension ShelfWatchCameraManager: ImageUploadDelegate {
+    
+    public func didReceiveBatchUpload(result: BatchUploadResult) {
+        
+        switch result {
+            
+        case .didReceiveBatches(batches: let batches):
+            
+            let pendingBatches = batches.map({
+                self.getUploadBatch(from: $0)
+            })
+            self.delegate?.didReceiveBatch(result: .didReceiveBatches(batches: pendingBatches))
+            
+        case .didReceiveBatch(batch: let batch):
+            
+            let uploadBatch: UploadBatch = self.getUploadBatch(from: batch)
+            self.delegate?.didReceiveBatch(result: .didReceiveBatch(batch: uploadBatch))
+            
+        case .didReceiveImageUploadStatus(imageStatus: let uploadMeta):
+            
+            let imageUploadStatus = ImageUploadStatusMeta(
+                uri: uploadMeta.uri,
+                status: uploadMeta.status,
+                imageMetaData: uploadMeta.imageMetaData,
+                error: uploadMeta.error
+            )
+            self.delegate?.didReceiveBatch(result: .didReceiveImageUploadStatus(imageStatus: imageUploadStatus))
+            
+        case .didFinishedUpload(finished: let finished):
+            
+            self.delegate?.didReceiveBatch(result: .didFinishedUpload(finished: finished))
+            
+        @unknown default:
+            fatalError("ShelfWatchImageRecognitionSDK - UNKNOWN CASE")
+        }
+    }
     
     public func didCloseCameraSDK() {
         self.delegate?.didCameraSDKClosed()
@@ -74,62 +109,6 @@ extension ShelfWatchCameraManager: ImageUploadDelegate {
         )
         
         self.delegate?.didImageUploadButtonPressed(uploadEventMeta: uploadEventMeta)
-    }
-    
-    public func didReceiveAllImages(batches: [ImageBatch]) {
-        
-        let pendingImages = batches.map({
-            UploadBatch(
-                sessionId: $0.sessionId,
-                images: $0.images.map({
-                    UploadBatchMeta(
-                        uri: $0.uri,
-                        uploadStatus: $0.uploadStatus,
-                        error: $0.error
-                    )
-                })
-            )
-        })
-        
-        self.delegate?.didReceiveAllBatches(results: pendingImages)
-    }
-    
-    
-    public func didReceiveImage(result: BatchImageUploadResult) {
-        
-        switch result {
-        case .batch(batch: let batch):
-            
-            let uploadBatch: UploadBatch = UploadBatch(
-                sessionId: batch.sessionId,
-                images: batch.images.map({
-                    UploadBatchMeta(
-                        uri: $0.uri,
-                        uploadStatus: $0.uploadStatus,
-                        error: $0.error
-                    )
-                })
-            )
-            
-            self.delegate?.didReceiveBatch(result: .batch(batch: uploadBatch))
-            
-        case .batchImageUploadStatus(meta: let uploadMeta):
-            
-            let uploadStatusMeta = ImageUploadStatusMeta(
-                uri: uploadMeta.uri,
-                status: uploadMeta.status,
-                imageMetaData: uploadMeta.imageMetaData,
-                error: uploadMeta.error
-            )
-            
-            self.delegate?.didReceiveBatch(result: .imageUploadStatus(meta: uploadStatusMeta))
-            
-        case .sucess(sucess: let success):
-            self.delegate?.didReceiveBatch(result: .success(success: success))
-            
-        @unknown default:
-            fatalError("FRAMEWORK'S UNHANDLED CASE")
-        }
     }
 }
 
@@ -147,4 +126,25 @@ extension ShelfWatchCameraManager {
         self.shelfWatchCamera.logout()
     }
     
+}
+
+// MARK: - Prepare UploadBatch
+
+extension ShelfWatchCameraManager {
+    
+    private func getUploadBatch(from batch: ImageBatch) -> UploadBatch {
+        
+        let uploadBatch: UploadBatch = UploadBatch(
+            sessionId: batch.sessionId,
+            images: batch.images.map({
+                UploadBatchMeta(
+                    uri: $0.uri,
+                    uploadStatus: $0.uploadStatus,
+                    error: $0.error
+                )
+            })
+        )
+        
+        return uploadBatch
+    }
 }

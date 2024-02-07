@@ -67,8 +67,7 @@ public class ShelfWatchCamera {
   @objc deinit
 }
 public protocol ImageUploadDelegate : AnyObject {
-  func didReceiveImage(result: ShelfWatchImageRecognitionFramework.BatchImageUploadResult)
-  func didReceiveAllImages(batches: [ShelfWatchImageRecognitionFramework.ImageBatch])
+  func didReceiveBatchUpload(result: ShelfWatchImageRecognitionFramework.BatchUploadResult)
   func didCloseCameraSDK()
   func onUploadImagePressed(uploadImageEventMeta: ShelfWatchImageRecognitionFramework.UploadImageEventMeta)
 }
@@ -76,6 +75,12 @@ public enum BatchImageUploadResult {
   case batch(batch: ShelfWatchImageRecognitionFramework.ImageBatch)
   case batchImageUploadStatus(meta: ShelfWatchImageRecognitionFramework.ImageUploadStatusMeta)
   case sucess(sucess: Swift.Bool)
+}
+public enum BatchUploadResult {
+  case didReceiveBatches(batches: [ShelfWatchImageRecognitionFramework.ImageBatch])
+  case didReceiveBatch(batch: ShelfWatchImageRecognitionFramework.ImageBatch)
+  case didReceiveImageUploadStatus(imageStatus: ShelfWatchImageRecognitionFramework.ImageUploadStatusMeta)
+  case didFinishedUpload(finished: Swift.Bool)
 }
 public struct UploadImageEventMeta {
   public let uploadParams: [Swift.String : Any]

@@ -241,8 +241,8 @@
           },
           {
             "kind": "Var",
-            "name": "uploadStatus",
-            "printedName": "uploadStatus",
+            "name": "status",
+            "printedName": "status",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -252,8 +252,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:35ShelfWatchImageRecognitionFramework0C9BatchMetaC12uploadStatusSbvp",
-            "mangledName": "$s35ShelfWatchImageRecognitionFramework0C9BatchMetaC12uploadStatusSbvp",
+            "usr": "s:35ShelfWatchImageRecognitionFramework0C9BatchMetaC6statusSbvp",
+            "mangledName": "$s35ShelfWatchImageRecognitionFramework0C9BatchMetaC6statusSbvp",
             "moduleName": "ShelfWatchImageRecognitionFramework",
             "declAttributes": [
               "Final",
@@ -276,8 +276,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:35ShelfWatchImageRecognitionFramework0C9BatchMetaC12uploadStatusSbvg",
-                "mangledName": "$s35ShelfWatchImageRecognitionFramework0C9BatchMetaC12uploadStatusSbvg",
+                "usr": "s:35ShelfWatchImageRecognitionFramework0C9BatchMetaC6statusSbvg",
+                "mangledName": "$s35ShelfWatchImageRecognitionFramework0C9BatchMetaC6statusSbvg",
                 "moduleName": "ShelfWatchImageRecognitionFramework",
                 "implicit": true,
                 "declAttributes": [
@@ -2492,192 +2492,6 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "BatchImageUploadResult",
-        "printedName": "BatchImageUploadResult",
-        "children": [
-          {
-            "kind": "Var",
-            "name": "batch",
-            "printedName": "batch",
-            "children": [
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(ShelfWatchImageRecognitionFramework.BatchImageUploadResult.Type) -> (ShelfWatchImageRecognitionFramework.ImageBatch) -> ShelfWatchImageRecognitionFramework.BatchImageUploadResult",
-                "children": [
-                  {
-                    "kind": "TypeFunc",
-                    "name": "Function",
-                    "printedName": "(ShelfWatchImageRecognitionFramework.ImageBatch) -> ShelfWatchImageRecognitionFramework.BatchImageUploadResult",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "BatchImageUploadResult",
-                        "printedName": "ShelfWatchImageRecognitionFramework.BatchImageUploadResult",
-                        "usr": "s:35ShelfWatchImageRecognitionFramework05BatchC12UploadResultO"
-                      },
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Tuple",
-                        "printedName": "(batch: ShelfWatchImageRecognitionFramework.ImageBatch)",
-                        "children": [
-                          {
-                            "kind": "TypeNominal",
-                            "name": "ImageBatch",
-                            "printedName": "ShelfWatchImageRecognitionFramework.ImageBatch",
-                            "usr": "s:35ShelfWatchImageRecognitionFramework0C5BatchC"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Metatype",
-                    "printedName": "ShelfWatchImageRecognitionFramework.BatchImageUploadResult.Type",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "BatchImageUploadResult",
-                        "printedName": "ShelfWatchImageRecognitionFramework.BatchImageUploadResult",
-                        "usr": "s:35ShelfWatchImageRecognitionFramework05BatchC12UploadResultO"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "declKind": "EnumElement",
-            "usr": "s:35ShelfWatchImageRecognitionFramework05BatchC12UploadResultO5batchyAcA0cF0C_tcACmF",
-            "mangledName": "$s35ShelfWatchImageRecognitionFramework05BatchC12UploadResultO5batchyAcA0cF0C_tcACmF",
-            "moduleName": "ShelfWatchImageRecognitionFramework"
-          },
-          {
-            "kind": "Var",
-            "name": "batchImageUploadStatus",
-            "printedName": "batchImageUploadStatus",
-            "children": [
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(ShelfWatchImageRecognitionFramework.BatchImageUploadResult.Type) -> (ShelfWatchImageRecognitionFramework.ImageUploadStatusMeta) -> ShelfWatchImageRecognitionFramework.BatchImageUploadResult",
-                "children": [
-                  {
-                    "kind": "TypeFunc",
-                    "name": "Function",
-                    "printedName": "(ShelfWatchImageRecognitionFramework.ImageUploadStatusMeta) -> ShelfWatchImageRecognitionFramework.BatchImageUploadResult",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "BatchImageUploadResult",
-                        "printedName": "ShelfWatchImageRecognitionFramework.BatchImageUploadResult",
-                        "usr": "s:35ShelfWatchImageRecognitionFramework05BatchC12UploadResultO"
-                      },
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Tuple",
-                        "printedName": "(meta: ShelfWatchImageRecognitionFramework.ImageUploadStatusMeta)",
-                        "children": [
-                          {
-                            "kind": "TypeNominal",
-                            "name": "ImageUploadStatusMeta",
-                            "printedName": "ShelfWatchImageRecognitionFramework.ImageUploadStatusMeta",
-                            "usr": "s:35ShelfWatchImageRecognitionFramework0C16UploadStatusMetaV"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Metatype",
-                    "printedName": "ShelfWatchImageRecognitionFramework.BatchImageUploadResult.Type",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "BatchImageUploadResult",
-                        "printedName": "ShelfWatchImageRecognitionFramework.BatchImageUploadResult",
-                        "usr": "s:35ShelfWatchImageRecognitionFramework05BatchC12UploadResultO"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "declKind": "EnumElement",
-            "usr": "s:35ShelfWatchImageRecognitionFramework05BatchC12UploadResultO05batchcG6StatusyAcA0cgJ4MetaV_tcACmF",
-            "mangledName": "$s35ShelfWatchImageRecognitionFramework05BatchC12UploadResultO05batchcG6StatusyAcA0cgJ4MetaV_tcACmF",
-            "moduleName": "ShelfWatchImageRecognitionFramework"
-          },
-          {
-            "kind": "Var",
-            "name": "sucess",
-            "printedName": "sucess",
-            "children": [
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(ShelfWatchImageRecognitionFramework.BatchImageUploadResult.Type) -> (Swift.Bool) -> ShelfWatchImageRecognitionFramework.BatchImageUploadResult",
-                "children": [
-                  {
-                    "kind": "TypeFunc",
-                    "name": "Function",
-                    "printedName": "(Swift.Bool) -> ShelfWatchImageRecognitionFramework.BatchImageUploadResult",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "BatchImageUploadResult",
-                        "printedName": "ShelfWatchImageRecognitionFramework.BatchImageUploadResult",
-                        "usr": "s:35ShelfWatchImageRecognitionFramework05BatchC12UploadResultO"
-                      },
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Tuple",
-                        "printedName": "(sucess: Swift.Bool)",
-                        "children": [
-                          {
-                            "kind": "TypeNominal",
-                            "name": "Bool",
-                            "printedName": "Swift.Bool",
-                            "usr": "s:Sb"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Metatype",
-                    "printedName": "ShelfWatchImageRecognitionFramework.BatchImageUploadResult.Type",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "BatchImageUploadResult",
-                        "printedName": "ShelfWatchImageRecognitionFramework.BatchImageUploadResult",
-                        "usr": "s:35ShelfWatchImageRecognitionFramework05BatchC12UploadResultO"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "declKind": "EnumElement",
-            "usr": "s:35ShelfWatchImageRecognitionFramework05BatchC12UploadResultO6sucessyACSb_tcACmF",
-            "mangledName": "$s35ShelfWatchImageRecognitionFramework05BatchC12UploadResultO6sucessyACSb_tcACmF",
-            "moduleName": "ShelfWatchImageRecognitionFramework"
-          }
-        ],
-        "declKind": "Enum",
-        "usr": "s:35ShelfWatchImageRecognitionFramework05BatchC12UploadResultO",
-        "mangledName": "$s35ShelfWatchImageRecognitionFramework05BatchC12UploadResultO",
-        "moduleName": "ShelfWatchImageRecognitionFramework",
-        "declAttributes": [
-          "AccessControl",
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "TypeDecl",
         "name": "BatchUploadResult",
         "printedName": "BatchUploadResult",
         "children": [
@@ -2923,7 +2737,8 @@
         "mangledName": "$s35ShelfWatchImageRecognitionFramework17BatchUploadResultO",
         "moduleName": "ShelfWatchImageRecognitionFramework",
         "declAttributes": [
-          "AccessControl"
+          "AccessControl",
+          "RawDocComment"
         ]
       },
       {
@@ -6609,7 +6424,7 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/Protocol\/BatchImage.swift",
       "kind": "BooleanLiteral",
-      "offset": 553,
+      "offset": 541,
       "length": 5,
       "value": "false"
     },

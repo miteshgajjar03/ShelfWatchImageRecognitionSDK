@@ -139,7 +139,7 @@ extension ShelfWatchCameraManager {
             images: batch.images.map({
                 UploadBatchMeta(
                     uri: $0.uri,
-                    uploadStatus: $0.uploadStatus,
+                    status: $0.status,
                     error: $0.error
                 )
             })

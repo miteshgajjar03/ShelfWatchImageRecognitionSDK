@@ -60,23 +60,23 @@ public struct UploadBatch {
 public struct UploadBatchMeta {
     
     public let uri: String
-    public let uploadStatus: Bool
+    public let status: Bool
     public let error: Error?
     
     public init(
         uri: String,
-        uploadStatus: Bool = false,
+        status: Bool = false,
         error: Error? = nil
     ) {
         self.uri = uri
-        self.uploadStatus = uploadStatus
+        self.status = status
         self.error = error
     }
     
     public func toJSON() -> [String: Any] {
         return [
             ImageMetaKey.uri: self.uri,
-            ImageMetaKey.uploadStatus: self.uploadStatus,
+            ImageMetaKey.uploadStatus: self.status,
             ImageMetaKey.error: self.error?.localizedDescription as Any
         ]
     }

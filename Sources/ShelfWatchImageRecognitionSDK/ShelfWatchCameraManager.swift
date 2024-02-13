@@ -14,9 +14,9 @@ public class ShelfWatchCameraManager {
     
     private let licenseKey: String
     private let firebaseBucket: String
+    private weak var delegate: ShelfWatchDelegate?
 
     private var shelfWatchCamera: ShelfWatchCamera!
-    private weak var delegate: ShelfWatchDelegate?
     
     // MARK: - Initialization
     
@@ -47,10 +47,11 @@ public class ShelfWatchCameraManager {
             showOverlapToggleButton: config.showOverlapToggleButton, 
             showGridlines: config.showGridlines, 
             languageCode: config.languageCode,
+            appName: config.appName,
             uploadParams: config.uploadParams
         )
         
-        shelfWatchCamera.showCamera(with: config, viewController: viewController)
+        self.shelfWatchCamera.showCamera(with: config, viewController: viewController)
     }
 }
 
@@ -146,5 +147,14 @@ extension ShelfWatchCameraManager {
         )
         
         return uploadBatch
+    }
+}
+
+// MARK: - Log Init SDK in Framework
+
+extension ShelfWatchCameraManager {
+    
+    public func logSDKInitialise(message: String) {
+        self.shelfWatchCamera?.logInitSDK(logMessage: message)
     }
 }

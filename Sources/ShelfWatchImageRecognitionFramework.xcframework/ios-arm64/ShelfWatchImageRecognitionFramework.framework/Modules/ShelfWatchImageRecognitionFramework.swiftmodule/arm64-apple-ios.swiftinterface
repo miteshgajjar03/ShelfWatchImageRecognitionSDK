@@ -40,7 +40,7 @@ public struct ImageUploadStatusMeta {
   public init(uri: Swift.String, status: Swift.Bool, imageMetaData: [Swift.String : Swift.String], error: (any Swift.Error)?)
 }
 public struct CameraConfiguration {
-  public init(orientation: Swift.String, widthPercentage: CoreFoundation.CGFloat, resolution: CoreFoundation.CGFloat, referenceUrl: Swift.String, allowCrop: Swift.Bool, allowBlurCheck: Swift.Bool, zoomLevel: Swift.String, isRetake: Swift.Bool, showOverlapToggleButton: Swift.Bool, showGridlines: Swift.Bool, languageCode: Swift.String, uploadParams: [Swift.String : Any])
+  public init(orientation: Swift.String, widthPercentage: CoreFoundation.CGFloat, resolution: CoreFoundation.CGFloat, referenceUrl: Swift.String, allowCrop: Swift.Bool, allowBlurCheck: Swift.Bool, zoomLevel: Swift.String, isRetake: Swift.Bool, showOverlapToggleButton: Swift.Bool, showGridlines: Swift.Bool, languageCode: Swift.String, appName: Swift.String, uploadParams: [Swift.String : Any])
 }
 public enum ResizeFramework {
   case uikit, coreImage, coreGraphics, imageIO, accelerate
@@ -65,6 +65,9 @@ public class ShelfWatchCamera {
   public func uploadFailedImage()
   public func logout()
   @objc deinit
+}
+extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
+  public func logInitSDK(logMessage: Swift.String)
 }
 public protocol ImageUploadDelegate : AnyObject {
   func didReceiveBatchUpload(result: ShelfWatchImageRecognitionFramework.BatchUploadResult)
@@ -193,6 +196,16 @@ extension ShelfWatchImageRecognitionFramework.CDCapturedImageBatch {
 extension ShelfWatchImageRecognitionFramework.CDCapturedImageBatch : Swift.Identifiable {
   public typealias ID = Swift.ObjectIdentifier
 }
+extension Foundation.Data {
+  public enum DataUnits : Swift.String {
+    case byte, kilobyte, megabyte, gigabyte
+    public init?(rawValue: Swift.String)
+    public typealias RawValue = Swift.String
+    public var rawValue: Swift.String {
+      get
+    }
+  }
+}
 extension Swift.String {
   public var trimmed: Swift.String {
     get
@@ -203,3 +216,6 @@ extension ShelfWatchImageRecognitionFramework.ResizeFramework : Swift.Hashable {
 extension UIKit.UIImage.DataUnits : Swift.Equatable {}
 extension UIKit.UIImage.DataUnits : Swift.Hashable {}
 extension UIKit.UIImage.DataUnits : Swift.RawRepresentable {}
+extension Foundation.Data.DataUnits : Swift.Equatable {}
+extension Foundation.Data.DataUnits : Swift.Hashable {}
+extension Foundation.Data.DataUnits : Swift.RawRepresentable {}

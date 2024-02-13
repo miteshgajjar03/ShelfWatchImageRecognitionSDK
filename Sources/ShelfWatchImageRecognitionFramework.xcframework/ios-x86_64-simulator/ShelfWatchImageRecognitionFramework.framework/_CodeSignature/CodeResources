@@ -110,11 +110,11 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		ZhXvFrgYloR8i8rn6p8wr2m7/eo=
+		M39Py+R3Tp5AAUstJrizDfAgN0g=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		iktHf/Wl0854yDxq39rv5Ez5qrQ=
+		x6n3P/sFxNCj5VbYjRrBoHJD/v0=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -122,11 +122,11 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		iktHf/Wl0854yDxq39rv5Ez5qrQ=
+		x6n3P/sFxNCj5VbYjRrBoHJD/v0=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		NSYft8Te/aU393snIkSFml+rp0U=
+		4q14xud7ghYqm5FAkE8oJwprGt0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -157,7 +157,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hjfK6S6+ryjxQ0TANBe4ZWR7qGE=
+			ZNGUXP3Sz+lGezNItNSi+PGEIks=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -356,14 +356,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3Dk2VpHtu2EGG2iBzBr0ZF0w4F9qpNLuUxZ36ypFMGQ=
+			pE6VgxoKG3lG+fH6j/gOf9DYnOL5Sii8RNQWMUNgrMk=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eBSl1nGkAjRDMg2o9qY7g725qtzbINu/zce+JZa/q3o=
+			W+1ykb2NVMyloKxMhPZ7t6C3gO0ZpW2jA6iWTttJ1Bg=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -377,14 +377,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eBSl1nGkAjRDMg2o9qY7g725qtzbINu/zce+JZa/q3o=
+			W+1ykb2NVMyloKxMhPZ7t6C3gO0ZpW2jA6iWTttJ1Bg=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CR8aEVGNFbWhXFPRMPhIntKaBdd2y0qsjGcMkH0N+wg=
+			Dn3d7DcCDJBEmGZOk2GNvno1kkr4uuqMsyxr9YGXB+Y=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -428,7 +428,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3jEtr8PxNnUJp6/MJgBttNdt2HVC8MX92TYEfqrnCDQ=
+			KmCLkFKQiSxyAWD7qNeYCnbsXMuZ6+eN8zNy/XNsRNo=
 			</data>
 			<key>optional</key>
 			<true/>

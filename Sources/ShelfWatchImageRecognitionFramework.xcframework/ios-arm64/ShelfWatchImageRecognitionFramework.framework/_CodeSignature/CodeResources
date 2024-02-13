@@ -110,11 +110,11 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		zPBhGoLSafxmlLQ57t/DgIQgfaY=
+		bIizERnGHeGASE/friU+xpPqd7E=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		HUPzMuaLDWaqTccPHIyp6JCzqSY=
+		0gF0IgGWmcTlJuyoO87L6QWrgkk=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -122,11 +122,11 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		HUPzMuaLDWaqTccPHIyp6JCzqSY=
+		0gF0IgGWmcTlJuyoO87L6QWrgkk=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		yQMKRJX5S0wvTRVgBXofUYE2NFo=
+		MnjkyA3c6o9CkKb8IMippZe3DAo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -157,7 +157,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hjfK6S6+ryjxQ0TANBe4ZWR7qGE=
+			ZNGUXP3Sz+lGezNItNSi+PGEIks=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -356,14 +356,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cEn76dPbzC75474O/E1CMfAHz+DMmNRF9GjFISPk154=
+			L8LpQs2hTx8w3M2zZ4pL4GWz5qGG+5zK8QTCuhqS54o=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZleP0g4Yu6NPti2GT7ZYWp9wLuC8KuuUiSHFkJKRXhg=
+			l5R2AuP+0U8ELS5kve/ZZzvepn72n5cNeMM8AaXtzCI=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -377,14 +377,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZleP0g4Yu6NPti2GT7ZYWp9wLuC8KuuUiSHFkJKRXhg=
+			l5R2AuP+0U8ELS5kve/ZZzvepn72n5cNeMM8AaXtzCI=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fGfOg+wAzPY5WA59EVv4/TtOHq44CtZ9GvAnLDqz0b0=
+			Vuyv2zLOX/y2ASUZpXdN1bXaz5SOxLP7DoTLy2FXTNc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -428,7 +428,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3jEtr8PxNnUJp6/MJgBttNdt2HVC8MX92TYEfqrnCDQ=
+			KmCLkFKQiSxyAWD7qNeYCnbsXMuZ6+eN8zNy/XNsRNo=
 			</data>
 			<key>optional</key>
 			<true/>

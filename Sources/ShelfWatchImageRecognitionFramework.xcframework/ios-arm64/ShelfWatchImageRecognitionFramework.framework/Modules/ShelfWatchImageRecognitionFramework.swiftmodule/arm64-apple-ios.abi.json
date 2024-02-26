@@ -11733,98 +11733,98 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/CropImage\/View\/CropReviewViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 2887,
+      "offset": 3040,
       "length": 4,
       "value": "0.15"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/CropImage\/View\/CropReviewViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 3221,
+      "offset": 3374,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/CropImage\/View\/CropReviewViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3279,
+      "offset": 3432,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/CropImage\/View\/CropReviewViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3465,
+      "offset": 3618,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/CropImage\/View\/CropReviewViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3690,
+      "offset": 3843,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/CropImage\/View\/CropReviewViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4238,
+      "offset": 4391,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/CropImage\/View\/CropReviewViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4471,
+      "offset": 4624,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/CropImage\/View\/CropReviewViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4586,
+      "offset": 4739,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/CropImage\/View\/CropReviewViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5732,
+      "offset": 5885,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/CropImage\/View\/CropReviewViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5832,
+      "offset": 5985,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/CropImage\/View\/CropReviewViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6631,
+      "offset": 6784,
       "length": 45,
       "value": "\"CROP COORDINATES :: \""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/CropImage\/View\/CropReviewViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6675,
+      "offset": 6828,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/CropImage\/View\/CropReviewViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9511,
+      "offset": 9664,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/CropImage\/View\/CropReviewViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9517,
+      "offset": 9670,
       "length": 1,
       "value": "0"
     },

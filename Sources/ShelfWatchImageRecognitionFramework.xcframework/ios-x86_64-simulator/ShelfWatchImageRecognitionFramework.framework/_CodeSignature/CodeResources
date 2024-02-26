@@ -26,11 +26,11 @@
 		</data>
 		<key>Camera.storyboardc/t0e-vp-mUz-view-d8S-Fb-bVN.nib/objects-14.0+.nib</key>
 		<data>
-		g7jG1iTkwkcadPhrkZ+yQhdaUOE=
+		rBTT8kIBnQ8G1I7TMV7o3PBDMpo=
 		</data>
 		<key>Camera.storyboardc/t0e-vp-mUz-view-d8S-Fb-bVN.nib/runtime.nib</key>
 		<data>
-		Z7+qHjHyY2+Q/MybaI0XuEDjsag=
+		L2DgBPnq8czph28X7bUYOVZmDs0=
 		</data>
 		<key>FixOrientationView.nib</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>ImagePreview.storyboardc/Gkp-wP-hJo-view-oaZ-jm-AM1.nib/objects-14.0+.nib</key>
 		<data>
-		UuD2dyy0XikYPtNmV2kHJQ4C3q4=
+		yVwCGjWLfkdesjVMPDYBSmwE0IQ=
 		</data>
 		<key>ImagePreview.storyboardc/Gkp-wP-hJo-view-oaZ-jm-AM1.nib/runtime.nib</key>
 		<data>
-		S1JdBFLpyNuRACM9MxArkEKgmSw=
+		QIzMEScug26/EVi/U7c0CUjuKDg=
 		</data>
 		<key>ImagePreview.storyboardc/ISf-vz-NMc-view-rus-0O-yQt.nib/objects-14.0+.nib</key>
 		<data>
@@ -106,11 +106,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		5YkSkJCudcGCi86pVtP4wd/63/k=
+		oVEQ7xdQZ4a7OFfJl4QxSffZYsw=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		X4oP36mK7+PbHN3dRVJz5NwMLb0=
+		IV3bj120dObX+ewY6djpftRsmeI=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -126,7 +126,7 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		+XjndBSGSTuLkiMIJZvyjRiSwIc=
+		AksHvti+iUxhVa5uRAThweht8dg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -140,11 +140,20 @@
 		<data>
 		+YdV1+auJuU0ZovXjVOvdH6lLgE=
 		</data>
+		<key>ar.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+QaAG3twQQQq45NoPHKPaAZ8/qQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			076GM6OHBSVwj4GY0wX2UbNtEl4=
+			PAkDou0O1sQ+q2yZcbLaxQAyKGE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -157,7 +166,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZNGUXP3Sz+lGezNItNSi+PGEIks=
+			AvfUWIOAspMai0vGqQsidhanLFA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>sk.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HTp9tU5jrY8AX3li/axtH5c6uxU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -174,6 +192,15 @@
 		<data>
 		K4MEsAJLOfpI+E23n0dbUkzpAQ8=
 		</data>
+		<key>zh-Hant.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lh2XTlIUBRbKiKfVCqY+K+JZzGQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -216,14 +243,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			G5+6rT6rYSIfoRfoIdPeLXKsG/WrbcVdld0G4NF6ngY=
+			nmzAT+JkozftOMj7cpPsSmQjBu/rbPwNv8BqGdr8o4M=
 			</data>
 		</dict>
 		<key>Camera.storyboardc/t0e-vp-mUz-view-d8S-Fb-bVN.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6tVUBnlK7pBYwQgCokdubOw4ooF7MjYazkKbzQvsu9E=
+			fgkHnbsU2YWx+eIUDcQ7AoB3HeVo7otCRXcFyTLL0Yc=
 			</data>
 		</dict>
 		<key>FixOrientationView.nib</key>
@@ -279,14 +306,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XEqAQ3OqICGGEUe+FTXjvzNTwD8do5gkukouEYwwd28=
+			fsoplWzlvkCy8dKA4H1C/Uy0c/n0pIh/vkETXyJOW0E=
 			</data>
 		</dict>
 		<key>ImagePreview.storyboardc/Gkp-wP-hJo-view-oaZ-jm-AM1.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jXswxi/4vrqg97xwHAcaJAKuxxOn+ba9eKA43h+aYgc=
+			LOpYYJYlx8iLebCEOng9TIIr1MYlo6m5jdwhVfAa4XY=
 			</data>
 		</dict>
 		<key>ImagePreview.storyboardc/ISf-vz-NMc-view-rus-0O-yQt.nib/objects-14.0+.nib</key>
@@ -356,7 +383,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			I3z9n8EEprMXp5WIaX89bA6pdh+gKOd/2CdovUcx+2c=
+			uza+3ATC9roUE+71E/ehhGoIPPeWdkJIs4APVF9VwrY=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -384,7 +411,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PgDwxTp7VGq471bCAb+6446mMbqf3mKN764kR9XVS4s=
+			iTJAOyh/6QhdG+cbNokPfadAbVcmBuVd5IFgvMo1XTY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -408,11 +435,20 @@
 			zPbdguG5VSVhLfV1DtiH6HE0dA5FuxPJej19X+7Hzvg=
 			</data>
 		</dict>
+		<key>ar.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lAs8qvJC4PFV9A9gVLbhGgw8BqqgN0Kq5i6QoJtA52w=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KXVjHUWTbk0/ojYzNSW9iZIJ2HrgcRdtrBUM/Wd66jE=
+			KN/aI65QwQTmbYSV2mz3IBAhD8gcP+of3ZZMePnvOgQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -428,7 +464,16 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KmCLkFKQiSxyAWD7qNeYCnbsXMuZ6+eN8zNy/XNsRNo=
+			2Gz86M7yIGzf3kuoyFR9agQoBLLlHrdKRnHblLWPuyU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>sk.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zatjIzPbz4306+7CPAet7GEdJ8Tht8k7JKc142RHMBM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -453,6 +498,15 @@
 			<data>
 			JyjLDbnMLoZHXJxDgf0eHlES2MpAgoWOsYf1Os8MfMI=
 			</data>
+		</dict>
+		<key>zh-Hant.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0ikzLbsUmzwndJGhQZUy+stc4NWWUTCUBIf/1SVRuug=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 	</dict>
 	<key>rules</key>

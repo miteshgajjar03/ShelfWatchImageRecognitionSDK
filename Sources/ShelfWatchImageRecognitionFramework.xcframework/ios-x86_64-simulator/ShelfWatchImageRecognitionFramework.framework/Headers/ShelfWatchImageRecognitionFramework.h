@@ -6,6 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <ShelfWatchImageRecognitionFramework/OpenCVWrapper.h>
 
 //! Project version number for ShelfWatchImageRecognitionFramework.
 FOUNDATION_EXPORT double ShelfWatchImageRecognitionFrameworkVersionNumber;

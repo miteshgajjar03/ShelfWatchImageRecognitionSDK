@@ -10,48 +10,155 @@ import ShelfWatchImageRecognitionFramework
 
 public class ShelfWatchCameraManager {
     
-    private let config: CameraConfig
-    private let delegate: ImageUploadDelegate
+    // MARK: - Properties
     
-    public init(config: CameraConfig, delegate: ImageUploadDelegate) {
-        self.config = config
+    private let licenseKey: String
+    private let firebaseBucket: String
+    private weak var delegate: ShelfWatchDelegate?
+
+    private var shelfWatchCamera: ShelfWatchCamera!
+    
+    // MARK: - Initialization
+    
+    public init(licenseKey: String, firebaseBucket: String, delegate: ShelfWatchDelegate) {
+        
+        self.licenseKey = licenseKey
+        self.firebaseBucket = firebaseBucket
         self.delegate = delegate
+        
+        self.shelfWatchCamera = ShelfWatchCamera(
+            licenseKey: licenseKey,
+            firebaseBucket: firebaseBucket,
+            delegate: self
+        )
     }
     
-    public func showCamera(viewController: UIViewController) {
+    public func showCamera(config: CameraConfig, viewController: UIViewController) {
         
-        let configuration = CameraConfiguration(
-            orientation: self.config.orientation,
-            widthPercent: self.config.widthPercent,
-            deeplink: self.config.deeplink,
-            dimension: self.config.dimension,
-            referenceurl: self.config.referenceurl,
-            shouldNavigateCropReview: self.config.shouldNavigateCropReview,
-            blurCheckEnabled: self.config.blurCheckEnabled,
-            zoomLevel: self.config.zoomLevel,
-            uploadParameterJSON: self.config.uploadParameterJSON
+        let config = CameraConfiguration(
+            orientation: config.orientation,
+            widthPercentage: config.widthPercentage,
+            resolution: config.resolution,
+            referenceUrl: config.referenceUrl,
+            allowCrop: config.allowCrop,
+            allowBlurCheck: config.allowBlurCheck,
+            zoomLevel: config.zoomLevel,
+            isRetake: config.isRetake, 
+            showOverlapToggleButton: config.showOverlapToggleButton, 
+            showGridlines: config.showGridlines, 
+            languageCode: config.languageCode,
+            appName: config.appName, 
+            wideAngleMode:  WideAngleMode(
+                flag: config.wideAngleMeta.flag,
+                freeze: config.wideAngleMeta.freeze
+            ),
+            uploadParams: config.uploadParams
         )
         
-        ShelfWatchCamera.show(with: configuration, viewController: viewController, delegate: self)
+        self.shelfWatchCamera.showCamera(with: config, viewController: viewController)
     }
 }
 
-extension ShelfWatchCameraManager: CameraDelegate {
+// MARK: Extension
+
+// MARK: - ImageUploadDelegate
+
+extension ShelfWatchCameraManager: ImageUploadDelegate {
     
-    public func didReceiveImageUpload(_ result: UploadResult) {
+    public func didReceiveBatchUpload(result: BatchUploadResult) {
+        
         switch result {
-        case .success:
-            self.delegate.didReceiveImageStatus(.success)
             
-        case .failure(error: let error):
-            self.delegate.didReceiveImageStatus(.failure(error: error))
+        case .didReceiveBatches(batches: let batches):
             
-        case .progress(progress: let progress):
-            self.delegate.didReceiveImageStatus(.progress(progress: progress))
+            let pendingBatches = batches.map({
+                self.getUploadBatch(from: $0)
+            })
+            self.delegate?.didReceiveBatch(result: .didReceiveBatches(batches: pendingBatches))
+            
+        case .didReceiveBatch(batch: let batch):
+            
+            let uploadBatch: UploadBatch = self.getUploadBatch(from: batch)
+            self.delegate?.didReceiveBatch(result: .didReceiveBatch(batch: uploadBatch))
+            
+        case .didReceiveImageUploadStatus(imageStatus: let uploadMeta):
+            
+            let imageUploadStatus = ImageUploadStatusMeta(
+                uri: uploadMeta.uri,
+                status: uploadMeta.status,
+                imageMetaData: uploadMeta.imageMetaData,
+                error: uploadMeta.error
+            )
+            self.delegate?.didReceiveBatch(result: .didReceiveImageUploadStatus(imageStatus: imageUploadStatus))
+            
+        case .didFinishedUpload(finished: let finished):
+            
+            self.delegate?.didReceiveBatch(result: .didFinishedUpload(finished: finished))
             
         @unknown default:
-            fatalError("\n********************\nUnhandled CameraDelegate > UploadResult Case\n********************\n")
+            fatalError("ShelfWatchImageRecognitionSDK - UNKNOWN CASE")
         }
+    }
+    
+    public func didCloseCameraSDK() {
+        self.delegate?.didCameraSDKClosed()
+    }
+    
+    public func onUploadImagePressed(uploadImageEventMeta: UploadImageEventMeta) {
         
+        let uploadEventMeta = UploadEventMeta(
+            uploadParams: uploadImageEventMeta.uploadParams,
+            images: uploadImageEventMeta.images,
+            isRetake: uploadImageEventMeta.isRetake,
+            sessionId: uploadImageEventMeta.sessionId
+        )
+        
+        self.delegate?.didImageUploadButtonPressed(uploadEventMeta: uploadEventMeta)
+    }
+}
+
+// MARK: - Receive Event From React Native
+
+extension ShelfWatchCameraManager {
+    
+    public
+    func uploadFailedImage() {
+        self.shelfWatchCamera.uploadFailedImage()
+    }
+    
+    public
+    func logout() {
+        self.shelfWatchCamera.logout()
+    }
+    
+}
+
+// MARK: - Prepare UploadBatch
+
+extension ShelfWatchCameraManager {
+    
+    private func getUploadBatch(from batch: ImageBatch) -> UploadBatch {
+        
+        let uploadBatch: UploadBatch = UploadBatch(
+            sessionId: batch.sessionId,
+            images: batch.images.map({
+                UploadBatchMeta(
+                    uri: $0.uri,
+                    status: $0.status,
+                    error: $0.error
+                )
+            })
+        )
+        
+        return uploadBatch
+    }
+}
+
+// MARK: - Log Init SDK in Framework
+
+extension ShelfWatchCameraManager {
+    
+    public func logSDKInitialise(message: String) {
+        self.shelfWatchCamera?.logInitSDK(logMessage: message)
     }
 }

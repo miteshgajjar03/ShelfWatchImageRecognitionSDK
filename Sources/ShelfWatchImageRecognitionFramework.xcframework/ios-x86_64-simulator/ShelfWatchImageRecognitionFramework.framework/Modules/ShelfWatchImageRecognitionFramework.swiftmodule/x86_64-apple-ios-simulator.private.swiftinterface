@@ -40,7 +40,7 @@ public struct ImageUploadStatusMeta {
   public init(uri: Swift.String, status: Swift.Bool, imageMetaData: [Swift.String : Swift.String], error: (any Swift.Error)?)
 }
 public struct CameraConfiguration {
-  public init(orientation: Swift.String, widthPercentage: CoreFoundation.CGFloat, resolution: CoreFoundation.CGFloat, referenceUrl: Swift.String, allowCrop: Swift.Bool, allowBlurCheck: Swift.Bool, zoomLevel: Swift.String, isRetake: Swift.Bool, showOverlapToggleButton: Swift.Bool, showGridlines: Swift.Bool, languageCode: Swift.String, appName: Swift.String, uploadParams: [Swift.String : Any])
+  public init(orientation: Swift.String, widthPercentage: CoreFoundation.CGFloat, resolution: CoreFoundation.CGFloat, referenceUrl: Swift.String, allowCrop: Swift.Bool, allowBlurCheck: Swift.Bool, zoomLevel: Swift.String, isRetake: Swift.Bool, showOverlapToggleButton: Swift.Bool, showGridlines: Swift.Bool, languageCode: Swift.String, appName: Swift.String, wideAngleMode: ShelfWatchImageRecognitionFramework.WideAngleMode, uploadParams: [Swift.String : Any])
 }
 public enum ResizeFramework {
   case uikit, coreImage, coreGraphics, imageIO, accelerate
@@ -85,6 +85,9 @@ public struct UploadImageEventMeta {
   public let images: [Swift.String]
   public let isRetake: Swift.Bool
   public let sessionId: Swift.String
+}
+public struct WideAngleMode {
+  public init(flag: Swift.Bool, freeze: Swift.Bool)
 }
 @_inheritsConvenienceInitializers @objc(CDImageMetaData) public class CDImageMetaData : CoreData.NSManagedObject {
   @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)

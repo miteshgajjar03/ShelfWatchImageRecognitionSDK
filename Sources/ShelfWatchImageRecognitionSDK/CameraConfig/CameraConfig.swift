@@ -21,6 +21,7 @@ public struct CameraConfig {
     let showGridlines: Bool
     let languageCode: String
     let appName: String
+    let wideAngleMeta: WideAngleMeta
     let uploadParams: [String : Any]
     
     public init(
@@ -36,6 +37,7 @@ public struct CameraConfig {
         showGridlines: Bool,
         languageCode: String,
         appName: String,
+        wideAngleMeta: WideAngleMeta = WideAngleMeta.default,
         uploadParams: [String : Any]
     ) {
         self.orientation = orientation
@@ -50,6 +52,21 @@ public struct CameraConfig {
         self.showGridlines = showGridlines
         self.languageCode = languageCode
         self.appName = appName
+        self.wideAngleMeta = wideAngleMeta
         self.uploadParams = uploadParams
+    }
+}
+
+public struct WideAngleMeta {
+    let flag: Bool
+    let freeze: Bool
+    
+    public init(flag: Bool, freeze: Bool) {
+        self.flag = flag
+        self.freeze = freeze
+    }
+    
+    public static var `default`: WideAngleMeta {
+        return WideAngleMeta(flag: true, freeze: false)
     }
 }

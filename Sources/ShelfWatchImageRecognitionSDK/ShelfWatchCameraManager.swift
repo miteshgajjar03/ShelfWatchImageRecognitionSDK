@@ -47,7 +47,11 @@ public class ShelfWatchCameraManager {
             showOverlapToggleButton: config.showOverlapToggleButton, 
             showGridlines: config.showGridlines, 
             languageCode: config.languageCode,
-            appName: config.appName,
+            appName: config.appName, 
+            wideAngleMode:  WideAngleMode(
+                flag: config.wideAngleMeta.flag,
+                freeze: config.wideAngleMeta.freeze
+            ),
             uploadParams: config.uploadParams
         )
         

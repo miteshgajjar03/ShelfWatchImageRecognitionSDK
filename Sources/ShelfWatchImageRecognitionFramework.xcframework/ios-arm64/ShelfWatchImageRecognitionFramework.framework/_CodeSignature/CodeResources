@@ -106,15 +106,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		mGGYGrr7w/yOo19K9DbBCDI8YLo=
+		9FmZFiRi62TEYfVtQgzqK9GZNBA=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		AQ0liyL37p4lKx2IQYHoPmtInqA=
+		1Lm5Rc4aXMLO/bYFpxPsgHF4MyQ=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		0gF0IgGWmcTlJuyoO87L6QWrgkk=
+		ffk36gA66vieXW7ZS9x6KM3Bm9g=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -122,11 +122,11 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		0gF0IgGWmcTlJuyoO87L6QWrgkk=
+		ffk36gA66vieXW7ZS9x6KM3Bm9g=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		tumj1Ji9FjkInqwT7ferhlrtYcY=
+		ZblTskQOf1oiQRmC5dfXgoOwhUY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -383,14 +383,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			P4UascozWz6Pj9BkEHhMxnvwysK7XjrFGRtvR/ts0z4=
+			TKeyhTaxMjGxTZyJyvQ++lmPEieFOM/lrBJM/QiI8ls=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			l5R2AuP+0U8ELS5kve/ZZzvepn72n5cNeMM8AaXtzCI=
+			IK7Ra6IqTjIVMtVOvzLWWOb6XweJWnaZ6lebZnzleT4=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -404,14 +404,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			l5R2AuP+0U8ELS5kve/ZZzvepn72n5cNeMM8AaXtzCI=
+			IK7Ra6IqTjIVMtVOvzLWWOb6XweJWnaZ6lebZnzleT4=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bFNa3SX3j5FiAjR2LDk53FdpPl6GfgcgIeJyJLKzlao=
+			1afUoxHMh9+RsP2juK9XChxVT6tie6kcycfwRdPExh8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

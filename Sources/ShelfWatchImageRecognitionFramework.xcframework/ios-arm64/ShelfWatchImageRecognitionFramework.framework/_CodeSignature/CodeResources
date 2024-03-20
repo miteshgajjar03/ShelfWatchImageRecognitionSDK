@@ -110,7 +110,7 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		1Lm5Rc4aXMLO/bYFpxPsgHF4MyQ=
+		xfb27OZJqf5yGG0K7WVbAngcGtU=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -144,7 +144,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+QaAG3twQQQq45NoPHKPaAZ8/qQ=
+			FGwaBulkI2Y+J+oDLZd7Ex/TN8o=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -153,7 +153,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PAkDou0O1sQ+q2yZcbLaxQAyKGE=
+			OQ523o2OSXEmz/Zv3fxJcpFWXJw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			h+PqbGoutNljjbPCg3/HR2juKQI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -166,7 +175,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AvfUWIOAspMai0vGqQsidhanLFA=
+			FcIRfui/nv5EjO91ReIAf7zHCC8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -175,7 +184,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HTp9tU5jrY8AX3li/axtH5c6uxU=
+			Lmtnm5gfKkNrKgqUwug4hEKZ3fg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -196,7 +205,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lh2XTlIUBRbKiKfVCqY+K+JZzGQ=
+			KdbkxnNLbrX810nZtHeS0moHFd4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -383,7 +392,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TKeyhTaxMjGxTZyJyvQ++lmPEieFOM/lrBJM/QiI8ls=
+			FHNIUfUHaN/xWFuCAdbDKC7pxIwUzwl1zgrICKeWg4w=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -439,7 +448,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lAs8qvJC4PFV9A9gVLbhGgw8BqqgN0Kq5i6QoJtA52w=
+			90zYz0dxU61NgTOPyno7ugzR/YxDAUaAI2SoM3mgG3U=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -448,7 +457,16 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KN/aI65QwQTmbYSV2mz3IBAhD8gcP+of3ZZMePnvOgQ=
+			yUvmprmQw3FD/Bdh4LQXNp5ARGsG3jItVhPHu3tdwKA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			E37ioR2LGnd0KsB7clwPmRy0jz/4i77RdbEp/265s9s=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -464,7 +482,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2Gz86M7yIGzf3kuoyFR9agQoBLLlHrdKRnHblLWPuyU=
+			5IDjCkuY0sNfWXq1FiRslU/af/QrvBvd04+y8QEHVJ4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -473,7 +491,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zatjIzPbz4306+7CPAet7GEdJ8Tht8k7JKc142RHMBM=
+			kF8iSIprB9NWBAA38WUgads0c8/W83YyT85P33xhORU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -503,7 +521,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0ikzLbsUmzwndJGhQZUy+stc4NWWUTCUBIf/1SVRuug=
+			JkXV5/yy0plKYEW8p3eni0urLzQIi5gaIu6b8DYgHkY=
 			</data>
 			<key>optional</key>
 			<true/>

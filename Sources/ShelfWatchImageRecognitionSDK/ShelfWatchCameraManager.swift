@@ -12,23 +12,20 @@ public class ShelfWatchCameraManager {
     
     // MARK: - Properties
     
-    private let licenseKey: String
-    private let firebaseBucket: String
+    private var shelfWatchCamera: ShelfWatchCamera!
     private weak var delegate: ShelfWatchDelegate?
 
-    private var shelfWatchCamera: ShelfWatchCamera!
     
     // MARK: - Initialization
     
-    public init(licenseKey: String, firebaseBucket: String, delegate: ShelfWatchDelegate) {
+    public init(projectId: String, userId: String, userInfo: [String: Any]? = nil, delegate: ShelfWatchDelegate) {
         
-        self.licenseKey = licenseKey
-        self.firebaseBucket = firebaseBucket
         self.delegate = delegate
         
         self.shelfWatchCamera = ShelfWatchCamera(
-            licenseKey: licenseKey,
-            firebaseBucket: firebaseBucket,
+            projectId: projectId,
+            userId: userId,
+            userInfo: userInfo ?? [:],
             delegate: self
         )
     }

@@ -50,6 +50,32 @@ public enum ResizeFramework {
     get
   }
 }
+extension ShelfWatchImageRecognitionFramework.CDUserDetail {
+  @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<ShelfWatchImageRecognitionFramework.CDUserDetail>
+  @objc @NSManaged dynamic public var bucket: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var clientUserId: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var projectId: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var userId: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var categoryIds: Swift.String? {
+    @objc get
+    @objc set
+  }
+}
+extension ShelfWatchImageRecognitionFramework.CDUserDetail : Swift.Identifiable {
+  public typealias ID = Swift.ObjectIdentifier
+}
 public enum ImageUploadResult {
   case success
   case failure(error: any Swift.Error)
@@ -59,8 +85,12 @@ public enum ImageUploadResult {
   @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
   @objc deinit
 }
+@_inheritsConvenienceInitializers @objc(CDUserDetail) public class CDUserDetail : CoreData.NSManagedObject {
+  @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
+  @objc deinit
+}
 public class ShelfWatchCamera {
-  public init(licenseKey: Swift.String, firebaseBucket: Swift.String, delegate: any ShelfWatchImageRecognitionFramework.ImageUploadDelegate)
+  public init(projectId: Swift.String, userId: Swift.String, userInfo: [Swift.String : Any], delegate: any ShelfWatchImageRecognitionFramework.ImageUploadDelegate)
   public func showCamera(with config: ShelfWatchImageRecognitionFramework.CameraConfiguration, viewController: UIKit.UIViewController)
   public func uploadFailedImage()
   public func logout()
@@ -155,6 +185,10 @@ extension ShelfWatchImageRecognitionFramework.CDImageMetaData {
     @objc set
   }
   @objc @NSManaged dynamic public var imageSequenceNo: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var imageCaptureTime: Swift.String? {
     @objc get
     @objc set
   }

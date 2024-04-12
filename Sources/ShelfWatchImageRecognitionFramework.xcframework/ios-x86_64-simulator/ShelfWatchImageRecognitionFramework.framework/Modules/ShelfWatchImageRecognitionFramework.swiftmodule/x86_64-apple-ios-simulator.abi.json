@@ -11124,28 +11124,28 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/ImagePreview\/View\/ImagePreviewViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10896,
+      "offset": 11018,
       "length": 28,
       "value": "\"ImagePreviewCollectionCell\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/ImagePreview\/View\/ImagePreviewViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11489,
+      "offset": 11611,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/ImagePreview\/View\/ImagePreviewViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11536,
+      "offset": 11658,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/ImagePreview\/View\/ImagePreviewViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12747,
+      "offset": 12869,
       "length": 4,
       "value": "true"
     },

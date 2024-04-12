@@ -10,7 +10,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		dgHf/uJlyyorFdvnPtEw5Ek+esY=
+		v9JLCZQW+agEO5c7wJQimiP1v+o=
 		</data>
 		<key>Camera.storyboardc/CameraViewController.nib/objects-14.0+.nib</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Camera.storyboardc/t0e-vp-mUz-view-d8S-Fb-bVN.nib/objects-14.0+.nib</key>
 		<data>
-		rBTT8kIBnQ8G1I7TMV7o3PBDMpo=
+		ZybkcgLEMjAN+ZoxXB9Prbf+dnU=
 		</data>
 		<key>Camera.storyboardc/t0e-vp-mUz-view-d8S-Fb-bVN.nib/runtime.nib</key>
 		<data>
-		L2DgBPnq8czph28X7bUYOVZmDs0=
+		0DdVuVyhANeMvJ2Ke6gwB/dU358=
 		</data>
 		<key>FixOrientationView.nib</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>ImagePreview.storyboardc/Gkp-wP-hJo-view-oaZ-jm-AM1.nib/objects-14.0+.nib</key>
 		<data>
-		yVwCGjWLfkdesjVMPDYBSmwE0IQ=
+		vS+gRAsYUEnFHsetlWdCbfhofYU=
 		</data>
 		<key>ImagePreview.storyboardc/Gkp-wP-hJo-view-oaZ-jm-AM1.nib/runtime.nib</key>
 		<data>
-		QIzMEScug26/EVi/U7c0CUjuKDg=
+		o9Oep4y2jv2zT1RTarFIDZf8rp4=
 		</data>
 		<key>ImagePreview.storyboardc/ISf-vz-NMc-view-rus-0O-yQt.nib/objects-14.0+.nib</key>
 		<data>
@@ -98,19 +98,19 @@
 		</data>
 		<key>ImagePreview.storyboardc/YqR-Rq-jNI-view-MWa-U8-QuE.nib/objects-14.0+.nib</key>
 		<data>
-		qF6gR468EfQ5TeThf0jOjnFeOt0=
+		9gLOv/h5/j+EUf5JzljNDppknIM=
 		</data>
 		<key>ImagePreview.storyboardc/YqR-Rq-jNI-view-MWa-U8-QuE.nib/runtime.nib</key>
 		<data>
-		qF6gR468EfQ5TeThf0jOjnFeOt0=
+		9gLOv/h5/j+EUf5JzljNDppknIM=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		9FmZFiRi62TEYfVtQgzqK9GZNBA=
+		rPXKIHnwpEUe2P/23hOv3EJRo9Y=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		JTt/2KEqu68EXa7rx1JnTjurSCY=
+		PuxiiKmXPFPu7NDbqgfzmWVPOwI=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -126,7 +126,7 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		0rK/TDyOE44ZstROHD0GUGpXO5I=
+		yRyeV5zKkjiZkJzEa1OkvwOCtXs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -152,7 +152,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			H1TjFi0Ze4W1DZq29Fl73NkZsIE=
+			AIkig16ZIvQnBk86Q8bjT/h1m38=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -161,7 +161,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PW9P00RTut12jLRflpP7dIpNzw4=
+			0KBXPRZwwd7UPkRRlQPVmXE1XpY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -170,7 +170,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			f4OE9M0X808aq8lNp4GVTWlL1yI=
+			LpM7xrdSXQlMw8l5tz2ckDQE7iE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -183,7 +183,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XXNyMn2FPQa58zcgHc87SurBjbs=
+			hQ6MHy8F9hWCkpzbZbOy+QDU+as=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -192,7 +192,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			M/GOD5KW6qXMCm1AN2ZjwW12UzQ=
+			b05Tng5D6Cy/h9w5WSrbHCNOH1k=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -213,7 +213,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0V3YjIjZEg7nCxNu40rrHIBRppw=
+			5cUB5fJ/zBxgladlCi4AeHijKzs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -232,7 +232,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			z42bAiBe52yhL+YGhw0W1T2BpkgHsi6uZuqCvIlWRD4=
+			ygjOfXg5LL3JH/jJQ0HI431XoV5nYFo22Ij7FyshpRQ=
 			</data>
 		</dict>
 		<key>Camera.storyboardc/CameraViewController.nib/objects-14.0+.nib</key>
@@ -260,14 +260,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nmzAT+JkozftOMj7cpPsSmQjBu/rbPwNv8BqGdr8o4M=
+			tO4hNrpMGLkAY1icFoA68hsZFnYVwg2Ejy3ngauLtlw=
 			</data>
 		</dict>
 		<key>Camera.storyboardc/t0e-vp-mUz-view-d8S-Fb-bVN.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fgkHnbsU2YWx+eIUDcQ7AoB3HeVo7otCRXcFyTLL0Yc=
+			DKQx+f/A0DL1xbOM4VyVRz3AyIeHAWNtVTuCHn6dBPg=
 			</data>
 		</dict>
 		<key>FixOrientationView.nib</key>
@@ -323,14 +323,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fsoplWzlvkCy8dKA4H1C/Uy0c/n0pIh/vkETXyJOW0E=
+			XHkqFj5vtBEW9ZE4JwNBwNjtUWrrv7a9d0tSCNJ37LQ=
 			</data>
 		</dict>
 		<key>ImagePreview.storyboardc/Gkp-wP-hJo-view-oaZ-jm-AM1.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LOpYYJYlx8iLebCEOng9TIIr1MYlo6m5jdwhVfAa4XY=
+			W6WE9WXSJ22r7wYfC579DEvCSCC48JAl8DzsHZFmsm8=
 			</data>
 		</dict>
 		<key>ImagePreview.storyboardc/ISf-vz-NMc-view-rus-0O-yQt.nib/objects-14.0+.nib</key>
@@ -386,21 +386,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			phHQKbccbMz+yZbPCjNBcsjg/JmiFfB3PWww1qj76jc=
+			CZaBJhkO1Dr9gERbmn8NXQTOdJdyp6bf1Rc8WvHiYN4=
 			</data>
 		</dict>
 		<key>ImagePreview.storyboardc/YqR-Rq-jNI-view-MWa-U8-QuE.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			phHQKbccbMz+yZbPCjNBcsjg/JmiFfB3PWww1qj76jc=
+			CZaBJhkO1Dr9gERbmn8NXQTOdJdyp6bf1Rc8WvHiYN4=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RCV3sv1k1NAVSg/SeJZwvNdYE+Ohrff5VFuZ2sy1MT0=
+			KCkXaBc+/O+xfOQkLO3RFWqlJ7/ohaoo9mpK++JQIis=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -428,7 +428,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4iZVu6TPgDdQzq9sk8UG0Sr1xDKhk8uuX+DzslDyysM=
+			UhKwPWNzuxLwfD9leBrsWCD7JnYmqWIM3VZogPqyhTw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -470,7 +470,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Wb4CbSMY7ky+jM5piPp76+KODGaY7UKZcBgsNLo5X3U=
+			dX1yUqvk5T9hEjJek3e+ACJYJbGpjTAJzpQlBjukgSA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -479,7 +479,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			l2ctxwiih4qr6c/2FL6ahuyoHIeD6XZO8mDWD9LhfL4=
+			aJVR2zOE4bqX0twdpQCTzAb/R14CrrlbvvD2C0qKWkA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -488,7 +488,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			h0vaEjFjyH4+uKwuB9kBltGx5Ygelr2Vqfydl1/RMj4=
+			e2zwsRd3BjtMmNBAY9VbDryjrUWynnF+1bcFV66SI0U=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -504,7 +504,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cP/4Z84tubcgMXFvsQce484Hri/edz9A9P3UL1w5KLM=
+			G0hcfY22NLoR/VOdPAW4P0VCcdaowrb2NHvjahFeqro=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -513,7 +513,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0575Mm9U125EN0EkB4ir7HyhoSIwDt62p/0CAOE3Me0=
+			1RWRCZsnQB4s+kvXE8M2YvaMq43Nk3O+8+f257/Y5VM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -543,7 +543,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1ZGwGYeovXm7x4EzTWzMzU8KPn6a4Amp7GwIHlUDfJk=
+			bs2D0Pf6Gbcr4D+qjRveFQEnYMFvZ9sZFBdL5U5K5MY=
 			</data>
 			<key>optional</key>
 			<true/>

@@ -110,7 +110,7 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		JbbvKEoHOWmo0E/+5LEKuQIIOhk=
+		XHRtBTTvJH9I8XlF6uGZNA4/Bo4=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -185,6 +185,15 @@
 			<key>hash</key>
 			<data>
 			2hYy+fpRBjXZ3y94KN7fW4sCwh0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>vi.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vHrzbYgphZyxPnjWCpXz2+IyZFM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -392,7 +401,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			I5CMf9h5A1dKPY9PY/wd7bdRBYtNAm9vZqp/rEMLROo=
+			e4agKWsOve5ioPjN2nDSvJFYn9GI9FooWzHXQL23eQA=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -492,6 +501,15 @@
 			<key>hash2</key>
 			<data>
 			90diOOzxsnyXOOIacDZ9vgo4gtLI3h5u5S9SwGXYvMo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>vi.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NdpDc80xLt6KpU/6MlNea798B+Lrqnok6ciQ4GFj9+o=
 			</data>
 			<key>optional</key>
 			<true/>

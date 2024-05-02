@@ -158,6 +158,10 @@ extension ShelfWatchImageRecognitionFramework.CDImageMetaData {
     @objc get
     @objc set
   }
+  @objc @NSManaged dynamic public var appTimestamp: Swift.String? {
+    @objc get
+    @objc set
+  }
 }
 extension ShelfWatchImageRecognitionFramework.CDImageMetaData : Swift.Identifiable {
   public typealias ID = Swift.ObjectIdentifier

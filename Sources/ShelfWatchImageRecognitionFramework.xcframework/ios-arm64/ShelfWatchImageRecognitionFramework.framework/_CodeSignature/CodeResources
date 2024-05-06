@@ -188,6 +188,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>pt-BR.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MmyvD/o3FhX7KcWjfwJL0ABaTTs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>sk.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
@@ -514,6 +523,15 @@
 			<key>hash2</key>
 			<data>
 			JMBkDmstj2nHxglgsixxGLpQoQbd/E1Jn32mKnsC7As=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt-BR.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EDQwdJhYdBBCEqHu5umIAKXhchP87JguQGBrzZdLrLc=
 			</data>
 			<key>optional</key>
 			<true/>

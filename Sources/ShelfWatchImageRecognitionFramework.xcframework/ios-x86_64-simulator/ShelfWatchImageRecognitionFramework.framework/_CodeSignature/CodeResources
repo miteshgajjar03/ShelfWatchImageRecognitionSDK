@@ -110,11 +110,11 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		zgqMk8zhi64mTAcYEr0jnSLc03k=
+		tZtXsCoVqF2kaYs4STuYNwzeo68=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		fGWVzfp+KtbHB8qxFn9kVmEQcGM=
+		NnDFLlKNlwZGpCiv2oDKC6B6Wec=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -122,11 +122,11 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		fGWVzfp+KtbHB8qxFn9kVmEQcGM=
+		NnDFLlKNlwZGpCiv2oDKC6B6Wec=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		a/k2UobCrXcql7pS0a3TfPN2Aek=
+		YMW4vYIeMZ32d1lO9tc0h6RT69w=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -418,14 +418,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2KTTECRD1JAkQgbAzDhly18pBDlj83KX9Wj2+wBr2nk=
+			LKI9bnKZlUapPVm9KdGTKzERt1ABHYuDw6pGIqqZoNg=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			R9mveZO6g742TLlPWTadBWl5pjz9tpuYHOf/ETeRCpo=
+			n3TeBmSGoUOgo4YD8jT2ju7Gk/331UuQsZxJEQfVCgA=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -439,14 +439,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			R9mveZO6g742TLlPWTadBWl5pjz9tpuYHOf/ETeRCpo=
+			n3TeBmSGoUOgo4YD8jT2ju7Gk/331UuQsZxJEQfVCgA=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3KEdx+USIfF06pK97xzmIRAtJ/gTrrb9oxRfA85Y5sA=
+			waaPEWLiJW9evI9dPZ8GrUYL6Rx3yuTshh6BvNqE3G4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -43,7 +43,7 @@ public class ShelfWatchCameraManager {
             allowCrop: config.allowCrop,
             allowBlurCheck: config.allowBlurCheck,
             zoomLevel: config.zoomLevel,
-            isRetake: config.isRetake, 
+            isRetake: config.isRetake,
             showOverlapToggleButton: config.showOverlapToggleButton, 
             showGridlines: config.showGridlines, 
             languageCode: config.languageCode,
@@ -51,7 +51,8 @@ public class ShelfWatchCameraManager {
             wideAngleMode:  WideAngleMode(
                 flag: config.wideAngleMeta.flag,
                 freeze: config.wideAngleMeta.freeze
-            ),
+            ), 
+            showSingleOverlap: config.showSingleOverlap,
             uploadParams: config.uploadParams
         )
         

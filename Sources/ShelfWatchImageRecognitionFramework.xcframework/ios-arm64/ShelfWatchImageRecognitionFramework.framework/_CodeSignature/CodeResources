@@ -175,6 +175,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>fr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Aoebmcrk08avc2gkFa+8s6HUDlQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>info.png</key>
 		<data>
 		urn+VxRm2U+esiXjfKzQcU3q/40=
@@ -507,6 +516,15 @@
 			<key>hash2</key>
 			<data>
 			BrP7NaxMacg6izMZauyhTP75l93HatP33xNxEXb9v1I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kZk2+3ocRdFpFRPkG0PVBe7tHPH6RiLPnTwDW+uhZZQ=
 			</data>
 			<key>optional</key>
 			<true/>

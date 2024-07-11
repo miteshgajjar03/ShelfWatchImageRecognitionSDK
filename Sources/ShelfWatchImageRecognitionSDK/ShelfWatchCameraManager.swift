@@ -53,6 +53,8 @@ public class ShelfWatchCameraManager {
                 freeze: config.wideAngleMeta.freeze
             ), 
             showSingleOverlap: config.showSingleOverlap,
+            overlapImageOpacity: config.overlapImageOpacity,
+            setOverlapArea: config.setOverlapArea,
             uploadParams: config.uploadParams
         )
         

@@ -23,6 +23,8 @@ public struct CameraConfig {
     let appName: String
     let wideAngleMeta: WideAngleMeta
     let showSingleOverlap: Bool
+    let overlapImageOpacity: Double
+    let setOverlapArea: Bool
     let uploadParams: [String : Any]
     
     public init(
@@ -40,6 +42,8 @@ public struct CameraConfig {
         appName: String,
         wideAngleMeta: WideAngleMeta = WideAngleMeta.default,
         showSingleOverlap: Bool,
+        overlapImageOpacity: Double,
+        setOverlapArea: Bool,
         uploadParams: [String : Any]
     ) {
         self.orientation = orientation
@@ -56,6 +60,8 @@ public struct CameraConfig {
         self.appName = appName
         self.wideAngleMeta = wideAngleMeta
         self.showSingleOverlap = showSingleOverlap
+        self.overlapImageOpacity = overlapImageOpacity
+        self.setOverlapArea = setOverlapArea
         self.uploadParams = uploadParams
     }
 }

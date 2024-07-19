@@ -25946,13 +25946,6 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchCameraViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 1536,
-      "length": 25,
-      "value": "\"gs:\/\/shelfwatch-app-dev\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchCameraViewModel.swift",
-      "kind": "StringLiteral",
       "offset": 2005,
       "length": 30,
       "value": "\"Storage reference not found!\""

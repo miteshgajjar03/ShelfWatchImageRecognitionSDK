@@ -186,7 +186,7 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		2PR15npqJTSQ20wogmBKmcB5BuA=
+		MdNsK3F7Rk8G3f5thrSMYq3uxSY=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -255,11 +255,11 @@
 		</data>
 		<key>best.mlmodelc/coremldata.bin</key>
 		<data>
-		+vnAVOue0t0BYn4pbJHC6jSF8p0=
+		p6T03fo3TufSDkGIknlwGClUS6o=
 		</data>
 		<key>best.mlmodelc/metadata.json</key>
 		<data>
-		d0fBUCJx/q9ZVF6lo//pVWB45tE=
+		n3mKPgv5LbHzDQyzj4NBZf5FB1k=
 		</data>
 		<key>best.mlmodelc/model0/analytics/coremldata.bin</key>
 		<data>
@@ -339,11 +339,11 @@
 		</data>
 		<key>mars_mt.mlmodelc/coremldata.bin</key>
 		<data>
-		nxalvdwhj+QxCPBbB7VMdEf2kY0=
+		DHNA5GgJTi5BCMRFwuWIgreasRQ=
 		</data>
 		<key>mars_mt.mlmodelc/metadata.json</key>
 		<data>
-		rnGptCIU4jb4ZrnoK41RK7kcpgY=
+		QJf647VfiESFwdYpbjJxw9V37Sc=
 		</data>
 		<key>mars_mt.mlmodelc/model0/analytics/coremldata.bin</key>
 		<data>
@@ -749,7 +749,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SF8heLLzMF269ZmgamYgR7hkx+ZzsB8p8p6Lw4dKOVk=
+			6yBWEQXFuVA4fM37aj7Mdr3XIcAnPDFI6r0WSHLf4vA=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -863,14 +863,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZjWsrzkWHa9xsDkK3+hXPvXV8z+bdqinvEupZ23U/dM=
+			0gnls5gOwvAjXTE1y9Evo//f+AkceQVqD1STZ1hIA+8=
 			</data>
 		</dict>
 		<key>best.mlmodelc/metadata.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Md75vNK/cnDYJy/WvCKqYLmcNgutqlhlTbAMTh6Hr8w=
+			rpHGNCi2OlQ2feHR32qYa0z3+KJzlFg2t7lLlU5Ga84=
 			</data>
 		</dict>
 		<key>best.mlmodelc/model0/analytics/coremldata.bin</key>
@@ -983,14 +983,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2IgeYKc6KVR38+yoLqvprJUCoq6AoEFkPq3AAEqahyk=
+			+POeedvO6QyO3r+BcBYpao2YLj+WY73QMHGIh2hwfyw=
 			</data>
 		</dict>
 		<key>mars_mt.mlmodelc/metadata.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YKIn+g2cDoTh4tMgA5BPfSiDtAbQ5vRyliKGtLP15WA=
+			NqKHiD36BF4y44Waof0juHjwZpKaWLmFm4ssouYENQc=
 			</data>
 		</dict>
 		<key>mars_mt.mlmodelc/model0/analytics/coremldata.bin</key>

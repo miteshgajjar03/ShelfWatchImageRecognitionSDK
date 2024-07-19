@@ -102,9 +102,9 @@
     ],
     "generatedClassName" : "best",
     "userDefinedMetadata" : {
-      "confidence_threshold" : "0.25",
       "iou_threshold" : "0.45",
-      "classes" : "Others, Toothbrush, Oral-B, Pro, Colgate, Arm & Hammer, SENSODYNE, Oracare+, Corsodyl, CloseUp, Parodontax, Equate, Listerine, Aqua Fresh, Pepsodent"
+      "classes" : "Others, Toothbrush, Oral-B, Pro, Colgate, Arm & Hammer, SENSODYNE, Oracare+, Corsodyl, CloseUp, Parodontax, Equate, Listerine, Aqua Fresh, Pepsodent",
+      "confidence_threshold" : "0.25"
     },
     "neuralNetworkLayerTypeHistogram" : {
       "Concat" : 13,

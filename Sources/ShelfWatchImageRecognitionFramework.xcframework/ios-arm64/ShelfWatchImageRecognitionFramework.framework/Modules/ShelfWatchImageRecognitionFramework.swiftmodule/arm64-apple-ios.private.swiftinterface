@@ -40,7 +40,7 @@ public struct ImageUploadStatusMeta {
   public init(uri: Swift.String, status: Swift.Bool, imageMetaData: [Swift.String : Swift.String], error: (any Swift.Error)?)
 }
 public struct CameraConfiguration {
-  public init(orientation: Swift.String, widthPercentage: CoreFoundation.CGFloat, resolution: CoreFoundation.CGFloat, referenceUrl: Swift.String, allowCrop: Swift.Bool, allowBlurCheck: Swift.Bool, zoomLevel: Swift.String, isRetake: Swift.Bool, showOverlapToggleButton: Swift.Bool, showGridlines: Swift.Bool, languageCode: Swift.String, appName: Swift.String, wideAngleMode: ShelfWatchImageRecognitionFramework.WideAngleMode, uploadParams: [Swift.String : Any])
+  public init(orientation: Swift.String, widthPercentage: CoreFoundation.CGFloat, resolution: CoreFoundation.CGFloat, referenceUrl: Swift.String, allowCrop: Swift.Bool, allowBlurCheck: Swift.Bool, zoomLevel: Swift.String, isRetake: Swift.Bool, showOverlapToggleButton: Swift.Bool, showGridlines: Swift.Bool, languageCode: Swift.String, appName: Swift.String, wideAngleMode: ShelfWatchImageRecognitionFramework.WideAngleMode, showSingleOverlap: Swift.Bool, overlapImageOpacity: Swift.Double, setOverlapArea: Swift.Bool, uploadParams: [Swift.String : Any])
 }
 public enum ResizeFramework {
   case uikit, coreImage, coreGraphics, imageIO, accelerate
@@ -158,6 +158,10 @@ extension ShelfWatchImageRecognitionFramework.CDImageMetaData {
     @objc get
     @objc set
   }
+  @objc @NSManaged dynamic public var appTimestamp: Swift.String? {
+    @objc get
+    @objc set
+  }
 }
 extension ShelfWatchImageRecognitionFramework.CDImageMetaData : Swift.Identifiable {
   public typealias ID = Swift.ObjectIdentifier
@@ -175,6 +179,7 @@ extension UIKit.UIImage {
 extension UIKit.UIView {
   @_Concurrency.MainActor(unsafe) public func setCorner(radius: CoreFoundation.CGFloat)
   @_Concurrency.MainActor(unsafe) public func makeCircle()
+  @_Concurrency.MainActor(unsafe) public func makeWidthCircle()
   @_Concurrency.MainActor(unsafe) public func setBorder(width: CoreFoundation.CGFloat, color: UIKit.UIColor)
   @_Concurrency.MainActor(unsafe) public func setRadiusFor(corners: UIKit.UIRectCorner, radius: CoreFoundation.CGFloat)
   @_Concurrency.MainActor(unsafe) public func setShadow(color: UIKit.UIColor)

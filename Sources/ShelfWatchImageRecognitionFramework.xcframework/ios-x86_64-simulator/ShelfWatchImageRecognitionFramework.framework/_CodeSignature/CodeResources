@@ -186,11 +186,11 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		MdNsK3F7Rk8G3f5thrSMYq3uxSY=
+		/TCIuNT1DnfRhsrtacyqM5gsWvk=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		37XGIKfLDGK+5ZKndyWzpN8lQtA=
+		HhHYcUnW+GJlOBGMzQgIGwoJ6mw=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -198,11 +198,11 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		37XGIKfLDGK+5ZKndyWzpN8lQtA=
+		HhHYcUnW+GJlOBGMzQgIGwoJ6mw=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ApqETjw0MPAgVMFM7CHtZC8UA+Q=
+		3TrgEOQ05HNnOpSAvs4OdBimymM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -226,25 +226,21 @@
 		</data>
 		<key>ShelfWatch.momd/ShelfWatch_1.0.2.mom</key>
 		<data>
-		CR5yzgZ1ykZfE1uQX0D86bTLtYs=
+		OxOx0fV9Pfd0IpAVCq6Bz8130/Y=
 		</data>
 		<key>ShelfWatch.momd/ShelfWatch_1.0.2.omo</key>
 		<data>
-		fxhQJaX1869zRJgvlbX/474C/OA=
+		r+DcGsFhGhpKqvhYHa2DEJDBq5U=
 		</data>
 		<key>ShelfWatch.momd/VersionInfo.plist</key>
 		<data>
-		JiFw4WHKmd4+0pdfMbOk7CjTFrw=
-		</data>
-		<key>ap_analytics_classattributes.json</key>
-		<data>
-		L8rth3G/9v9dimkgA1RO54ZUm+g=
+		DpYOJehu9qFmmYpqwfLtzbMmr2A=
 		</data>
 		<key>ar.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AIkig16ZIvQnBk86Q8bjT/h1m38=
+			rrpa4m91TyfPeYPy474ypcI8Its=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -255,7 +251,7 @@
 		</data>
 		<key>best.mlmodelc/coremldata.bin</key>
 		<data>
-		p6T03fo3TufSDkGIknlwGClUS6o=
+		+vnAVOue0t0BYn4pbJHC6jSF8p0=
 		</data>
 		<key>best.mlmodelc/metadata.json</key>
 		<data>
@@ -293,11 +289,15 @@
 		<data>
 		yO1jIxpwEBmQ9clRutXzFyih/gg=
 		</data>
+		<key>class_attributes.json</key>
+		<data>
+		t5n/Ug169LtqH2V5z0S+XTiOAoE=
+		</data>
 		<key>en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0KBXPRZwwd7UPkRRlQPVmXE1XpY=
+			QdjqnmxW707ylnwAo042QH3H2IA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -306,7 +306,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LpM7xrdSXQlMw8l5tz2ckDQE7iE=
+			RB5GrEymKF9cULAUcujrVhE//2U=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -315,7 +315,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yvW8YvVzuIVjSx+M3Ae3ywnYMkg=
+			OLJ0V1/52zwlSI1w+Liod/2Bv9s=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -324,7 +324,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			V+uHvpR6Frb/nGI2+Rmw8tctmT0=
+			5PGSvwfuvhIHipJHBfcjNONuSJM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -339,7 +339,7 @@
 		</data>
 		<key>mars_mt.mlmodelc/coremldata.bin</key>
 		<data>
-		DHNA5GgJTi5BCMRFwuWIgreasRQ=
+		MojFRoG6Tqz2U9kxCg3JBtwckVU=
 		</data>
 		<key>mars_mt.mlmodelc/metadata.json</key>
 		<data>
@@ -381,7 +381,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hQ6MHy8F9hWCkpzbZbOy+QDU+as=
+			ToEw09s6kVVMaygT8YT+5LtUqUY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -390,7 +390,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			o3CNkwpETVL8zxx0Wlz3PlSAFqE=
+			jdt4nHRLhAvBHUp1OvHpHasWByQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -399,7 +399,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			b05Tng5D6Cy/h9w5WSrbHCNOH1k=
+			+xWFbrGRPhJyHQ5ln3UjmTxndXk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -408,7 +408,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SPy2TwoEDAwnQXbjzBODj7NlQaI=
+			OPhN1fiUQlv3F7OsQCpTW5H/7MQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -429,7 +429,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5cUB5fJ/zBxgladlCi4AeHijKzs=
+			I16xKIU7jtubDYbD8oXUWGrpx/Q=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -749,14 +749,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6yBWEQXFuVA4fM37aj7Mdr3XIcAnPDFI6r0WSHLf4vA=
+			Cy6eojVsd8ZM1obMJSS0bzAEHskPiQ0ztWPjGEeYnek=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			i41pFNuqFFoGtLRKqu6tbWGkAABNe9wFbmXoL3kA+dI=
+			uvpCYa/6jjSmw/4zJzzZO+CoRdBgd/v2v9wSJZLnUfw=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -770,14 +770,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			i41pFNuqFFoGtLRKqu6tbWGkAABNe9wFbmXoL3kA+dI=
+			uvpCYa/6jjSmw/4zJzzZO+CoRdBgd/v2v9wSJZLnUfw=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			B6BVnVpdWdSlVS5UFmLM6AyxkV0Aax4xT6VIHwXZPdY=
+			3j55A3vHNqXxL4w69iqik2HAqpSPjd66890LQeR7M7o=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -819,35 +819,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bQxYnQ9ZRP/7ZL4bm5wAREldR+9cMq7zB7a9ezP6Ptg=
+			BeZooBZyUYD5DKohtc7ZqbDvFpQgL+4N+GR94Y/4TKs=
 			</data>
 		</dict>
 		<key>ShelfWatch.momd/ShelfWatch_1.0.2.omo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T0fdGjO2Zpc1d2JEV58GVWRBZReGvj7dh0wJ46g7u4A=
+			qmNetoG+jxskLpn0wxA/DLNRWKeaedFkWXscv4sPLWU=
 			</data>
 		</dict>
 		<key>ShelfWatch.momd/VersionInfo.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ou6HKcsxc2hO9pr5vjPbmRezrZch16FzPjNFQ4WQln0=
-			</data>
-		</dict>
-		<key>ap_analytics_classattributes.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Zpkmqk/IKUWTQRvm8cVNG73b6oJmT0qIxAM3kqnxaoI=
+			2H947v7XuPPkhwsyFH3AirzLYAfcc0wR0r8kBelVO9U=
 			</data>
 		</dict>
 		<key>ar.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dX1yUqvk5T9hEjJek3e+ACJYJbGpjTAJzpQlBjukgSA=
+			11Qlm5SfKPnwfZ7fReXAeLSc/8cAtvgXtch4AcMBTYc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -863,7 +856,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0gnls5gOwvAjXTE1y9Evo//f+AkceQVqD1STZ1hIA+8=
+			ZjWsrzkWHa9xsDkK3+hXPvXV8z+bdqinvEupZ23U/dM=
 			</data>
 		</dict>
 		<key>best.mlmodelc/metadata.json</key>
@@ -929,11 +922,18 @@
 			0PaZgRnLqje/u93JRk3/9JoUios8zPPLeQqmTCVmCmg=
 			</data>
 		</dict>
+		<key>class_attributes.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			z+7Rxvhdn+UNBgXoFigHrtyU1V3kJvwq37J63O6uJi8=
+			</data>
+		</dict>
 		<key>en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aJVR2zOE4bqX0twdpQCTzAb/R14CrrlbvvD2C0qKWkA=
+			RPIWog2DnzHmwViaq9BvEmEgyoK7y5GhLHjJbA3JegM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -942,7 +942,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			e2zwsRd3BjtMmNBAY9VbDryjrUWynnF+1bcFV66SI0U=
+			wMHMJ7bwRjHFFkGAilO8q2g5f856sTdNkT/gfC8+Zkg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -951,7 +951,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tFd5yf9ge+qm7/SbgjIErK5al4yf7n+sF68wNfuBRyM=
+			RQnOfSd7ekYZcwNM/H+oGseA5MyDTImNR+S2m+HQgps=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -960,7 +960,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cVDf6nrgb8ULpzpck6bjNTxTPKyJxJJX3vPqaT3DpJM=
+			2/Pl5JfEQ7TufsOAtj9OW31kc75FWYtsu26R2S2SwzI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -983,7 +983,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+POeedvO6QyO3r+BcBYpao2YLj+WY73QMHGIh2hwfyw=
+			hv3bSN/lb3qAm55pj6z2Jp8g3Y+IRSG0Sohte2Z0YR4=
 			</data>
 		</dict>
 		<key>mars_mt.mlmodelc/metadata.json</key>
@@ -1053,7 +1053,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			G0hcfY22NLoR/VOdPAW4P0VCcdaowrb2NHvjahFeqro=
+			sl0YzzKnEuk8n3iJvkO7YW88S0t9U7HiU6F0/8+5qu4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1062,7 +1062,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6swG54rJDCkwUQ5AOynnsJCgNbAHCEv6nxBpThpsCLE=
+			Iy0Cafc0J8ySXQAIcXdxhnvQtwPVK2e8tpcl7MTg1Ts=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1071,7 +1071,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1RWRCZsnQB4s+kvXE8M2YvaMq43Nk3O+8+f257/Y5VM=
+			QL2tjHMTmbaz0hM/KTQe3VbPxjBLWKrQWxwKbImqcLc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1080,7 +1080,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			x2+wmZs08TP/fMmE911lovwiSn3VvCLf5LLghvaVEaI=
+			tCHxRB9pYXRO95BbBsMiS1vouVLdftz7o+7PxR0dMjU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1110,7 +1110,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bs2D0Pf6Gbcr4D+qjRveFQEnYMFvZ9sZFBdL5U5K5MY=
+			FQ681NZnVvyWAMlyfsl4jeX1BHeRw2+xD08PMaYxybA=
 			</data>
 			<key>optional</key>
 			<true/>

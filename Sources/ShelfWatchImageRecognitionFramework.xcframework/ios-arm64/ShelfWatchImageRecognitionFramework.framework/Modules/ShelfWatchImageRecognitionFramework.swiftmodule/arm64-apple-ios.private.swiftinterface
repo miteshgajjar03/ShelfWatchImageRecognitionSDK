@@ -72,6 +72,12 @@ public enum LanguageCode : Swift.String {
     get
   }
 }
+public struct DownloadProgressMeta {
+  public let title: Swift.String
+  public let subTitle: Swift.String
+  public let progress: Swift.Float
+  public let finished: Swift.Bool
+}
 public enum ResizeFramework {
   case uikit, coreImage, coreGraphics, imageIO, accelerate
   public static func == (a: ShelfWatchImageRecognitionFramework.ResizeFramework, b: ShelfWatchImageRecognitionFramework.ResizeFramework) -> Swift.Bool
@@ -341,9 +347,8 @@ extension ShelfWatchImageRecognitionFramework.CDARCapturedImageMeta : Swift.Iden
   public typealias ID = Swift.ObjectIdentifier
 }
 public class ShelfWatchCamera {
-  public init(projectId: Swift.String, userId: Swift.String, userInfo: [Swift.String : Any], delegate: any ShelfWatchImageRecognitionFramework.ImageUploadDelegate)
+  public init(projectId: Swift.String, userId: Swift.String, userInfo: [Swift.String : Any], delegate: any ShelfWatchImageRecognitionFramework.ImageUploadDelegate, objectDetectionDelegate: any ShelfWatchImageRecognitionFramework.ObjectDetectionDelegate)
   public func showCamera(with config: ShelfWatchImageRecognitionFramework.CameraConfiguration, viewController: UIKit.UIViewController)
-  public func showARCamera(viewController: UIKit.UIViewController, config: ShelfWatchImageRecognitionFramework.ARConfig)
   public func uploadFailedImage()
   public func logout()
   @objc deinit
@@ -351,13 +356,24 @@ public class ShelfWatchCamera {
 extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
   public func logInitSDK(logMessage: Swift.String)
 }
+extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
+  public func imageFromUnity(image: UIKit.UIImage)
+}
 @_inheritsConvenienceInitializers @objc(CDListing) public class CDListing : CoreData.NSManagedObject {
   @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
   @objc deinit
 }
-extension ShelfWatchImageRecognitionFramework.CDMasterData {
-  @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<ShelfWatchImageRecognitionFramework.CDMasterData>
-  @objc @NSManaged dynamic public var pipelineFlag: Swift.String? {
+extension ShelfWatchImageRecognitionFramework.CDShopData {
+  @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<ShelfWatchImageRecognitionFramework.CDShopData>
+  @objc @NSManaged dynamic public var shopId: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var projectId: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var tdVersionId: Swift.String? {
     @objc get
     @objc set
   }
@@ -369,74 +385,78 @@ extension ShelfWatchImageRecognitionFramework.CDMasterData {
     @objc get
     @objc set
   }
-  @objc @NSManaged dynamic public var shopAddress: Swift.String? {
-    @objc get
-    @objc set
-  }
   @objc @NSManaged dynamic public var retailer: Swift.String? {
     @objc get
     @objc set
   }
-  @objc @NSManaged dynamic public var categoryName: Swift.String? {
+  @objc @NSManaged dynamic public var latitude: Swift.String? {
     @objc get
     @objc set
   }
-  @objc @NSManaged dynamic public var groupName: Swift.String? {
+  @objc @NSManaged dynamic public var longitude: Swift.String? {
     @objc get
     @objc set
   }
-  @objc @NSManaged dynamic public var shelfSections: Swift.String? {
+  @objc @NSManaged dynamic public var createdAt: Swift.String? {
     @objc get
     @objc set
   }
-  @objc @NSManaged dynamic public var regularOSA: Swift.String? {
+  @objc @NSManaged dynamic public var modifiedAt: Swift.String? {
     @objc get
     @objc set
   }
-  @objc @NSManaged dynamic public var sos: Swift.String? {
+  @objc @NSManaged dynamic public var fileId: Swift.String? {
     @objc get
     @objc set
   }
-  @objc @NSManaged dynamic public var shopId: Swift.String? {
+  @objc @NSManaged dynamic public var is_Deleted: Swift.String? {
     @objc get
     @objc set
   }
-  @objc @NSManaged dynamic public var attributeName: Swift.String? {
+  @objc @NSManaged dynamic public var shopType: Swift.String? {
     @objc get
     @objc set
   }
-  @objc @NSManaged dynamic public var attributeValue: Swift.String? {
+  @objc @NSManaged dynamic public var shopAddress: Swift.String? {
     @objc get
     @objc set
   }
-  @objc @NSManaged dynamic public var competition: Swift.String? {
+  @objc @NSManaged dynamic public var column1: Swift.String? {
     @objc get
     @objc set
   }
-  @objc @NSManaged dynamic public var skuName: Swift.String? {
+  @objc @NSManaged dynamic public var column2: Swift.String? {
     @objc get
     @objc set
   }
-  @objc @NSManaged dynamic public var classId: Swift.String? {
+  @objc @NSManaged dynamic public var column6: Swift.String? {
     @objc get
     @objc set
   }
-  @objc @NSManaged dynamic public var groupId: Swift.String? {
+  @objc @NSManaged dynamic public var column7: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var column12: Swift.String? {
     @objc get
     @objc set
   }
 }
-extension ShelfWatchImageRecognitionFramework.CDMasterData : Swift.Identifiable {
+extension ShelfWatchImageRecognitionFramework.CDShopData : Swift.Identifiable {
   public typealias ID = Swift.ObjectIdentifier
 }
-@_inheritsConvenienceInitializers @objc(CDMasterData) public class CDMasterData : CoreData.NSManagedObject {
+@_inheritsConvenienceInitializers @objc(CDShopData) public class CDShopData : CoreData.NSManagedObject {
   @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
   @objc deinit
+}
+extension Foundation.Data {
+  public mutating func append(_ string: Swift.String, encoding: Swift.String.Encoding = .utf8)
 }
 public protocol ImageUploadDelegate : AnyObject {
   func didReceiveBatchUpload(result: ShelfWatchImageRecognitionFramework.BatchUploadResult)
   func didCloseCameraSDK()
   func onUploadImagePressed(uploadImageEventMeta: ShelfWatchImageRecognitionFramework.UploadImageEventMeta)
+  func downloadDataProgress(progressMeta: ShelfWatchImageRecognitionFramework.DownloadProgressMeta)
 }
 public enum BatchUploadResult {
   case didReceiveBatches(batches: [ShelfWatchImageRecognitionFramework.ImageBatch])
@@ -450,9 +470,12 @@ public struct UploadImageEventMeta {
   public let isRetake: Swift.Bool
   public let sessionId: Swift.String
 }
-@_inheritsConvenienceInitializers @objc(CDShopDataChild) public class CDShopDataChild : CoreData.NSManagedObject {
+@_inheritsConvenienceInitializers @objc(CDMasterDataChild) public class CDMasterDataChild : CoreData.NSManagedObject {
   @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
   @objc deinit
+}
+public protocol ObjectDetectionDelegate : AnyObject {
+  func didReceiveDetections(result: Swift.Result<[ShelfWatchImageRecognitionFramework.ObjectDetectionResponse], any Swift.Error>)
 }
 @_inheritsConvenienceInitializers @objc(CDARCapturedImage) public class CDARCapturedImage : CoreData.NSManagedObject {
   @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
@@ -593,24 +616,24 @@ extension UIKit.UIDevice {
     get
   }
 }
-extension ShelfWatchImageRecognitionFramework.CDShopData {
-  @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<ShelfWatchImageRecognitionFramework.CDShopData>
+extension ShelfWatchImageRecognitionFramework.CDMasterData {
+  @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<ShelfWatchImageRecognitionFramework.CDMasterData>
   @objc @NSManaged dynamic public var shopId: Swift.String? {
     @objc get
     @objc set
   }
-  @objc @NSManaged dynamic public var data: [ShelfWatchImageRecognitionFramework.CDShopDataChild]? {
+  @objc @NSManaged dynamic public var data: [ShelfWatchImageRecognitionFramework.CDMasterDataChild]? {
     @objc get
     @objc set
   }
 }
-extension ShelfWatchImageRecognitionFramework.CDShopData {
-  @objc(addDataObject:) @NSManaged dynamic public func addToData(_ value: ShelfWatchImageRecognitionFramework.CDShopDataChild)
-  @objc(removeDataObject:) @NSManaged dynamic public func removeFromData(_ value: ShelfWatchImageRecognitionFramework.CDShopDataChild)
+extension ShelfWatchImageRecognitionFramework.CDMasterData {
+  @objc(addDataObject:) @NSManaged dynamic public func addToData(_ value: ShelfWatchImageRecognitionFramework.CDMasterDataChild)
+  @objc(removeDataObject:) @NSManaged dynamic public func removeFromData(_ value: ShelfWatchImageRecognitionFramework.CDMasterDataChild)
   @objc(addData:) @NSManaged dynamic public func addToData(_ values: Foundation.NSSet)
   @objc(removeData:) @NSManaged dynamic public func removeFromData(_ values: Foundation.NSSet)
 }
-extension ShelfWatchImageRecognitionFramework.CDShopData : Swift.Identifiable {
+extension ShelfWatchImageRecognitionFramework.CDMasterData : Swift.Identifiable {
   public typealias ID = Swift.ObjectIdentifier
 }
 extension ShelfWatchImageRecognitionFramework.CDImageMetaData {
@@ -715,8 +738,8 @@ extension UIKit.UIImage {
   @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
   @objc deinit
 }
-extension ShelfWatchImageRecognitionFramework.CDShopDataChild {
-  @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<ShelfWatchImageRecognitionFramework.CDShopDataChild>
+extension ShelfWatchImageRecognitionFramework.CDMasterDataChild {
+  @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<ShelfWatchImageRecognitionFramework.CDMasterDataChild>
   @objc @NSManaged dynamic public var pipelineFlag: Swift.String? {
     @objc get
     @objc set
@@ -785,12 +808,8 @@ extension ShelfWatchImageRecognitionFramework.CDShopDataChild {
     @objc get
     @objc set
   }
-  @objc @NSManaged dynamic public var relationship: ShelfWatchImageRecognitionFramework.CDShopData? {
-    @objc get
-    @objc set
-  }
 }
-extension ShelfWatchImageRecognitionFramework.CDShopDataChild : Swift.Identifiable {
+extension ShelfWatchImageRecognitionFramework.CDMasterDataChild : Swift.Identifiable {
   public typealias ID = Swift.ObjectIdentifier
 }
 extension UIKit.UIView {
@@ -821,7 +840,7 @@ extension ShelfWatchImageRecognitionFramework.CDCapturedImageBatch {
 extension ShelfWatchImageRecognitionFramework.CDCapturedImageBatch : Swift.Identifiable {
   public typealias ID = Swift.ObjectIdentifier
 }
-@_inheritsConvenienceInitializers @objc(CDShopData) public class CDShopData : CoreData.NSManagedObject {
+@_inheritsConvenienceInitializers @objc(CDMasterData) public class CDMasterData : CoreData.NSManagedObject {
   @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
   @objc deinit
 }
@@ -834,6 +853,11 @@ extension Foundation.Data {
       get
     }
   }
+}
+@_hasMissingDesignatedInitializers public class ObjectDetectionResponse : Swift.Codable {
+  @objc deinit
+  public func encode(to encoder: any Swift.Encoder) throws
+  required public init(from decoder: any Swift.Decoder) throws
 }
 extension ShelfWatchImageRecognitionFramework.CDSubSegmentNeighbourhood {
   @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<ShelfWatchImageRecognitionFramework.CDSubSegmentNeighbourhood>

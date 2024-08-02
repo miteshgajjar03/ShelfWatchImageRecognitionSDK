@@ -13,13 +13,11 @@ public protocol ShelfWatchDelegate: AnyObject {
     
     func didReceiveBatch(result: BatchResult)
     
-//    func didReceiveBatch(result: BatchUploadResult)
-//    
-//    func didReceiveAllBatches(results: [UploadBatch])
-    
     func didCameraSDKClosed()
     
     func didImageUploadButtonPressed(uploadEventMeta: UploadEventMeta)
+    
+    func downloadDataProgress(downloadMeta: DownloadMeta)
 }
 
 // MARK: - Protocol Result
@@ -128,6 +126,14 @@ public struct UploadEventMeta {
     public let images: [String]
     public let isRetake: Bool
     public let sessionId: String
+}
+
+// MARK: - Download Progress Meta
+public struct DownloadMeta {
+    public let title: String
+    public let subTitle: String
+    public let progress: Float
+    public let finished: Bool
 }
 
 // MARK: - Image Meta JSON keys

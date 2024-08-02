@@ -18,7 +18,7 @@ public class ShelfWatchCameraManager {
     
     // MARK: - Initialization
     
-    public init(projectId: String, userId: String, userInfo: [String: Any]? = nil, delegate: ShelfWatchDelegate) {
+    public init(projectId: String, userId: String, userInfo: [String: Any]? = nil, delegate: ShelfWatchDelegate, objectDetectionDelegate: ObjectDetectionDelegate) {
         
         self.delegate = delegate
         
@@ -26,7 +26,8 @@ public class ShelfWatchCameraManager {
             projectId: projectId,
             userId: userId,
             userInfo: userInfo ?? [:],
-            delegate: self
+            delegate: self,
+            objectDetectionDelegate: objectDetectionDelegate
         )
     }
     
@@ -40,7 +41,7 @@ public class ShelfWatchCameraManager {
             allowCrop: config.allowCrop,
             allowBlurCheck: config.allowBlurCheck,
             zoomLevel: config.zoomLevel,
-            isRetake: config.isRetake, 
+            isRetake: config.isRetake,
             showOverlapToggleButton: config.showOverlapToggleButton, 
             showGridlines: config.showGridlines, 
             languageCode: config.languageCode,
@@ -115,6 +116,17 @@ extension ShelfWatchCameraManager: ImageUploadDelegate {
         
         self.delegate?.didImageUploadButtonPressed(uploadEventMeta: uploadEventMeta)
     }
+    
+    public func downloadDataProgress(progressMeta: DownloadProgressMeta) {
+        
+        let downloadMeta = DownloadMeta(
+            title: progressMeta.title,
+            subTitle: progressMeta.subTitle,
+            progress: progressMeta.progress,
+            finished: progressMeta.finished
+        )
+        self.delegate?.downloadDataProgress(downloadMeta: downloadMeta)
+    }
 }
 
 // MARK: - Receive Event From React Native
@@ -160,5 +172,14 @@ extension ShelfWatchCameraManager {
     
     public func logSDKInitialise(message: String) {
         self.shelfWatchCamera?.logInitSDK(logMessage: message)
+    }
+}
+
+// MARK: - Unity
+
+extension ShelfWatchCameraManager {
+    
+    public func sendUnityImage(image: UIImage) {
+        self.shelfWatchCamera.imageFromUnity(image: image)
     }
 }

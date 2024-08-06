@@ -77,6 +77,18 @@ public struct DownloadProgressMeta {
   public let subTitle: Swift.String
   public let progress: Swift.Float
   public let finished: Swift.Bool
+  public let type: ShelfWatchImageRecognitionFramework.ProgressType
+}
+public enum ProgressType {
+  case checkingForUpdate, downloadingFile
+  public var value: Swift.String {
+    get
+  }
+  public static func == (a: ShelfWatchImageRecognitionFramework.ProgressType, b: ShelfWatchImageRecognitionFramework.ProgressType) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
 }
 public enum ResizeFramework {
   case uikit, coreImage, coreGraphics, imageIO, accelerate
@@ -358,6 +370,7 @@ extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
 }
 extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
   public func imageFromUnity(image: UIKit.UIImage)
+  public func showInsightDashboadViewController(from viewController: UIKit.UIViewController, mergedImage: UIKit.UIImage, jsonObjects: [[Swift.String : Any]])
 }
 @_inheritsConvenienceInitializers @objc(CDListing) public class CDListing : CoreData.NSManagedObject {
   @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
@@ -956,6 +969,8 @@ extension ShelfWatchImageRecognitionFramework.CameraOrientation : Swift.RawRepre
 extension ShelfWatchImageRecognitionFramework.LanguageCode : Swift.Equatable {}
 extension ShelfWatchImageRecognitionFramework.LanguageCode : Swift.Hashable {}
 extension ShelfWatchImageRecognitionFramework.LanguageCode : Swift.RawRepresentable {}
+extension ShelfWatchImageRecognitionFramework.ProgressType : Swift.Equatable {}
+extension ShelfWatchImageRecognitionFramework.ProgressType : Swift.Hashable {}
 extension ShelfWatchImageRecognitionFramework.ResizeFramework : Swift.Equatable {}
 extension ShelfWatchImageRecognitionFramework.ResizeFramework : Swift.Hashable {}
 extension UIKit.UIImage.DataUnits : Swift.Equatable {}

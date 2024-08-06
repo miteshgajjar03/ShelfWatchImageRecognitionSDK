@@ -123,7 +123,8 @@ extension ShelfWatchCameraManager: ImageUploadDelegate {
             title: progressMeta.title,
             subTitle: progressMeta.subTitle,
             progress: progressMeta.progress,
-            finished: progressMeta.finished
+            finished: progressMeta.finished, 
+            type: progressMeta.type.value
         )
         self.delegate?.downloadDataProgress(downloadMeta: downloadMeta)
     }
@@ -181,5 +182,10 @@ extension ShelfWatchCameraManager {
     
     public func sendUnityImage(image: UIImage) {
         self.shelfWatchCamera.imageFromUnity(image: image)
+    }
+    
+    public func showInsightDashboadViewController(from viewController: UIViewController, mergedImage: UIImage, jsonObjects: [[String: Any]]) {
+        
+        self.shelfWatchCamera.showInsightDashboadViewController(from: viewController, mergedImage: mergedImage, jsonObjects: jsonObjects)
     }
 }

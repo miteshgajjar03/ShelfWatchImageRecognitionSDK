@@ -134,6 +134,7 @@ public struct DownloadMeta {
     public let subTitle: String
     public let progress: Float
     public let finished: Bool
+    public let type: String
 }
 
 // MARK: - Image Meta JSON keys

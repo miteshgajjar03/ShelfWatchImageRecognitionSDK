@@ -289,6 +289,9 @@ extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
   public func showInsightDashboadViewController(from viewController: UIKit.UIViewController, mergedImage: UIKit.UIImage, jsonObjects: [[Swift.String : Any]])
   public func uploadARImage(config: ShelfWatchImageRecognitionFramework.CameraConfiguration, mergedImage: UIKit.UIImage, detectionJSON: [[Swift.String : Any]])
 }
+extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
+  public func getKPICalculationResult(uploadParams: [Swift.String : Any], mergedImage: UIKit.UIImage, detectionsJSON: [[Swift.String : Any]])
+}
 @_inheritsConvenienceInitializers @objc(CDListing) public class CDListing : CoreData.NSManagedObject {
   @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
   @objc deinit

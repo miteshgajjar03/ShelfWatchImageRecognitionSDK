@@ -35,7 +35,6 @@ public class ShelfWatchCameraManager {
         
         guard let config = self.config else {
             fatalError("CONFIG IS NIL!! CALL setupConfig(config: ) to set camera Config")
-            return
         }
         
         let cameraConfiguration = self.prepareCameraConfiguration(from: config)
@@ -218,5 +217,18 @@ extension ShelfWatchCameraManager {
             mergedImage: mergedImage,
             detectionJSON: detections
         )
+    }
+    
+    public func calculateKPI(mergedImage: UIImage, detectionJSON: [[String: Any]]) {
+        guard let config = self.config else { return }
+        print("UPLOAD PARAM SEND TO NATIVE FOR KPI :: \(config.uploadParams)")
+        if
+            let metaData = config.uploadParams["metadata"] as? [String : Any],
+              let planogramName = metaData["planogram_name"] as? String 
+        {
+            print("PLANOGRAM NAME :: \(planogramName)")
+        }
+        
+        self.shelfWatchCamera.getKPICalculationResult(uploadParams: config.uploadParams, mergedImage: mergedImage, detectionsJSON: detectionJSON)
     }
 }

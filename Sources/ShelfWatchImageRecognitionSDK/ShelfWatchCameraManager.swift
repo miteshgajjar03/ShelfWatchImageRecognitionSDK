@@ -14,7 +14,7 @@ public class ShelfWatchCameraManager {
     
     private var shelfWatchCamera: ShelfWatchCamera!
     private weak var delegate: ShelfWatchDelegate?
-
+    private var config: CameraConfig?
     
     // MARK: - Initialization
     
@@ -31,9 +31,31 @@ public class ShelfWatchCameraManager {
         )
     }
     
-    public func showCamera(config: CameraConfig, viewController: UIViewController) {
+    public func showCamera(viewController: UIViewController) {
         
-        let config = CameraConfiguration(
+        guard let config = self.config else {
+            fatalError("CONFIG IS NIL!! CALL setupConfig(config: ) to set camera Config")
+            return
+        }
+        
+        let cameraConfiguration = self.prepareCameraConfiguration(from: config)
+        self.shelfWatchCamera.showCamera(with: cameraConfiguration, viewController: viewController)
+    }
+}
+
+// MARK: Extension
+
+// MARK: - Setup Config
+
+extension ShelfWatchCameraManager {
+    
+    public func setupConfig(config: CameraConfig) {
+        self.config = config
+    }
+    
+    private func prepareCameraConfiguration(from config: CameraConfig) -> CameraConfiguration {
+        
+        let cameraConfiguration = CameraConfiguration(
             orientation: config.orientation,
             widthPercentage: config.widthPercentage,
             resolution: config.resolution,
@@ -42,10 +64,10 @@ public class ShelfWatchCameraManager {
             allowBlurCheck: config.allowBlurCheck,
             zoomLevel: config.zoomLevel,
             isRetake: config.isRetake,
-            showOverlapToggleButton: config.showOverlapToggleButton, 
-            showGridlines: config.showGridlines, 
+            showOverlapToggleButton: config.showOverlapToggleButton,
+            showGridlines: config.showGridlines,
             languageCode: config.languageCode,
-            appName: config.appName, 
+            appName: config.appName,
             wideAngleMode:  WideAngleMode(
                 flag: config.wideAngleMeta.flag,
                 freeze: config.wideAngleMeta.freeze
@@ -56,11 +78,9 @@ public class ShelfWatchCameraManager {
             uploadParams: config.uploadParams
         )
         
-        self.shelfWatchCamera.showCamera(with: config, viewController: viewController)
+        return cameraConfiguration
     }
 }
-
-// MARK: Extension
 
 // MARK: - ImageUploadDelegate
 
@@ -187,5 +207,16 @@ extension ShelfWatchCameraManager {
     public func showInsightDashboadViewController(from viewController: UIViewController, mergedImage: UIImage, jsonObjects: [[String: Any]]) {
         
         self.shelfWatchCamera.showInsightDashboadViewController(from: viewController, mergedImage: mergedImage, jsonObjects: jsonObjects)
+    }
+    
+    public func uploadARImage(mergedImage: UIImage, detections: [[String: Any]]) {
+        
+        guard let config = self.config else { return }
+        let cameraConfiguration = self.prepareCameraConfiguration(from: config)
+        self.shelfWatchCamera.uploadARImage(
+            config: cameraConfiguration,
+            mergedImage: mergedImage,
+            detectionJSON: detections
+        )
     }
 }

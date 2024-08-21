@@ -110,7 +110,7 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		HOIE1AQJjOab5FqYbNPXgmOdTzw=
+		6RYvKZyi57JIlX1C7FN5pqk7akg=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -126,11 +126,15 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		YaunM6br91ION/PdNtPWySDqNYk=
+		CwJB6Lz9664+b5VrJi0fWxWV1MA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		Yi0EwyUOafUlNd5lU9dRiqG501U=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		mmosjSV/TgmHF8faKt5xyNWcHv8=
 		</data>
 		<key>ShelfWatch.momd/ShelfWatch.mom</key>
 		<data>
@@ -409,7 +413,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xdBOWY1o8u7kw+axjV5edRRwxwZETECakwX+Zp37wGU=
+			N8lEUlek2HCxNF8kl9PDGZsjOzYpx+qK40HS2Nwf5fs=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -437,7 +441,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yXdx/nvfwHkZabDJ0p0jMGfuTlsC7SMM4zONeLUbwgY=
+			e4ygGDKCWnIX/SKKn91+5ahRHed6DoauGRBmV0okVkU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -445,6 +449,13 @@
 			<key>hash2</key>
 			<data>
 			Hv25PdXsOU25LMpMJKHkMB3zU9gITS1B/VfInqI2Snw=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jpGt0Nek9gsNP5k4Z0MBnl5uPLq6UvnN6bpQUswrBYI=
 			</data>
 		</dict>
 		<key>ShelfWatch.momd/ShelfWatch.mom</key>

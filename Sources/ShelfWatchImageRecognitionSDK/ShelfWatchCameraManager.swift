@@ -203,9 +203,19 @@ extension ShelfWatchCameraManager {
         self.shelfWatchCamera.imageFromUnity(image: image)
     }
     
-    public func showInsightDashboadViewController(from viewController: UIViewController, mergedImage: UIImage, jsonObjects: [[String: Any]]) {
+    public func showInsightDashboadViewController(
+        from viewController: UIViewController,
+        mergedImage: UIImage,
+        jsonObjects: [[String: Any]],
+        kpiAvailability: [String: Any]
+    ) {
         
-        self.shelfWatchCamera.showInsightDashboadViewController(from: viewController, mergedImage: mergedImage, jsonObjects: jsonObjects)
+        self.shelfWatchCamera.showInsightDashboadViewController(
+            from: viewController,
+            mergedImage: mergedImage,
+            jsonObjects: jsonObjects,
+            skuAvailability: kpiAvailability
+        )
     }
     
     public func uploadARImage(mergedImage: UIImage, detections: [[String: Any]]) {
@@ -219,8 +229,8 @@ extension ShelfWatchCameraManager {
         )
     }
     
-    public func calculateKPI(mergedImage: UIImage, detectionJSON: [[String: Any]]) {
-        guard let config = self.config else { return }
+    public func calculateKPI(mergedImage: UIImage, detectionJSON: [[String: Any]]) -> String {
+        guard let config = self.config else { return "CONFIG NOT FOUND!" }
         print("UPLOAD PARAM SEND TO NATIVE FOR KPI :: \(config.uploadParams)")
         if
             let metaData = config.uploadParams["metadata"] as? [String : Any],
@@ -229,6 +239,7 @@ extension ShelfWatchCameraManager {
             print("PLANOGRAM NAME :: \(planogramName)")
         }
         
-        self.shelfWatchCamera.getKPICalculationResult(uploadParams: config.uploadParams, mergedImage: mergedImage, detectionsJSON: detectionJSON)
+        let jsonString = self.shelfWatchCamera.getKPICalculationResult(uploadParams: config.uploadParams, mergedImage: mergedImage, detectionsJSON: detectionJSON)
+        return jsonString
     }
 }

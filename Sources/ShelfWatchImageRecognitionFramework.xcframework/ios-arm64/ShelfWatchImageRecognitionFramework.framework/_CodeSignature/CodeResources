@@ -74,11 +74,11 @@
 		</data>
 		<key>AR.storyboardc/pdK-oq-scA-view-aKn-CN-PNf.nib/objects-14.0+.nib</key>
 		<data>
-		7iAuUEMiR7FsYZeCYrAJQd0Ke64=
+		NYdyYLSdMO4UIAu9+jm50bQceDc=
 		</data>
 		<key>AR.storyboardc/pdK-oq-scA-view-aKn-CN-PNf.nib/runtime.nib</key>
 		<data>
-		ARLttJi3P8mS5B30O7ajzgSNAJk=
+		iWw7WUp1488xOfiDjNWVgnfDFOY=
 		</data>
 		<key>ActivityIndicatorView.nib</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Asahi.mlmodelc/model0/coremldata.bin</key>
 		<data>
-		OM97oPg195D+2XCWIOA9kU6qEE4=
+		XFD8UShRuL7r+gypsIEUyHtG5/U=
 		</data>
 		<key>Asahi.mlmodelc/model0/model.espresso.net</key>
 		<data>
@@ -230,11 +230,11 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		C/iGOv67GfXOXg/+Cz8NZAKRflY=
+		CuT+uEQXyk0elnJ9POdIrDMEDds=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		yQraVzu5/fHLmzIt4GCUvOw448M=
+		PmpVY/aXg/bd4JyLrk9oAVQ3IY8=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -242,11 +242,11 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		yQraVzu5/fHLmzIt4GCUvOw448M=
+		PmpVY/aXg/bd4JyLrk9oAVQ3IY8=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		x5q1uf2c1J5LLxkonA1cSKCB7DE=
+		DdJXGf3v2zfQ2Jt0jsOwPYx6Y2k=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -395,6 +395,14 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>sample_data_failure.json</key>
+		<data>
+		6wRgozsYNkLOpgzJgNEgbuSGAZs=
+		</data>
+		<key>sample_data_success.json</key>
+		<data>
+		UmKXig431UYjXRXQbLyM2R6+If8=
+		</data>
 		<key>sk.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
@@ -560,14 +568,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sQebb5StBpFEvr0E9masaqrVhVmHqJV0XakiMJj9Ct8=
+			R6r/ePsoTYdSE6dL9LA7g9yUk5qbFrvoiKvZIP6Bnn8=
 			</data>
 		</dict>
 		<key>AR.storyboardc/pdK-oq-scA-view-aKn-CN-PNf.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4z6Huw2TGOLw5upLG1Jqd5aQ7GNv5tzXoW4k/GKwWB0=
+			2jgnoJh3gqU7yzQ6x4zF80HJm3tCbg8i/ewjyc8rTNY=
 			</data>
 		</dict>
 		<key>ActivityIndicatorView.nib</key>
@@ -609,7 +617,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5m2+kz7vKLz41skIG2iXvRUQiUqWo3qZ5Z20ntpPa7Y=
+			OhrmSssAnu7spVYkofuyirfd7Yj6VmORM+fB2kfp4ss=
 			</data>
 		</dict>
 		<key>Asahi.mlmodelc/model0/model.espresso.net</key>
@@ -826,14 +834,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KV1bBl4zAAr8DjXjCxsATiSob8uaJdc353ouOllExCc=
+			ssW0mTzB/kBfkcPuWc0idx0ASLUcELIljJ65IfGGxYo=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GQpbvMbNVaOV3WdNIK2t2746wPKTwdqVXD030K4/aPw=
+			Xbn19w8oKWqjOcruSYoDK8QeyAfuX5RuO/7TQONoc98=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -847,14 +855,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GQpbvMbNVaOV3WdNIK2t2746wPKTwdqVXD030K4/aPw=
+			Xbn19w8oKWqjOcruSYoDK8QeyAfuX5RuO/7TQONoc98=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sa/uJ4I/P1zt89ZU8W5jCtc/V1TgKZGF/2j6zQYpBbg=
+			AuaLEboe7jMgIH2f+xWe5VYeFYWWDykGCzwKxg7C9yU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1066,6 +1074,20 @@
 			</data>
 			<key>optional</key>
 			<true/>
+		</dict>
+		<key>sample_data_failure.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gMkB8Lf+zYdmFioXp8/b64I0suKV8LWtZtzBbzRccoM=
+			</data>
+		</dict>
+		<key>sample_data_success.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oQxB+fq3LUgJ2SLM8UET6WUdvgnAE7ktvEURMA1j52k=
+			</data>
 		</dict>
 		<key>sk.lproj/Localizable.strings</key>
 		<dict>

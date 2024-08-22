@@ -673,23 +673,15 @@ extension UIKit.UIImage {
 }
 extension ShelfWatchImageRecognitionFramework.CDMasterDataChild {
   @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<ShelfWatchImageRecognitionFramework.CDMasterDataChild>
-  @objc @NSManaged dynamic public var clientShopId: Swift.String? {
-    @objc get
-    @objc set
-  }
   @objc @NSManaged dynamic public var categoryName: Swift.String? {
     @objc get
     @objc set
   }
-  @objc @NSManaged dynamic public var regularOSA: Swift.String? {
+  @objc @NSManaged dynamic public var classId: Swift.String? {
     @objc get
     @objc set
   }
-  @objc @NSManaged dynamic public var sos: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var shopId: Swift.Int32 {
+  @objc @NSManaged dynamic public var clientShopId: Swift.String? {
     @objc get
     @objc set
   }
@@ -697,11 +689,31 @@ extension ShelfWatchImageRecognitionFramework.CDMasterDataChild {
     @objc get
     @objc set
   }
+  @objc @NSManaged dynamic public var regularOSA: Swift.Int16 {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var shopId: Swift.Int32 {
+    @objc get
+    @objc set
+  }
   @objc @NSManaged dynamic public var skuName: Swift.String? {
     @objc get
     @objc set
   }
-  @objc @NSManaged dynamic public var classId: Swift.String? {
+  @objc @NSManaged dynamic public var sos: Swift.Int16 {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var groupName: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var groupId: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var categoryId: Swift.String? {
     @objc get
     @objc set
   }

@@ -9461,109 +9461,6 @@
           },
           {
             "kind": "Var",
-            "name": "clientShopId",
-            "printedName": "clientShopId",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(py)clientShopId",
-            "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC12clientShopIdSSSgvp",
-            "moduleName": "ShelfWatchImageRecognitionFramework",
-            "declAttributes": [
-              "Dynamic",
-              "AccessControl",
-              "NSManaged",
-              "ObjC"
-            ],
-            "isFromExtension": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "Swift.String?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(im)clientShopId",
-                "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC12clientShopIdSSSgvg",
-                "moduleName": "ShelfWatchImageRecognitionFramework",
-                "implicit": true,
-                "declAttributes": [
-                  "Dynamic",
-                  "ObjC"
-                ],
-                "isFromExtension": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "Swift.String?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(im)setClientShopId:",
-                "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC12clientShopIdSSSgvs",
-                "moduleName": "ShelfWatchImageRecognitionFramework",
-                "implicit": true,
-                "declAttributes": [
-                  "Dynamic",
-                  "ObjC"
-                ],
-                "isFromExtension": true,
-                "accessorKind": "set"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
             "name": "categoryName",
             "printedName": "categoryName",
             "children": [
@@ -9667,8 +9564,8 @@
           },
           {
             "kind": "Var",
-            "name": "regularOSA",
-            "printedName": "regularOSA",
+            "name": "classId",
+            "printedName": "classId",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -9686,8 +9583,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(py)regularOSA",
-            "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC10regularOSASSSgvp",
+            "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(py)classId",
+            "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC7classIdSSSgvp",
             "moduleName": "ShelfWatchImageRecognitionFramework",
             "declAttributes": [
               "Dynamic",
@@ -9718,8 +9615,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(im)regularOSA",
-                "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC10regularOSASSSgvg",
+                "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(im)classId",
+                "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC7classIdSSSgvg",
                 "moduleName": "ShelfWatchImageRecognitionFramework",
                 "implicit": true,
                 "declAttributes": [
@@ -9755,8 +9652,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(im)setRegularOSA:",
-                "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC10regularOSASSSgvs",
+                "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(im)setClassId:",
+                "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC7classIdSSSgvs",
                 "moduleName": "ShelfWatchImageRecognitionFramework",
                 "implicit": true,
                 "declAttributes": [
@@ -9770,8 +9667,8 @@
           },
           {
             "kind": "Var",
-            "name": "sos",
-            "printedName": "sos",
+            "name": "clientShopId",
+            "printedName": "clientShopId",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -9789,8 +9686,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(py)sos",
-            "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC3sosSSSgvp",
+            "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(py)clientShopId",
+            "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC12clientShopIdSSSgvp",
             "moduleName": "ShelfWatchImageRecognitionFramework",
             "declAttributes": [
               "Dynamic",
@@ -9821,8 +9718,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(im)sos",
-                "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC3sosSSSgvg",
+                "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(im)clientShopId",
+                "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC12clientShopIdSSSgvg",
                 "moduleName": "ShelfWatchImageRecognitionFramework",
                 "implicit": true,
                 "declAttributes": [
@@ -9858,87 +9755,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(im)setSos:",
-                "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC3sosSSSgvs",
-                "moduleName": "ShelfWatchImageRecognitionFramework",
-                "implicit": true,
-                "declAttributes": [
-                  "Dynamic",
-                  "ObjC"
-                ],
-                "isFromExtension": true,
-                "accessorKind": "set"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "shopId",
-            "printedName": "shopId",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Int32",
-                "printedName": "Swift.Int32",
-                "usr": "s:s5Int32V"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(py)shopId",
-            "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC6shopIds5Int32Vvp",
-            "moduleName": "ShelfWatchImageRecognitionFramework",
-            "declAttributes": [
-              "Dynamic",
-              "AccessControl",
-              "NSManaged",
-              "ObjC"
-            ],
-            "isFromExtension": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Int32",
-                    "printedName": "Swift.Int32",
-                    "usr": "s:s5Int32V"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(im)shopId",
-                "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC6shopIds5Int32Vvg",
-                "moduleName": "ShelfWatchImageRecognitionFramework",
-                "implicit": true,
-                "declAttributes": [
-                  "Dynamic",
-                  "ObjC"
-                ],
-                "isFromExtension": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Int32",
-                    "printedName": "Swift.Int32",
-                    "usr": "s:s5Int32V"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(im)setShopId:",
-                "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC6shopIds5Int32Vvs",
+                "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(im)setClientShopId:",
+                "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC12clientShopIdSSSgvs",
                 "moduleName": "ShelfWatchImageRecognitionFramework",
                 "implicit": true,
                 "declAttributes": [
@@ -10055,6 +9873,164 @@
           },
           {
             "kind": "Var",
+            "name": "regularOSA",
+            "printedName": "regularOSA",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int16",
+                "printedName": "Swift.Int16",
+                "usr": "s:s5Int16V"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(py)regularOSA",
+            "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC10regularOSAs5Int16Vvp",
+            "moduleName": "ShelfWatchImageRecognitionFramework",
+            "declAttributes": [
+              "Dynamic",
+              "AccessControl",
+              "NSManaged",
+              "ObjC"
+            ],
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int16",
+                    "printedName": "Swift.Int16",
+                    "usr": "s:s5Int16V"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(im)regularOSA",
+                "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC10regularOSAs5Int16Vvg",
+                "moduleName": "ShelfWatchImageRecognitionFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int16",
+                    "printedName": "Swift.Int16",
+                    "usr": "s:s5Int16V"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(im)setRegularOSA:",
+                "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC10regularOSAs5Int16Vvs",
+                "moduleName": "ShelfWatchImageRecognitionFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "set"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "shopId",
+            "printedName": "shopId",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int32",
+                "printedName": "Swift.Int32",
+                "usr": "s:s5Int32V"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(py)shopId",
+            "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC6shopIds5Int32Vvp",
+            "moduleName": "ShelfWatchImageRecognitionFramework",
+            "declAttributes": [
+              "Dynamic",
+              "AccessControl",
+              "NSManaged",
+              "ObjC"
+            ],
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int32",
+                    "printedName": "Swift.Int32",
+                    "usr": "s:s5Int32V"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(im)shopId",
+                "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC6shopIds5Int32Vvg",
+                "moduleName": "ShelfWatchImageRecognitionFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int32",
+                    "printedName": "Swift.Int32",
+                    "usr": "s:s5Int32V"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(im)setShopId:",
+                "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC6shopIds5Int32Vvs",
+                "moduleName": "ShelfWatchImageRecognitionFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "set"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "skuName",
             "printedName": "skuName",
             "children": [
@@ -10158,8 +10134,87 @@
           },
           {
             "kind": "Var",
-            "name": "classId",
-            "printedName": "classId",
+            "name": "sos",
+            "printedName": "sos",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int16",
+                "printedName": "Swift.Int16",
+                "usr": "s:s5Int16V"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(py)sos",
+            "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC3soss5Int16Vvp",
+            "moduleName": "ShelfWatchImageRecognitionFramework",
+            "declAttributes": [
+              "Dynamic",
+              "AccessControl",
+              "NSManaged",
+              "ObjC"
+            ],
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int16",
+                    "printedName": "Swift.Int16",
+                    "usr": "s:s5Int16V"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(im)sos",
+                "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC3soss5Int16Vvg",
+                "moduleName": "ShelfWatchImageRecognitionFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int16",
+                    "printedName": "Swift.Int16",
+                    "usr": "s:s5Int16V"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(im)setSos:",
+                "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC3soss5Int16Vvs",
+                "moduleName": "ShelfWatchImageRecognitionFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "set"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "groupName",
+            "printedName": "groupName",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -10177,8 +10232,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(py)classId",
-            "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC7classIdSSSgvp",
+            "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(py)groupName",
+            "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC9groupNameSSSgvp",
             "moduleName": "ShelfWatchImageRecognitionFramework",
             "declAttributes": [
               "Dynamic",
@@ -10209,8 +10264,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(im)classId",
-                "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC7classIdSSSgvg",
+                "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(im)groupName",
+                "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC9groupNameSSSgvg",
                 "moduleName": "ShelfWatchImageRecognitionFramework",
                 "implicit": true,
                 "declAttributes": [
@@ -10246,8 +10301,214 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(im)setClassId:",
-                "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC7classIdSSSgvs",
+                "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(im)setGroupName:",
+                "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC9groupNameSSSgvs",
+                "moduleName": "ShelfWatchImageRecognitionFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "set"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "groupId",
+            "printedName": "groupId",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(py)groupId",
+            "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC7groupIdSSSgvp",
+            "moduleName": "ShelfWatchImageRecognitionFramework",
+            "declAttributes": [
+              "Dynamic",
+              "AccessControl",
+              "NSManaged",
+              "ObjC"
+            ],
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(im)groupId",
+                "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC7groupIdSSSgvg",
+                "moduleName": "ShelfWatchImageRecognitionFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(im)setGroupId:",
+                "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC7groupIdSSSgvs",
+                "moduleName": "ShelfWatchImageRecognitionFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "set"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "categoryId",
+            "printedName": "categoryId",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(py)categoryId",
+            "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC10categoryIdSSSgvp",
+            "moduleName": "ShelfWatchImageRecognitionFramework",
+            "declAttributes": [
+              "Dynamic",
+              "AccessControl",
+              "NSManaged",
+              "ObjC"
+            ],
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(im)categoryId",
+                "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC10categoryIdSSSgvg",
+                "moduleName": "ShelfWatchImageRecognitionFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDMasterDataChild(im)setCategoryId:",
+                "mangledName": "$s35ShelfWatchImageRecognitionFramework17CDMasterDataChildC10categoryIdSSSgvs",
                 "moduleName": "ShelfWatchImageRecognitionFramework",
                 "implicit": true,
                 "declAttributes": [
@@ -24314,119 +24575,119 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/SKUAvailabilityKPI\/SKUAvailabilityKPI.swift",
       "kind": "Dictionary",
-      "offset": 971,
+      "offset": 980,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/SKUAvailabilityKPI\/SKUAvailabilityKPI.swift",
       "kind": "IntegerLiteral",
-      "offset": 1088,
+      "offset": 1115,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/SKUAvailabilityKPI\/SKUAvailabilityKPI.swift",
       "kind": "IntegerLiteral",
-      "offset": 1092,
+      "offset": 1119,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/SKUAvailabilityKPI\/SKUAvailabilityKPI.swift",
       "kind": "IntegerLiteral",
-      "offset": 1407,
+      "offset": 1443,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/SKUAvailabilityKPI\/SKUAvailabilityKPI.swift",
       "kind": "IntegerLiteral",
-      "offset": 1425,
+      "offset": 1461,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/SKUAvailabilityKPI\/SKUAvailabilityKPI.swift",
       "kind": "Array",
-      "offset": 1444,
+      "offset": 1480,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/SKUAvailabilityKPI\/SKUAvailabilityKPI.swift",
       "kind": "Array",
-      "offset": 1464,
+      "offset": 1500,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/SKUAvailabilityKPI\/SKUAvailabilityKPI.swift",
       "kind": "StringLiteral",
-      "offset": 1821,
+      "offset": 1869,
       "length": 9,
       "value": "\"shop_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/SKUAvailabilityKPI\/SKUAvailabilityKPI.swift",
       "kind": "StringLiteral",
-      "offset": 1887,
+      "offset": 1933,
       "length": 10,
       "value": "\"metadata\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/SKUAvailabilityKPI\/SKUAvailabilityKPI.swift",
       "kind": "StringLiteral",
-      "offset": 1962,
+      "offset": 2006,
       "length": 16,
       "value": "\"planogram_name\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/SKUAvailabilityKPI\/SKUAvailabilityKPI.swift",
       "kind": "StringLiteral",
-      "offset": 2250,
+      "offset": 2294,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/SKUAvailabilityKPI\/SKUAvailabilityKPI.swift",
       "kind": "IntegerLiteral",
-      "offset": 2258,
+      "offset": 2302,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/SKUAvailabilityKPI\/SKUAvailabilityKPI.swift",
       "kind": "StringLiteral",
-      "offset": 2841,
+      "offset": 2804,
       "length": 14,
       "value": "\"shopId == %d\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/SKUAvailabilityKPI\/SKUAvailabilityKPI.swift",
       "kind": "Array",
-      "offset": 3017,
+      "offset": 2980,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/SKUAvailabilityKPI\/SKUAvailabilityKPI.swift",
-      "kind": "StringLiteral",
-      "offset": 3111,
-      "length": 3,
-      "value": "\"1\""
+      "kind": "IntegerLiteral",
+      "offset": 3074,
+      "length": 1,
+      "value": "1"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/SKUAvailabilityKPI\/SKUAvailabilityKPI.swift",
       "kind": "StringLiteral",
-      "offset": 3149,
+      "offset": 3110,
       "length": 6,
       "value": "\"self\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/SKUAvailabilityKPI\/SKUAvailabilityKPI.swift",
       "kind": "StringLiteral",
-      "offset": 3713,
+      "offset": 3676,
       "length": 21,
       "value": "\"planogramName == %@\""
     },
@@ -24713,86 +24974,128 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterDataChild\/MasterDataChild.swift",
       "kind": "StringLiteral",
-      "offset": 473,
+      "offset": 548,
       "length": 16,
       "value": "\"client_shop_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterDataChild\/MasterDataChild.swift",
       "kind": "StringLiteral",
-      "offset": 518,
+      "offset": 593,
       "length": 15,
       "value": "\"category_name\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterDataChild\/MasterDataChild.swift",
       "kind": "StringLiteral",
-      "offset": 560,
+      "offset": 635,
       "length": 13,
       "value": "\"regular_osa\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterDataChild\/MasterDataChild.swift",
       "kind": "StringLiteral",
-      "offset": 613,
+      "offset": 688,
       "length": 9,
       "value": "\"shop_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterDataChild\/MasterDataChild.swift",
       "kind": "StringLiteral",
-      "offset": 671,
+      "offset": 746,
       "length": 10,
       "value": "\"sku_name\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterDataChild\/MasterDataChild.swift",
       "kind": "StringLiteral",
-      "offset": 705,
+      "offset": 780,
       "length": 10,
       "value": "\"class_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterDataChild\/MasterDataChild.swift",
       "kind": "StringLiteral",
-      "offset": 473,
+      "offset": 816,
+      "length": 12,
+      "value": "\"group_name\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterDataChild\/MasterDataChild.swift",
+      "kind": "StringLiteral",
+      "offset": 852,
+      "length": 10,
+      "value": "\"group_id\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterDataChild\/MasterDataChild.swift",
+      "kind": "StringLiteral",
+      "offset": 889,
+      "length": 13,
+      "value": "\"category_id\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterDataChild\/MasterDataChild.swift",
+      "kind": "StringLiteral",
+      "offset": 548,
       "length": 16,
       "value": "\"client_shop_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterDataChild\/MasterDataChild.swift",
       "kind": "StringLiteral",
-      "offset": 518,
+      "offset": 593,
       "length": 15,
       "value": "\"category_name\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterDataChild\/MasterDataChild.swift",
       "kind": "StringLiteral",
-      "offset": 560,
+      "offset": 635,
       "length": 13,
       "value": "\"regular_osa\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterDataChild\/MasterDataChild.swift",
       "kind": "StringLiteral",
-      "offset": 613,
+      "offset": 688,
       "length": 9,
       "value": "\"shop_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterDataChild\/MasterDataChild.swift",
       "kind": "StringLiteral",
-      "offset": 671,
+      "offset": 746,
       "length": 10,
       "value": "\"sku_name\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterDataChild\/MasterDataChild.swift",
       "kind": "StringLiteral",
-      "offset": 705,
+      "offset": 780,
       "length": 10,
       "value": "\"class_id\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterDataChild\/MasterDataChild.swift",
+      "kind": "StringLiteral",
+      "offset": 816,
+      "length": 12,
+      "value": "\"group_name\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterDataChild\/MasterDataChild.swift",
+      "kind": "StringLiteral",
+      "offset": 852,
+      "length": 10,
+      "value": "\"group_id\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterDataChild\/MasterDataChild.swift",
+      "kind": "StringLiteral",
+      "offset": 889,
+      "length": 13,
+      "value": "\"category_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/AR\/ARViewController\/View\/ARView\/ARView+ARSCNViewDelegate.swift",
@@ -26008,14 +26311,63 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/KPIStorageViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 15702,
+      "offset": 15687,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/KPIStorageViewModel.swift",
+      "kind": "FloatLiteral",
+      "offset": 15713,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/KPIStorageViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 15740,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/KPIStorageViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 15913,
+      "length": 20,
+      "value": "\"Checking for Model\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/KPIStorageViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 15957,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/KPIStorageViewModel.swift",
+      "kind": "FloatLiteral",
+      "offset": 15983,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/KPIStorageViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 16010,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/KPIStorageViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 16254,
       "length": 17,
       "value": "\"checking_update\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/KPIStorageViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 15770,
+      "offset": 16322,
       "length": 19,
       "value": "\"downloading_files\""
     },
@@ -29403,168 +29755,266 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
       "kind": "Dictionary",
-      "offset": 2297,
+      "offset": 2333,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 2639,
+      "offset": 2675,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 5084,
-      "length": 63,
-      "value": "\"ERROR FROM > getUserDetails() > \""
+      "offset": 4413,
+      "length": 20,
+      "value": "\"com.shelfwatch.api\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4441,
+      "length": 3,
+      "value": "400"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 5146,
+      "offset": 4484,
+      "length": 35,
+      "value": "\"User not found. Please try again!\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5458,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5540,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5604,
+      "length": 56,
+      "value": "\"ERROR FROM > getUser() > \""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 5659,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 5220,
+      "offset": 5729,
       "length": 39,
       "value": "\"ERROR : \""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 5258,
+      "offset": 5767,
+      "length": 3,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5853,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5880,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 7089,
+      "length": 63,
+      "value": "\"ERROR FROM > getUserDetails() > \""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 7151,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 7225,
+      "length": 39,
+      "value": "\"ERROR : \""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 7263,
       "length": 3,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 5678,
+      "offset": 7683,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 6015,
+      "offset": 8020,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 6256,
+      "offset": 8261,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 6265,
+      "offset": 8270,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 7187,
+      "offset": 9468,
       "length": 84,
       "value": "\"ml_models\/\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 7240,
+      "offset": 9521,
       "length": 1,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 7253,
+      "offset": 9534,
       "length": 1,
       "value": "\"\/ios\/single_model\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 7426,
+      "offset": 9719,
       "length": 19,
       "value": "\"Downloading Model\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 7473,
+      "offset": 9770,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 7539,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
-      "kind": "FloatLiteral",
-      "offset": 7969,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 8239,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 8425,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 8479,
+      "offset": 9844,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 8799,
+      "offset": 10032,
+      "length": 58,
+      "value": "\"[CORE ML] \""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 10089,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 10690,
+      "length": 72,
+      "value": "\"[DOWNLOADING JSON DATA] \""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 10761,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11116,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11302,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11356,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 11676,
       "length": 26,
       "value": "\"Fetching user details...\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 8879,
-      "length": 25,
-      "value": "\"Downloading ML Model...\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 8956,
+      "offset": 11756,
       "length": 22,
-      "value": "\"Compling ML Model...\""
+      "value": "\"Downloading Model...\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 9029,
+      "offset": 11830,
+      "length": 20,
+      "value": "\"Compiling Model...\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 11901,
       "length": 21,
       "value": "\"Downloading data...\""
     },
@@ -31237,219 +31687,226 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
       "kind": "StringLiteral",
-      "offset": 1240,
-      "length": 69,
-      "value": "\"[CORE_ML HELPER] ML_MODEL successfully compiled from local storage!\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
-      "kind": "StringLiteral",
-      "offset": 1355,
+      "offset": 1337,
       "length": 63,
       "value": "\"[CORE_ML HELPER] ML_MODEL compiled failed from local storage!\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
       "kind": "Array",
-      "offset": 1728,
+      "offset": 1710,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
       "kind": "StringLiteral",
-      "offset": 1800,
+      "offset": 1782,
       "length": 10,
       "value": "\".mlmodel\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
       "kind": "StringLiteral",
-      "offset": 1963,
+      "offset": 1945,
       "length": 68,
       "value": "\"[CORE_ML HELPER] ML_MODEL successfully fetched from local storage!\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
       "kind": "StringLiteral",
-      "offset": 2960,
+      "offset": 2942,
       "length": 3,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
       "kind": "StringLiteral",
-      "offset": 3175,
+      "offset": 3157,
       "length": 10,
       "value": "\".mlmodel\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
       "kind": "StringLiteral",
-      "offset": 3251,
+      "offset": 3233,
       "length": 59,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
       "kind": "StringLiteral",
-      "offset": 3289,
+      "offset": 3271,
       "length": 1,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
       "kind": "StringLiteral",
-      "offset": 3309,
+      "offset": 3291,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
       "kind": "StringLiteral",
-      "offset": 4360,
+      "offset": 4342,
       "length": 59,
       "value": "\"[CORE_ML HELPER] COREML MODEL WRITTEN AT PATH :: \""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
       "kind": "StringLiteral",
-      "offset": 4418,
+      "offset": 4400,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
       "kind": "StringLiteral",
-      "offset": 4531,
+      "offset": 4513,
       "length": 157,
       "value": "\"[CORE_ML HELPER] FAILED TO DOWNLOAD COREML MODEL AT STORAGE PATH (\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
       "kind": "StringLiteral",
-      "offset": 4612,
+      "offset": 4594,
       "length": 1,
       "value": "\") | LOCAL PATH :: \""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
       "kind": "StringLiteral",
-      "offset": 4646,
+      "offset": 4628,
       "length": 1,
       "value": "\" | ERROR :: \""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
       "kind": "StringLiteral",
-      "offset": 4687,
+      "offset": 4669,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
       "kind": "StringLiteral",
-      "offset": 4914,
+      "offset": 4896,
       "length": 33,
       "value": "\"Invalid CoreML model extension!\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
       "kind": "StringLiteral",
-      "offset": 5270,
+      "offset": 5252,
       "length": 8,
       "value": "\"CoreML\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 5286,
+      "offset": 5268,
       "length": 3,
       "value": "400"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
       "kind": "StringLiteral",
-      "offset": 5424,
+      "offset": 5406,
       "length": 29,
       "value": "\"CoreML directory not found!\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
       "kind": "StringLiteral",
-      "offset": 5756,
+      "offset": 5738,
       "length": 33,
       "value": "\"CoreML model not found at path!\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
       "kind": "StringLiteral",
-      "offset": 6020,
+      "offset": 6002,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
       "kind": "StringLiteral",
-      "offset": 6129,
+      "offset": 6111,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
       "kind": "Array",
-      "offset": 6335,
+      "offset": 6317,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
       "kind": "StringLiteral",
-      "offset": 6390,
+      "offset": 6372,
       "length": 10,
       "value": "\".mlmodel\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
       "kind": "StringLiteral",
-      "offset": 6503,
+      "offset": 6485,
       "length": 44,
       "value": "\"[CORE_ML HELPER] MODEL UPDATE NOT REQUIRED\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
       "kind": "StringLiteral",
-      "offset": 6622,
+      "offset": 6604,
       "length": 69,
       "value": "\"[CORE_ML HELPER] MODEL UPDATE REQUIRED FOR VERSION \""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
       "kind": "StringLiteral",
-      "offset": 6690,
+      "offset": 6672,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
       "kind": "StringLiteral",
-      "offset": 7475,
+      "offset": 7457,
       "length": 53,
       "value": "\"[CORE_ML HELPER] CORE ML FILE REMOVED SUCCESSFULLY!\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
       "kind": "StringLiteral",
-      "offset": 7574,
+      "offset": 7556,
       "length": 78,
       "value": "\"[CORE_ML HELPER] ERROR WHILE REMOVING MODEL :: \""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
       "kind": "StringLiteral",
-      "offset": 7651,
+      "offset": 7633,
       "length": 2,
       "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 8107,
+      "length": 69,
+      "value": "\"[CORE_ML HELPER] ML_MODEL successfully compiled from local storage!\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 8545,
+      "length": 69,
+      "value": "\"[CORE_ML HELPER] ML_MODEL successfully compiled from local storage!\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CoreMLHelper\/CoreMLStorageError.swift",
@@ -31678,91 +32135,84 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ShelfWatchCamera.swift",
       "kind": "Array",
-      "offset": 5667,
+      "offset": 5722,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ShelfWatchCamera.swift",
       "kind": "FloatLiteral",
-      "offset": 8630,
+      "offset": 8685,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ShelfWatchCamera.swift",
       "kind": "StringLiteral",
-      "offset": 9321,
+      "offset": 9376,
       "length": 49,
       "value": "\"[UNITY] Not able to create cgImage from UIImage\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ShelfWatchCamera.swift",
       "kind": "StringLiteral",
-      "offset": 9905,
+      "offset": 9960,
       "length": 29,
       "value": "\"[CORE ML MODEL] Not Found!!\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ShelfWatchCamera.swift",
       "kind": "BooleanLiteral",
-      "offset": 10765,
+      "offset": 10820,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ShelfWatchCamera.swift",
       "kind": "StringLiteral",
-      "offset": 11369,
-      "length": 21,
-      "value": "\"sample_data_success\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ShelfWatchCamera.swift",
-      "kind": "StringLiteral",
-      "offset": 11501,
+      "offset": 11662,
       "length": 38,
       "value": "\"\nNATIVE DETECTIONS :: \""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ShelfWatchCamera.swift",
       "kind": "StringLiteral",
-      "offset": 11538,
+      "offset": 11699,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ShelfWatchCamera.swift",
       "kind": "StringLiteral",
-      "offset": 12002,
+      "offset": 12163,
       "length": 55,
       "value": "\"\nSKU AVAILABILITY RESULT :: \""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ShelfWatchCamera.swift",
       "kind": "StringLiteral",
-      "offset": 12056,
+      "offset": 12217,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ShelfWatchCamera.swift",
       "kind": "StringLiteral",
-      "offset": 12270,
+      "offset": 12431,
       "length": 6,
       "value": "\"json\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ShelfWatchCamera.swift",
       "kind": "StringLiteral",
-      "offset": 12565,
+      "offset": 12726,
       "length": 46,
       "value": "\"Given JSON is not a valid dictionary object.\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ShelfWatchCamera.swift",
       "kind": "Array",
-      "offset": 12709,
+      "offset": 12870,
       "length": 5,
       "value": "[[]]"
     },
@@ -36032,147 +36482,147 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel+ARImageUpload.swift",
       "kind": "FloatLiteral",
-      "offset": 3082,
+      "offset": 3085,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel+ARImageUpload.swift",
       "kind": "StringLiteral",
-      "offset": 3112,
+      "offset": 3115,
       "length": 50,
       "value": "\"[AR IMAGE UPLOAD] Failed to prepare ARImage Data\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel+ARImageUpload.swift",
       "kind": "IntegerLiteral",
-      "offset": 3338,
+      "offset": 3341,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel+ARImageUpload.swift",
       "kind": "IntegerLiteral",
-      "offset": 3344,
+      "offset": 3347,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel+ARImageUpload.swift",
       "kind": "IntegerLiteral",
-      "offset": 3447,
+      "offset": 3450,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel+ARImageUpload.swift",
       "kind": "IntegerLiteral",
-      "offset": 3456,
+      "offset": 3459,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel+ARImageUpload.swift",
       "kind": "IntegerLiteral",
-      "offset": 3466,
+      "offset": 3469,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel+ARImageUpload.swift",
       "kind": "IntegerLiteral",
-      "offset": 3479,
+      "offset": 3482,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel+ARImageUpload.swift",
       "kind": "IntegerLiteral",
-      "offset": 3493,
+      "offset": 3496,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel+ARImageUpload.swift",
       "kind": "IntegerLiteral",
-      "offset": 3508,
+      "offset": 3511,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel+ARImageUpload.swift",
       "kind": "StringLiteral",
-      "offset": 3701,
+      "offset": 3704,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel+ARImageUpload.swift",
       "kind": "StringLiteral",
-      "offset": 3738,
+      "offset": 3741,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel+ARImageUpload.swift",
       "kind": "BooleanLiteral",
-      "offset": 3809,
+      "offset": 3812,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel+ARImageUpload.swift",
       "kind": "BooleanLiteral",
-      "offset": 3894,
+      "offset": 3897,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel+ARImageUpload.swift",
       "kind": "BooleanLiteral",
-      "offset": 3933,
+      "offset": 3936,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel+ARImageUpload.swift",
       "kind": "BooleanLiteral",
-      "offset": 4015,
+      "offset": 4018,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel+ARImageUpload.swift",
       "kind": "BooleanLiteral",
-      "offset": 4872,
+      "offset": 4875,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel+ARImageUpload.swift",
       "kind": "BooleanLiteral",
-      "offset": 5041,
+      "offset": 5044,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel+ARImageUpload.swift",
       "kind": "StringLiteral",
-      "offset": 5266,
+      "offset": 5269,
       "length": 56,
       "value": "\"IMAGE TO SUBMIT ON SERVER :: \""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel+ARImageUpload.swift",
       "kind": "StringLiteral",
-      "offset": 5318,
+      "offset": 5321,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel+ARImageUpload.swift",
       "kind": "StringLiteral",
-      "offset": 5321,
+      "offset": 5324,
       "length": 2,
       "value": "\"\""
     },
@@ -37369,56 +37819,63 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/OfflineKPI\/MasterData\/MasterDataChild\/CDMasterDataChild+CoreDataProperties.swift",
       "kind": "StringLiteral",
-      "offset": 348,
+      "offset": 341,
       "length": 19,
       "value": "\"CDMasterDataChild\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/OfflineKPI\/MasterData\/MasterDataChild\/CDMasterDataChild+CoreDataProperties.swift",
       "kind": "StringLiteral",
-      "offset": 1037,
+      "offset": 1159,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/OfflineKPI\/MasterData\/MasterDataChild\/CDMasterDataChild+CoreDataProperties.swift",
       "kind": "StringLiteral",
-      "offset": 1088,
+      "offset": 1210,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/OfflineKPI\/MasterData\/MasterDataChild\/CDMasterDataChild+CoreDataProperties.swift",
       "kind": "StringLiteral",
-      "offset": 1135,
+      "offset": 1360,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/OfflineKPI\/MasterData\/MasterDataChild\/CDMasterDataChild+CoreDataProperties.swift",
       "kind": "StringLiteral",
-      "offset": 1168,
+      "offset": 1401,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/OfflineKPI\/MasterData\/MasterDataChild\/CDMasterDataChild+CoreDataProperties.swift",
       "kind": "StringLiteral",
-      "offset": 1250,
+      "offset": 1442,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/OfflineKPI\/MasterData\/MasterDataChild\/CDMasterDataChild+CoreDataProperties.swift",
       "kind": "StringLiteral",
-      "offset": 1291,
+      "offset": 1487,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/OfflineKPI\/MasterData\/MasterDataChild\/CDMasterDataChild+CoreDataProperties.swift",
       "kind": "StringLiteral",
-      "offset": 1332,
+      "offset": 1528,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/OfflineKPI\/MasterData\/MasterDataChild\/CDMasterDataChild+CoreDataProperties.swift",
+      "kind": "StringLiteral",
+      "offset": 1575,
       "length": 2,
       "value": "\"\""
     },

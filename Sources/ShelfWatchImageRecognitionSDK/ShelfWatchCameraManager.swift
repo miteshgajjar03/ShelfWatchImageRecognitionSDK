@@ -205,17 +205,15 @@ extension ShelfWatchCameraManager {
     
     public func showInsightDashboadViewController(
         from viewController: UIViewController,
-        mergedImage: UIImage,
         jsonObjects: [[String: Any]],
         kpiAvailability: [String: Any]
     ) {
         
-        self.shelfWatchCamera.showInsightDashboadViewController(
-            from: viewController,
-            mergedImage: mergedImage,
-            jsonObjects: jsonObjects,
-            skuAvailability: kpiAvailability
-        )
+//        self.shelfWatchCamera.showInsightDashboadViewController(
+//            from: viewController,
+//            jsonObjects: jsonObjects,
+//            skuAvailability: kpiAvailability
+//        )
     }
     
     public func uploadARImage(mergedImage: UIImage, detections: [[String: Any]]) {
@@ -229,17 +227,29 @@ extension ShelfWatchCameraManager {
         )
     }
     
-    public func calculateKPI(mergedImage: UIImage, detectionJSON: [[String: Any]]) -> String {
+//    public func calculateKPI(mergedImage: UIImage, detectionJSON: [[String: Any]]) -> String {
+//        guard let config = self.config else { return "CONFIG NOT FOUND!" }
+//        print("UPLOAD PARAM SEND TO NATIVE FOR KPI :: \(config.uploadParams)")
+//        if
+//            let metaData = config.uploadParams["metadata"] as? [String : Any],
+//              let planogramName = metaData["planogram_name"] as? String 
+//        {
+//            print("PLANOGRAM NAME :: \(planogramName)")
+//        }
+//        
+//        let jsonString = self.shelfWatchCamera.getKPICalculationResult(uploadParams: config.uploadParams, mergedImage: mergedImage, detectionsJSON: detectionJSON)
+//        return jsonString
+//    }
+    
+    public func getKPIResult(mergedImage: UIImage, detectionJSON: [[String: Any]]) -> String {
         guard let config = self.config else { return "CONFIG NOT FOUND!" }
-        print("UPLOAD PARAM SEND TO NATIVE FOR KPI :: \(config.uploadParams)")
-        if
-            let metaData = config.uploadParams["metadata"] as? [String : Any],
-              let planogramName = metaData["planogram_name"] as? String 
-        {
-            print("PLANOGRAM NAME :: \(planogramName)")
-        }
         
-        let jsonString = self.shelfWatchCamera.getKPICalculationResult(uploadParams: config.uploadParams, mergedImage: mergedImage, detectionsJSON: detectionJSON)
+        let jsonString = self.shelfWatchCamera.getKPIResults(
+            mergedImage: mergedImage,
+            uploadParams: config.uploadParams,
+            detectionsJSON: detectionJSON
+        )
+        
         return jsonString
     }
 }

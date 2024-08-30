@@ -1,569 +1,532 @@
 [
     {
-        "label": "10,5 CN500 4 Pack Can",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "ASAHI SUPER DRY NR330 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "CAPTAIN JACK BLUE LAGOON NR400 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "CAPTAIN JACK CUBA LIBRE NR400 Bottle New",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "CAPTAIN JACK CUBA LIBRE NR400 Bottle Old",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "CAPTAIN JACK DAIQUIRI NR400 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "CAPTAIN JACK JACK ON THE BEACH NRB400",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "CAPTAIN JACK MANGO DAIQUIRI NRB400",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "CAPTAIN JACK MOJITO NR400 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "CAPTAIN JACK ORIGINAL NR400 Bottle New",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "CAPTAIN JACK ORIGINAL NR400 Bottle Old",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "CAPTAIN JACK PARTY LIME NR400 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "CAPTAIN JACK PIRATE ORANGE NR400 Bottle New",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "CAPTAIN JACK PIRATE ORANGE NR400 Bottle Old",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "DEBOWE DOJRZALE MOCNE CN500 4 Pack Can",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "DEBOWE DOJRZALE MOCNE CN500 Can",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "DEBOWE DOJRZALE MOCNE RB500 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "GROLSCH CN500 4 Pack Can",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "GROLSCH CN500 Can",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "GROLSCH NR330 6 Pack Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "GROLSCH NR330 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "GROLSCH NR450 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "HARDMADE BLACKBERRY VANILLA NR400",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "HARDMADE BLUEBERRY ICE TEA CRUSH NR400 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "HARDMADE CITRUS ICE TEA CRUSH 0.0 NR400",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "HARDMADE EXOTIC KUMKWAT NR400",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "HARDMADE GRAPEFRUIT CRUSH NR400 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "HARDMADE PASSIONFRUIT Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "HARDMADE PEACH ICE TEA CRUSH NR400 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "HARDMADE PEAR NR400 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "HARDMADE RASPBERRY CRUSH NR400 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "HARDMADE RASPBERRY CRUSH NR400 New",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "HARDMADE RHUBARB 0.0 NR400 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "HARDMADE STRAWBERRY 0.0 NR400 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "HARDMADE STRAWBERRY CRUSH 0.0 NR400 New",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "HARDMADE YUZU CRUSH NR400 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "HARDMADE YUZU NRB400 New",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "KOZEL BILY LEHKY 4-PAK P500",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "KOZEL BILY LEHKY P500",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "KOZEL BILY LEHKY RB500",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "KSIAZECE CHERRY ALE RB500 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "KSIAZECE CIEMNE LAGODNE RB500 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "KSIAZECE CZERWONY LAGER CN500 4 Pack Can",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "KSIAZECE CZERWONY LAGER CN500 Can",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "KSIAZECE CZERWONY LAGER RB500 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "KSIAZECE IPA 0.0 RB500 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "KSIAZECE IPA CN500 4 Pack Can",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "KSIAZECE IPA CN500 Can",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "KSIAZECE IPA RB500 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "KSIAZECE PORTER RB500 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "KSIAZECE ZLOTE PSZENICZNE 0.0 RB500 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "KSIAZECE ZLOTE PSZENICZNE CN500 4 Pack Can",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "KSIAZECE ZLOTE PSZENICZNE CN500 Can",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "KSIAZECE ZLOTE PSZENICZNE RB500 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "LECH 0.0 FIT LOW SUGAR GRAPEFRUIT 4-PAK P500",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "LECH 0.0 FIT LOW SUGAR GRAPEFRUIT P500",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "LECH 0.0 FIT LOW SUGAR GRAPEFRUIT RB500",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "LECH EASY CN500 4 Pack Can",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "LECH EASY CN500 Can",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "LECH EASY NR330 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "LECH EASY NR450 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "LECH ZERO ALCOHOL CN500 4 Pack Can",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "LECH ZERO ALCOHOL CN500 Can",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "LECH ZERO ALCOHOL NR330 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "LECH ZERO ALCOHOL NR450 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "PILSNER URQUELL 0.0 CN500 4 Pack Can",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "PILSNER URQUELL 0.0 CN500 Can",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "PILSNER URQUELL 0.0 NR330 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "PILSNER URQUELL 0.0 NR450 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "PILSNER URQUELL CN500 4 Pack Can",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "PILSNER URQUELL CN500 Can",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "PILSNER URQUELL NR330 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "PILSNER URQUELL NR450 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "STAROPRAMEN 0.0 CN500 4 Pack Can",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "STAROPRAMEN 0.0 CN500 Can",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "STAROPRAMEN 0.0 NR330 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "STAROPRAMEN 0.0 NR450 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "STAROPRAMEN CN500 4 Pack Can",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "STAROPRAMEN CN500 Can",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "STAROPRAMEN NR330 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
-    },
-    {
-        "label": "STAROPRAMEN NR450 Bottle",
-        "x": 438.330078125,
-        "y": 834.92822265625,
-        "width": 25.68359375,
-        "height": 76.7732925415039
+      "label": "ZUBR Can",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 531.6162109375,
+        "y": 1544.4185791015625,
+        "width": 42.236328125,
+        "height": 109.8193359375
+      }
+    },
+    {
+      "label": "ZUBR Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 550.4150390625,
+        "y": 1319.625,
+        "width": 41.357425689697269,
+        "height": 172.12501525878907
+      }
+    },
+    {
+      "label": "ZUBR Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 595.5078125,
+        "y": 1318.2802734375,
+        "width": 31.640628814697267,
+        "height": 165.849609375
+      }
+    },
+    {
+      "label": "ZUBR Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 632.6660766601563,
+        "y": 1319.569091796875,
+        "width": 42.48046875,
+        "height": 172.237060546875
+      }
+    },
+    {
+      "label": "LECH PILS Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 133.6669921875,
+        "y": 1315.030517578125,
+        "width": 41.845706939697269,
+        "height": 172.34912109375
+      }
+    },
+    {
+      "label": "ZUBR Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 652.7587890625,
+        "y": 1077.070068359375,
+        "width": 49.951171875,
+        "height": 187.477294921875
+      }
+    },
+    {
+      "label": "LECH PILS Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 130.61524963378907,
+        "y": 1067.7127685546875,
+        "width": 45.21484375,
+        "height": 195.43360900878907
+      }
+    },
+    {
+      "label": "Others",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 234.36279296875,
+        "y": 1073.76416015625,
+        "width": 42.211917877197269,
+        "height": 186.9169921875
+      }
+    },
+    {
+      "label": "ZUBR Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 678.8696899414063,
+        "y": 1318.5604248046875,
+        "width": 36.0107421875,
+        "height": 167.08229064941407
+      }
+    },
+    {
+      "label": "ZUBR Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 820.9718017578125,
+        "y": 1080.1514892578125,
+        "width": 50.244140625,
+        "height": 188.48583984375
+      }
+    },
+    {
+      "label": "LECH PILS Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 181.7138671875,
+        "y": 1066.7042236328125,
+        "width": 44.384765625,
+        "height": 197.45068359375
+      }
+    },
+    {
+      "label": "Others",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 661.8286743164063,
+        "y": 541.8687744140625,
+        "width": 48.2177734375,
+        "height": 200.028076171875
+      }
+    },
+    {
+      "label": "ZUBR Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 717.05322265625,
+        "y": 1081.7764892578125,
+        "width": 44.7998046875,
+        "height": 183.443115234375
+      }
+    },
+    {
+      "label": "ZUBR Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 768.06640625,
+        "y": 1082.1688232421875,
+        "width": 45.8984375,
+        "height": 184.45167541503907
+      }
+    },
+    {
+      "label": "WOJAK JASNE Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 772.9126586914063,
+        "y": 1328.58984375,
+        "width": 40.1123046875,
+        "height": 164.953125
+      }
+    },
+    {
+      "label": "ZUBR Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 597.7417602539063,
+        "y": 1077.9664306640625,
+        "width": 46.7041015625,
+        "height": 185.684326171875
+      }
+    },
+    {
+      "label": "WOJAK JASNE Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 819.8486328125,
+        "y": 1329.654296875,
+        "width": 47.802734375,
+        "height": 173.58180236816407
+      }
+    },
+    {
+      "label": "TYSKIE GRONIE Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 431.494140625,
+        "y": 1067.6009521484375,
+        "width": 25.29296875,
+        "height": 195.65773010253907
+      }
+    },
+    {
+      "label": "Others",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 271.8017883300781,
+        "y": 811.430419921875,
+        "width": 46.240238189697269,
+        "height": 199.69189453125
+      }
+    },
+    {
+      "label": "LECH PILS 4 Pack Can",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 144.70213317871095,
+        "y": 1534.585205078125,
+        "width": 92.82227325439453,
+        "height": 93.62659454345703
+      }
+    },
+    {
+      "label": "Others",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 164.9658203125,
+        "y": 801.0087890625,
+        "width": 45.849609375,
+        "height": 207.087890625
+      }
+    },
+    {
+      "label": "Others",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 232.77587890625,
+        "y": 1313.461669921875,
+        "width": 40.307621002197269,
+        "height": 171.90089416503907
+      }
+    },
+    {
+      "label": "ZUBR Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 722.1558227539063,
+        "y": 1322.98681640625,
+        "width": 44.7509765625,
+        "height": 174.36622619628907
+      }
+    },
+    {
+      "label": "Others",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 345.068359375,
+        "y": 1316.599365234375,
+        "width": 42.67578125,
+        "height": 171.00440979003907
+      }
+    },
+    {
+      "label": "Others",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 281.6650695800781,
+        "y": 1072.5875244140625,
+        "width": 39.794921875,
+        "height": 192.85621643066407
+      }
+    },
+    {
+      "label": "Others",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 377.4902038574219,
+        "y": 814.287841796875,
+        "width": 40.72265625,
+        "height": 197.562744140625
+      }
+    },
+    {
+      "label": "Others",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 560.986328125,
+        "y": 529.093994140625,
+        "width": 44.43359375,
+        "height": 220.198974609375
+      }
+    },
+    {
+      "label": "Others",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 324.1699523925781,
+        "y": 813.6156005859375,
+        "width": 46.972660064697269,
+        "height": 198.907470703125
+      }
+    },
+    {
+      "label": "Others",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 357.58056640625,
+        "y": 535.7615966796875,
+        "width": 48.9013671875,
+        "height": 205.07080078125
+      }
+    },
+    {
+      "label": "ZUBR 4 Pack Can",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 581.0302124023438,
+        "y": 1549.6011962890625,
+        "width": 77.783203125,
+        "height": 95.86780548095703
+      }
+    },
+    {
+      "label": "VELKOPOPOVICKY KOZEL CERNY 4 Pack Can",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 593.4326171875,
+        "y": 828.4075927734375,
+        "width": 78.759765625,
+        "height": 189.942626953125
+      }
+    },
+    {
+      "label": "Others",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 611.03515625,
+        "y": 537.778564453125,
+        "width": 47.460941314697269,
+        "height": 201.93310546875
+      }
+    },
+    {
+      "label": "Others",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 333.53271484375,
+        "y": 1067.6009521484375,
+        "width": 40.3564453125,
+        "height": 195.65773010253907
+      }
+    },
+    {
+      "label": "LECH FREE Can",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 141.162109375,
+        "y": 607.984375,
+        "width": 45.21484375,
+        "height": 106.345458984375
+      }
+    },
+    {
+      "label": "Others",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 714.6240844726563,
+        "y": 538.002685546875,
+        "width": 52.001953125,
+        "height": 199.69189453125
+      }
+    },
+    {
+      "label": "Others",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 293.2861633300781,
+        "y": 1313.293701171875,
+        "width": 40.380863189697269,
+        "height": 163.272216796875
+      }
+    },
+    {
+      "label": "Others",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 385.7666320800781,
+        "y": 1068.8895263671875,
+        "width": 38.623046875,
+        "height": 193.080322265625
+      }
+    },
+    {
+      "label": "Others",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 429.4921875,
+        "y": 812.102783203125,
+        "width": 26.171875,
+        "height": 200.14015197753907
+      }
+    },
+    {
+      "label": "Others",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 249.12109375,
+        "y": 591.9598388671875,
+        "width": 48.6328125,
+        "height": 138.394775390625
+      }
+    },
+    {
+      "label": "Others",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 303.1250305175781,
+        "y": 538.5069580078125,
+        "width": 50.390625,
+        "height": 187.925537109375
+      }
+    },
+    {
+      "label": "ZUBR Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 544.1895141601563,
+        "y": 1077.742431640625,
+        "width": 47.55859375,
+        "height": 186.13258361816407
+      }
+    },
+    {
+      "label": "DEBOWE DOJRZALE MOCNE 4 Pack Can",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 817.6513671875,
+        "y": 1558.201904296875,
+        "width": 50.634765625,
+        "height": 101.97509765625
+      }
+    },
+    {
+      "label": "Others",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 692.39501953125,
+        "y": 826.894775390625,
+        "width": 44.897464752197269,
+        "height": 182.21046447753907
+      }
+    },
+    {
+      "label": "LECH PILS Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 183.82568359375,
+        "y": 1310.996337890625,
+        "width": 41.3330078125,
+        "height": 175.03857421875
+      }
+    },
+    {
+      "label": "Others",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 217.95654296875,
+        "y": 802.57763671875,
+        "width": 46.899417877197269,
+        "height": 203.9501953125
+      }
+    },
+    {
+      "label": "LECH PILS 4 Pack Can",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 253.515625,
+        "y": 1536.378173828125,
+        "width": 89.453125,
+        "height": 90.0406494140625
+      }
+    },
+    {
+      "label": "LECH EASY Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 114.02587890625,
+        "y": 831.7694091796875,
+        "width": 47.338871002197269,
+        "height": 183.218994140625
+      }
+    },
+    {
+      "label": "Others",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 745.3978881835938,
+        "y": 827.567138671875,
+        "width": 48.2666015625,
+        "height": 188.03759765625
+      }
+    },
+    {
+      "label": "TYSKIE 0.0 Can",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 195.05615234375,
+        "y": 552.346435546875,
+        "width": 49.340824127197269,
+        "height": 165.62548828125
+      }
+    },
+    {
+      "label": "Others",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 771.49658203125,
+        "y": 538.56298828125,
+        "width": 48.4130859375,
+        "height": 198.5712890625
+      }
+    },
+    {
+      "label": "TYSKIE GRONIE Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 403.99169921875,
+        "y": 1315.5908203125,
+        "width": 39.6728515625,
+        "height": 171.228515625
+      }
+    },
+    {
+      "label": "Others",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 411.4990234375,
+        "y": 537.2742919921875,
+        "width": 41.064453125,
+        "height": 206.527587890625
+      }
+    },
+    {
+      "label": "Others",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 543.46923828125,
+        "y": 818.3221435546875,
+        "width": 43.5302734375,
+        "height": 193.97682189941407
+      }
     }
 ]

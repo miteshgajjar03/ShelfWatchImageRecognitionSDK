@@ -90,11 +90,11 @@
 		</data>
 		<key>Asahi.mlmodelc/coremldata.bin</key>
 		<data>
-		MqDlRuAWXiKt++9lu8h6Sm2/wC4=
+		VKgIvQMgyHdPEvk7EhKQB4f7x7E=
 		</data>
 		<key>Asahi.mlmodelc/metadata.json</key>
 		<data>
-		yUduZM7VSiLi/PCHtw+S0eOtlvU=
+		sWWhsl7lBx+xVX9HA0xBC/LopqU=
 		</data>
 		<key>Asahi.mlmodelc/model0/analytics/coremldata.bin</key>
 		<data>
@@ -230,11 +230,11 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		3blGCS7zt4fXqdxBX3sU6Ps8tLA=
+		Xw/APeXFcrurTsVGiYdBQNYtWHU=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		21rxJ1T+qKe9cwnJbjzTrWKZxbU=
+		yEOz0kzigF10TDBNueY2Ktaya0w=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -242,11 +242,11 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		21rxJ1T+qKe9cwnJbjzTrWKZxbU=
+		yEOz0kzigF10TDBNueY2Ktaya0w=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		24BsA8eWOmOZSwE5XM/ODcDLcEk=
+		OPnDxVO64grQST9kykcYTYR2elA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -289,10 +289,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>class_attributes.json</key>
-		<data>
-		t5n/Ug169LtqH2V5z0S+XTiOAoE=
-		</data>
 		<key>en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
@@ -339,7 +335,7 @@
 		</data>
 		<key>mars_mt.mlmodelc/coremldata.bin</key>
 		<data>
-		DHNA5GgJTi5BCMRFwuWIgreasRQ=
+		MojFRoG6Tqz2U9kxCg3JBtwckVU=
 		</data>
 		<key>mars_mt.mlmodelc/metadata.json</key>
 		<data>
@@ -401,7 +397,7 @@
 		</data>
 		<key>sample_data_success.json</key>
 		<data>
-		UmKXig431UYjXRXQbLyM2R6+If8=
+		qP+DwiTpyiqUOLr/rI0OhGdK0gs=
 		</data>
 		<key>sk.lproj/Localizable.strings</key>
 		<dict>
@@ -596,14 +592,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/0ExS3AA38SCE5BoDXwEQQPNuOOudYWn7Y8uER/uLUU=
+			8JUsbKWi1RJ1oVKfjqz77WuWBvW45y5VTh4r9vRUfg8=
 			</data>
 		</dict>
 		<key>Asahi.mlmodelc/metadata.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YOAfo43Jg59WKHI3w1YqUVz90kba1aTKE0JeI2lUve8=
+			KJ60AmzPxSw6Lmez7cy9FAVFUIe1IsrvvtwH/WA947E=
 			</data>
 		</dict>
 		<key>Asahi.mlmodelc/model0/analytics/coremldata.bin</key>
@@ -834,14 +830,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PQx1AD0erIwjskyMihOIAZK0n86YqD9ycsBwrILyKv8=
+			NtqihefHEYWoJS6FNUcAVu+BF4rydnhcLUQvvzK/5cs=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CsDeM7xJH2BEivaIA48Bn5UpTJJLa9im3MoG3am5iQI=
+			vOoydPlZCsbIpFLEipMLH6fkLA3VD6FafWey7PiyrO4=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -855,14 +851,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CsDeM7xJH2BEivaIA48Bn5UpTJJLa9im3MoG3am5iQI=
+			vOoydPlZCsbIpFLEipMLH6fkLA3VD6FafWey7PiyrO4=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u5JVsofWKmkfhvC+njBpAmKADELIPLnf0AuLmUCMD0Y=
+			h+rXRZ50SDlw4kwNlG9nrnZA/eisrFCKpdHdArC1YKs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -930,13 +926,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>class_attributes.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			z+7Rxvhdn+UNBgXoFigHrtyU1V3kJvwq37J63O6uJi8=
-			</data>
-		</dict>
 		<key>en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -991,7 +980,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+POeedvO6QyO3r+BcBYpao2YLj+WY73QMHGIh2hwfyw=
+			hv3bSN/lb3qAm55pj6z2Jp8g3Y+IRSG0Sohte2Z0YR4=
 			</data>
 		</dict>
 		<key>mars_mt.mlmodelc/metadata.json</key>
@@ -1086,7 +1075,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oQxB+fq3LUgJ2SLM8UET6WUdvgnAE7ktvEURMA1j52k=
+			VdGO8zG+f4anw4BEbAjNyTmGh8RNoVM4pu3u6Qsylnc=
 			</data>
 		</dict>
 		<key>sk.lproj/Localizable.strings</key>

@@ -389,7 +389,7 @@ public protocol ImageUploadDelegate : AnyObject {
   func didReceiveBatchUpload(result: ShelfWatchImageRecognitionFramework.BatchUploadResult)
   func didCloseCameraSDK()
   func onUploadImagePressed(uploadImageEventMeta: ShelfWatchImageRecognitionFramework.UploadImageEventMeta)
-  func downloadDataProgress(progressMeta: ShelfWatchImageRecognitionFramework.DownloadProgressMeta)
+  func downloadDataProgress(progressMeta: ShelfWatchImageRecognitionFramework.DownloadProgressMeta, sendUpdates: Swift.Bool)
 }
 public enum BatchUploadResult {
   case didReceiveBatches(batches: [ShelfWatchImageRecognitionFramework.ImageBatch])

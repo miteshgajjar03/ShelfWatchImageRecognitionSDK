@@ -136,7 +136,9 @@ extension ShelfWatchCameraManager: ImageUploadDelegate {
         self.delegate?.didImageUploadButtonPressed(uploadEventMeta: uploadEventMeta)
     }
     
-    public func downloadDataProgress(progressMeta: DownloadProgressMeta) {
+    public func downloadDataProgress(progressMeta: DownloadProgressMeta, sendUpdates: Bool) {
+        
+        guard sendUpdates else { return }
         
         let downloadMeta = DownloadMeta(
             title: progressMeta.title,

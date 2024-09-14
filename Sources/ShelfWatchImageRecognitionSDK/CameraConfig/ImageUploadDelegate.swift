@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import ShelfWatchImageRecognitionFramework
 
 // MARK: ShelfWatch Protocol
 
@@ -18,6 +19,8 @@ public protocol ShelfWatchDelegate: AnyObject {
     func didImageUploadButtonPressed(uploadEventMeta: UploadEventMeta)
     
     func downloadDataProgress(downloadMeta: DownloadMeta)
+    
+    func didReceivePendingARData(data: ARPendingData)
 }
 
 // MARK: - Protocol Result

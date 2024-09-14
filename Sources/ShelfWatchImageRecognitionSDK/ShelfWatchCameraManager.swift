@@ -50,6 +50,9 @@ extension ShelfWatchCameraManager {
     
     public func setupConfig(config: CameraConfig) {
         self.config = config
+        
+        let cameraConfig = self.prepareCameraConfiguration(from: config)
+        self.shelfWatchCamera.setupCamera(configuration: cameraConfig)
     }
     
     private func prepareCameraConfiguration(from config: CameraConfig) -> CameraConfiguration {
@@ -149,6 +152,10 @@ extension ShelfWatchCameraManager: ImageUploadDelegate {
         )
         self.delegate?.downloadDataProgress(downloadMeta: downloadMeta)
     }
+    
+    public func didReceivePendingARData(item: ARPendingData) {
+        
+    }
 }
 
 // MARK: - Receive Event From React Native
@@ -218,31 +225,6 @@ extension ShelfWatchCameraManager {
 //        )
     }
     
-    public func uploadARImage(mergedImage: UIImage, detections: [[String: Any]]) {
-        
-        guard let config = self.config else { return }
-        let cameraConfiguration = self.prepareCameraConfiguration(from: config)
-        self.shelfWatchCamera.uploadARImage(
-            config: cameraConfiguration,
-            mergedImage: mergedImage,
-            detectionJSON: detections
-        )
-    }
-    
-//    public func calculateKPI(mergedImage: UIImage, detectionJSON: [[String: Any]]) -> String {
-//        guard let config = self.config else { return "CONFIG NOT FOUND!" }
-//        print("UPLOAD PARAM SEND TO NATIVE FOR KPI :: \(config.uploadParams)")
-//        if
-//            let metaData = config.uploadParams["metadata"] as? [String : Any],
-//              let planogramName = metaData["planogram_name"] as? String 
-//        {
-//            print("PLANOGRAM NAME :: \(planogramName)")
-//        }
-//        
-//        let jsonString = self.shelfWatchCamera.getKPICalculationResult(uploadParams: config.uploadParams, mergedImage: mergedImage, detectionsJSON: detectionJSON)
-//        return jsonString
-//    }
-    
     public func getKPIResult(mergedImage: UIImage, detectionJSON: [[String: Any]]) -> String {
         guard let config = self.config else { return "CONFIG NOT FOUND!" }
         
@@ -253,5 +235,13 @@ extension ShelfWatchCameraManager {
         )
         
         return jsonString
+    }
+    
+    public func uploadARData(shopId: Int, categoryId: Int, visitDate: String) {
+        self.shelfWatchCamera.uploadARData(shopId: shopId, categoryId: categoryId, visitDate: visitDate)
+    }
+    
+    public func getPendingARData() -> ARPendingData {
+        return self.shelfWatchCamera.getPendingARData()
     }
 }

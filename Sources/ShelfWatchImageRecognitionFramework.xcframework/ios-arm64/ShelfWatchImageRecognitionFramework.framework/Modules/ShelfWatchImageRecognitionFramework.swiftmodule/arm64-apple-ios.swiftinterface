@@ -355,7 +355,7 @@ extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
   public func showInsightDashboadViewController(from viewController: UIKit.UIViewController, jsonObjects: [[Swift.String : Any]], skuAvailability: [Swift.String : Any])
 }
 extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
-  public func getKPIResults(mergedImage: UIKit.UIImage, uploadParams: [Swift.String : Any], detectionsJSON: [[Swift.String : Any]]) -> Swift.String
+  public func getKPIResults(mergedImage: UIKit.UIImage, uploadParams: [Swift.String : Any], detectionsJSON: [[Swift.String : Any]], completion: @escaping ((_ kpiJson: Swift.String) -> Swift.Void))
 }
 extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
   public func uploadARData(shopId: Swift.Int, categoryId: Swift.Int, visitDate: Swift.String)

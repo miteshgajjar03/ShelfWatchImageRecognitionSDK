@@ -225,16 +225,15 @@ extension ShelfWatchCameraManager {
 //        )
     }
     
-    public func getKPIResult(mergedImage: UIImage, detectionJSON: [[String: Any]]) -> String {
-        guard let config = self.config else { return "CONFIG NOT FOUND!" }
+    public func getKPIResult(mergedImage: UIImage, detectionJSON: [[String: Any]], completion: @escaping ((_ kpiJSONString: String) -> Void)) {
+        guard let config = self.config else { fatalError("CONFIG NOT FOUND!") }
         
-        let jsonString = self.shelfWatchCamera.getKPIResults(
+        self.shelfWatchCamera.getKPIResults(
             mergedImage: mergedImage,
             uploadParams: config.uploadParams,
-            detectionsJSON: detectionJSON
+            detectionsJSON: detectionJSON,
+            completion: completion
         )
-        
-        return jsonString
     }
     
     public func uploadARData(shopId: Int, categoryId: Int, visitDate: String) {

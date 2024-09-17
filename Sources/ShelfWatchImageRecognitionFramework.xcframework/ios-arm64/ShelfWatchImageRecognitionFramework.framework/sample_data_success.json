@@ -1,552 +1,762 @@
 [
     {
-      "label": "LECH FREE Can",
+      "label": "CAPTAIN JACK BLUE LAGOON Bottle",
       "boundingBox": {
         "serializedVersion": "2",
-        "x": 725.7324829101563,
-        "y": 763.067138671875,
-        "width": 46.972660064697269,
-        "height": 146.22227478027345
-      }
-    },
-    {
-      "label": "LECH PREMIUM Bottle",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 381.8603820800781,
-        "y": 1428.935546875,
-        "width": 39.404300689697269,
-        "height": 161.47393798828126
-      }
-    },
-    {
-      "label": "LECH PREMIUM Can",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 362.3779602050781,
-        "y": 1639.614013671875,
-        "width": 40.478515625,
-        "height": 117.7767105102539
-      }
-    },
-    {
-      "label": "LECH PREMIUM Can",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 317.29736328125,
-        "y": 1641.30859375,
-        "width": 40.4052734375,
-        "height": 116.32416534423828
-      }
-    },
-    {
-      "label": "Others",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 592.8589477539063,
-        "y": 969.50927734375,
-        "width": 40.8447265625,
-        "height": 183.62513732910157
-      }
-    },
-    {
-      "label": "TYSKIE GRONIE 4 Pack Can",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 408.935546875,
-        "y": 1639.583740234375,
-        "width": 79.78516387939453,
-        "height": 121.7106704711914
-      }
-    },
-    {
-      "label": "TYSKIE GRONIE 4 Pack Can",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 536.328125,
-        "y": 1637.58642578125,
-        "width": 82.81250762939453,
-        "height": 119.8949966430664
-      }
-    },
-    {
-      "label": "TYSKIE 0.0 Can",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 779.11376953125,
-        "y": 763.1278686523438,
-        "width": 49.584964752197269,
-        "height": 144.1645050048828
-      }
-    },
-    {
-      "label": "LECH PREMIUM Bottle",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 396.38671875,
-        "y": 1208.3914794921875,
-        "width": 35.3515625,
-        "height": 176.48350524902345
-      }
-    },
-    {
-      "label": "ZUBR Bottle",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 723.9501953125,
-        "y": 1212.325439453125,
-        "width": 45.068363189697269,
-        "height": 178.29917907714845
-      }
-    },
-    {
-      "label": "ZUBR 4 Pack Can",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 677.6611328125,
-        "y": 1650.1751708984375,
-        "width": 80.61524200439453,
-        "height": 117.95828247070313
-      }
-    },
-    {
-      "label": "TYSKIE GRONIE Bottle",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 437.158203125,
-        "y": 1213.8385009765625,
-        "width": 40.52734375,
-        "height": 175.27305603027345
-      }
-    },
-    {
-      "label": "TYSKIE GRONIE Bottle",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 428.06396484375,
-        "y": 1434.019287109375,
-        "width": 38.4033203125,
-        "height": 155.17958068847657
+        "x": 419.8327941894531,
+        "y": 576.612060546875,
+        "width": 23.55427360534668,
+        "height": 143.4045867919922
       }
     },
     {
       "label": "LECH PILS 4 Pack Can",
       "boundingBox": {
         "serializedVersion": "2",
-        "x": 188.45213317871095,
-        "y": 1640.552001953125,
-        "width": 80.51758575439453,
-        "height": 121.7106704711914
-      }
-    },
-    {
-      "label": "ZUBR Bottle",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 623.4985961914063,
-        "y": 1214.2623291015625,
-        "width": 42.0654296875,
-        "height": 178.29917907714845
-      }
-    },
-    {
-      "label": "Others",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 738.8794555664063,
-        "y": 965.3934936523438,
-        "width": 46.4599609375,
-        "height": 189.91949462890626
-      }
-    },
-    {
-      "label": "Others",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 690.869140625,
-        "y": 966.8463134765625,
-        "width": 42.48046875,
-        "height": 187.014404296875
-      }
-    },
-    {
-      "label": "ZUBR Bottle",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 577.44140625,
-        "y": 1217.4698486328125,
-        "width": 40.429691314697269,
-        "height": 175.75721740722657
-      }
-    },
-    {
-      "label": "Others",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 677.734375,
-        "y": 717.79638671875,
-        "width": 35.9375,
-        "height": 190.28260803222657
-      }
-    },
-    {
-      "label": "TYSKIE GRONIE Bottle",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 533.8989868164063,
-        "y": 1437.226806640625,
-        "width": 28.2958984375,
-        "height": 156.51109313964845
-      }
-    },
-    {
-      "label": "LECH PREMIUM Bottle",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 345.80078125,
-        "y": 1209.1783447265625,
-        "width": 36.1328125,
-        "height": 174.909912109375
-      }
-    },
-    {
-      "label": "TYSKIE GRONIE Bottle",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 482.60504150390627,
-        "y": 1213.2332763671875,
-        "width": 28.5400390625,
-        "height": 176.48350524902345
-      }
-    },
-    {
-      "label": "LECH PREMIUM Bottle",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 294.15283203125,
-        "y": 1210.872802734375,
-        "width": 41.3818359375,
-        "height": 179.2675323486328
-      }
-    },
-    {
-      "label": "Others",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 391.7114562988281,
-        "y": 974.16943359375,
-        "width": 35.3271484375,
-        "height": 180.11485290527345
+        "x": 238.3839874267578,
+        "y": 1228.6075439453125,
+        "width": 58.01900100708008,
+        "height": 65.4306869506836
       }
     },
     {
       "label": "LECH PREMIUM Can",
       "boundingBox": {
         "serializedVersion": "2",
-        "x": 277.2949523925781,
-        "y": 1638.403564453125,
-        "width": 36.81640625,
-        "height": 118.26089477539063
+        "x": 291.5340270996094,
+        "y": 761.2460327148438,
+        "width": 28.681795120239259,
+        "height": 85.17874908447266
+      }
+    },
+    {
+      "label": "TYSKIE GRONIE Can",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 360.3048095703125,
+        "y": 765.3790283203125,
+        "width": 34.9847412109375,
+        "height": 85.14495849609375
+      }
+    },
+    {
+      "label": "LECH PILS Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 178.57656860351563,
+        "y": 870.770263671875,
+        "width": 30.385498046875,
+        "height": 117.88072967529297
+      }
+    },
+    {
+      "label": "KSIAZECE ZLOTE PSZENICZNE Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 524.7718505859375,
+        "y": 581.1078491210938,
+        "width": 35.6917610168457,
+        "height": 140.65740966796876
+      }
+    },
+    {
+      "label": "LECH FREE LIMONKA Z MIETA Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 408.87322998046877,
+        "y": 357.2471923828125,
+        "width": 34.78607177734375,
+        "height": 165.18817138671876
+      }
+    },
+    {
+      "label": "ZUBR Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 706.4174194335938,
+        "y": 1061.0491943359375,
+        "width": 35.30916976928711,
+        "height": 112.63404846191406
       }
     },
     {
       "label": "LECH PREMIUM Bottle",
       "boundingBox": {
         "serializedVersion": "2",
-        "x": 333.7279968261719,
-        "y": 1430.4483642578125,
-        "width": 39.575199127197269,
-        "height": 156.51109313964845
+        "x": 233.69351196289063,
+        "y": 874.9511108398438,
+        "width": 28.03934097290039,
+        "height": 120.62723541259766
       }
     },
     {
-      "label": "TYSKIE GRONIE Bottle",
+      "label": "LECH PILS Bottle",
       "boundingBox": {
         "serializedVersion": "2",
-        "x": 538.3179321289063,
-        "y": 1213.7779541015625,
-        "width": 31.958011627197267,
-        "height": 177.330810546875
+        "x": 205.3152618408203,
+        "y": 1025.741943359375,
+        "width": 30.553359985351564,
+        "height": 113.18386840820313
       }
     },
     {
-      "label": "TYSKIE GRONIE Bottle",
+      "label": "ZUBR Can",
       "boundingBox": {
         "serializedVersion": "2",
-        "x": 471.37451171875,
-        "y": 1435.8955078125,
-        "width": 36.157230377197269,
-        "height": 157.23736572265626
-      }
-    },
-    {
-      "label": "Others",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 646.1548461914063,
-        "y": 965.8779296875,
-        "width": 38.1591796875,
-        "height": 187.014404296875
+        "x": 596.5825805664063,
+        "y": 776.8207397460938,
+        "width": 42.04692840576172,
+        "height": 86.65187072753906
       }
     },
     {
       "label": "ZUBR 4 Pack Can",
       "boundingBox": {
         "serializedVersion": "2",
-        "x": 628.91845703125,
-        "y": 1644.5465087890625,
-        "width": 41.3818359375,
-        "height": 105.9748306274414
+        "x": 530.1990356445313,
+        "y": 772.490966796875,
+        "width": 37.86112976074219,
+        "height": 86.40691375732422
+      }
+    },
+    {
+      "label": "LECH PILS Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 170.6102294921875,
+        "y": 1025.5706787109375,
+        "width": 31.6245059967041,
+        "height": 112.21675872802735
+      }
+    },
+    {
+      "label": "TYSKIE GRONIE Can",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 423.4012756347656,
+        "y": 768.7125244140625,
+        "width": 16.52491569519043,
+        "height": 87.29862976074219
       }
     },
     {
       "label": "CAPTAIN JACK ORIGINAL Bottle New",
       "boundingBox": {
         "serializedVersion": "2",
-        "x": 482.5439453125,
-        "y": 982.218994140625,
-        "width": 31.005859375,
-        "height": 179.50962829589845
+        "x": 312.98114013671877,
+        "y": 579.9268188476563,
+        "width": 34.135440826416019,
+        "height": 136.66368103027345
       }
     },
     {
-      "label": "Others",
+      "label": "CAPTAIN JACK BLUE LAGOON Bottle",
       "boundingBox": {
         "serializedVersion": "2",
-        "x": 437.0361328125,
-        "y": 974.5932006835938,
-        "width": 39.208988189697269,
-        "height": 185.07769775390626
+        "x": 382.531494140625,
+        "y": 573.328369140625,
+        "width": 35.66441345214844,
+        "height": 146.03675842285157
       }
     },
     {
-      "label": "ZUBR Bottle",
+      "label": "LECH PREMIUM Can",
       "boundingBox": {
         "serializedVersion": "2",
-        "x": 671.5942993164063,
-        "y": 1212.385986328125,
-        "width": 44.3115234375,
-        "height": 180.11485290527345
-      }
-    },
-    {
-      "label": "TYSKIE GRONIE Bottle",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 565.1245727539063,
-        "y": 1436.5006103515625,
-        "width": 40.8447265625,
-        "height": 157.963623046875
+        "x": 322.33056640625,
+        "y": 764.3584594726563,
+        "width": 34.2310905456543,
+        "height": 84.93375396728516
       }
     },
     {
       "label": "ZUBR Bottle",
       "boundingBox": {
         "serializedVersion": "2",
-        "x": 751.3184204101563,
-        "y": 1443.521240234375,
-        "width": 41.113285064697269,
-        "height": 155.542724609375
+        "x": 671.3860473632813,
+        "y": 1056.4222412109375,
+        "width": 32.54064178466797,
+        "height": 113.08470153808594
       }
     },
     {
-      "label": "Others",
+      "label": "LECH PILS Bottle",
       "boundingBox": {
         "serializedVersion": "2",
-        "x": 792.8223266601563,
-        "y": 962.3673706054688,
-        "width": 45.60546875,
-        "height": 195.97174072265626
-      }
-    },
-    {
-      "label": "Others",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 356.28662109375,
-        "y": 742.1265258789063,
-        "width": 33.5205078125,
-        "height": 162.9264678955078
-      }
-    },
-    {
-      "label": "Others",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 186.58447265625,
-        "y": 1203.3074951171875,
-        "width": 47.9248046875,
-        "height": 376.44970703125
-      }
-    },
-    {
-      "label": "Others",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 248.69387817382813,
-        "y": 739.1004028320313,
-        "width": 45.190433502197269,
-        "height": 159.2951202392578
-      }
-    },
-    {
-      "label": "Others",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 405.79833984375,
-        "y": 731.6559448242188,
-        "width": 29.8095703125,
-        "height": 174.18365478515626
-      }
-    },
-    {
-      "label": "PILSNER URQUELL Bottle",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 544.56787109375,
-        "y": 968.2990112304688,
-        "width": 38.2080078125,
-        "height": 184.1093292236328
-      }
-    },
-    {
-      "label": "Others",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 207.87353515625,
-        "y": 960.9151611328125,
-        "width": 40.1123046875,
-        "height": 183.383056640625
-      }
-    },
-    {
-      "label": "Others",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 300.98876953125,
-        "y": 969.50927734375,
-        "width": 40.6005859375,
-        "height": 183.62513732910157
-      }
-    },
-    {
-      "label": "Others",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 237.8173828125,
-        "y": 1204.760009765625,
-        "width": 46.240238189697269,
-        "height": 350.3039855957031
-      }
-    },
-    {
-      "label": "Others",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 844.7021484375,
-        "y": 958.0706787109375,
-        "width": 46.533206939697269,
-        "height": 200.69248962402345
-      }
-    },
-    {
-      "label": "Others",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 780.1514282226563,
-        "y": 1262.55908203125,
-        "width": 91.25977325439453,
-        "height": 133.99673461914063
-      }
-    },
-    {
-      "label": "Others",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 347.5952453613281,
-        "y": 971.627685546875,
-        "width": 38.793949127197269,
-        "height": 179.38856506347657
-      }
-    },
-    {
-      "label": "Others",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 304.8828430175781,
-        "y": 741.339599609375,
-        "width": 40.234375,
-        "height": 162.56333923339845
-      }
-    },
-    {
-      "label": "Others",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 626.4282836914063,
-        "y": 718.280517578125,
-        "width": 39.331058502197269,
-        "height": 192.21934509277345
-      }
-    },
-    {
-      "label": "TYSKIE 0.0 Bottle",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 456.72607421875,
-        "y": 741.1578979492188,
-        "width": 32.6416015625,
-        "height": 168.73663330078126
-      }
-    },
-    {
-      "label": "Others",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 201.220703125,
-        "y": 748.4813232421875,
-        "width": 40.52734375,
-        "height": 142.46987915039063
-      }
-    },
-    {
-      "label": "Others",
-      "boundingBox": {
-        "serializedVersion": "2",
-        "x": 161.3037109375,
-        "y": 956.8602294921875,
-        "width": 41.455078125,
-        "height": 183.74620056152345
+        "x": 212.27938842773438,
+        "y": 874.1388549804688,
+        "width": 20.53071403503418,
+        "height": 112.58522033691406
       }
     },
     {
       "label": "DEBOWE DOJRZALE MOCNE Bottle",
       "boundingBox": {
         "serializedVersion": "2",
-        "x": 815.625,
-        "y": 1442.6739501953125,
-        "width": 39.0625,
-        "height": 153.36392211914063
+        "x": 547.0277099609375,
+        "y": 896.1771240234375,
+        "width": 29.726484298706056,
+        "height": 119.1725082397461
+      }
+    },
+    {
+      "label": "VELKOPOPOVICKY KOZEL LEZAK 11 Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 642.84765625,
+        "y": 586.7259521484375,
+        "width": 37.63290786743164,
+        "height": 143.04986572265626
+      }
+    },
+    {
+      "label": "TYSKIE GRONIE Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 405.1504211425781,
+        "y": 884.607666015625,
+        "width": 30.15589714050293,
+        "height": 123.51235961914063
+      }
+    },
+    {
+      "label": "ZUBR Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 634.3004150390625,
+        "y": 1055.684814453125,
+        "width": 34.71776580810547,
+        "height": 110.69701385498047
+      }
+    },
+    {
+      "label": "LECH EASY Can",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 216.13079833984376,
+        "y": 756.1556396484375,
+        "width": 34.483367919921878,
+        "height": 87.37031555175781
+      }
+    },
+    {
+      "label": "TYSKIE GRONIE Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 404.76702880859377,
+        "y": 1037.776611328125,
+        "width": 29.05782699584961,
+        "height": 115.0536117553711
+      }
+    },
+    {
+      "label": "ZUBR Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 616.5369873046875,
+        "y": 898.1327514648438,
+        "width": 36.49095153808594,
+        "height": 124.23783874511719
+      }
+    },
+    {
+      "label": "LECH FREE ARBUZ Z MIETA Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 540.2855224609375,
+        "y": 358.8197937011719,
+        "width": 41.28072738647461,
+        "height": 167.85745239257813
+      }
+    },
+    {
+      "label": "TYSKIE GRONIE Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 371.12396240234377,
+        "y": 882.4515380859375,
+        "width": 32.74216842651367,
+        "height": 123.83440399169922
+      }
+    },
+    {
+      "label": "LECH PREMIUM Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 266.3388366699219,
+        "y": 875.7184448242188,
+        "width": 33.42750930786133,
+        "height": 122.61456298828125
+      }
+    },
+    {
+      "label": "LECH FREE ACTIVE HYDRATE LICZI I CYTRYNA Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 159.84689331054688,
+        "y": 346.8288879394531,
+        "width": 37.43094253540039,
+        "height": 161.85067749023438
+      }
+    },
+    {
+      "label": "LECH PILS Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 238.17532348632813,
+        "y": 1025.48876953125,
+        "width": 32.0648078918457,
+        "height": 116.13111114501953
+      }
+    },
+    {
+      "label": "ZUBR Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 691.32080078125,
+        "y": 904.2264404296875,
+        "width": 32.99150848388672,
+        "height": 123.49732208251953
+      }
+    },
+    {
+      "label": "LECH PILS 4 Pack Can",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 176.99240112304688,
+        "y": 1226.4254150390625,
+        "width": 58.1410026550293,
+        "height": 66.0783920288086
+      }
+    },
+    {
+      "label": "LECH PREMIUM Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 272.6520690917969,
+        "y": 1028.912353515625,
+        "width": 32.1383171081543,
+        "height": 114.72037506103516
+      }
+    },
+    {
+      "label": "ZUBR Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 726.3046264648438,
+        "y": 907.9041137695313,
+        "width": 36.70134353637695,
+        "height": 121.87517547607422
+      }
+    },
+    {
+      "label": "LECH FREE Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 585.7762451171875,
+        "y": 362.9087829589844,
+        "width": 37.95801544189453,
+        "height": 166.92105102539063
+      }
+    },
+    {
+      "label": "VELKOPOPOVICKY KOZEL CERNY Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 768.2801513671875,
+        "y": 589.9696044921875,
+        "width": 44.220760345458987,
+        "height": 147.72357177734376
+      }
+    },
+    {
+      "label": "LECH EASY Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 168.77072143554688,
+        "y": 581.451904296875,
+        "width": 29.709016799926759,
+        "height": 123.35227966308594
+      }
+    },
+    {
+      "label": "KSIAZECE CHERRY ALE Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 492.02642822265627,
+        "y": 578.4130249023438,
+        "width": 31.11009979248047,
+        "height": 141.8227081298828
+      }
+    },
+    {
+      "label": "ZUBR 4 Pack Can",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 487.82550048828127,
+        "y": 772.57421875,
+        "width": 38.40815734863281,
+        "height": 85.11215209960938
+      }
+    },
+    {
+      "label": "TYSKIE GRONIE Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 371.5142517089844,
+        "y": 1034.449951171875,
+        "width": 31.78007698059082,
+        "height": 118.03365325927735
+      }
+    },
+    {
+      "label": "LECH FREE ARBUZ Z MIETA Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 326.6484680175781,
+        "y": 354.2397155761719,
+        "width": 38.15712356567383,
+        "height": 164.08779907226563
+      }
+    },
+    {
+      "label": "KSIAZECE CHERRY ALE Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 561.8709716796875,
+        "y": 578.8712768554688,
+        "width": 38.12134552001953,
+        "height": 145.00830078125
+      }
+    },
+    {
+      "label": "LECH PREMIUM Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 307.32623291015627,
+        "y": 1028.767333984375,
+        "width": 29.67410659790039,
+        "height": 117.5833969116211
+      }
+    },
+    {
+      "label": "DEBOWE DOJRZALE MOCNE Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 515.221923828125,
+        "y": 893.7059326171875,
+        "width": 29.832738876342775,
+        "height": 121.27609252929688
+      }
+    },
+    {
+      "label": "TYSKIE 0.0 Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 706.7093505859375,
+        "y": 370.81298828125,
+        "width": 46.25764465332031,
+        "height": 161.45945739746095
+      }
+    },
+    {
+      "label": "LECH FREE LIMONKA Z MIETA Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 283.4291687011719,
+        "y": 355.1339111328125,
+        "width": 39.200679779052737,
+        "height": 160.5610809326172
+      }
+    },
+    {
+      "label": "TYSKIE GRONIE Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 338.5746154785156,
+        "y": 879.5927124023438,
+        "width": 30.7705078125,
+        "height": 122.57423400878906
+      }
+    },
+    {
+      "label": "TYSKIE GRONIE Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 503.10662841796877,
+        "y": 1045.1866455078125,
+        "width": 33.29505920410156,
+        "height": 112.45841979980469
+      }
+    },
+    {
+      "label": "ZUBR Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 657.0101928710938,
+        "y": 902.6984252929688,
+        "width": 31.922359466552736,
+        "height": 121.68171691894531
+      }
+    },
+    {
+      "label": "LECH PREMIUM Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 303.9767761230469,
+        "y": 877.806640625,
+        "width": 31.065099716186525,
+        "height": 122.3877944946289
+      }
+    },
+    {
+      "label": "LECH PREMIUM Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 340.1465759277344,
+        "y": 1030.313232421875,
+        "width": 29.582365036010743,
+        "height": 118.55204010009766
+      }
+    },
+    {
+      "label": "LECH EASY Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 133.0719757080078,
+        "y": 583.3853149414063,
+        "width": 33.43291473388672,
+        "height": 120.51951599121094
+      }
+    },
+    {
+      "label": "CAPTAIN JACK DAIQUIRI Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 349.0655517578125,
+        "y": 572.4566650390625,
+        "width": 31.863224029541017,
+        "height": 144.24581909179688
+      }
+    },
+    {
+      "label": "ZUBR Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 578.2678833007813,
+        "y": 896.2095336914063,
+        "width": 35.65644836425781,
+        "height": 121.20301055908203
+      }
+    },
+    {
+      "label": "TYSKIE GRONIE Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 475.73193359375,
+        "y": 1044.9449462890625,
+        "width": 26.161293029785158,
+        "height": 111.3369140625
       }
     },
     {
       "label": "Others",
       "boundingBox": {
         "serializedVersion": "2",
-        "x": 585.7300415039063,
-        "y": 732.38232421875,
-        "width": 22.290040969848634,
-        "height": 178.541259765625
+        "x": 676.9916381835938,
+        "y": 1208.0382080078125,
+        "width": 58.679161071777347,
+        "height": 115.52062225341797
+      }
+    },
+    {
+      "label": "TYSKIE GRONIE Can",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 396.4801025390625,
+        "y": 767.5157470703125,
+        "width": 26.01752471923828,
+        "height": 85.06114959716797
+      }
+    },
+    {
+      "label": "TYSKIE 0.0 Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 755.9060668945313,
+        "y": 359.07470703125,
+        "width": 41.0723876953125,
+        "height": 173.9948272705078
+      }
+    },
+    {
+      "label": "VELKOPOPOVICKY KOZEL LEZAK 11 Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 601.4428100585938,
+        "y": 584.295166015625,
+        "width": 40.149147033691409,
+        "height": 144.42050170898438
+      }
+    },
+    {
+      "label": "LECH FREE ARBUZ Z MIETA Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 367.2328186035156,
+        "y": 356.6690368652344,
+        "width": 38.116233825683597,
+        "height": 164.08779907226563
+      }
+    },
+    {
+      "label": "LECH FREE 4 Pack Can",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 625.04443359375,
+        "y": 421.522705078125,
+        "width": 74.86935424804688,
+        "height": 108.74150085449219
+      }
+    },
+    {
+      "label": "HARDMADE RASPBERRY CRUSH Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 200.2193145751953,
+        "y": 584.111328125,
+        "width": 37.56163787841797,
+        "height": 123.81993103027344
+      }
+    },
+    {
+      "label": "LECH FREE ACTIVE HYDRATE MANGO I CYTRYNA Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 199.4127960205078,
+        "y": 346.225830078125,
+        "width": 37.64274597167969,
+        "height": 165.22242736816407
+      }
+    },
+    {
+      "label": "VELKOPOPOVICKY KOZEL 0.0 Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 798.0730590820313,
+        "y": 365.425537109375,
+        "width": 34.12588882446289,
+        "height": 169.15309143066407
+      }
+    },
+    {
+      "label": "DEBOWE DOJRZALE MOCNE Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 592.1458740234375,
+        "y": 1056.0255126953125,
+        "width": 34.20238494873047,
+        "height": 84.04557800292969
+      }
+    },
+    {
+      "label": "VELKOPOPOVICKY KOZEL CERNY Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 724.707763671875,
+        "y": 591.3573608398438,
+        "width": 41.16919708251953,
+        "height": 144.0117950439453
       }
     },
     {
       "label": "Others",
       "boundingBox": {
         "serializedVersion": "2",
-        "x": 251.77001953125,
-        "y": 962.24658203125,
-        "width": 42.5537109375,
-        "height": 190.40367126464845
+        "x": 610.7268676757813,
+        "y": 1206.857666015625,
+        "width": 59.08314514160156,
+        "height": 117.84339141845703
+      }
+    },
+    {
+      "label": "Others",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 544.9676513671875,
+        "y": 1201.55078125,
+        "width": 59.82897186279297,
+        "height": 115.34175109863281
+      }
+    },
+    {
+      "label": "Others",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 720.6376342773438,
+        "y": 788.1781005859375,
+        "width": 70.11182403564453,
+        "height": 86.05941772460938
+      }
+    },
+    {
+      "label": "VELKOPOPOVICKY KOZEL LEZAK 11 Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 682.091064453125,
+        "y": 587.92333984375,
+        "width": 40.683589935302737,
+        "height": 145.70706176757813
+      }
+    },
+    {
+      "label": "LECH PREMIUM 4 Pack Can",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 303.0276184082031,
+        "y": 1215.012939453125,
+        "width": 60.96657180786133,
+        "height": 84.22015380859375
+      }
+    },
+    {
+      "label": "LECH PREMIUM Can",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 254.41751098632813,
+        "y": 758.814453125,
+        "width": 34.40785217285156,
+        "height": 85.63668823242188
+      }
+    },
+    {
+      "label": "ZUBR Can",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 641.6815185546875,
+        "y": 780.025146484375,
+        "width": 34.24066925048828,
+        "height": 87.27301788330078
+      }
+    },
+    {
+      "label": "DEBOWE DOJRZALE MOCNE Bottle",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 484.1498718261719,
+        "y": 892.5858154296875,
+        "width": 28.85764503479004,
+        "height": 121.1544189453125
+      }
+    },
+    {
+      "label": "TYSKIE GRONIE 4 Pack Can",
+      "boundingBox": {
+        "serializedVersion": "2",
+        "x": 475.58343505859377,
+        "y": 1222.5625,
+        "width": 64.90575408935547,
+        "height": 92.26229858398438
       }
     }
 ]

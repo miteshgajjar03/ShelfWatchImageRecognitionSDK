@@ -236,6 +236,10 @@ extension ShelfWatchImageRecognitionFramework.CDARDataMapping {
     @objc get
     @objc set
   }
+  @objc @NSManaged dynamic public var submitForUpload: Swift.Bool {
+    @objc get
+    @objc set
+  }
   @objc @NSManaged dynamic public var sessions: [ShelfWatchImageRecognitionFramework.CDARSessionData]? {
     @objc get
     @objc set
@@ -356,6 +360,7 @@ extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
 }
 extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
   public func getKPIResults(mergedImage: UIKit.UIImage, uploadParams: [Swift.String : Any], detectionsJSON: [[Swift.String : Any]], completion: @escaping ((_ kpiJson: Swift.String) -> Swift.Void))
+  public func getAnnotation(for file: Swift.String) -> [Swift.String : Any]
 }
 extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
   public func uploadARData(shopId: Swift.Int, categoryId: Swift.Int, visitDate: Swift.String)
@@ -508,6 +513,10 @@ extension ShelfWatchImageRecognitionFramework.CDARSessionData {
     @objc set
   }
   @objc @NSManaged dynamic public var annotationFileName: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var fileName: Swift.String? {
     @objc get
     @objc set
   }

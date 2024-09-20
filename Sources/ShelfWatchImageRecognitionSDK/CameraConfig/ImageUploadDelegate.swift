@@ -32,15 +32,6 @@ public enum BatchResult {
     case didFinishedUpload(finished: Bool)
 }
 
-//public enum BatchUploadResult {
-//
-//    case batch(batch: UploadBatch)
-//
-//    case imageUploadStatus(meta: ImageUploadStatusMeta)
-//
-//    case success(success: Bool)
-//}
-
 // MARK: - Result Meta
 public struct UploadBatch {
     

@@ -90,7 +90,7 @@
 		</data>
 		<key>Asahi.mlmodelc/coremldata.bin</key>
 		<data>
-		MqDlRuAWXiKt++9lu8h6Sm2/wC4=
+		UVJalNfPi1JMwTMw2AkrJUSaY3c=
 		</data>
 		<key>Asahi.mlmodelc/metadata.json</key>
 		<data>
@@ -230,11 +230,11 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		qO093SyvEzX1BAcpZCYQ26cbKNs=
+		LT6/sDcNEqo5sp1P2vq1mEWPzOw=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		jnL5PbTJFi7cEz0mSbD9b4u34uo=
+		ZipQPGdCC1krVLeBzFZH6EuZPIc=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -242,11 +242,11 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		jnL5PbTJFi7cEz0mSbD9b4u34uo=
+		ZipQPGdCC1krVLeBzFZH6EuZPIc=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Ww3wBlB7JkBH0jSKhhl173cdcjE=
+		CQDMHrLyG+NjFA0PNu6nvFA8eEM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -270,15 +270,15 @@
 		</data>
 		<key>ShelfWatch.momd/ShelfWatch_1.0.2.mom</key>
 		<data>
-		PnKJYg4SlgJfTdGfZlYuXQZ0efc=
+		PqtsLJ1Ii+OggWgC+rGunNZzKEI=
 		</data>
 		<key>ShelfWatch.momd/ShelfWatch_1.0.2.omo</key>
 		<data>
-		D7/y6f3pW7k1pYH/wuiL/6kY+O0=
+		+zGP5MOCqmmjRGkrAGt00XPbj98=
 		</data>
 		<key>ShelfWatch.momd/VersionInfo.plist</key>
 		<data>
-		2+w1N6HUjzSsNW8sJkWd8t6uLIg=
+		9bgvR6VqmHaEpu9egr+TkQt75yg=
 		</data>
 		<key>ar.lproj/Localizable.strings</key>
 		<dict>
@@ -339,7 +339,7 @@
 		</data>
 		<key>mars_mt.mlmodelc/metadata.json</key>
 		<data>
-		wfGO9hDqrh40bCUVl1oOVeBKY3k=
+		rnGptCIU4jb4ZrnoK41RK7kcpgY=
 		</data>
 		<key>mars_mt.mlmodelc/model0/analytics/coremldata.bin</key>
 		<data>
@@ -592,7 +592,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/0ExS3AA38SCE5BoDXwEQQPNuOOudYWn7Y8uER/uLUU=
+			QqnJA3/V+nfV6Txd6EyOqqVyxR1CzvxF9DlgUTl9NPg=
 			</data>
 		</dict>
 		<key>Asahi.mlmodelc/metadata.json</key>
@@ -830,14 +830,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			d5PzYPxe2esjh5QRJzJNRdkaQHVlAOldtexpBNGkte8=
+			KedOYmDxtu8tQj3tVVnBItfopSk5g5kv5ppWE+Tuaww=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T6Nk7BsvqwxKvFDpMHynh/IphomuRtdtAlq+ot8fBWQ=
+			FuE7YKf4USBlz/p9rGH2yhdnG4yQkEVVJLkGyWUttlQ=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -851,14 +851,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			T6Nk7BsvqwxKvFDpMHynh/IphomuRtdtAlq+ot8fBWQ=
+			FuE7YKf4USBlz/p9rGH2yhdnG4yQkEVVJLkGyWUttlQ=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5fGFdApLJCWsOGIXWgnCKW8n/apDh1lUJvHkChxJLeQ=
+			gDvLFuVok8GVqBEm7BuKg3/2U2feFPf6wAkiKwg7yAI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -900,21 +900,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gDQh3zDQoij3e3PTFtolzJprG3QsIu0A0BJBlL0Zg9w=
+			vq003DC8GKX5UR50sJPb/N48McfFK3aG4zYJ89lS1K0=
 			</data>
 		</dict>
 		<key>ShelfWatch.momd/ShelfWatch_1.0.2.omo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			27fEOvgUDqCx/e0bgrkgRCJG4MOMj2YB0rYLAliZtvY=
+			rQsew95X1ajmMPGxz8Lirt4RWLiENwa9F4wArd0DO8s=
 			</data>
 		</dict>
 		<key>ShelfWatch.momd/VersionInfo.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ITbzomgzCnPU2AIPs0ZilNOPQE5d/dpTlqPq589Ynb4=
+			x0NTc9n5SbeI1YVpb2OyCDBEte/cZ1CX4Cz4C2/fK60=
 			</data>
 		</dict>
 		<key>ar.lproj/Localizable.strings</key>
@@ -987,7 +987,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dO/MpzeiiVzF3/JtAL5SmPNENAwWaBoxt9LxbwVF7lo=
+			YKIn+g2cDoTh4tMgA5BPfSiDtAbQ5vRyliKGtLP15WA=
 			</data>
 		</dict>
 		<key>mars_mt.mlmodelc/model0/analytics/coremldata.bin</key>

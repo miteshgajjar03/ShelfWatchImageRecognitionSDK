@@ -32134,254 +32134,156 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
       "kind": "StringLiteral",
-      "offset": 457,
+      "offset": 460,
       "length": 12,
       "value": "\"project_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
       "kind": "StringLiteral",
-      "offset": 497,
+      "offset": 500,
       "length": 15,
       "value": "\"td_version_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
       "kind": "StringLiteral",
-      "offset": 535,
+      "offset": 538,
       "length": 9,
       "value": "\"shop_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
       "kind": "StringLiteral",
-      "offset": 571,
+      "offset": 574,
       "length": 13,
       "value": "\"category_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
       "kind": "StringLiteral",
-      "offset": 607,
+      "offset": 610,
       "length": 9,
       "value": "\"user_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
       "kind": "StringLiteral",
-      "offset": 642,
+      "offset": 645,
       "length": 11,
       "value": "\"file_name\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
       "kind": "StringLiteral",
-      "offset": 677,
-      "length": 10,
-      "value": "\"aoi_data\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
-      "kind": "StringLiteral",
-      "offset": 718,
+      "offset": 680,
       "length": 17,
-      "value": "\"annotation_data\""
+      "value": "\"crop_coordinate\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
       "kind": "StringLiteral",
-      "offset": 457,
+      "offset": 738,
+      "length": 13,
+      "value": "\"annotations\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
+      "kind": "StringLiteral",
+      "offset": 460,
       "length": 12,
       "value": "\"project_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
       "kind": "StringLiteral",
-      "offset": 497,
+      "offset": 500,
       "length": 15,
       "value": "\"td_version_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
       "kind": "StringLiteral",
-      "offset": 535,
+      "offset": 538,
       "length": 9,
       "value": "\"shop_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
       "kind": "StringLiteral",
-      "offset": 571,
+      "offset": 574,
       "length": 13,
       "value": "\"category_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
       "kind": "StringLiteral",
-      "offset": 607,
+      "offset": 610,
       "length": 9,
       "value": "\"user_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
       "kind": "StringLiteral",
-      "offset": 642,
+      "offset": 645,
       "length": 11,
       "value": "\"file_name\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
       "kind": "StringLiteral",
-      "offset": 677,
-      "length": 10,
-      "value": "\"aoi_data\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
-      "kind": "StringLiteral",
-      "offset": 718,
+      "offset": 680,
       "length": 17,
-      "value": "\"annotation_data\""
+      "value": "\"crop_coordinate\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
       "kind": "StringLiteral",
-      "offset": 2198,
+      "offset": 738,
+      "length": 13,
+      "value": "\"annotations\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
+      "kind": "StringLiteral",
+      "offset": 2218,
+      "length": 10,
+      "value": "\"sku_name\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
+      "kind": "StringLiteral",
+      "offset": 2252,
       "length": 10,
       "value": "\"class_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
       "kind": "StringLiteral",
-      "offset": 2232,
+      "offset": 2286,
       "length": 10,
       "value": "\"group_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
       "kind": "StringLiteral",
-      "offset": 2263,
-      "length": 6,
-      "value": "\"xmin\""
+      "offset": 2218,
+      "length": 10,
+      "value": "\"sku_name\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
       "kind": "StringLiteral",
-      "offset": 2290,
-      "length": 6,
-      "value": "\"ymin\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
-      "kind": "StringLiteral",
-      "offset": 2317,
-      "length": 6,
-      "value": "\"xmax\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
-      "kind": "StringLiteral",
-      "offset": 2344,
-      "length": 6,
-      "value": "\"ymax\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
-      "kind": "StringLiteral",
-      "offset": 2198,
+      "offset": 2252,
       "length": 10,
       "value": "\"class_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
       "kind": "StringLiteral",
-      "offset": 2232,
+      "offset": 2286,
       "length": 10,
       "value": "\"group_id\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
-      "kind": "StringLiteral",
-      "offset": 2263,
-      "length": 6,
-      "value": "\"xmin\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
-      "kind": "StringLiteral",
-      "offset": 2290,
-      "length": 6,
-      "value": "\"ymin\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
-      "kind": "StringLiteral",
-      "offset": 2317,
-      "length": 6,
-      "value": "\"xmax\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
-      "kind": "StringLiteral",
-      "offset": 2344,
-      "length": 6,
-      "value": "\"ymax\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
-      "kind": "StringLiteral",
-      "offset": 4188,
-      "length": 6,
-      "value": "\"xmin\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
-      "kind": "StringLiteral",
-      "offset": 4215,
-      "length": 6,
-      "value": "\"ymin\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
-      "kind": "StringLiteral",
-      "offset": 4242,
-      "length": 6,
-      "value": "\"xmax\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
-      "kind": "StringLiteral",
-      "offset": 4269,
-      "length": 6,
-      "value": "\"ymax\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
-      "kind": "StringLiteral",
-      "offset": 4188,
-      "length": 6,
-      "value": "\"xmin\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
-      "kind": "StringLiteral",
-      "offset": 4215,
-      "length": 6,
-      "value": "\"ymin\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
-      "kind": "StringLiteral",
-      "offset": 4242,
-      "length": 6,
-      "value": "\"xmax\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
-      "kind": "StringLiteral",
-      "offset": 4269,
-      "length": 6,
-      "value": "\"ymax\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/AR\/ARViewController\/Model\/ObjectDetectionResponse.swift",

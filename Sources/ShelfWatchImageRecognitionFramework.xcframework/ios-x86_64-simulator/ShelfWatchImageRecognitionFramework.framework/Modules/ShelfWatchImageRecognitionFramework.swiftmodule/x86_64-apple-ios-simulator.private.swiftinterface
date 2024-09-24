@@ -490,6 +490,7 @@ public struct ARPendingMetaData : Swift.Encodable {
   public let shopId: Swift.Int64
   public let categoryId: Swift.Int64
   public let pendingItems: [Swift.String]
+  public let date: Swift.String
   public func encode(to encoder: any Swift.Encoder) throws
 }
 @_inheritsConvenienceInitializers @objc(CDMasterDataChild) public class CDMasterDataChild : CoreData.NSManagedObject {

@@ -12579,6 +12579,50 @@
             ]
           },
           {
+            "kind": "Var",
+            "name": "date",
+            "printedName": "date",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:35ShelfWatchImageRecognitionFramework17ARPendingMetaDataV4dateSSvp",
+            "mangledName": "$s35ShelfWatchImageRecognitionFramework17ARPendingMetaDataV4dateSSvp",
+            "moduleName": "ShelfWatchImageRecognitionFramework",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:35ShelfWatchImageRecognitionFramework17ARPendingMetaDataV4dateSSvg",
+                "mangledName": "$s35ShelfWatchImageRecognitionFramework17ARPendingMetaDataV4dateSSvg",
+                "moduleName": "ShelfWatchImageRecognitionFramework",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
             "kind": "Function",
             "name": "encode",
             "printedName": "encode(to:)",
@@ -29718,42 +29762,42 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/Protocol\/ImageUploadDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 1404,
+      "offset": 1432,
       "length": 9,
       "value": "\"shop_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/Protocol\/ImageUploadDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 1440,
+      "offset": 1468,
       "length": 13,
       "value": "\"category_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/Protocol\/ImageUploadDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 1482,
+      "offset": 1510,
       "length": 15,
       "value": "\"pending_items\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/Protocol\/ImageUploadDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 1404,
+      "offset": 1432,
       "length": 9,
       "value": "\"shop_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/Protocol\/ImageUploadDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 1440,
+      "offset": 1468,
       "length": 13,
       "value": "\"category_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/Protocol\/ImageUploadDelegate.swift",
       "kind": "StringLiteral",
-      "offset": 1482,
+      "offset": 1510,
       "length": 15,
       "value": "\"pending_items\""
     },

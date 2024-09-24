@@ -15,6 +15,9 @@ public class ShelfWatchCameraManager {
     private var shelfWatchCamera: ShelfWatchCamera!
     private weak var delegate: ShelfWatchDelegate?
     private var config: CameraConfig?
+    public var uploadParams: [String: Any] {
+        return self.config?.uploadParams ?? [:]
+    }
     
     // MARK: - Initialization
     
@@ -225,7 +228,7 @@ extension ShelfWatchCameraManager {
 //        )
     }
     
-    public func getKPIResult(mergedImage: UIImage, detectionJSON: [[String: Any]], completion: @escaping ((_ kpiJSONString: String) -> Void)) {
+    public func getKPIResult(mergedImage: UIImage, detectionJSON: [[String: Any]], completion: @escaping ((_ kpiJSON: [String: Any]) -> Void)) {
         guard let config = self.config else { fatalError("CONFIG NOT FOUND!") }
         
         self.shelfWatchCamera.getKPIResults(

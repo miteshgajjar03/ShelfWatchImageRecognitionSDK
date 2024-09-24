@@ -7231,7 +7231,7 @@
               {
                 "kind": "TypeFunc",
                 "name": "Function",
-                "printedName": "(Swift.String) -> ()",
+                "printedName": "([Swift.String : Any]) -> ()",
                 "children": [
                   {
                     "kind": "TypeNominal",
@@ -7240,16 +7240,29 @@
                   },
                   {
                     "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Any]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:SD"
                   }
                 ]
               }
             ],
             "declKind": "Func",
-            "usr": "s:35ShelfWatchImageRecognitionFramework0aB6CameraC13getKPIResults06mergedC012uploadParams14detectionsJSON10completionySo7UIImageC_SDySSypGSayAKGySSctF",
-            "mangledName": "$s35ShelfWatchImageRecognitionFramework0aB6CameraC13getKPIResults06mergedC012uploadParams14detectionsJSON10completionySo7UIImageC_SDySSypGSayAKGySSctF",
+            "usr": "s:35ShelfWatchImageRecognitionFramework0aB6CameraC13getKPIResults06mergedC012uploadParams14detectionsJSON10completionySo7UIImageC_SDySSypGSayAKGyAKctF",
+            "mangledName": "$s35ShelfWatchImageRecognitionFramework0aB6CameraC13getKPIResults06mergedC012uploadParams14detectionsJSON10completionySo7UIImageC_SDySSypGSayAKGyAKctF",
             "moduleName": "ShelfWatchImageRecognitionFramework",
             "declAttributes": [
               "AccessControl"
@@ -29439,42 +29452,42 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/DateFormatter\/DateFormatManager.swift",
       "kind": "StringLiteral",
-      "offset": 1014,
+      "offset": 1071,
       "length": 21,
       "value": "\"yyyy-MM-dd HH:mm:ss\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/DateFormatter\/DateFormatManager.swift",
       "kind": "StringLiteral",
-      "offset": 1051,
+      "offset": 1108,
       "length": 29,
       "value": "\"EEE, dd MMM yyyy HH:mm:ss z\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/DateFormatter\/DateFormatManager.swift",
       "kind": "StringLiteral",
-      "offset": 1106,
+      "offset": 1163,
       "length": 12,
       "value": "\"yyyy-MM-dd\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/DateFormatter\/DateFormatManager.swift",
       "kind": "StringLiteral",
-      "offset": 1014,
+      "offset": 1071,
       "length": 21,
       "value": "\"yyyy-MM-dd HH:mm:ss\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/DateFormatter\/DateFormatManager.swift",
       "kind": "StringLiteral",
-      "offset": 1051,
+      "offset": 1108,
       "length": 29,
       "value": "\"EEE, dd MMM yyyy HH:mm:ss z\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/DateFormatter\/DateFormatManager.swift",
       "kind": "StringLiteral",
-      "offset": 1106,
+      "offset": 1163,
       "length": 12,
       "value": "\"yyyy-MM-dd\""
     },

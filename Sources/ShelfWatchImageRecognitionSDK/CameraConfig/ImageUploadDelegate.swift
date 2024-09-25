@@ -20,7 +20,7 @@ public protocol ShelfWatchDelegate: AnyObject {
     
     func downloadDataProgress(downloadMeta: DownloadMeta)
     
-    func didReceivePendingARData(data: ARPendingData)
+    func didReceivePendingUploadARData(data: ARPendingData)
 }
 
 // MARK: - Protocol Result

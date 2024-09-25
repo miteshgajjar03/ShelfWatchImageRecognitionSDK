@@ -157,7 +157,7 @@ extension ShelfWatchCameraManager: ImageUploadDelegate {
     }
     
     public func didReceivePendingARData(item: ARPendingData) {
-        self.didReceivePendingARData(item: item)
+        self.delegate?.didReceivePendingUploadARData(data: item)
     }
 }
 

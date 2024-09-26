@@ -360,7 +360,7 @@ extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
 }
 extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
   public func recapture()
-  public func getKPIResults(mergedImage: UIKit.UIImage, uploadParams: [Swift.String : Any], detectionsJSON: [[Swift.String : Any]], isRecapture: Swift.Bool, completion: @escaping ((_ kpiJson: [Swift.String : Any]) -> Swift.Void))
+  public func getKPIResults(mergedImage: UIKit.UIImage, uploadParams: [Swift.String : Any], detectionsJSON: [[Swift.String : Any]], completion: @escaping ((_ kpiJson: [Swift.String : Any]) -> Swift.Void))
   public func getAnnotation(for file: Swift.String) -> [Swift.String : Any]
 }
 extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {

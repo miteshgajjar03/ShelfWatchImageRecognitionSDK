@@ -7190,7 +7190,7 @@
           {
             "kind": "Function",
             "name": "getKPIResults",
-            "printedName": "getKPIResults(mergedImage:uploadParams:detectionsJSON:isRecapture:completion:)",
+            "printedName": "getKPIResults(mergedImage:uploadParams:detectionsJSON:completion:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -7250,12 +7250,6 @@
                 "usr": "s:Sa"
               },
               {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              },
-              {
                 "kind": "TypeFunc",
                 "name": "Function",
                 "printedName": "([Swift.String : Any]) -> ()",
@@ -7288,8 +7282,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:35ShelfWatchImageRecognitionFramework0aB6CameraC13getKPIResults06mergedC012uploadParams14detectionsJSON11isRecapture10completionySo7UIImageC_SDySSypGSayALGSbyALctF",
-            "mangledName": "$s35ShelfWatchImageRecognitionFramework0aB6CameraC13getKPIResults06mergedC012uploadParams14detectionsJSON11isRecapture10completionySo7UIImageC_SDySSypGSayALGSbyALctF",
+            "usr": "s:35ShelfWatchImageRecognitionFramework0aB6CameraC13getKPIResults06mergedC012uploadParams14detectionsJSON10completionySo7UIImageC_SDySSypGSayAKGyAKctF",
+            "mangledName": "$s35ShelfWatchImageRecognitionFramework0aB6CameraC13getKPIResults06mergedC012uploadParams14detectionsJSON10completionySo7UIImageC_SDySSypGSayAKGyAKctF",
             "moduleName": "ShelfWatchImageRecognitionFramework",
             "declAttributes": [
               "AccessControl"
@@ -33033,7 +33027,7 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARDataMappingDBHelper.swift",
       "kind": "BooleanLiteral",
-      "offset": 2232,
+      "offset": 2502,
       "length": 5,
       "value": "false"
     },

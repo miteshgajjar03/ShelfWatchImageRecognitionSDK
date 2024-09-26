@@ -90,7 +90,7 @@
 		</data>
 		<key>Asahi.mlmodelc/coremldata.bin</key>
 		<data>
-		UVJalNfPi1JMwTMw2AkrJUSaY3c=
+		VKgIvQMgyHdPEvk7EhKQB4f7x7E=
 		</data>
 		<key>Asahi.mlmodelc/metadata.json</key>
 		<data>
@@ -230,11 +230,11 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		Q0WRzOfGJ7YHve79DSm8O0BU6pM=
+		3hWM0lGMDiSi1Mb3Zi5qqeB7hps=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		AOUDHZHW3FBOQUQgdiacPZ2JAW4=
+		uSvjen5rRrQNe1s9Far5uDQh0IQ=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -242,11 +242,11 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		AOUDHZHW3FBOQUQgdiacPZ2JAW4=
+		uSvjen5rRrQNe1s9Far5uDQh0IQ=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		x/nOAk5ycYULDkJQbQvBl5xGbtg=
+		DniCuxttgkjtx64c1P98JiAXx7c=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -592,7 +592,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QqnJA3/V+nfV6Txd6EyOqqVyxR1CzvxF9DlgUTl9NPg=
+			8JUsbKWi1RJ1oVKfjqz77WuWBvW45y5VTh4r9vRUfg8=
 			</data>
 		</dict>
 		<key>Asahi.mlmodelc/metadata.json</key>
@@ -830,14 +830,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NhK8EX+3pDtqwDaTkzsY9uLpy3CH7J6jjdQ/wtKQOvw=
+			UJDOPflxBtRAo+4qm1PCR0vAGGDIO1idcOZfY4duP8c=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SKswGAHcuUCr4VoIsbVcK0E/YsgG6ckjwiUFIK/ffNQ=
+			3LqFHUdt88XbX3KJIAZHzikug6/Ov+7vh9jv3GOt7SY=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -851,14 +851,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SKswGAHcuUCr4VoIsbVcK0E/YsgG6ckjwiUFIK/ffNQ=
+			3LqFHUdt88XbX3KJIAZHzikug6/Ov+7vh9jv3GOt7SY=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SszTdUmqqKpMBSom8AlAHQ89XH9jFOZmt8k8lbcnjrI=
+			RXd5pe5rbG72CC1v2Vv5b+jogBhTTGawIPfCmhzJb90=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

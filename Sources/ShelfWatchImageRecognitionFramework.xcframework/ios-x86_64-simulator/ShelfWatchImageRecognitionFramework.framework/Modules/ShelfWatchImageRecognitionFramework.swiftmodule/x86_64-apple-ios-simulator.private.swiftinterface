@@ -359,7 +359,8 @@ extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
   public func showInsightDashboadViewController(from viewController: UIKit.UIViewController, jsonObjects: [[Swift.String : Any]], skuAvailability: [Swift.String : Any])
 }
 extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
-  public func getKPIResults(mergedImage: UIKit.UIImage, uploadParams: [Swift.String : Any], detectionsJSON: [[Swift.String : Any]], completion: @escaping ((_ kpiJson: [Swift.String : Any]) -> Swift.Void))
+  public func recapture()
+  public func getKPIResults(mergedImage: UIKit.UIImage, uploadParams: [Swift.String : Any], detectionsJSON: [[Swift.String : Any]], isRecapture: Swift.Bool, completion: @escaping ((_ kpiJson: [Swift.String : Any]) -> Swift.Void))
   public func getAnnotation(for file: Swift.String) -> [Swift.String : Any]
 }
 extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {

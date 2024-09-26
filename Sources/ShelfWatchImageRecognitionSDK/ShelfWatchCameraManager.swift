@@ -235,6 +235,7 @@ extension ShelfWatchCameraManager {
             mergedImage: mergedImage,
             uploadParams: config.uploadParams,
             detectionsJSON: detectionJSON,
+            isRecapture: false,
             completion: completion
         )
     }

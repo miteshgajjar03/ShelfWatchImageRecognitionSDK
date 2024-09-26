@@ -90,11 +90,11 @@
 		</data>
 		<key>Asahi.mlmodelc/coremldata.bin</key>
 		<data>
-		VKgIvQMgyHdPEvk7EhKQB4f7x7E=
+		UVJalNfPi1JMwTMw2AkrJUSaY3c=
 		</data>
 		<key>Asahi.mlmodelc/metadata.json</key>
 		<data>
-		yUduZM7VSiLi/PCHtw+S0eOtlvU=
+		sWWhsl7lBx+xVX9HA0xBC/LopqU=
 		</data>
 		<key>Asahi.mlmodelc/model0/analytics/coremldata.bin</key>
 		<data>
@@ -230,7 +230,7 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		3hWM0lGMDiSi1Mb3Zi5qqeB7hps=
+		RWsB65H80rLYMhTAD5xLuGGI9fk=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -246,7 +246,7 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		DniCuxttgkjtx64c1P98JiAXx7c=
+		DwiJfgvExMXXWR/HABPC5pgAUN0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -335,7 +335,7 @@
 		</data>
 		<key>mars_mt.mlmodelc/coremldata.bin</key>
 		<data>
-		DHNA5GgJTi5BCMRFwuWIgreasRQ=
+		MojFRoG6Tqz2U9kxCg3JBtwckVU=
 		</data>
 		<key>mars_mt.mlmodelc/metadata.json</key>
 		<data>
@@ -592,14 +592,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8JUsbKWi1RJ1oVKfjqz77WuWBvW45y5VTh4r9vRUfg8=
+			QqnJA3/V+nfV6Txd6EyOqqVyxR1CzvxF9DlgUTl9NPg=
 			</data>
 		</dict>
 		<key>Asahi.mlmodelc/metadata.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YOAfo43Jg59WKHI3w1YqUVz90kba1aTKE0JeI2lUve8=
+			KJ60AmzPxSw6Lmez7cy9FAVFUIe1IsrvvtwH/WA947E=
 			</data>
 		</dict>
 		<key>Asahi.mlmodelc/model0/analytics/coremldata.bin</key>
@@ -830,7 +830,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UJDOPflxBtRAo+4qm1PCR0vAGGDIO1idcOZfY4duP8c=
+			x+4ocOavTsJ4GODfiyxYpVQkxZg5LmW8cm6rIqk1LdE=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -858,7 +858,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RXd5pe5rbG72CC1v2Vv5b+jogBhTTGawIPfCmhzJb90=
+			YOqDXEQVy/YPxVzZWQ/ha4UGnt1YZYugzxx58ScfkS4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -980,7 +980,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+POeedvO6QyO3r+BcBYpao2YLj+WY73QMHGIh2hwfyw=
+			hv3bSN/lb3qAm55pj6z2Jp8g3Y+IRSG0Sohte2Z0YR4=
 			</data>
 		</dict>
 		<key>mars_mt.mlmodelc/metadata.json</key>

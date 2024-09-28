@@ -90,11 +90,11 @@
 		</data>
 		<key>Asahi.mlmodelc/coremldata.bin</key>
 		<data>
-		MqDlRuAWXiKt++9lu8h6Sm2/wC4=
+		VKgIvQMgyHdPEvk7EhKQB4f7x7E=
 		</data>
 		<key>Asahi.mlmodelc/metadata.json</key>
 		<data>
-		sWWhsl7lBx+xVX9HA0xBC/LopqU=
+		yUduZM7VSiLi/PCHtw+S0eOtlvU=
 		</data>
 		<key>Asahi.mlmodelc/model0/analytics/coremldata.bin</key>
 		<data>
@@ -230,11 +230,11 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		3obbtwWjSp9W98/lktiKYJ0Sx4k=
+		3G75B/B53klIdM0goHXKIahDEJM=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		YVAwOP/AkbrXZwwxQ0aX/w3Loko=
+		cB5hKwADv4RGKjNznUM62VYUv4I=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -242,11 +242,11 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		YVAwOP/AkbrXZwwxQ0aX/w3Loko=
+		cB5hKwADv4RGKjNznUM62VYUv4I=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		AzfAZ5wRgBrJg9+GXAOItHILqTI=
+		0xII1yRu7Cefev3VnHUYMUOm5VA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -270,15 +270,15 @@
 		</data>
 		<key>ShelfWatch.momd/ShelfWatch_1.0.2.mom</key>
 		<data>
-		PqtsLJ1Ii+OggWgC+rGunNZzKEI=
+		ngK8tT9PbJYXg9sm8bW6u+zxN6w=
 		</data>
 		<key>ShelfWatch.momd/ShelfWatch_1.0.2.omo</key>
 		<data>
-		+zGP5MOCqmmjRGkrAGt00XPbj98=
+		+10mqlEHLB7Y9wnKKSJeHtimD4w=
 		</data>
 		<key>ShelfWatch.momd/VersionInfo.plist</key>
 		<data>
-		9bgvR6VqmHaEpu9egr+TkQt75yg=
+		3m4uPIdcsHQtYVcyoDG/E90bZ9s=
 		</data>
 		<key>ar.lproj/Localizable.strings</key>
 		<dict>
@@ -339,7 +339,7 @@
 		</data>
 		<key>mars_mt.mlmodelc/metadata.json</key>
 		<data>
-		rnGptCIU4jb4ZrnoK41RK7kcpgY=
+		QJf647VfiESFwdYpbjJxw9V37Sc=
 		</data>
 		<key>mars_mt.mlmodelc/model0/analytics/coremldata.bin</key>
 		<data>
@@ -592,14 +592,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/0ExS3AA38SCE5BoDXwEQQPNuOOudYWn7Y8uER/uLUU=
+			8JUsbKWi1RJ1oVKfjqz77WuWBvW45y5VTh4r9vRUfg8=
 			</data>
 		</dict>
 		<key>Asahi.mlmodelc/metadata.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KJ60AmzPxSw6Lmez7cy9FAVFUIe1IsrvvtwH/WA947E=
+			YOAfo43Jg59WKHI3w1YqUVz90kba1aTKE0JeI2lUve8=
 			</data>
 		</dict>
 		<key>Asahi.mlmodelc/model0/analytics/coremldata.bin</key>
@@ -830,14 +830,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BbqvdbFiDz8DifutswJYL0GTyIpKUbozzWeJ2weYkE8=
+			BjZ0rVr5jcsV9AXCZ4alOb5ZnbU5fiVRMgmEJiOnJyA=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eLBR1Mnb/uj0oo1AWtqVPOD5eMi5LkpKXkFsQFOeGnk=
+			LJaczbmf8SrjBokXN4m2z9N4Yi7op850rZ2PMKMIvvI=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -851,14 +851,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eLBR1Mnb/uj0oo1AWtqVPOD5eMi5LkpKXkFsQFOeGnk=
+			LJaczbmf8SrjBokXN4m2z9N4Yi7op850rZ2PMKMIvvI=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dbfqZDVincHMLYCXN9g+SOexplzRzMUWzaDe+oIU9FM=
+			QfX4RwegJ5WGxQ3mHNUc4w1kWAfq+xGTAVoIl1mGh7A=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -900,21 +900,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vq003DC8GKX5UR50sJPb/N48McfFK3aG4zYJ89lS1K0=
+			BbDb+NHpVKCDxvHiH9IMsI70HhhhsN/BM+znuqtpgmw=
 			</data>
 		</dict>
 		<key>ShelfWatch.momd/ShelfWatch_1.0.2.omo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rQsew95X1ajmMPGxz8Lirt4RWLiENwa9F4wArd0DO8s=
+			is3j8CoY0AI44zfEjhY0wbRVxYiO1v+VyHgrc8B8+cA=
 			</data>
 		</dict>
 		<key>ShelfWatch.momd/VersionInfo.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			x0NTc9n5SbeI1YVpb2OyCDBEte/cZ1CX4Cz4C2/fK60=
+			9NcP8f1MmxyB8skQ2BQh+KJhhXu+LeF48GkSfgmgAtM=
 			</data>
 		</dict>
 		<key>ar.lproj/Localizable.strings</key>
@@ -987,7 +987,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YKIn+g2cDoTh4tMgA5BPfSiDtAbQ5vRyliKGtLP15WA=
+			NqKHiD36BF4y44Waof0juHjwZpKaWLmFm4ssouYENQc=
 			</data>
 		</dict>
 		<key>mars_mt.mlmodelc/model0/analytics/coremldata.bin</key>

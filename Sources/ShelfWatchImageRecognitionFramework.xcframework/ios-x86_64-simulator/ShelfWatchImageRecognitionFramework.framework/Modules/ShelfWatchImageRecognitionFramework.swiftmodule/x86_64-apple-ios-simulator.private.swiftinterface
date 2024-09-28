@@ -377,7 +377,7 @@ extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
 }
 extension ShelfWatchImageRecognitionFramework.CDShopData {
   @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<ShelfWatchImageRecognitionFramework.CDShopData>
-  @objc @NSManaged dynamic public var shopId: Swift.String? {
+  @objc @NSManaged dynamic public var shopId: Swift.Int64 {
     @objc get
     @objc set
   }

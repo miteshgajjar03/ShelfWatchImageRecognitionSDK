@@ -16518,6 +16518,85 @@
                 "accessorKind": "set"
               }
             ]
+          },
+          {
+            "kind": "Var",
+            "name": "uploadStatus",
+            "printedName": "uploadStatus",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDImageMetaData(py)uploadStatus",
+            "mangledName": "$s35ShelfWatchImageRecognitionFramework15CDImageMetaDataC12uploadStatusSbvp",
+            "moduleName": "ShelfWatchImageRecognitionFramework",
+            "declAttributes": [
+              "Dynamic",
+              "AccessControl",
+              "NSManaged",
+              "ObjC"
+            ],
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDImageMetaData(im)uploadStatus",
+                "mangledName": "$s35ShelfWatchImageRecognitionFramework15CDImageMetaDataC12uploadStatusSbvg",
+                "moduleName": "ShelfWatchImageRecognitionFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@CM@ShelfWatchImageRecognitionFramework@objc(cs)CDImageMetaData(im)setUploadStatus:",
+                "mangledName": "$s35ShelfWatchImageRecognitionFramework15CDImageMetaDataC12uploadStatusSbvs",
+                "moduleName": "ShelfWatchImageRecognitionFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "set"
+              }
+            ]
           }
         ],
         "declKind": "Class",

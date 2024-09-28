@@ -27973,7 +27973,7 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/UserMapping\/UserManager.swift",
       "kind": "StringLiteral",
-      "offset": 1015,
+      "offset": 802,
       "length": 2,
       "value": "\"\""
     },
@@ -28484,14 +28484,14 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 917,
+      "offset": 961,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
       "kind": "Dictionary",
-      "offset": 3007,
+      "offset": 3226,
       "length": 3,
       "value": "[]"
     },
@@ -29207,180 +29207,187 @@
       "kind": "StringLiteral",
       "offset": 1496,
       "length": 15,
+      "value": "\"category_uuid\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/PDConstant\/NativeParameterKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 1542,
+      "length": 15,
       "value": "\"category_name\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/PDConstant\/NativeParameterKeys.swift",
       "kind": "StringLiteral",
-      "offset": 1538,
+      "offset": 1584,
       "length": 11,
       "value": "\"shop_name\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/PDConstant\/NativeParameterKeys.swift",
       "kind": "StringLiteral",
-      "offset": 1576,
+      "offset": 1622,
       "length": 6,
       "value": "\"name\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/PDConstant\/NativeParameterKeys.swift",
       "kind": "StringLiteral",
-      "offset": 1607,
+      "offset": 1653,
       "length": 9,
       "value": "\"user_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/PDConstant\/NativeParameterKeys.swift",
       "kind": "StringLiteral",
-      "offset": 1645,
+      "offset": 1691,
       "length": 13,
       "value": "\"app_version\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/PDConstant\/NativeParameterKeys.swift",
       "kind": "StringLiteral",
-      "offset": 1688,
+      "offset": 1734,
       "length": 5,
       "value": "\"env\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/PDConstant\/NativeParameterKeys.swift",
       "kind": "StringLiteral",
-      "offset": 1721,
+      "offset": 1767,
       "length": 12,
       "value": "\"shelf_type\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/PDConstant\/NativeParameterKeys.swift",
       "kind": "StringLiteral",
-      "offset": 1768,
+      "offset": 1814,
       "length": 15,
       "value": "\"Primary Shelf\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/PDConstant\/NativeParameterKeys.swift",
       "kind": "StringLiteral",
-      "offset": 1812,
+      "offset": 1858,
       "length": 12,
       "value": "\"detections\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/PDConstant\/NativeParameterKeys.swift",
       "kind": "StringLiteral",
-      "offset": 1845,
+      "offset": 1891,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/PDConstant\/NativeParameterKeys.swift",
       "kind": "StringLiteral",
-      "offset": 1873,
+      "offset": 1919,
       "length": 7,
       "value": "\"label\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/PDConstant\/NativeParameterKeys.swift",
       "kind": "StringLiteral",
-      "offset": 1913,
+      "offset": 1959,
       "length": 16,
       "value": "\"normalizedRect\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/PDConstant\/NativeParameterKeys.swift",
       "kind": "StringLiteral",
-      "offset": 1958,
+      "offset": 2004,
       "length": 12,
       "value": "\"confidence\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/PDConstant\/NativeParameterKeys.swift",
       "kind": "StringLiteral",
-      "offset": 2013,
+      "offset": 2059,
       "length": 12,
       "value": "\"min_images\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/PDConstant\/NativeParameterKeys.swift",
       "kind": "StringLiteral",
-      "offset": 2055,
+      "offset": 2101,
       "length": 15,
       "value": "\"td_version_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/PDConstant\/NativeParameterKeys.swift",
       "kind": "StringLiteral",
-      "offset": 2095,
+      "offset": 2141,
       "length": 9,
       "value": "\"task_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/PDConstant\/NativeParameterKeys.swift",
       "kind": "StringLiteral",
-      "offset": 2132,
+      "offset": 2178,
       "length": 12,
       "value": "\"visit_code\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/PDConstant\/NativeParameterKeys.swift",
       "kind": "StringLiteral",
-      "offset": 2176,
+      "offset": 2222,
       "length": 16,
       "value": "\"planogram_name\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/PDConstant\/NativeParameterKeys.swift",
       "kind": "StringLiteral",
-      "offset": 2220,
+      "offset": 2266,
       "length": 11,
       "value": "\"questions\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/PDConstant\/NativeParameterKeys.swift",
       "kind": "StringLiteral",
-      "offset": 2256,
+      "offset": 2302,
       "length": 8,
       "value": "\"bucket\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/PDConstant\/NativeParameterKeys.swift",
       "kind": "StringLiteral",
-      "offset": 2293,
+      "offset": 2339,
       "length": 13,
       "value": "\"bucket_name\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/PDConstant\/NativeParameterKeys.swift",
       "kind": "StringLiteral",
-      "offset": 2343,
+      "offset": 2389,
       "length": 22,
       "value": "\"annotation_file_path\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/PDConstant\/NativeParameterKeys.swift",
       "kind": "StringLiteral",
-      "offset": 2395,
+      "offset": 2441,
       "length": 14,
       "value": "\"capture_date\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/PDConstant\/NativeParameterKeys.swift",
       "kind": "StringLiteral",
-      "offset": 2440,
+      "offset": 2486,
       "length": 15,
       "value": "\"pending_items\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/PDConstant\/NativeParameterKeys.swift",
       "kind": "StringLiteral",
-      "offset": 2478,
+      "offset": 2524,
       "length": 6,
       "value": "\"data\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/PDConstant\/NativeParameterKeys.swift",
       "kind": "StringLiteral",
-      "offset": 2514,
+      "offset": 2560,
       "length": 15,
       "value": "\"sn_image_type\""
     },
@@ -32530,224 +32537,224 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2025,
+      "offset": 2019,
       "length": 12,
       "value": "\"aoi_coords\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2066,
+      "offset": 2060,
       "length": 15,
       "value": "\"app_timestamp\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2110,
+      "offset": 2104,
       "length": 16,
       "value": "\"asset_image_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2152,
+      "offset": 2146,
       "length": 12,
       "value": "\"created_at\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2195,
+      "offset": 2189,
       "length": 17,
       "value": "\"crop_coordinate\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2242,
+      "offset": 2236,
       "length": 16,
       "value": "\"grid_positions\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2284,
+      "offset": 2278,
       "length": 12,
       "value": "\"image_type\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2347,
+      "offset": 2341,
       "length": 17,
       "value": "\"last_image_flag\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2427,
+      "offset": 2421,
       "length": 14,
       "value": "\"overlap_area\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2500,
+      "offset": 2494,
       "length": 26,
       "value": "\"recapture_camera_options\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2554,
+      "offset": 2548,
       "length": 15,
       "value": "\"retake_seq_no\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2595,
+      "offset": 2589,
       "length": 12,
       "value": "\"session_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2636,
+      "offset": 2630,
       "length": 16,
       "value": "\"shelf_image_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2684,
+      "offset": 2678,
       "length": 19,
       "value": "\"stitched_image_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2736,
+      "offset": 2730,
       "length": 20,
       "value": "\"stitched_image_url\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2784,
+      "offset": 2778,
       "length": 15,
       "value": "\"test_image_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2025,
+      "offset": 2019,
       "length": 12,
       "value": "\"aoi_coords\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2066,
+      "offset": 2060,
       "length": 15,
       "value": "\"app_timestamp\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2110,
+      "offset": 2104,
       "length": 16,
       "value": "\"asset_image_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2152,
+      "offset": 2146,
       "length": 12,
       "value": "\"created_at\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2195,
+      "offset": 2189,
       "length": 17,
       "value": "\"crop_coordinate\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2242,
+      "offset": 2236,
       "length": 16,
       "value": "\"grid_positions\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2284,
+      "offset": 2278,
       "length": 12,
       "value": "\"image_type\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2347,
+      "offset": 2341,
       "length": 17,
       "value": "\"last_image_flag\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2427,
+      "offset": 2421,
       "length": 14,
       "value": "\"overlap_area\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2500,
+      "offset": 2494,
       "length": 26,
       "value": "\"recapture_camera_options\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2554,
+      "offset": 2548,
       "length": 15,
       "value": "\"retake_seq_no\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2595,
+      "offset": 2589,
       "length": 12,
       "value": "\"session_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2636,
+      "offset": 2630,
       "length": 16,
       "value": "\"shelf_image_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2684,
+      "offset": 2678,
       "length": 19,
       "value": "\"stitched_image_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2736,
+      "offset": 2730,
       "length": 20,
       "value": "\"stitched_image_url\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/SourceCode\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
       "kind": "StringLiteral",
-      "offset": 2784,
+      "offset": 2778,
       "length": 15,
       "value": "\"test_image_id\""
     },

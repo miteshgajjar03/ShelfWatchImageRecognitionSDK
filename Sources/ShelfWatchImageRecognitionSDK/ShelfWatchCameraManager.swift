@@ -18,12 +18,14 @@ public class ShelfWatchCameraManager {
     public var uploadParams: [String: Any] {
         return self.config?.uploadParams ?? [:]
     }
+    public var isARCameraMode: Bool = false
     
     // MARK: - Initialization
     
     public init(projectId: String, userId: String, userInfo: [String: Any]? = nil, delegate: ShelfWatchDelegate, objectDetectionDelegate: ObjectDetectionDelegate) {
         
         self.delegate = delegate
+        self.isARCameraMode = userInfo?["isARcameraEnabled"] as? Bool ?? false
         
         self.shelfWatchCamera = ShelfWatchCamera(
             projectId: projectId,
@@ -34,11 +36,7 @@ public class ShelfWatchCameraManager {
         )
     }
     
-    public func showCamera(viewController: UIViewController) {
-        
-        guard let config = self.config else {
-            fatalError("CONFIG IS NIL!! CALL setupConfig(config: ) to set camera Config")
-        }
+    public func showCamera(config: CameraConfig, viewController: UIViewController) {
         
         let cameraConfiguration = self.prepareCameraConfiguration(from: config)
         self.shelfWatchCamera.showCamera(with: cameraConfiguration, viewController: viewController)

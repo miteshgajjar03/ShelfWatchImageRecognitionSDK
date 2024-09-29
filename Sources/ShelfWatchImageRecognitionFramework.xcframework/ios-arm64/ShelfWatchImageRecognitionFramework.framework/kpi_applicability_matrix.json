@@ -1,0 +1,229 @@
+[
+    {
+        "shelf_sections": "Cold Zone - KP Owned Main Fridge",
+        "answer": "",
+        "kpi_list": [
+            "Sku Availability - Kp Owned Fridge",
+            "Commercial Standard Compliance - Kp Owned Fridge",
+            "Listing Compliance",
+            "Outlet Availability Compliance",
+            "Share of Cold Zone"
+        ]
+    },
+    {
+        "shelf_sections": "Shelf",
+        "answer": "",
+        "kpi_list": "[\"Sku Availability - Shelf\", \"Listing Compliance\", \"Outlet Availability Compliance\",\"Share of Shelf\"\"]"
+    },
+    {
+        "shelf_sections": "Others",
+        "answer": "",
+        "kpi_list": [
+            "Sku Availability - Others",
+            "Listing Compliance",
+            "Outlet Availability Compliance"
+        ]
+    },
+    {
+        "shelf_sections": "Cold Zone - Retailer Owned Fridge",
+        "answer": "",
+        "kpi_list": [
+            "Sku Availability - Quantitative Rules",
+            "Listing Compliance",
+            "Outlet Availability Compliance",
+            "Share of Cold Zone"
+        ]
+    },
+    {
+        "shelf_sections": "Cold Zone - Retailer Owned Fridge",
+        "answer": "Producer Block",
+        "kpi_list": [
+            "Sku Availability - Quantitative Rules",
+            "Sub-segment Neighborhood",
+            "Listing Compliance",
+            "Outlet Availability Compliance",
+            "Share of Cold Zone"
+        ]
+    },
+    {
+        "shelf_sections": "Cold Zone - Retailer Owned Fridge",
+        "answer": "Hard Planogram",
+        "kpi_list": [
+            "Sku Availability - Hard Planogram",
+            "Listing Compliance",
+            "Outlet Availability Compliance",
+            "Share of Cold Zone",
+            "Image Captured"
+        ]
+    },
+    {
+        "shelf_sections": "Cold Zone - KP 0.0 Zones",
+        "answer": "Lodowka strefy 0%,lodowka strefy 0% buforowa",
+        "kpi_list": [
+            "Sku Availability - Buforowa",
+            "Commercial Standard Compliance - Buforowa",
+            "Listing Compliance",
+            "Outlet Availability Compliance",
+            "Share of Cold Zone"
+        ]
+    },
+    {
+        "shelf_sections": "Cold Zone - KP 0.0 Zones",
+        "answer": "Lodowka strefy 0%,lodowka strefy 0% 70cm",
+        "kpi_list": [
+            "Sku Availability - 70Cm",
+            "Commercial Standard Compliance - 70Cm",
+            "Listing Compliance",
+            "Outlet Availability Compliance",
+            "Share of Cold Zone"
+        ]
+    },
+    {
+        "shelf_sections": "Cold Zone - KP 0.0 Zones",
+        "answer": "Lodowka strefy 0%,lodowka strefy 0% 45cm",
+        "kpi_list": [
+            "Sku Availability - 45Cm",
+            "Commercial Standard Compliance - 45Cm",
+            "Listing Compliance",
+            "Outlet Availability Compliance",
+            "Share of Cold Zone"
+        ]
+    },
+    {
+        "shelf_sections": "Cold Zone - KP 0.0 Zones",
+        "answer": "strefa 0% w ciagu / lodowce wlasnej detalisty,Retailer's own fridge NAB",
+        "kpi_list": [
+            "Listing Compliance",
+            "Standard Compliance - Nab",
+            "Outlet Availability Compliance",
+            "Share of Cold Zone"
+        ]
+    },
+    {
+        "shelf_sections": "Cold Zone - KP 0.0 Zones",
+        "answer": "strefa 0% w lodowce Delikatesy Centrum,Delikatesy Centrum 0% fridge",
+        "kpi_list": [
+            "Listing Compliance",
+            "Standard Compliance - Delikatesy Centrum",
+            "Outlet Availability Compliance",
+            "Share of Cold Zone"
+        ]
+    },
+    {
+        "shelf_sections": "Cold Zone - KP 0.0 Zones",
+        "answer": "stand paletowy 0%",
+        "kpi_list": [
+            "Listing Compliance",
+            "Outlet Availability Compliance",
+            "Share of Cold Zone"
+        ]
+    },
+    {
+        "shelf_sections": "Cold Zone - KP 0.0 Zones",
+        "answer": "Coolio",
+        "kpi_list": [
+            "Listing Compliance",
+            "Outlet Availability Compliance",
+            "Share of Cold Zone"
+        ]
+    },
+    {
+        "shelf_sections": "Cold Zone - KP 0.0 Zones",
+        "answer": "Open Top",
+        "kpi_list": [
+            "Listing Compliance",
+            "Outlet Availability Compliance",
+            "Share of Cold Zone"
+        ]
+    },
+    {
+        "shelf_sections": "Cold Zone - KP 0.0 Zones",
+        "answer": "Lodowka mix strefa 0% / piwa smakowe",
+        "kpi_list": "[\"Listing Compliance\", \"Outlet Availability Compliance\", \"Share of Cold Zone"
+    },
+    {
+        "shelf_sections": "Cold Zone - KP 0.0 Zones",
+        "answer": "Lodowka mix strefa 0% / bufor",
+        "kpi_list": [
+            "Listing Compliance",
+            "Outlet Availability Compliance",
+            "Share of Cold Zone"
+        ]
+    },
+    {
+        "shelf_sections": "Cold Zone - KP 0.0 Zones",
+        "answer": "Lodowka mix strefa 0% / fun",
+        "kpi_list": [
+            "Listing Compliance",
+            "Outlet Availability Compliance",
+            "Share of Cold Zone"
+        ]
+    },
+    {
+        "shelf_sections": "Cold Zone - KP 0.0 Zones",
+        "answer": "Lod\\u00f3wka buforowa strefa 0.0 %,Lod\\u00f3wka buforowa strefa 0.0 %",
+        "kpi_list": [
+            "Sku Availability - Buforowa",
+            "Commercial Standard Compliance - Buforowa",
+            "Listing Compliance",
+            "Share of Cold Zone"
+        ]
+    },
+    {
+        "shelf_sections": "Cold Zone - KP 0.0 Zones",
+        "answer": "Lod\\u00f3wka buforowa strefa 0.0 % i piwa smakowe,Lod\\u00f3wka buforowa strefa 0.0 % i piwa smakowe",
+        "kpi_list": [
+            "Sku Availability - Piwa Smakowe",
+            "Commercial Standard Compliance - Piwa Smakowe",
+            "Listing Compliance",
+            "Share of Cold Zone"
+        ]
+    },
+    {
+        "shelf_sections": "Cold Zone - KP 0.0 Zones",
+        "answer": "Lod\\u00f3wka buforowa strefa 0.0 % i Modern,Lod\\u00f3wka buforowa strefa 0.0 % i Modern",
+        "kpi_list": [
+            "Sku Availability - Modern",
+            "Commercial Standard Compliance - Modern",
+            "Listing Compliance",
+            "Share of Cold Zone"
+        ]
+    },
+    {
+        "shelf_sections": "Cold Zone - KP 0.0 Zones",
+        "answer": "Lod\\u00f3wka strefy 0%,STREFA 0.0% 45 CM",
+        "kpi_list": [
+            "Sku Availability - 45Cm",
+            "Commercial Standard Compliance - 45Cm",
+            "Listing Compliance",
+            "Share of Cold Zone"
+        ]
+    },
+    {
+        "shelf_sections": "Cold Zone - KP 0.0 Zones",
+        "answer": "Lod\\u00f3wka strefy 0%,STREFA 0.0% 70 CM",
+        "kpi_list": [
+            "Sku Availability - 70Cm",
+            "Commercial Standard Compliance - 70Cm",
+            "Listing Compliance",
+            "Share of Cold Zone"
+        ]
+    },
+    {
+        "shelf_sections": "Cold Zone - KP 0.0 Zones",
+        "answer": "Paletowa / Roll",
+        "kpi_list": [
+            "Listing Compliance",
+            "Share of Cold Zone"
+        ]
+    },
+    {
+        "shelf_sections": "Cold Zone - Other Fridges",
+        "answer": "",
+        "kpi_list": [
+            "Sku Availability - Other Fridges",
+            "Listing Compliance",
+            "Share of Cold Zone"
+        ]
+    }
+]

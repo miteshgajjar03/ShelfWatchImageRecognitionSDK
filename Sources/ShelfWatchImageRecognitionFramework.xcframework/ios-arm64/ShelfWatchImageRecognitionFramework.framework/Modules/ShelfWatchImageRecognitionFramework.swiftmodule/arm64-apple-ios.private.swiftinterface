@@ -923,6 +923,28 @@ extension ShelfWatchImageRecognitionFramework.CDSubSegmentNeighbourhood : Swift.
   @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
   @objc deinit
 }
+@_inheritsConvenienceInitializers @objc(CDKPIApplicabilityMatrix) public class CDKPIApplicabilityMatrix : CoreData.NSManagedObject {
+  @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
+  @objc deinit
+}
+extension ShelfWatchImageRecognitionFramework.CDKPIApplicabilityMatrix {
+  @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<ShelfWatchImageRecognitionFramework.CDKPIApplicabilityMatrix>
+  @objc @NSManaged dynamic public var shelfSection: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var answer: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var kpiList: [Swift.String]? {
+    @objc get
+    @objc set
+  }
+}
+extension ShelfWatchImageRecognitionFramework.CDKPIApplicabilityMatrix : Swift.Identifiable {
+  public typealias ID = Swift.ObjectIdentifier
+}
 @_inheritsConvenienceInitializers @objc(CDPriceListProduct) public class CDPriceListProduct : CoreData.NSManagedObject {
   @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
   @objc deinit

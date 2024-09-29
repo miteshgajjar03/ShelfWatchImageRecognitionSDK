@@ -90,11 +90,11 @@
 		</data>
 		<key>Asahi.mlmodelc/coremldata.bin</key>
 		<data>
-		UVJalNfPi1JMwTMw2AkrJUSaY3c=
+		VKgIvQMgyHdPEvk7EhKQB4f7x7E=
 		</data>
 		<key>Asahi.mlmodelc/metadata.json</key>
 		<data>
-		sWWhsl7lBx+xVX9HA0xBC/LopqU=
+		yUduZM7VSiLi/PCHtw+S0eOtlvU=
 		</data>
 		<key>Asahi.mlmodelc/model0/analytics/coremldata.bin</key>
 		<data>
@@ -230,11 +230,11 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		lS6ztlzhGMRnb76enbXedILYcbs=
+		gkF984+QLrmgmF83/LJg8SPvrR4=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		nuOJtHdJ3M3NzWHvopztvlC3cAI=
+		jMMmMr0zNlj0fM2mr12BCauQt38=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -242,11 +242,11 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		nuOJtHdJ3M3NzWHvopztvlC3cAI=
+		jMMmMr0zNlj0fM2mr12BCauQt38=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		aUQbmjfD63LjIKd7A0v+vrAb0Fg=
+		y3tzG+Ll2CLe1uGYUNeglodu470=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -270,15 +270,15 @@
 		</data>
 		<key>ShelfWatch.momd/ShelfWatch_1.0.2.mom</key>
 		<data>
-		IdUWKfvNGyZodcRrP2p6hfKgv7s=
+		mpMNXw0FCvSQ4EQDm3LOOqIqrlo=
 		</data>
 		<key>ShelfWatch.momd/ShelfWatch_1.0.2.omo</key>
 		<data>
-		2MYp3BQKHB2XMZjuCR0woUjsf7Q=
+		BqXZ09xWmTJacQI8elCE091vsAI=
 		</data>
 		<key>ShelfWatch.momd/VersionInfo.plist</key>
 		<data>
-		L8Gu60E3oog/VA/8ltximr6zj80=
+		DrJFvFlU5MCo5IjkPzmfOp1NQEg=
 		</data>
 		<key>ar.lproj/Localizable.strings</key>
 		<dict>
@@ -329,17 +329,21 @@
 		<data>
 		urn+VxRm2U+esiXjfKzQcU3q/40=
 		</data>
+		<key>kpi_applicability_matrix.json</key>
+		<data>
+		XGnb97OTUPqIOVysYqvvi2OFXbA=
+		</data>
 		<key>mars_mt.mlmodelc/analytics/coremldata.bin</key>
 		<data>
 		B3m/PCjzFVNMG7AQOWOpdfi1tzs=
 		</data>
 		<key>mars_mt.mlmodelc/coremldata.bin</key>
 		<data>
-		MojFRoG6Tqz2U9kxCg3JBtwckVU=
+		nxalvdwhj+QxCPBbB7VMdEf2kY0=
 		</data>
 		<key>mars_mt.mlmodelc/metadata.json</key>
 		<data>
-		QJf647VfiESFwdYpbjJxw9V37Sc=
+		rnGptCIU4jb4ZrnoK41RK7kcpgY=
 		</data>
 		<key>mars_mt.mlmodelc/model0/analytics/coremldata.bin</key>
 		<data>
@@ -347,7 +351,7 @@
 		</data>
 		<key>mars_mt.mlmodelc/model0/coremldata.bin</key>
 		<data>
-		KKqHX6GINjeacxvGDx7mWn4Iju8=
+		VRFKEnOwU0cyiujBtMSJ8XUiZx0=
 		</data>
 		<key>mars_mt.mlmodelc/model0/model.espresso.net</key>
 		<data>
@@ -592,14 +596,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QqnJA3/V+nfV6Txd6EyOqqVyxR1CzvxF9DlgUTl9NPg=
+			8JUsbKWi1RJ1oVKfjqz77WuWBvW45y5VTh4r9vRUfg8=
 			</data>
 		</dict>
 		<key>Asahi.mlmodelc/metadata.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KJ60AmzPxSw6Lmez7cy9FAVFUIe1IsrvvtwH/WA947E=
+			YOAfo43Jg59WKHI3w1YqUVz90kba1aTKE0JeI2lUve8=
 			</data>
 		</dict>
 		<key>Asahi.mlmodelc/model0/analytics/coremldata.bin</key>
@@ -830,14 +834,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6njjf80KBf2kjnhXA348seBfqZ+yIJ7J8raPMI8JSu8=
+			wMFf3TSQA9DHK/QKfURsgRq38ZzwP9kb0/b7MDg1s4A=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KWjvYzL/20i+b+w4UbyGcnS1jFdtrAtcPaTV0vkB/KA=
+			E7m7BdEgGd8ZWSiOq6ObIi7yMsGoqqUEHHayVi4RLDI=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -851,14 +855,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KWjvYzL/20i+b+w4UbyGcnS1jFdtrAtcPaTV0vkB/KA=
+			E7m7BdEgGd8ZWSiOq6ObIi7yMsGoqqUEHHayVi4RLDI=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QyDMS9GZoSlABDGBwPxebVq9X5ZIDaTDG/mkqjAKUqU=
+			I1ZEcLCB8Dj+2IGqS181c+LEcZHUJvLU64fH7YGxB5E=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -900,21 +904,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FZrSxIRbUvXH26f2y631WclBV7XBQSOTZqXPCTyQteQ=
+			RUdjTa1y5VItUJm1zCebgXqZXWmRRRe7iaz+KaQntqM=
 			</data>
 		</dict>
 		<key>ShelfWatch.momd/ShelfWatch_1.0.2.omo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xq8pQ/EbvH7TAuBjguSM0DCr4dnvyxEhK6cwdd7hylc=
+			c8MqF5OEKghSZf/SCn66G2r2huVNFerZX1pv7KCnQv0=
 			</data>
 		</dict>
 		<key>ShelfWatch.momd/VersionInfo.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			obl3srBLsXHTd4DjjPuDmmpW7KBDjEV+IkWd5BQQ4A4=
+			dJ7OYhvWB9YDbQ/OhppDfqnl5NWqQaUn9J4IxSCkhuk=
 			</data>
 		</dict>
 		<key>ar.lproj/Localizable.strings</key>
@@ -969,6 +973,13 @@
 			y2t1DC9MnXDZSoV+slJhRPA6iWfflKQloJIrULJdEqY=
 			</data>
 		</dict>
+		<key>kpi_applicability_matrix.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jppPTl7xe78gFRyv3O55+Cy7Tu55EkDVvTBi3QgEmis=
+			</data>
+		</dict>
 		<key>mars_mt.mlmodelc/analytics/coremldata.bin</key>
 		<dict>
 			<key>hash2</key>
@@ -980,14 +991,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hv3bSN/lb3qAm55pj6z2Jp8g3Y+IRSG0Sohte2Z0YR4=
+			2IgeYKc6KVR38+yoLqvprJUCoq6AoEFkPq3AAEqahyk=
 			</data>
 		</dict>
 		<key>mars_mt.mlmodelc/metadata.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NqKHiD36BF4y44Waof0juHjwZpKaWLmFm4ssouYENQc=
+			YKIn+g2cDoTh4tMgA5BPfSiDtAbQ5vRyliKGtLP15WA=
 			</data>
 		</dict>
 		<key>mars_mt.mlmodelc/model0/analytics/coremldata.bin</key>
@@ -1001,7 +1012,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UPfnDm4/6dAseRJFfKIbCEybVCz/+byiTWgPf6gBX7k=
+			ECveI9PVC5GmMNLNwkxTGeF31IuiC6SrRiKwT8aa1n0=
 			</data>
 		</dict>
 		<key>mars_mt.mlmodelc/model0/model.espresso.net</key>

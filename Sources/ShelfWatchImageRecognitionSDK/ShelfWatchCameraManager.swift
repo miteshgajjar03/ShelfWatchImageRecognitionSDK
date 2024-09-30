@@ -142,7 +142,7 @@ extension ShelfWatchCameraManager: ImageUploadDelegate {
     
     public func downloadDataProgress(progressMeta: DownloadProgressMeta, sendUpdates: Bool) {
         
-        guard sendUpdates else { return }
+        // guard sendUpdates else { return }
         
         let downloadMeta = DownloadMeta(
             title: progressMeta.title,

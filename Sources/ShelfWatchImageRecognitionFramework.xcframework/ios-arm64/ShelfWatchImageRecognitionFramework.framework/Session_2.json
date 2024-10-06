@@ -1,0 +1,2648 @@
+[
+    {
+      "image_id": "7D6DE4FB-9A21-422D-83B4-A727B9431842_1.jpg",
+      "annotations": [
+        {
+          "label": "VELKOPOPOVICKY KOZEL LEZAK 11 Bottle",
+          "competition": "self",
+          "class_id": "3b7e3068-e83b-4568-bb6b-b5cee8c9cbed",
+          "boundingBox": {
+            "y": 822.81182861328125,
+            "serializedVersion": "2",
+            "x": 722.8057861328125,
+            "width": 31.578922271728516,
+            "height": 120.33745574951172
+          },
+          "group_id": "4b60226c-a119-4686-8362-4d5e43a67097",
+          "sku_name": "KOZEL LEZAK RB500"
+        },
+        {
+          "competition": "self",
+          "group_id": "e649bd29-be40-48d3-9995-f8f32b01489e",
+          "label": "LECH FREE ACTIVE HYDRATE LICZI I CYTRYNA Bottle",
+          "class_id": "44aa35d3-a334-4e5d-93e6-5a0f5d2d66b8",
+          "boundingBox": {
+            "y": 443.87451171875,
+            "serializedVersion": "2",
+            "x": 161.10592651367188,
+            "width": 38.4315185546875,
+            "height": 147.09968566894531
+          },
+          "sku_name": "LECH 0.0 HYDRATE LYCHEE LEMON RB500"
+        },
+        {
+          "class_id": "f868ee14-f5f1-48fe-b337-49bd08b575d2",
+          "competition": "self",
+          "group_id": "e6bc227c-e405-4292-9ad9-5e27a01c9f6f",
+          "boundingBox": {
+            "y": 450.342529296875,
+            "serializedVersion": "2",
+            "x": 206.05207824707031,
+            "width": 32.896999359130859,
+            "height": 140.36476135253906
+          },
+          "sku_name": "LECH 0.0 ACTIVE MANGO LEMON RB500",
+          "label": "LECH FREE ACTIVE HYDRATE MANGO I CYTRYNA Bottle"
+        },
+        {
+          "competition": "self",
+          "label": "DEBOWE DOJRZALE MOCNE Can",
+          "class_id": "3c8127cf-26f0-4032-9ab0-62ee9f906a79",
+          "group_id": "e8504f13-2fc5-438e-a27d-6a97f17e9b7c",
+          "boundingBox": {
+            "y": 690.60955810546875,
+            "serializedVersion": "2",
+            "x": 578.04058837890625,
+            "width": 35.050823211669922,
+            "height": 89.156959533691406
+          },
+          "sku_name": "DĘBOWE DOJRZAŁE MOCNE P500"
+        },
+        {
+          "class_id": "49c35c8a-4bfc-4219-b54b-848ed50a43dd",
+          "competition": "self",
+          "group_id": "95506c17-3686-4b10-aced-59735cfa59c4",
+          "sku_name": "LECH FREE LIME MINT 0.0 RB500",
+          "label": "LECH FREE LIMONKA Z MIETA Bottle",
+          "boundingBox": {
+            "y": 457.917236328125,
+            "serializedVersion": "2",
+            "x": 401.37472534179688,
+            "width": 31.157215118408203,
+            "height": 141.30665588378906
+          }
+        },
+        {
+          "class_id": "3f434f07-9f3d-40d5-8468-30c4a9e02186",
+          "sku_name": "KOZEL CERNY RB500",
+          "competition": "self",
+          "label": "VELKOPOPOVICKY KOZEL CERNY Bottle",
+          "boundingBox": {
+            "y": 814.01141357421875,
+            "serializedVersion": "2",
+            "x": 546.50982666015625,
+            "width": 32.767559051513672,
+            "height": 120.4166259765625
+          },
+          "group_id": "38f3b2da-36fa-4acc-b548-de66d92d027f"
+        },
+        {
+          "group_id": "2758f3e3-fcd6-47ed-8c4e-295fa1b272ca",
+          "competition": "self",
+          "boundingBox": {
+            "y": 632.641845703125,
+            "serializedVersion": "2",
+            "x": 245.35687255859375,
+            "width": 30.573003768920898,
+            "height": 135.49948120117188
+          },
+          "sku_name": "CAPTAIN JACK ORIGINAL NRB400",
+          "class_id": "ff0b2ea0-0580-4a14-8e0f-d5874d99ad9f",
+          "label": "CAPTAIN JACK ORIGINAL Bottle New"
+        },
+        {
+          "boundingBox": {
+            "y": 975.6868896484375,
+            "serializedVersion": "2",
+            "x": 674.21685791015625,
+            "width": 31.571464538574219,
+            "height": 121.34947204589844
+          },
+          "competition": "self",
+          "group_id": "0aa5d00c-e2d8-41d8-939e-51154c555bc3",
+          "label": "DEBOWE DOJRZALE MOCNE Bottle",
+          "sku_name": "DĘBOWE DOJRZAŁE MOCNE RB500",
+          "class_id": "d669fcb3-0a2d-428f-8827-acfa335fa7f6"
+        },
+        {
+          "class_id": "ff0b2ea0-0580-4a14-8e0f-d5874d99ad9f",
+          "boundingBox": {
+            "y": 633.58245849609375,
+            "serializedVersion": "2",
+            "x": 278.30117797851562,
+            "width": 28.562868118286133,
+            "height": 135.67240905761719
+          },
+          "label": "CAPTAIN JACK ORIGINAL Bottle New",
+          "group_id": "2758f3e3-fcd6-47ed-8c4e-295fa1b272ca",
+          "sku_name": "CAPTAIN JACK ORIGINAL NRB400",
+          "competition": "self"
+        },
+        {
+          "competition": "self",
+          "sku_name": "LECH PILS 4-PAK P500",
+          "boundingBox": {
+            "y": 1099.5771484375,
+            "serializedVersion": "2",
+            "x": 211.48304748535156,
+            "width": 44.861789703369141,
+            "height": 60.317920684814453
+          },
+          "group_id": "644ae53d-1636-41fb-9b6d-aa7a7871f458",
+          "label": "LECH PILS 4 Pack Can",
+          "class_id": "ceaf8669-137d-4df3-b393-860034184565"
+        },
+        {
+          "boundingBox": {
+            "y": 1120.3726806640625,
+            "serializedVersion": "2",
+            "x": 573.05352783203125,
+            "width": 28.360342025756836,
+            "height": 83.623306274414062
+          },
+          "sku_name": "ZUBR CN550S01",
+          "label": "ZUBR Can",
+          "class_id": "b5f73274-bb58-4b8d-ad99-aee2cd1eb354",
+          "group_id": "f568908b-935c-413c-b8fa-c765916a208e",
+          "competition": "self"
+        },
+        {
+          "boundingBox": {
+            "y": 813.9345703125,
+            "serializedVersion": "2",
+            "x": 512.470947265625,
+            "width": 31.79011344909668,
+            "height": 118.93552398681641
+          },
+          "class_id": "3f434f07-9f3d-40d5-8468-30c4a9e02186",
+          "competition": "self",
+          "sku_name": "KOZEL CERNY RB500",
+          "group_id": "38f3b2da-36fa-4acc-b548-de66d92d027f",
+          "label": "VELKOPOPOVICKY KOZEL CERNY Bottle"
+        },
+        {
+          "class_id": "3f434f07-9f3d-40d5-8468-30c4a9e02186",
+          "group_id": "38f3b2da-36fa-4acc-b548-de66d92d027f",
+          "boundingBox": {
+            "y": 819.41522216796875,
+            "serializedVersion": "2",
+            "x": 685.043212890625,
+            "width": 35.867973327636719,
+            "height": 120.93244171142578
+          },
+          "competition": "self",
+          "sku_name": "KOZEL CERNY RB500",
+          "label": "VELKOPOPOVICKY KOZEL CERNY Bottle"
+        },
+        {
+          "competition": "self",
+          "sku_name": "LECH PILS P500",
+          "boundingBox": {
+            "y": 1115.639892578125,
+            "serializedVersion": "2",
+            "x": 259.75015258789062,
+            "width": 33.188266754150391,
+            "height": 82.466407775878906
+          },
+          "class_id": "4b4d4ad3-3988-4730-93b6-17221ac7b30f",
+          "label": "LECH PILS Can",
+          "group_id": "3aa0b0c9-1efd-4a4a-a82e-46238b42eac8"
+        },
+        {
+          "sku_name": "LECH PREMIUM P500",
+          "competition": "self",
+          "group_id": "02f9f0da-ea05-4ec9-ab0c-c880b83ea86c",
+          "boundingBox": {
+            "y": 1111.9998779296875,
+            "serializedVersion": "2",
+            "x": 362.18869018554688,
+            "width": 32.296035766601562,
+            "height": 85.025299072265625
+          },
+          "label": "LECH PREMIUM Can",
+          "class_id": "971316a3-c04a-4b47-b0cc-04d0b19f2eeb"
+        },
+        {
+          "group_id": "4b60226c-a119-4686-8362-4d5e43a67097",
+          "label": "VELKOPOPOVICKY KOZEL LEZAK 11 Bottle",
+          "sku_name": "KOZEL LEZAK RB500",
+          "class_id": "3b7e3068-e83b-4568-bb6b-b5cee8c9cbed",
+          "competition": "self",
+          "boundingBox": {
+            "y": 816.1676025390625,
+            "serializedVersion": "2",
+            "x": 617.751708984375,
+            "width": 34.106792449951172,
+            "height": 122.95008087158203
+          }
+        },
+        {
+          "boundingBox": {
+            "y": 814.23565673828125,
+            "serializedVersion": "2",
+            "x": 581.5576171875,
+            "width": 33.496734619140625,
+            "height": 122.72871398925781
+          },
+          "label": "VELKOPOPOVICKY KOZEL CERNY Bottle",
+          "class_id": "3f434f07-9f3d-40d5-8468-30c4a9e02186",
+          "sku_name": "KOZEL CERNY RB500",
+          "group_id": "38f3b2da-36fa-4acc-b548-de66d92d027f",
+          "competition": "self"
+        },
+        {
+          "boundingBox": {
+            "y": 1121.819091796875,
+            "serializedVersion": "2",
+            "x": 604.55218505859375,
+            "width": 31.732704162597656,
+            "height": 76.960968017578125
+          },
+          "group_id": "f568908b-935c-413c-b8fa-c765916a208e",
+          "competition": "self",
+          "class_id": "b5f73274-bb58-4b8d-ad99-aee2cd1eb354",
+          "sku_name": "ZUBR CN550S01",
+          "label": "ZUBR Can"
+        },
+        {
+          "boundingBox": {
+            "y": 799.24493408203125,
+            "serializedVersion": "2",
+            "x": 256.96310424804688,
+            "width": 35.601291656494141,
+            "height": 128.32160949707031
+          },
+          "class_id": "894eff3f-45c7-461c-a343-afa30edc49db",
+          "label": "LECH PILS Bottle",
+          "competition": "self",
+          "sku_name": "LECH PILS RB500",
+          "group_id": "92846fc8-8708-4597-9602-17e9bb2d3452"
+        },
+        {
+          "group_id": "b8ec1b3b-0c0c-4e1a-80d9-0a16684b3e0c",
+          "competition": "self",
+          "boundingBox": {
+            "y": 637.9674072265625,
+            "serializedVersion": "2",
+            "x": 406.35662841796875,
+            "width": 26.814785003662109,
+            "height": 134.814697265625
+          },
+          "sku_name": "KSIĄŻĘCE ZŁOTE PSZENICZNE RB500 (KARTON 12 SZT)",
+          "class_id": "f82f4e14-0f54-48a2-ac1b-5d27883711de",
+          "label": "KSIAZECE ZLOTE PSZENICZNE Bottle"
+        },
+        {
+          "boundingBox": {
+            "y": 630.9166259765625,
+            "serializedVersion": "2",
+            "x": 207.17179870605469,
+            "width": 35.146331787109375,
+            "height": 135.78207397460938
+          },
+          "group_id": "c318fdf2-dbce-4c79-a51e-f078a4fa1691",
+          "sku_name": "HARDMADE YUZU NRB400",
+          "competition": "self",
+          "class_id": "6af2e1dc-5e84-4b77-841b-138bc21b0c01",
+          "label": "HARDMADE YUZU CRUSH Bottle"
+        },
+        {
+          "boundingBox": {
+            "y": 452.21871948242188,
+            "serializedVersion": "2",
+            "x": 281.19357299804688,
+            "width": 37.668117523193359,
+            "height": 142.67800903320312
+          },
+          "group_id": "e6bc227c-e405-4292-9ad9-5e27a01c9f6f",
+          "label": "LECH FREE ACTIVE HYDRATE MANGO I CYTRYNA Bottle",
+          "competition": "self",
+          "class_id": "f868ee14-f5f1-48fe-b337-49bd08b575d2",
+          "sku_name": "LECH 0.0 ACTIVE MANGO LEMON RB500"
+        },
+        {
+          "sku_name": "LECH PILS RB500",
+          "group_id": "92846fc8-8708-4597-9602-17e9bb2d3452",
+          "competition": "self",
+          "label": "LECH PILS Bottle",
+          "class_id": "894eff3f-45c7-461c-a343-afa30edc49db",
+          "boundingBox": {
+            "y": 956.2989501953125,
+            "serializedVersion": "2",
+            "x": 230.6759033203125,
+            "width": 31.705644607543945,
+            "height": 114.32077026367188
+          }
+        },
+        {
+          "boundingBox": {
+            "y": 972.4339599609375,
+            "serializedVersion": "2",
+            "x": 605.581787109375,
+            "width": 30.475200653076172,
+            "height": 118.76473999023438
+          },
+          "group_id": "0aa5d00c-e2d8-41d8-939e-51154c555bc3",
+          "competition": "self",
+          "class_id": "d669fcb3-0a2d-428f-8827-acfa335fa7f6",
+          "sku_name": "DĘBOWE DOJRZAŁE MOCNE RB500",
+          "label": "DEBOWE DOJRZALE MOCNE Bottle"
+        },
+        {
+          "boundingBox": {
+            "y": 816.14447021484375,
+            "serializedVersion": "2",
+            "x": 653.38323974609375,
+            "width": 30.261188507080078,
+            "height": 123.06312561035156
+          },
+          "label": "VELKOPOPOVICKY KOZEL LEZAK 11 Bottle",
+          "sku_name": "KOZEL LEZAK RB500",
+          "class_id": "3b7e3068-e83b-4568-bb6b-b5cee8c9cbed",
+          "competition": "self",
+          "group_id": "4b60226c-a119-4686-8362-4d5e43a67097"
+        },
+        {
+          "boundingBox": {
+            "y": 634.63116455078125,
+            "serializedVersion": "2",
+            "x": 309.12109375,
+            "width": 31.189712524414062,
+            "height": 134.69850158691406
+          },
+          "label": "CAPTAIN JACK DAIQUIRI Bottle",
+          "competition": "self",
+          "class_id": "a2c7c6ce-4bb8-43ce-946d-c18c3ecc4db8",
+          "sku_name": "CAPTAIN JACK EXOTIC DAIQUIRI NR400",
+          "group_id": "78a39da7-3503-450f-ad58-ed6999ed1116"
+        },
+        {
+          "group_id": "e6bc227c-e405-4292-9ad9-5e27a01c9f6f",
+          "boundingBox": {
+            "y": 448.96240234375,
+            "serializedVersion": "2",
+            "x": 241.24693298339844,
+            "width": 36.060272216796875,
+            "height": 144.41810607910156
+          },
+          "class_id": "f868ee14-f5f1-48fe-b337-49bd08b575d2",
+          "label": "LECH FREE ACTIVE HYDRATE MANGO I CYTRYNA Bottle",
+          "sku_name": "LECH 0.0 ACTIVE MANGO LEMON RB500",
+          "competition": "self"
+        },
+        {
+          "competition": "self",
+          "group_id": "47cee9c7-559b-4bf9-9973-11fe3dbb23e6",
+          "label": "KSIAZECE PORTER Bottle",
+          "class_id": "80a7b228-ff7b-4f9e-bcd5-55b822e49d13",
+          "sku_name": "KSIĄŻĘCE PORTER RB500 (KARTON 12 SZT)",
+          "boundingBox": {
+            "y": 637.8851318359375,
+            "serializedVersion": "2",
+            "x": 372.78543090820312,
+            "width": 31.218250274658203,
+            "height": 133.677001953125
+          }
+        },
+        {
+          "group_id": "0aa5d00c-e2d8-41d8-939e-51154c555bc3",
+          "sku_name": "DĘBOWE DOJRZAŁE MOCNE RB500",
+          "competition": "self",
+          "class_id": "d669fcb3-0a2d-428f-8827-acfa335fa7f6",
+          "label": "DEBOWE DOJRZALE MOCNE Bottle",
+          "boundingBox": {
+            "y": 970.07635498046875,
+            "serializedVersion": "2",
+            "x": 571.5850830078125,
+            "width": 30.93037223815918,
+            "height": 118.56303405761719
+          }
+        },
+        {
+          "class_id": "ed3a5e91-1c57-44d4-98cf-5af347f8acb9",
+          "label": "TYSKIE GRONIE Bottle",
+          "group_id": "41e32f44-10cc-417a-8956-47ae122f3e78",
+          "boundingBox": {
+            "y": 961.74676513671875,
+            "serializedVersion": "2",
+            "x": 399.89447021484375,
+            "width": 28.894906997680664,
+            "height": 119.21419525146484
+          },
+          "sku_name": "TYSKIE GRONIE NRB650",
+          "competition": "self"
+        },
+        {
+          "boundingBox": {
+            "y": 974.14520263671875,
+            "serializedVersion": "2",
+            "x": 638.05450439453125,
+            "width": 31.927272796630859,
+            "height": 120.62007904052734
+          },
+          "group_id": "0aa5d00c-e2d8-41d8-939e-51154c555bc3",
+          "class_id": "d669fcb3-0a2d-428f-8827-acfa335fa7f6",
+          "competition": "self",
+          "sku_name": "DĘBOWE DOJRZAŁE MOCNE RB500",
+          "label": "DEBOWE DOJRZALE MOCNE Bottle"
+        },
+        {
+          "class_id": "ad9f38fc-b69e-4a5d-aba6-f428b485b507",
+          "sku_name": "LECH FREE ARBUZ Z MIĘTĄ RB500",
+          "label": "LECH FREE ARBUZ Z MIETA Bottle",
+          "competition": "self",
+          "boundingBox": {
+            "y": 458.74700927734375,
+            "serializedVersion": "2",
+            "x": 323.37872314453125,
+            "width": 35.150222778320312,
+            "height": 137.71028137207031
+          },
+          "group_id": "d9b7e9d5-016d-4fcd-8d36-db84166f9e9f"
+        },
+        {
+          "group_id": "92846fc8-8708-4597-9602-17e9bb2d3452",
+          "sku_name": "LECH PILS RB500",
+          "class_id": "894eff3f-45c7-461c-a343-afa30edc49db",
+          "competition": "self",
+          "label": "LECH PILS Bottle",
+          "boundingBox": {
+            "y": 796.65203857421875,
+            "serializedVersion": "2",
+            "x": 181.9664306640625,
+            "width": 34.957809448242188,
+            "height": 127.03353118896484
+          }
+        },
+        {
+          "group_id": "ff64c680-3f1e-452a-b1be-c95fdbdc34fd",
+          "boundingBox": {
+            "y": 1116.1680908203125,
+            "serializedVersion": "2",
+            "x": 489.81942749023438,
+            "width": 19.576644897460938,
+            "height": 79.778152465820312
+          },
+          "label": "TYSKIE GRONIE 4 Pack Can",
+          "competition": "self",
+          "sku_name": "TYSKIE GRONIE CN550 4 Pack Can",
+          "class_id": "573d6817-15af-4aa3-a3c8-96d520fcf0d3"
+        },
+        {
+          "competition": "self",
+          "sku_name": "ŻUBR RB500",
+          "class_id": "196bc84c-23b0-4ea6-8ec3-7e2ac1086936",
+          "group_id": "e58ebc3f-b49e-447d-b6bb-c86420d5c534",
+          "boundingBox": {
+            "y": 967.38885498046875,
+            "serializedVersion": "2",
+            "x": 498.56121826171875,
+            "width": 33.035007476806641,
+            "height": 118.59444427490234
+          },
+          "label": "ZUBR Bottle"
+        },
+        {
+          "sku_name": "TYSKIE 0% RB500",
+          "boundingBox": {
+            "y": 958.2864990234375,
+            "serializedVersion": "2",
+            "x": 265.0775146484375,
+            "width": 32.221149444580078,
+            "height": 114.50914764404297
+          },
+          "class_id": "e4dc66ec-12ae-4abd-aeb5-37010161b459",
+          "group_id": "08ae81be-a50c-4320-9c9a-caeae65d7645",
+          "label": "TYSKIE 0.0 Bottle",
+          "competition": "self"
+        },
+        {
+          "class_id": "27b176af-b6e3-4af3-8cf6-50c6ed9a19f1",
+          "label": "LECH PREMIUM 4 Pack Can",
+          "boundingBox": {
+            "y": 1111.452880859375,
+            "serializedVersion": "2",
+            "x": 298.65438842773438,
+            "width": 58.323196411132812,
+            "height": 88.8970947265625
+          },
+          "sku_name": "LECH PREMIUM 4-PAK P500",
+          "competition": "self",
+          "group_id": "b341da4a-be55-4f61-a400-8dedefe4caf3"
+        },
+        {
+          "class_id": "894eff3f-45c7-461c-a343-afa30edc49db",
+          "sku_name": "LECH PILS RB500",
+          "boundingBox": {
+            "y": 796.6973876953125,
+            "serializedVersion": "2",
+            "x": 220.18260192871094,
+            "width": 33.640811920166016,
+            "height": 127.89370727539062
+          },
+          "group_id": "92846fc8-8708-4597-9602-17e9bb2d3452",
+          "competition": "self",
+          "label": "LECH PILS Bottle"
+        },
+        {
+          "class_id": "894eff3f-45c7-461c-a343-afa30edc49db",
+          "sku_name": "LECH PILS RB500",
+          "competition": "self",
+          "boundingBox": {
+            "y": 957.48828125,
+            "serializedVersion": "2",
+            "x": 193.58110046386719,
+            "width": 32.544574737548828,
+            "height": 113.68994903564453
+          },
+          "group_id": "92846fc8-8708-4597-9602-17e9bb2d3452",
+          "label": "LECH PILS Bottle"
+        },
+        {
+          "class_id": "5aaa08a1-70a4-4d47-a0f5-0d4fe919da2f",
+          "competition": "self",
+          "label": "KSIAZECE IPA Bottle",
+          "boundingBox": {
+            "y": 643.7861328125,
+            "serializedVersion": "2",
+            "x": 508.04885864257812,
+            "width": 31.535121917724609,
+            "height": 133.88601684570312
+          },
+          "group_id": "91c2a6c3-2706-4da6-a745-eeca44de85eb",
+          "sku_name": "KSIĄŻĘCE IPA RB500 (KARTON 12 SZT)"
+        },
+        {
+          "competition": "self",
+          "class_id": "ad9f38fc-b69e-4a5d-aba6-f428b485b507",
+          "boundingBox": {
+            "y": 463.35400390625,
+            "serializedVersion": "2",
+            "x": 514.74163818359375,
+            "width": 36.491867065429688,
+            "height": 140.77818298339844
+          },
+          "sku_name": "LECH FREE ARBUZ Z MIĘTĄ RB500",
+          "group_id": "d9b7e9d5-016d-4fcd-8d36-db84166f9e9f",
+          "label": "LECH FREE ARBUZ Z MIETA Bottle"
+        },
+        {
+          "competition": "self",
+          "label": "LECH FREE LIMONKA Z MIETA Bottle",
+          "sku_name": "LECH FREE LIME MINT 0.0 RB500",
+          "group_id": "95506c17-3686-4b10-aced-59735cfa59c4",
+          "boundingBox": {
+            "y": 456.38491821289062,
+            "serializedVersion": "2",
+            "x": 363.59701538085938,
+            "width": 34.714756011962891,
+            "height": 142.04403686523438
+          },
+          "class_id": "49c35c8a-4bfc-4219-b54b-848ed50a43dd"
+        },
+        {
+          "group_id": "c23785f3-5103-487f-a216-c8232dc258bc",
+          "label": "LECH FREE Bottle",
+          "sku_name": "LECH FREE 0.0 RB500",
+          "competition": "self",
+          "class_id": "14bc6766-7b9c-4172-b0a1-7ab70ffe40c1",
+          "boundingBox": {
+            "y": 466.304931640625,
+            "serializedVersion": "2",
+            "x": 638.1717529296875,
+            "width": 34.480552673339844,
+            "height": 139.36778259277344
+          }
+        },
+        {
+          "boundingBox": {
+            "y": 958.17608642578125,
+            "serializedVersion": "2",
+            "x": 332.48068237304688,
+            "width": 31.357976913452148,
+            "height": 119.44499969482422
+          },
+          "competition": "self",
+          "class_id": "ed3a5e91-1c57-44d4-98cf-5af347f8acb9",
+          "group_id": "41e32f44-10cc-417a-8956-47ae122f3e78",
+          "label": "TYSKIE GRONIE Bottle",
+          "sku_name": "TYSKIE GRONIE NRB650"
+        },
+        {
+          "label": "LECH FREE ARBUZ Z MIETA Bottle",
+          "group_id": "d9b7e9d5-016d-4fcd-8d36-db84166f9e9f",
+          "competition": "self",
+          "sku_name": "LECH FREE ARBUZ Z MIĘTĄ RB500",
+          "class_id": "ad9f38fc-b69e-4a5d-aba6-f428b485b507",
+          "boundingBox": {
+            "y": 463.22616577148438,
+            "serializedVersion": "2",
+            "x": 556.32354736328125,
+            "width": 38.845905303955078,
+            "height": 140.85671997070312
+          }
+        },
+        {
+          "label": "TYSKIE 0.0 Bottle",
+          "group_id": "08ae81be-a50c-4320-9c9a-caeae65d7645",
+          "sku_name": "TYSKIE 0% RB500",
+          "boundingBox": {
+            "y": 959.68731689453125,
+            "serializedVersion": "2",
+            "x": 300.16683959960938,
+            "width": 30.492965698242188,
+            "height": 114.67644500732422
+          },
+          "competition": "self",
+          "class_id": "e4dc66ec-12ae-4abd-aeb5-37010161b459"
+        },
+        {
+          "group_id": "037f6876-ba32-4675-9387-408e5b0b3f5d",
+          "boundingBox": {
+            "y": 803.60882568359375,
+            "serializedVersion": "2",
+            "x": 358.50042724609375,
+            "width": 28.435516357421875,
+            "height": 110.61137390136719
+          },
+          "class_id": "d8e29280-d9ef-42e9-8d99-b97ffbd83864",
+          "sku_name": "LECH PREMIUM RB500",
+          "label": "LECH PREMIUM Bottle",
+          "competition": "self"
+        },
+        {
+          "sku_name": "ŻUBR RB500",
+          "competition": "self",
+          "boundingBox": {
+            "y": 968.7171630859375,
+            "serializedVersion": "2",
+            "x": 534.76715087890625,
+            "width": 33.542259216308594,
+            "height": 117.9312744140625
+          },
+          "group_id": "e58ebc3f-b49e-447d-b6bb-c86420d5c534",
+          "class_id": "196bc84c-23b0-4ea6-8ec3-7e2ac1086936",
+          "label": "ZUBR Bottle"
+        },
+        {
+          "class_id": "7b3fb113-4aae-43b1-bd76-7ba799f56864",
+          "competition": "self",
+          "group_id": "e70d3fce-19d3-4615-9fba-b316b0328337",
+          "boundingBox": {
+            "y": 646.89178466796875,
+            "serializedVersion": "2",
+            "x": 732.8065185546875,
+            "width": 41.505741119384766,
+            "height": 137.884521484375
+          },
+          "label": "PILSNER URQUELL Bottle",
+          "sku_name": "PILSNER URQUELL NRB500"
+        },
+        {
+          "sku_name": "DĘBOWE DOJRZAŁE MOCNE 4-PAK P500",
+          "competition": "self",
+          "label": "DEBOWE DOJRZALE MOCNE 4 Pack Can",
+          "boundingBox": {
+            "y": 689.43621826171875,
+            "serializedVersion": "2",
+            "x": 616.21142578125,
+            "width": 53.800815582275391,
+            "height": 91.6385498046875
+          },
+          "class_id": "78d1f317-c004-43fa-b9d2-ccd0821abf03",
+          "group_id": "dec75100-eccc-40fe-a520-e7d926a49ce6"
+        },
+        {
+          "sku_name": "LECH FREE ARBUZ Z MIĘTĄ RB500",
+          "competition": "self",
+          "group_id": "d9b7e9d5-016d-4fcd-8d36-db84166f9e9f",
+          "class_id": "ad9f38fc-b69e-4a5d-aba6-f428b485b507",
+          "boundingBox": {
+            "y": 463.091796875,
+            "serializedVersion": "2",
+            "x": 598.76580810546875,
+            "width": 37.082229614257812,
+            "height": 142.44306945800781
+          },
+          "label": "LECH FREE ARBUZ Z MIETA Bottle"
+        },
+        {
+          "class_id": "7b3fb113-4aae-43b1-bd76-7ba799f56864",
+          "boundingBox": {
+            "y": 647.9921875,
+            "serializedVersion": "2",
+            "x": 686.4315185546875,
+            "width": 41.790657043457031,
+            "height": 136.28799438476562
+          },
+          "label": "PILSNER URQUELL Bottle",
+          "group_id": "e70d3fce-19d3-4615-9fba-b316b0328337",
+          "competition": "self",
+          "sku_name": "PILSNER URQUELL NRB500"
+        },
+        {
+          "label": "TYSKIE GRONIE Bottle",
+          "boundingBox": {
+            "y": 960.8990478515625,
+            "serializedVersion": "2",
+            "x": 366.617919921875,
+            "width": 31.056108474731445,
+            "height": 118.45448303222656
+          },
+          "class_id": "ed3a5e91-1c57-44d4-98cf-5af347f8acb9",
+          "group_id": "41e32f44-10cc-417a-8956-47ae122f3e78",
+          "sku_name": "TYSKIE GRONIE NRB650",
+          "competition": "self"
+        },
+        {
+          "boundingBox": {
+            "y": 1117.7276611328125,
+            "serializedVersion": "2",
+            "x": 512.6361083984375,
+            "width": 57.090530395507812,
+            "height": 82.386543273925781
+          },
+          "class_id": "573d6817-15af-4aa3-a3c8-96d520fcf0d3",
+          "group_id": "ff64c680-3f1e-452a-b1be-c95fdbdc34fd",
+          "competition": "self",
+          "sku_name": "TYSKIE GRONIE CN550 4 Pack Can",
+          "label": "TYSKIE GRONIE 4 Pack Can"
+        },
+        {
+          "boundingBox": {
+            "y": 645.3690185546875,
+            "serializedVersion": "2",
+            "x": 541.6068115234375,
+            "width": 33.92266845703125,
+            "height": 132.79830932617188
+          },
+          "sku_name": "DĘBOWE DOJRZAŁE MOCNE RB500",
+          "group_id": "0aa5d00c-e2d8-41d8-939e-51154c555bc3",
+          "competition": "self",
+          "class_id": "d669fcb3-0a2d-428f-8827-acfa335fa7f6",
+          "label": "DEBOWE DOJRZALE MOCNE Bottle"
+        },
+        {
+          "class_id": "3056a005-1acc-48aa-b563-3c8ebdc8a7d2",
+          "group_id": "14bf883f-3daa-42d3-80ad-e202dcada7aa",
+          "label": "VELKOPOPOVICKY KOZEL 0.0 Bottle",
+          "boundingBox": {
+            "y": 467.1937255859375,
+            "serializedVersion": "2",
+            "x": 717.19482421875,
+            "width": 38.014122009277344,
+            "height": 139.98951721191406
+          },
+          "competition": "self",
+          "sku_name": "KOZEL 0.0 RB500"
+        },
+        {
+          "label": "VELKOPOPOVICKY KOZEL 0.0 Bottle",
+          "group_id": "14bf883f-3daa-42d3-80ad-e202dcada7aa",
+          "class_id": "3056a005-1acc-48aa-b563-3c8ebdc8a7d2",
+          "competition": "self",
+          "boundingBox": {
+            "y": 469.476806640625,
+            "serializedVersion": "2",
+            "x": 757.9906005859375,
+            "width": 35.095371246337891,
+            "height": 141.30665588378906
+          },
+          "sku_name": "KOZEL 0.0 RB500"
+        },
+        {
+          "class_id": "e4dc66ec-12ae-4abd-aeb5-37010161b459",
+          "group_id": "08ae81be-a50c-4320-9c9a-caeae65d7645",
+          "boundingBox": {
+            "y": 467.84283447265625,
+            "serializedVersion": "2",
+            "x": 675.60369873046875,
+            "width": 37.85614013671875,
+            "height": 139.31706237792969
+          },
+          "sku_name": "TYSKIE 0% RB500",
+          "label": "TYSKIE 0.0 Bottle",
+          "competition": "self"
+        },
+        {
+          "boundingBox": {
+            "y": 805.2738037109375,
+            "serializedVersion": "2",
+            "x": 392.76885986328125,
+            "width": 19.862548828125,
+            "height": 107.38599395751953
+          },
+          "class_id": "d8e29280-d9ef-42e9-8d99-b97ffbd83864",
+          "group_id": "037f6876-ba32-4675-9387-408e5b0b3f5d",
+          "label": "LECH PREMIUM Bottle",
+          "competition": "self",
+          "sku_name": "LECH PREMIUM RB500"
+        },
+        {
+          "class_id": "6af2e1dc-5e84-4b77-841b-138bc21b0c01",
+          "group_id": "c318fdf2-dbce-4c79-a51e-f078a4fa1691",
+          "boundingBox": {
+            "y": 628.0933837890625,
+            "serializedVersion": "2",
+            "x": 171.08233642578125,
+            "width": 33.404457092285156,
+            "height": 135.656494140625
+          },
+          "competition": "self",
+          "sku_name": "HARDMADE YUZU NRB400",
+          "label": "HARDMADE YUZU CRUSH Bottle"
+        },
+        {
+          "competition": "competitor",
+          "boundingBox": {
+            "y": 802.62762451171875,
+            "serializedVersion": "2",
+            "x": 325.97735595703125,
+            "width": 25.29139518737793,
+            "height": 101.39525604248047
+          },
+          "sku_name": "Others",
+          "class_id": "a13b214b-ea64-4e85-a1fc-feb8ad545fd8",
+          "label": "Others",
+          "group_id": "4a1f2092-780d-4125-9c9e-0a6fde2a6e4a"
+        },
+        {
+          "sku_name": "TYSKIE GRONIE NRB650",
+          "group_id": "41e32f44-10cc-417a-8956-47ae122f3e78",
+          "class_id": "ed3a5e91-1c57-44d4-98cf-5af347f8acb9",
+          "competition": "self",
+          "label": "TYSKIE GRONIE Bottle",
+          "boundingBox": {
+            "y": 807.8529052734375,
+            "serializedVersion": "2",
+            "x": 412.67568969726562,
+            "width": 18.591268539428711,
+            "height": 121.08070373535156
+          }
+        }
+      ],
+      "captureTimestamp": "2024-10-01 14:02:27",
+      "questions": [
+        {
+          "question": "Fridge Model",
+          "options": [
+            {
+              "selected": 1,
+              "option": "1D 45-50 cm",
+              "questions": [
+                {
+                  "question_type": "leaf",
+                  "options": [
+                    {
+                      "selected": 1,
+                      "option": "Lodówka strefy 0%"
+                    }
+                  ],
+                  "question": "Fridge Destination",
+                  "required": 1
+                }
+              ]
+            },
+            {
+              "previous_audit_selected": 1,
+              "option": "1D 60 cm",
+              "questions": [
+                {
+                  "question_type": "leaf",
+                  "options": [
+                    {
+                      "previous_audit_selected": 1,
+                      "option": "Lodówka strefy 0%"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 %"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i piwa smakowe"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i Modern"
+                    }
+                  ],
+                  "question": "Fridge Destination",
+                  "required": 1
+                }
+              ]
+            },
+            {
+              "option": "1D 70 cm",
+              "questions": [
+                {
+                  "question_type": "leaf",
+                  "options": [
+                    {
+                      "option": "Lodówka strefy 0%"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 %"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i piwa smakowe"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i Modern"
+                    }
+                  ],
+                  "question": "Fridge Destination",
+                  "required": 1
+                }
+              ]
+            },
+            {
+              "option": "1D 80 cm",
+              "questions": [
+                {
+                  "question_type": "leaf",
+                  "options": [
+                    {
+                      "option": "Lodówka strefy 0%"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 %"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i piwa smakowe"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i Modern"
+                    }
+                  ],
+                  "question": "Fridge Destination",
+                  "required": 1
+                }
+              ]
+            },
+            {
+              "option": "1.5D 90 cm",
+              "questions": [
+                {
+                  "question_type": "leaf",
+                  "options": [
+                    {
+                      "option": "Lodówka strefy 0%"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 %"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i piwa smakowe"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i Modern"
+                    }
+                  ],
+                  "question": "Fridge Destination",
+                  "required": 1
+                }
+              ]
+            },
+            {
+              "option": "2D 110 cm",
+              "questions": [
+                {
+                  "question_type": "leaf",
+                  "options": [
+                    {
+                      "option": "Lodówka strefy 0%"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 %"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i piwa smakowe"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i Modern"
+                    }
+                  ],
+                  "question": "Fridge Destination",
+                  "required": 1
+                }
+              ]
+            },
+            {
+              "option": "2D 120 cm",
+              "questions": [
+                {
+                  "question_type": "leaf",
+                  "options": [
+                    {
+                      "option": "Lodówka strefy 0%"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 %"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i piwa smakowe"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i Modern"
+                    }
+                  ],
+                  "question": "Fridge Destination",
+                  "required": 1
+                }
+              ]
+            },
+            {
+              "option": "2D 130 cm",
+              "questions": [
+                {
+                  "question_type": "leaf",
+                  "options": [
+                    {
+                      "option": "Lodówka strefy 0%"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 %"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i piwa smakowe"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i Modern"
+                    }
+                  ],
+                  "question": "Fridge Destination",
+                  "required": 1
+                }
+              ]
+            },
+            {
+              "option": "Open front 70 cm",
+              "questions": [
+                {
+                  "question_type": "leaf",
+                  "options": [
+                    {
+                      "option": "Lodówka strefy 0%"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 %"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i piwa smakowe"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i Modern"
+                    }
+                  ],
+                  "question": "Fridge Destination",
+                  "required": 1
+                }
+              ]
+            },
+            {
+              "option": "Open front 90 cm",
+              "questions": [
+                {
+                  "question_type": "leaf",
+                  "options": [
+                    {
+                      "option": "Lodówka strefy 0%"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 %"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i piwa smakowe"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i Modern"
+                    }
+                  ],
+                  "question": "Fridge Destination",
+                  "required": 1
+                }
+              ]
+            },
+            {
+              "option": "Open front 110 cm",
+              "questions": [
+                {
+                  "question_type": "leaf",
+                  "options": [
+                    {
+                      "option": "Lodówka strefy 0%"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 %"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i piwa smakowe"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i Modern"
+                    }
+                  ],
+                  "question": "Fridge Destination",
+                  "required": 1
+                }
+              ]
+            },
+            {
+              "option": "Open front 130 cm",
+              "questions": [
+                {
+                  "question_type": "leaf",
+                  "options": [
+                    {
+                      "option": "Lodówka strefy 0%"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 %"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i piwa smakowe"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i Modern"
+                    }
+                  ],
+                  "question": "Fridge Destination",
+                  "required": 1
+                }
+              ]
+            },
+            {
+              "option": "Open Top"
+            },
+            {
+              "option": "Paletowa \/ Roll"
+            },
+            {
+              "option": "Coolio"
+            },
+            {
+              "option": "ciąg chłodniczy \/ lodówka własna detalisty",
+              "questions": [
+                {
+                  "question_type": "leaf",
+                  "options": [
+                    {
+                      "option": "strefa 0% w ciagu \/ lodowce wlasnej detalisty"
+                    },
+                    {
+                      "option": "strefa 0% w lodowce Delikatesy Centrum"
+                    }
+                  ],
+                  "question": "Fridge Destination",
+                  "required": 1
+                }
+              ]
+            }
+          ],
+          "question_type": "loop",
+          "required": 1
+        }
+      ],
+      "uploadStatus": false,
+      "session_Id": "7D6DE4FB-9A21-422D-83B4-A727B9431842",
+      "shelfType": "Cold Zone - KP 0.0 Fridge",
+      "annotationFileName": "7D6DE4FB-9A21-422D-83B4-A727B9431842_1_AnnotationData.json"
+    },
+    {
+      "annotations": [
+        {
+          "sku_name": "KOZEL LEZAK P500",
+          "competition": "self",
+          "label": "VELKOPOPOVICKY KOZEL LEZAK 11 Can",
+          "group_id": "e87e2cf5-ddf2-4e7e-a148-86a565860225",
+          "boundingBox": {
+            "y": 725.79168701171875,
+            "serializedVersion": "2",
+            "x": 632.2877197265625,
+            "width": 28.955533981323242,
+            "height": 75.07476806640625
+          },
+          "class_id": "c82e7a77-8c9f-4770-ba58-538ec2620315"
+        },
+        {
+          "group_id": "c23785f3-5103-487f-a216-c8232dc258bc",
+          "sku_name": "LECH FREE 0.0 RB500",
+          "competition": "self",
+          "boundingBox": {
+            "y": 382.52499389648438,
+            "serializedVersion": "2",
+            "x": 572.74322509765625,
+            "width": 31.78007698059082,
+            "height": 133.06069946289062
+          },
+          "label": "LECH FREE Bottle",
+          "class_id": "14bc6766-7b9c-4172-b0a1-7ab70ffe40c1"
+        },
+        {
+          "sku_name": "LECH PREMIUM P500",
+          "boundingBox": {
+            "y": 719.47650146484375,
+            "serializedVersion": "2",
+            "x": 320.42025756835938,
+            "width": 25.535343170166016,
+            "height": 73.179122924804688
+          },
+          "label": "LECH PREMIUM Can",
+          "competition": "self",
+          "class_id": "971316a3-c04a-4b47-b0cc-04d0b19f2eeb",
+          "group_id": "02f9f0da-ea05-4ec9-ab0c-c880b83ea86c"
+        },
+        {
+          "label": "ZUBR Can",
+          "group_id": "f568908b-935c-413c-b8fa-c765916a208e",
+          "competition": "self",
+          "sku_name": "ZUBR CN550S01",
+          "class_id": "b5f73274-bb58-4b8d-ad99-aee2cd1eb354",
+          "boundingBox": {
+            "y": 721.98504638671875,
+            "serializedVersion": "2",
+            "x": 533.1632080078125,
+            "width": 32.512832641601562,
+            "height": 75.524169921875
+          }
+        },
+        {
+          "group_id": "e6bc227c-e405-4292-9ad9-5e27a01c9f6f",
+          "competition": "self",
+          "class_id": "f868ee14-f5f1-48fe-b337-49bd08b575d2",
+          "boundingBox": {
+            "y": 375.166259765625,
+            "serializedVersion": "2",
+            "x": 170.96031188964844,
+            "width": 35.860954284667969,
+            "height": 129.92317199707031
+          },
+          "label": "LECH FREE ACTIVE HYDRATE MANGO I CYTRYNA Bottle",
+          "sku_name": "LECH 0.0 ACTIVE MANGO LEMON RB500"
+        },
+        {
+          "group_id": "03e9a13f-a0d8-477a-bfc0-525f16d7cff8",
+          "competition": "self",
+          "sku_name": "HARDMADE RASPBERRY NRB400",
+          "label": "HARDMADE RASPBERRY CRUSH Bottle",
+          "boundingBox": {
+            "y": 572.24542236328125,
+            "serializedVersion": "2",
+            "x": 241.458740234375,
+            "width": 31.334409713745117,
+            "height": 102.27375793457031
+          },
+          "class_id": "4811559d-1dba-433b-8858-7aabbec567e9"
+        },
+        {
+          "class_id": "ff0b2ea0-0580-4a14-8e0f-d5874d99ad9f",
+          "competition": "self",
+          "boundingBox": {
+            "y": 566.81292724609375,
+            "serializedVersion": "2",
+            "x": 339.8568115234375,
+            "width": 29.766176223754883,
+            "height": 109.15208435058594
+          },
+          "sku_name": "CAPTAIN JACK ORIGINAL NRB400",
+          "label": "CAPTAIN JACK ORIGINAL Bottle New",
+          "group_id": "2758f3e3-fcd6-47ed-8c4e-295fa1b272ca"
+        },
+        {
+          "group_id": "1648da68-a30a-480a-8259-d9a4ab9e55a3",
+          "boundingBox": {
+            "y": 721.7279052734375,
+            "serializedVersion": "2",
+            "x": 414.07693481445312,
+            "width": 23.141641616821289,
+            "height": 74.486244201660156
+          },
+          "label": "TYSKIE GRONIE Can",
+          "competition": "self",
+          "sku_name": "TYSKIE GRONIE CN550 Can",
+          "class_id": "47a83bba-d714-46bc-8c7d-630d0cf647b8"
+        },
+        {
+          "competition": "self",
+          "group_id": "42a55a4b-9816-46f4-86ee-73a04957fecd",
+          "class_id": "01956c55-c11e-4e59-9cbe-e0c1fca0ea5c",
+          "label": "CAPTAIN JACK BLUE LAGOON Bottle",
+          "boundingBox": {
+            "y": 556.5462646484375,
+            "serializedVersion": "2",
+            "x": 433.80255126953125,
+            "width": 19.032426834106445,
+            "height": 120.99313354492188
+          },
+          "sku_name": "CAPTAIN JACK BLUE LAGOON NRB400"
+        },
+        {
+          "boundingBox": {
+            "y": 721.24591064453125,
+            "serializedVersion": "2",
+            "x": 566.9266357421875,
+            "width": 22.984861373901367,
+            "height": 74.147171020507812
+          },
+          "competition": "self",
+          "sku_name": "ZUBR CN550S01",
+          "label": "ZUBR Can",
+          "class_id": "b5f73274-bb58-4b8d-ad99-aee2cd1eb354",
+          "group_id": "f568908b-935c-413c-b8fa-c765916a208e"
+        },
+        {
+          "boundingBox": {
+            "y": 959.2017822265625,
+            "serializedVersion": "2",
+            "x": 206.71926879882812,
+            "width": 28.906572341918945,
+            "height": 107.89100646972656
+          },
+          "sku_name": "LECH PILS RB500",
+          "group_id": "92846fc8-8708-4597-9602-17e9bb2d3452",
+          "label": "LECH PILS Bottle",
+          "competition": "self",
+          "class_id": "894eff3f-45c7-461c-a343-afa30edc49db"
+        },
+        {
+          "sku_name": "LECH PILS RB500",
+          "class_id": "894eff3f-45c7-461c-a343-afa30edc49db",
+          "label": "LECH PILS Bottle",
+          "competition": "self",
+          "boundingBox": {
+            "y": 958.42364501953125,
+            "serializedVersion": "2",
+            "x": 268.82534790039062,
+            "width": 28.652536392211914,
+            "height": 110.84953308105469
+          },
+          "group_id": "92846fc8-8708-4597-9602-17e9bb2d3452"
+        },
+        {
+          "label": "LECH FREE ARBUZ Z MIETA Bottle",
+          "boundingBox": {
+            "y": 379.2147216796875,
+            "serializedVersion": "2",
+            "x": 352.953369140625,
+            "width": 31.854072570800781,
+            "height": 132.488037109375
+          },
+          "group_id": "d9b7e9d5-016d-4fcd-8d36-db84166f9e9f",
+          "sku_name": "LECH FREE ARBUZ Z MIĘTĄ RB500",
+          "competition": "self",
+          "class_id": "ad9f38fc-b69e-4a5d-aba6-f428b485b507"
+        },
+        {
+          "boundingBox": {
+            "y": 375.5966796875,
+            "serializedVersion": "2",
+            "x": 211.00527954101562,
+            "width": 31.519832611083984,
+            "height": 131.45533752441406
+          },
+          "competition": "self",
+          "sku_name": "LECH 0.0 HYDRATE LYCHEE LEMON RB500",
+          "class_id": "44aa35d3-a334-4e5d-93e6-5a0f5d2d66b8",
+          "label": "LECH FREE ACTIVE HYDRATE LICZI I CYTRYNA Bottle",
+          "group_id": "e649bd29-be40-48d3-9995-f8f32b01489e"
+        },
+        {
+          "boundingBox": {
+            "y": 558.29852294921875,
+            "serializedVersion": "2",
+            "x": 592.7467041015625,
+            "width": 34.068595886230469,
+            "height": 122.48243713378906
+          },
+          "group_id": "4b60226c-a119-4686-8362-4d5e43a67097",
+          "class_id": "3b7e3068-e83b-4568-bb6b-b5cee8c9cbed",
+          "label": "VELKOPOPOVICKY KOZEL LEZAK 11 Bottle",
+          "sku_name": "KOZEL LEZAK RB500",
+          "competition": "self"
+        },
+        {
+          "group_id": "08ae81be-a50c-4320-9c9a-caeae65d7645",
+          "class_id": "e4dc66ec-12ae-4abd-aeb5-37010161b459",
+          "boundingBox": {
+            "y": 384.125244140625,
+            "serializedVersion": "2",
+            "x": 677.18182373046875,
+            "width": 36.649806976318359,
+            "height": 129.19438171386719
+          },
+          "label": "TYSKIE 0.0 Bottle",
+          "competition": "self",
+          "sku_name": "TYSKIE 0% RB500"
+        },
+        {
+          "class_id": "a2c7c6ce-4bb8-43ce-946d-c18c3ecc4db8",
+          "label": "CAPTAIN JACK DAIQUIRI Bottle",
+          "sku_name": "CAPTAIN JACK EXOTIC DAIQUIRI NR400",
+          "boundingBox": {
+            "y": 554.833251953125,
+            "serializedVersion": "2",
+            "x": 371.55807495117188,
+            "width": 27.172752380371094,
+            "height": 123.10736083984375
+          },
+          "competition": "self",
+          "group_id": "78a39da7-3503-450f-ad58-ed6999ed1116"
+        },
+        {
+          "label": "VELKOPOPOVICKY KOZEL LEZAK 11 Bottle",
+          "sku_name": "KOZEL LEZAK RB500",
+          "boundingBox": {
+            "y": 559.60986328125,
+            "serializedVersion": "2",
+            "x": 628.71502685546875,
+            "width": 31.678615570068359,
+            "height": 120.73159790039062
+          },
+          "class_id": "3b7e3068-e83b-4568-bb6b-b5cee8c9cbed",
+          "competition": "self",
+          "group_id": "4b60226c-a119-4686-8362-4d5e43a67097"
+        },
+        {
+          "boundingBox": {
+            "y": 958.87896728515625,
+            "serializedVersion": "2",
+            "x": 238.95729064941406,
+            "width": 27.463865280151367,
+            "height": 107.77591705322266
+          },
+          "class_id": "894eff3f-45c7-461c-a343-afa30edc49db",
+          "group_id": "92846fc8-8708-4597-9602-17e9bb2d3452",
+          "label": "LECH PILS Bottle",
+          "competition": "self",
+          "sku_name": "LECH PILS RB500"
+        },
+        {
+          "class_id": "196bc84c-23b0-4ea6-8ec3-7e2ac1086936",
+          "label": "ZUBR Bottle",
+          "boundingBox": {
+            "y": 827.7698974609375,
+            "serializedVersion": "2",
+            "x": 650.1455078125,
+            "width": 28.692304611206055,
+            "height": 114.45497894287109
+          },
+          "group_id": "e58ebc3f-b49e-447d-b6bb-c86420d5c534",
+          "sku_name": "ŻUBR RB500",
+          "competition": "self"
+        },
+        {
+          "class_id": "47a83bba-d714-46bc-8c7d-630d0cf647b8",
+          "boundingBox": {
+            "y": 721.86383056640625,
+            "serializedVersion": "2",
+            "x": 381.78924560546875,
+            "width": 30.137441635131836,
+            "height": 73.553962707519531
+          },
+          "sku_name": "TYSKIE GRONIE CN550 Can",
+          "group_id": "1648da68-a30a-480a-8259-d9a4ab9e55a3",
+          "competition": "self",
+          "label": "TYSKIE GRONIE Can"
+        },
+        {
+          "class_id": "4811559d-1dba-433b-8858-7aabbec567e9",
+          "competition": "self",
+          "sku_name": "HARDMADE RASPBERRY NRB400",
+          "label": "HARDMADE RASPBERRY CRUSH Bottle",
+          "group_id": "03e9a13f-a0d8-477a-bfc0-525f16d7cff8",
+          "boundingBox": {
+            "y": 565.58087158203125,
+            "serializedVersion": "2",
+            "x": 307.05059814453125,
+            "width": 30.193876266479492,
+            "height": 109.92649078369141
+          }
+        },
+        {
+          "boundingBox": {
+            "y": 560.51953125,
+            "serializedVersion": "2",
+            "x": 662.3060302734375,
+            "width": 35.519058227539062,
+            "height": 120.70822143554688
+          },
+          "competition": "self",
+          "label": "VELKOPOPOVICKY KOZEL LEZAK 11 Bottle",
+          "sku_name": "KOZEL LEZAK RB500",
+          "group_id": "4b60226c-a119-4686-8362-4d5e43a67097",
+          "class_id": "3b7e3068-e83b-4568-bb6b-b5cee8c9cbed"
+        },
+        {
+          "sku_name": "LECH FREE LIME MINT 0.0 RB500",
+          "class_id": "49c35c8a-4bfc-4219-b54b-848ed50a43dd",
+          "label": "LECH FREE LIMONKA Z MIETA Bottle",
+          "boundingBox": {
+            "y": 381.1939697265625,
+            "serializedVersion": "2",
+            "x": 422.43643188476562,
+            "width": 29.436313629150391,
+            "height": 131.85186767578125
+          },
+          "competition": "self",
+          "group_id": "95506c17-3686-4b10-aced-59735cfa59c4"
+        },
+        {
+          "group_id": "037f6876-ba32-4675-9387-408e5b0b3f5d",
+          "boundingBox": {
+            "y": 819.16461181640625,
+            "serializedVersion": "2",
+            "x": 266.729248046875,
+            "width": 26.129295349121094,
+            "height": 112.98204040527344
+          },
+          "competition": "self",
+          "label": "LECH PREMIUM Bottle",
+          "class_id": "d8e29280-d9ef-42e9-8d99-b97ffbd83864",
+          "sku_name": "LECH PREMIUM RB500"
+        },
+        {
+          "class_id": "196bc84c-23b0-4ea6-8ec3-7e2ac1086936",
+          "group_id": "e58ebc3f-b49e-447d-b6bb-c86420d5c534",
+          "boundingBox": {
+            "y": 973.20953369140625,
+            "serializedVersion": "2",
+            "x": 700.2010498046875,
+            "width": 31.941900253295898,
+            "height": 105.29535675048828
+          },
+          "label": "ZUBR Bottle",
+          "sku_name": "ŻUBR RB500",
+          "competition": "self"
+        },
+        {
+          "competition": "self",
+          "sku_name": "ŻUBR RB500",
+          "boundingBox": {
+            "y": 969.88116455078125,
+            "serializedVersion": "2",
+            "x": 668.2061767578125,
+            "width": 29.592424392700195,
+            "height": 106.71051025390625
+          },
+          "label": "ZUBR Bottle",
+          "class_id": "196bc84c-23b0-4ea6-8ec3-7e2ac1086936",
+          "group_id": "e58ebc3f-b49e-447d-b6bb-c86420d5c534"
+        },
+        {
+          "label": "TYSKIE 0.0 Bottle",
+          "boundingBox": {
+            "y": 375.8515625,
+            "serializedVersion": "2",
+            "x": 716.92340087890625,
+            "width": 33.92266845703125,
+            "height": 137.77607727050781
+          },
+          "group_id": "08ae81be-a50c-4320-9c9a-caeae65d7645",
+          "sku_name": "TYSKIE 0% RB500",
+          "competition": "self",
+          "class_id": "e4dc66ec-12ae-4abd-aeb5-37010161b459"
+        },
+        {
+          "label": "LECH FREE DARK FRUITS 0.0 Bottle",
+          "sku_name": "LECH FREE DARK FRUITS SOUR RB500",
+          "group_id": "d6fc488b-b712-4704-8165-5ed5a4449fa9",
+          "class_id": "412ca431-3583-4e02-9e47-3fa26f07e562",
+          "boundingBox": {
+            "y": 378.266357421875,
+            "serializedVersion": "2",
+            "x": 535.0455322265625,
+            "width": 34.442092895507812,
+            "height": 135.1148681640625
+          },
+          "competition": "self"
+        },
+        {
+          "sku_name": "LECH EASY NRB400",
+          "competition": "self",
+          "class_id": "a6864ee7-bdad-4060-ae40-8bcff0f1b581",
+          "group_id": "74a6ef4b-3487-4d1f-ab80-b20cd1f27a35",
+          "boundingBox": {
+            "y": 569.46319580078125,
+            "serializedVersion": "2",
+            "x": 182.09791564941406,
+            "width": 30.031316757202148,
+            "height": 102.95886993408203
+          },
+          "label": "LECH EASY Bottle"
+        },
+        {
+          "label": "TYSKIE GRONIE Bottle",
+          "group_id": "41e32f44-10cc-417a-8956-47ae122f3e78",
+          "boundingBox": {
+            "y": 960.86737060546875,
+            "serializedVersion": "2",
+            "x": 392.79440307617188,
+            "width": 27.87353515625,
+            "height": 112.59114074707031
+          },
+          "competition": "self",
+          "sku_name": "TYSKIE GRONIE NRB650",
+          "class_id": "ed3a5e91-1c57-44d4-98cf-5af347f8acb9"
+        },
+        {
+          "boundingBox": {
+            "y": 552.11419677734375,
+            "serializedVersion": "2",
+            "x": 402.0887451171875,
+            "width": 30.042081832885742,
+            "height": 125.26165008544922
+          },
+          "label": "CAPTAIN JACK BLUE LAGOON Bottle",
+          "class_id": "01956c55-c11e-4e59-9cbe-e0c1fca0ea5c",
+          "group_id": "42a55a4b-9816-46f4-86ee-73a04957fecd",
+          "competition": "self",
+          "sku_name": "CAPTAIN JACK BLUE LAGOON NRB400"
+        },
+        {
+          "competition": "self",
+          "boundingBox": {
+            "y": 826.1258544921875,
+            "serializedVersion": "2",
+            "x": 552.260009765625,
+            "width": 27.051969528198242,
+            "height": 113.19209289550781
+          },
+          "sku_name": "DĘBOWE DOJRZAŁE MOCNE RB500",
+          "group_id": "0aa5d00c-e2d8-41d8-939e-51154c555bc3",
+          "label": "DEBOWE DOJRZALE MOCNE Bottle",
+          "class_id": "d669fcb3-0a2d-428f-8827-acfa335fa7f6"
+        },
+        {
+          "class_id": "971316a3-c04a-4b47-b0cc-04d0b19f2eeb",
+          "group_id": "02f9f0da-ea05-4ec9-ab0c-c880b83ea86c",
+          "sku_name": "LECH PREMIUM P500",
+          "label": "LECH PREMIUM Can",
+          "competition": "self",
+          "boundingBox": {
+            "y": 720.82257080078125,
+            "serializedVersion": "2",
+            "x": 347.765625,
+            "width": 30.042081832885742,
+            "height": 72.189002990722656
+          }
+        },
+        {
+          "competition": "self",
+          "class_id": "196bc84c-23b0-4ea6-8ec3-7e2ac1086936",
+          "sku_name": "ŻUBR RB500",
+          "label": "ZUBR Bottle",
+          "boundingBox": {
+            "y": 827.48724365234375,
+            "serializedVersion": "2",
+            "x": 614.4693603515625,
+            "width": 32.674873352050781,
+            "height": 113.48289489746094
+          },
+          "group_id": "e58ebc3f-b49e-447d-b6bb-c86420d5c534"
+        },
+        {
+          "sku_name": "TYSKIE GRONIE NRB650",
+          "group_id": "41e32f44-10cc-417a-8956-47ae122f3e78",
+          "class_id": "ed3a5e91-1c57-44d4-98cf-5af347f8acb9",
+          "label": "TYSKIE GRONIE Bottle",
+          "competition": "self",
+          "boundingBox": {
+            "y": 822.1995849609375,
+            "serializedVersion": "2",
+            "x": 391.46621704101562,
+            "width": 28.976274490356445,
+            "height": 113.33389282226562
+          }
+        },
+        {
+          "label": "LECH PREMIUM Can",
+          "sku_name": "LECH PREMIUM P500",
+          "competition": "self",
+          "group_id": "02f9f0da-ea05-4ec9-ab0c-c880b83ea86c",
+          "boundingBox": {
+            "y": 717.5281982421875,
+            "serializedVersion": "2",
+            "x": 287.5799560546875,
+            "width": 29.945415496826172,
+            "height": 75.603370666503906
+          },
+          "class_id": "971316a3-c04a-4b47-b0cc-04d0b19f2eeb"
+        },
+        {
+          "group_id": "e6bc227c-e405-4292-9ad9-5e27a01c9f6f",
+          "sku_name": "LECH 0.0 ACTIVE MANGO LEMON RB500",
+          "label": "LECH FREE ACTIVE HYDRATE MANGO I CYTRYNA Bottle",
+          "class_id": "f868ee14-f5f1-48fe-b337-49bd08b575d2",
+          "boundingBox": {
+            "y": 374.856689453125,
+            "serializedVersion": "2",
+            "x": 244.29486083984375,
+            "width": 32.698539733886719,
+            "height": 135.15699768066406
+          },
+          "competition": "self"
+        },
+        {
+          "competition": "self",
+          "group_id": "0aa5d00c-e2d8-41d8-939e-51154c555bc3",
+          "boundingBox": {
+            "y": 826.6063232421875,
+            "serializedVersion": "2",
+            "x": 522.8294677734375,
+            "width": 27.53828239440918,
+            "height": 112.93704223632812
+          },
+          "sku_name": "DĘBOWE DOJRZAŁE MOCNE RB500",
+          "label": "DEBOWE DOJRZALE MOCNE Bottle",
+          "class_id": "d669fcb3-0a2d-428f-8827-acfa335fa7f6"
+        },
+        {
+          "group_id": "e6bc227c-e405-4292-9ad9-5e27a01c9f6f",
+          "label": "LECH FREE ACTIVE HYDRATE MANGO I CYTRYNA Bottle",
+          "class_id": "f868ee14-f5f1-48fe-b337-49bd08b575d2",
+          "sku_name": "LECH 0.0 ACTIVE MANGO LEMON RB500",
+          "boundingBox": {
+            "y": 373.3076171875,
+            "serializedVersion": "2",
+            "x": 279.5372314453125,
+            "width": 33.811515808105469,
+            "height": 136.82853698730469
+          },
+          "competition": "self"
+        },
+        {
+          "sku_name": "DĘBOWE DOJRZAŁE MOCNE RB500",
+          "group_id": "0aa5d00c-e2d8-41d8-939e-51154c555bc3",
+          "label": "DEBOWE DOJRZALE MOCNE Bottle",
+          "class_id": "d669fcb3-0a2d-428f-8827-acfa335fa7f6",
+          "competition": "self",
+          "boundingBox": {
+            "y": 826.9310302734375,
+            "serializedVersion": "2",
+            "x": 493.55581665039062,
+            "width": 26.831424713134766,
+            "height": 111.23545074462891
+          }
+        },
+        {
+          "class_id": "d8e29280-d9ef-42e9-8d99-b97ffbd83864",
+          "label": "LECH PREMIUM Bottle",
+          "boundingBox": {
+            "y": 819.53424072265625,
+            "serializedVersion": "2",
+            "x": 296.55548095703125,
+            "width": 29.656656265258789,
+            "height": 112.84708404541016
+          },
+          "competition": "self",
+          "group_id": "037f6876-ba32-4675-9387-408e5b0b3f5d",
+          "sku_name": "LECH PREMIUM RB500"
+        },
+        {
+          "label": "KSIAZECE CHERRY ALE Bottle",
+          "group_id": "0d8f9fdc-39e8-4240-aeb1-4f426195944a",
+          "boundingBox": {
+            "y": 555.90850830078125,
+            "serializedVersion": "2",
+            "x": 496.305908203125,
+            "width": 27.563159942626953,
+            "height": 121.62873077392578
+          },
+          "class_id": "39d174dd-75c2-4760-a08d-a911537a061a",
+          "sku_name": "KSIĄŻĘCE CHERRY ALE RB500 (KARTON 12 SZT)",
+          "competition": "self"
+        },
+        {
+          "boundingBox": {
+            "y": 831.7708740234375,
+            "serializedVersion": "2",
+            "x": 712.42547607421875,
+            "width": 32.851436614990234,
+            "height": 113.70314025878906
+          },
+          "group_id": "e58ebc3f-b49e-447d-b6bb-c86420d5c534",
+          "class_id": "196bc84c-23b0-4ea6-8ec3-7e2ac1086936",
+          "label": "ZUBR Bottle",
+          "sku_name": "ŻUBR RB500",
+          "competition": "self"
+        },
+        {
+          "boundingBox": {
+            "y": 381.30258178710938,
+            "serializedVersion": "2",
+            "x": 752.56927490234375,
+            "width": 31.963930130004883,
+            "height": 133.03750610351562
+          },
+          "label": "VELKOPOPOVICKY KOZEL 0.0 Bottle",
+          "group_id": "14bf883f-3daa-42d3-80ad-e202dcada7aa",
+          "class_id": "3056a005-1acc-48aa-b563-3c8ebdc8a7d2",
+          "competition": "self",
+          "sku_name": "KOZEL 0.0 RB500"
+        },
+        {
+          "group_id": "9b760f23-f516-4e25-a2c9-3cc2ea9d2109",
+          "label": "LECH FREE 4 Pack Can",
+          "sku_name": "LECH FREE 0.0 4-PAK P500",
+          "competition": "self",
+          "boundingBox": {
+            "y": 425.1708984375,
+            "serializedVersion": "2",
+            "x": 608.3675537109375,
+            "width": 63.671356201171875,
+            "height": 87.5311279296875
+          },
+          "class_id": "dd5d610d-d7a1-4756-9105-6cc282e84829"
+        },
+        {
+          "boundingBox": {
+            "y": 830.59613037109375,
+            "serializedVersion": "2",
+            "x": 680.9091796875,
+            "width": 28.707817077636719,
+            "height": 113.81547546386719
+          },
+          "competition": "self",
+          "class_id": "196bc84c-23b0-4ea6-8ec3-7e2ac1086936",
+          "label": "ZUBR Bottle",
+          "group_id": "e58ebc3f-b49e-447d-b6bb-c86420d5c534",
+          "sku_name": "ŻUBR RB500"
+        },
+        {
+          "class_id": "d8e29280-d9ef-42e9-8d99-b97ffbd83864",
+          "competition": "self",
+          "label": "LECH PREMIUM Bottle",
+          "boundingBox": {
+            "y": 959.0718994140625,
+            "serializedVersion": "2",
+            "x": 333.75787353515625,
+            "width": 26.19318962097168,
+            "height": 112.92893981933594
+          },
+          "sku_name": "LECH PREMIUM RB500",
+          "group_id": "037f6876-ba32-4675-9387-408e5b0b3f5d"
+        },
+        {
+          "label": "LECH PREMIUM Bottle",
+          "competition": "self",
+          "group_id": "037f6876-ba32-4675-9387-408e5b0b3f5d",
+          "boundingBox": {
+            "y": 819.78369140625,
+            "serializedVersion": "2",
+            "x": 330.17745971679688,
+            "width": 28.291645050048828,
+            "height": 113.70314025878906
+          },
+          "sku_name": "LECH PREMIUM RB500",
+          "class_id": "d8e29280-d9ef-42e9-8d99-b97ffbd83864"
+        },
+        {
+          "group_id": "644ae53d-1636-41fb-9b6d-aa7a7871f458",
+          "label": "LECH PILS 4 Pack Can",
+          "competition": "self",
+          "class_id": "ceaf8669-137d-4df3-b393-860034184565",
+          "sku_name": "LECH PILS 4-PAK P500",
+          "boundingBox": {
+            "y": 1154.3338623046875,
+            "serializedVersion": "2",
+            "x": 268.75735473632812,
+            "width": 52.438880920410156,
+            "height": 59.992141723632812
+          }
+        },
+        {
+          "label": "ZUBR Can",
+          "group_id": "f568908b-935c-413c-b8fa-c765916a208e",
+          "sku_name": "ZUBR CN550S01",
+          "competition": "self",
+          "class_id": "b5f73274-bb58-4b8d-ad99-aee2cd1eb354",
+          "boundingBox": {
+            "y": 723.84844970703125,
+            "serializedVersion": "2",
+            "x": 592.9378662109375,
+            "width": 36.050392150878906,
+            "height": 75.5108642578125
+          }
+        },
+        {
+          "group_id": "92846fc8-8708-4597-9602-17e9bb2d3452",
+          "sku_name": "LECH PILS RB500",
+          "class_id": "894eff3f-45c7-461c-a343-afa30edc49db",
+          "label": "LECH PILS Bottle",
+          "competition": "self",
+          "boundingBox": {
+            "y": 818.14971923828125,
+            "serializedVersion": "2",
+            "x": 214.90582275390625,
+            "width": 28.990184783935547,
+            "height": 107.23677825927734
+          }
+        },
+        {
+          "class_id": "ed3a5e91-1c57-44d4-98cf-5af347f8acb9",
+          "label": "TYSKIE GRONIE Bottle",
+          "group_id": "41e32f44-10cc-417a-8956-47ae122f3e78",
+          "boundingBox": {
+            "y": 965.46697998046875,
+            "serializedVersion": "2",
+            "x": 514.55816650390625,
+            "width": 29.315631866455078,
+            "height": 106.24309539794922
+          },
+          "sku_name": "TYSKIE GRONIE NRB650",
+          "competition": "self"
+        },
+        {
+          "group_id": "41e32f44-10cc-417a-8956-47ae122f3e78",
+          "boundingBox": {
+            "y": 820.4693603515625,
+            "serializedVersion": "2",
+            "x": 361.22073364257812,
+            "width": 28.44804573059082,
+            "height": 114.54814147949219
+          },
+          "sku_name": "TYSKIE GRONIE NRB650",
+          "competition": "self",
+          "label": "TYSKIE GRONIE Bottle",
+          "class_id": "ed3a5e91-1c57-44d4-98cf-5af347f8acb9"
+        },
+        {
+          "competition": "self",
+          "group_id": "41e32f44-10cc-417a-8956-47ae122f3e78",
+          "label": "TYSKIE GRONIE Bottle",
+          "class_id": "ed3a5e91-1c57-44d4-98cf-5af347f8acb9",
+          "sku_name": "TYSKIE GRONIE NRB650",
+          "boundingBox": {
+            "y": 965.28570556640625,
+            "serializedVersion": "2",
+            "x": 489.18350219726562,
+            "width": 24.108358383178711,
+            "height": 106.74308013916016
+          }
+        },
+        {
+          "competition": "self",
+          "label": "ZUBR 4 Pack Can",
+          "class_id": "ca0609f3-ef41-46ad-b5a0-de65445c61c4",
+          "group_id": "a371da35-7288-4f93-9797-ef82b362a3fd",
+          "sku_name": "ZUBR CN550M04",
+          "boundingBox": {
+            "y": 722.4462890625,
+            "serializedVersion": "2",
+            "x": 494.68887329101562,
+            "width": 35.027603149414062,
+            "height": 73.571037292480469
+          }
+        },
+        {
+          "sku_name": "ŻUBR RB500",
+          "group_id": "e58ebc3f-b49e-447d-b6bb-c86420d5c534",
+          "label": "ZUBR Bottle",
+          "boundingBox": {
+            "y": 969.97406005859375,
+            "serializedVersion": "2",
+            "x": 635.07635498046875,
+            "width": 31.447223663330078,
+            "height": 105.88948059082031
+          },
+          "class_id": "196bc84c-23b0-4ea6-8ec3-7e2ac1086936",
+          "competition": "self"
+        },
+        {
+          "competition": "self",
+          "label": "TYSKIE GRONIE Bottle",
+          "boundingBox": {
+            "y": 823.1624755859375,
+            "serializedVersion": "2",
+            "x": 422.30923461914062,
+            "width": 27.687835693359375,
+            "height": 111.97988891601562
+          },
+          "group_id": "41e32f44-10cc-417a-8956-47ae122f3e78",
+          "class_id": "ed3a5e91-1c57-44d4-98cf-5af347f8acb9",
+          "sku_name": "TYSKIE GRONIE NRB650"
+        },
+        {
+          "competition": "self",
+          "boundingBox": {
+            "y": 961.2734375,
+            "serializedVersion": "2",
+            "x": 422.68594360351562,
+            "width": 26.612131118774414,
+            "height": 112.18886566162109
+          },
+          "sku_name": "TYSKIE GRONIE NRB650",
+          "label": "TYSKIE GRONIE Bottle",
+          "class_id": "ed3a5e91-1c57-44d4-98cf-5af347f8acb9",
+          "group_id": "41e32f44-10cc-417a-8956-47ae122f3e78"
+        },
+        {
+          "sku_name": "TYSKIE GRONIE CN550 4 Pack Can",
+          "label": "TYSKIE GRONIE 4 Pack Can",
+          "group_id": "ff64c680-3f1e-452a-b1be-c95fdbdc34fd",
+          "competition": "self",
+          "class_id": "573d6817-15af-4aa3-a3c8-96d520fcf0d3",
+          "boundingBox": {
+            "y": 1161.6187744140625,
+            "serializedVersion": "2",
+            "x": 494.86383056640625,
+            "width": 56.442684173583984,
+            "height": 61.799579620361328
+          }
+        },
+        {
+          "sku_name": "LECH PILS 4-PAK P500",
+          "class_id": "ceaf8669-137d-4df3-b393-860034184565",
+          "competition": "self",
+          "boundingBox": {
+            "y": 1155.320556640625,
+            "serializedVersion": "2",
+            "x": 207.88604736328125,
+            "width": 55.504287719726562,
+            "height": 59.610218048095703
+          },
+          "label": "LECH PILS 4 Pack Can",
+          "group_id": "644ae53d-1636-41fb-9b6d-aa7a7871f458"
+        },
+        {
+          "sku_name": "KOZEL CERNY RB500",
+          "boundingBox": {
+            "y": 559.12054443359375,
+            "serializedVersion": "2",
+            "x": 737.094970703125,
+            "width": 36.881465911865234,
+            "height": 123.49700927734375
+          },
+          "class_id": "3f434f07-9f3d-40d5-8468-30c4a9e02186",
+          "group_id": "38f3b2da-36fa-4acc-b548-de66d92d027f",
+          "label": "VELKOPOPOVICKY KOZEL CERNY Bottle",
+          "competition": "self"
+        },
+        {
+          "boundingBox": {
+            "y": 722.5406494140625,
+            "serializedVersion": "2",
+            "x": 437.986083984375,
+            "width": 14.475832939147949,
+            "height": 74.263397216796875
+          },
+          "group_id": "1648da68-a30a-480a-8259-d9a4ab9e55a3",
+          "competition": "self",
+          "sku_name": "TYSKIE GRONIE CN550 Can",
+          "label": "TYSKIE GRONIE Can",
+          "class_id": "47a83bba-d714-46bc-8c7d-630d0cf647b8"
+        },
+        {
+          "competition": "self",
+          "group_id": "e58ebc3f-b49e-447d-b6bb-c86420d5c534",
+          "sku_name": "ŻUBR RB500",
+          "label": "ZUBR Bottle",
+          "boundingBox": {
+            "y": 827.06842041015625,
+            "serializedVersion": "2",
+            "x": 580.53668212890625,
+            "width": 30.971460342407227,
+            "height": 113.85405731201172
+          },
+          "class_id": "196bc84c-23b0-4ea6-8ec3-7e2ac1086936"
+        },
+        {
+          "sku_name": "TYSKIE GRONIE CN550 4 Pack Can",
+          "group_id": "ff64c680-3f1e-452a-b1be-c95fdbdc34fd",
+          "competition": "self",
+          "label": "TYSKIE GRONIE 4 Pack Can",
+          "class_id": "573d6817-15af-4aa3-a3c8-96d520fcf0d3",
+          "boundingBox": {
+            "y": 1105.2838134765625,
+            "serializedVersion": "2",
+            "x": 491.07049560546875,
+            "width": 56.843906402587891,
+            "height": 55.636566162109375
+          }
+        },
+        {
+          "competition": "self",
+          "group_id": "037f6876-ba32-4675-9387-408e5b0b3f5d",
+          "label": "LECH PREMIUM Bottle",
+          "class_id": "d8e29280-d9ef-42e9-8d99-b97ffbd83864",
+          "boundingBox": {
+            "y": 959.3204345703125,
+            "serializedVersion": "2",
+            "x": 363.5426025390625,
+            "width": 26.903238296508789,
+            "height": 113.23728179931641
+          },
+          "sku_name": "LECH PREMIUM RB500"
+        },
+        {
+          "sku_name": "LECH PREMIUM 4-PAK P500",
+          "competition": "self",
+          "label": "LECH PREMIUM 4 Pack Can",
+          "boundingBox": {
+            "y": 1151.8917236328125,
+            "serializedVersion": "2",
+            "x": 327.40426635742188,
+            "width": 59.206932067871094,
+            "height": 67.913825988769531
+          },
+          "class_id": "27b176af-b6e3-4af3-8cf6-50c6ed9a19f1",
+          "group_id": "b341da4a-be55-4f61-a400-8dedefe4caf3"
+        },
+        {
+          "class_id": "d8e29280-d9ef-42e9-8d99-b97ffbd83864",
+          "competition": "self",
+          "sku_name": "LECH PREMIUM RB500",
+          "label": "LECH PREMIUM Bottle",
+          "boundingBox": {
+            "y": 959.7723388671875,
+            "serializedVersion": "2",
+            "x": 301.13345336914062,
+            "width": 29.00126838684082,
+            "height": 110.81106567382812
+          },
+          "group_id": "037f6876-ba32-4675-9387-408e5b0b3f5d"
+        },
+        {
+          "sku_name": "KSIĄŻĘCE ZŁOTE PSZENICZNE RB500 (KARTON 12 SZT)",
+          "class_id": "f82f4e14-0f54-48a2-ac1b-5d27883711de",
+          "competition": "self",
+          "boundingBox": {
+            "y": 556.49090576171875,
+            "serializedVersion": "2",
+            "x": 525.43463134765625,
+            "width": 30.867570877075195,
+            "height": 121.957763671875
+          },
+          "label": "KSIAZECE ZLOTE PSZENICZNE Bottle",
+          "group_id": "b8ec1b3b-0c0c-4e1a-80d9-0a16684b3e0c"
+        },
+        {
+          "group_id": "a371da35-7288-4f93-9797-ef82b362a3fd",
+          "competition": "self",
+          "boundingBox": {
+            "y": 1165.3165283203125,
+            "serializedVersion": "2",
+            "x": 677.85015869140625,
+            "width": 51.679012298583984,
+            "height": 63.052513122558594
+          },
+          "label": "ZUBR 4 Pack Can",
+          "sku_name": "ZUBR CN550M04",
+          "class_id": "ca0609f3-ef41-46ad-b5a0-de65445c61c4"
+        },
+        {
+          "boundingBox": {
+            "y": 571.4422607421875,
+            "serializedVersion": "2",
+            "x": 275.00961303710938,
+            "width": 29.96296501159668,
+            "height": 103.08408355712891
+          },
+          "label": "HARDMADE RASPBERRY CRUSH Bottle",
+          "sku_name": "HARDMADE RASPBERRY NRB400",
+          "class_id": "4811559d-1dba-433b-8858-7aabbec567e9",
+          "competition": "self",
+          "group_id": "03e9a13f-a0d8-477a-bfc0-525f16d7cff8"
+        },
+        {
+          "group_id": "38f3b2da-36fa-4acc-b548-de66d92d027f",
+          "label": "VELKOPOPOVICKY KOZEL CERNY Bottle",
+          "sku_name": "KOZEL CERNY RB500",
+          "competition": "self",
+          "boundingBox": {
+            "y": 560.78729248046875,
+            "serializedVersion": "2",
+            "x": 699.48992919921875,
+            "width": 34.914981842041016,
+            "height": 122.16089630126953
+          },
+          "class_id": "3f434f07-9f3d-40d5-8468-30c4a9e02186"
+        },
+        {
+          "boundingBox": {
+            "y": 971.10247802734375,
+            "serializedVersion": "2",
+            "x": 595.96270751953125,
+            "width": 31.918119430541992,
+            "height": 79.225143432617188
+          },
+          "group_id": "e58ebc3f-b49e-447d-b6bb-c86420d5c534",
+          "class_id": "196bc84c-23b0-4ea6-8ec3-7e2ac1086936",
+          "label": "ZUBR Bottle",
+          "sku_name": "ŻUBR RB500",
+          "competition": "self"
+        },
+        {
+          "group_id": "74a6ef4b-3487-4d1f-ab80-b20cd1f27a35",
+          "boundingBox": {
+            "y": 568.014892578125,
+            "serializedVersion": "2",
+            "x": 213.30158996582031,
+            "width": 26.569887161254883,
+            "height": 103.98813629150391
+          },
+          "competition": "self",
+          "class_id": "a6864ee7-bdad-4060-ae40-8bcff0f1b581",
+          "label": "LECH EASY Bottle",
+          "sku_name": "LECH EASY NRB400"
+        },
+        {
+          "boundingBox": {
+            "y": 726.190185546875,
+            "serializedVersion": "2",
+            "x": 664.7750244140625,
+            "width": 29.696134567260742,
+            "height": 75.247879028320312
+          },
+          "label": "Others",
+          "group_id": "4a1f2092-780d-4125-9c9e-0a6fde2a6e4a",
+          "competition": "competitor",
+          "class_id": "a13b214b-ea64-4e85-a1fc-feb8ad545fd8",
+          "sku_name": "Others"
+        },
+        {
+          "competition": "competitor",
+          "label": "Others",
+          "class_id": "a13b214b-ea64-4e85-a1fc-feb8ad545fd8",
+          "boundingBox": {
+            "y": 727.91925048828125,
+            "serializedVersion": "2",
+            "x": 709.0369873046875,
+            "width": 54.034748077392578,
+            "height": 73.859481811523438
+          },
+          "sku_name": "Others",
+          "group_id": "4a1f2092-780d-4125-9c9e-0a6fde2a6e4a"
+        },
+        {
+          "group_id": "92846fc8-8708-4597-9602-17e9bb2d3452",
+          "class_id": "894eff3f-45c7-461c-a343-afa30edc49db",
+          "sku_name": "LECH PILS RB500",
+          "boundingBox": {
+            "y": 817.23583984375,
+            "serializedVersion": "2",
+            "x": 247.45767211914062,
+            "width": 19.379011154174805,
+            "height": 106.17943572998047
+          },
+          "competition": "self",
+          "label": "LECH PILS Bottle"
+        },
+        {
+          "competition": "competitor",
+          "class_id": "a13b214b-ea64-4e85-a1fc-feb8ad545fd8",
+          "group_id": "4a1f2092-780d-4125-9c9e-0a6fde2a6e4a",
+          "label": "Others",
+          "boundingBox": {
+            "y": 1113.7161865234375,
+            "serializedVersion": "2",
+            "x": 679.92889404296875,
+            "width": 53.506412506103516,
+            "height": 55.364437103271484
+          },
+          "sku_name": "Others"
+        },
+        {
+          "group_id": "a371da35-7288-4f93-9797-ef82b362a3fd",
+          "class_id": "ca0609f3-ef41-46ad-b5a0-de65445c61c4",
+          "boundingBox": {
+            "y": 1146.53173828125,
+            "serializedVersion": "2",
+            "x": 618.28607177734375,
+            "width": 52.505012512207031,
+            "height": 79.393104553222656
+          },
+          "label": "ZUBR 4 Pack Can",
+          "sku_name": "ZUBR CN550M04",
+          "competition": "self"
+        },
+        {
+          "group_id": "a371da35-7288-4f93-9797-ef82b362a3fd",
+          "sku_name": "ZUBR CN550M04",
+          "competition": "self",
+          "boundingBox": {
+            "y": 1127.7952880859375,
+            "serializedVersion": "2",
+            "x": 556.40179443359375,
+            "width": 55.517276763916016,
+            "height": 94.092369079589844
+          },
+          "label": "ZUBR 4 Pack Can",
+          "class_id": "ca0609f3-ef41-46ad-b5a0-de65445c61c4"
+        }
+      ],
+      "captureTimestamp": "2024-10-01 14:06:32",
+      "session_Id": "",
+      "uploadStatus": false,
+      "questions": [
+        {
+          "question_type": "loop",
+          "required": 1,
+          "options": [
+            {
+              "previous_audit_selected": 1,
+              "option": "1D 45-50 cm",
+              "questions": [
+                {
+                  "question_type": "leaf",
+                  "options": [
+                    {
+                      "previous_audit_selected": 1,
+                      "option": "Lodówka strefy 0%"
+                    }
+                  ],
+                  "question": "Fridge Destination",
+                  "required": 1
+                }
+              ]
+            },
+            {
+              "selected": 1,
+              "option": "1D 60 cm",
+              "questions": [
+                {
+                  "question_type": "leaf",
+                  "options": [
+                    {
+                      "option": "Lodówka strefy 0%"
+                    },
+                    {
+                      "selected": 1,
+                      "option": "Lodówka buforowa - strefa 0.0 %"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i piwa smakowe"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i Modern"
+                    }
+                  ],
+                  "question": "Fridge Destination",
+                  "required": 1
+                }
+              ]
+            },
+            {
+              "option": "1D 70 cm",
+              "questions": [
+                {
+                  "question_type": "leaf",
+                  "options": [
+                    {
+                      "option": "Lodówka strefy 0%"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 %"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i piwa smakowe"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i Modern"
+                    }
+                  ],
+                  "question": "Fridge Destination",
+                  "required": 1
+                }
+              ]
+            },
+            {
+              "option": "1D 80 cm",
+              "questions": [
+                {
+                  "question_type": "leaf",
+                  "options": [
+                    {
+                      "option": "Lodówka strefy 0%"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 %"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i piwa smakowe"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i Modern"
+                    }
+                  ],
+                  "question": "Fridge Destination",
+                  "required": 1
+                }
+              ]
+            },
+            {
+              "option": "1.5D 90 cm",
+              "questions": [
+                {
+                  "question_type": "leaf",
+                  "options": [
+                    {
+                      "option": "Lodówka strefy 0%"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 %"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i piwa smakowe"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i Modern"
+                    }
+                  ],
+                  "question": "Fridge Destination",
+                  "required": 1
+                }
+              ]
+            },
+            {
+              "option": "2D 110 cm",
+              "questions": [
+                {
+                  "question_type": "leaf",
+                  "options": [
+                    {
+                      "option": "Lodówka strefy 0%"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 %"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i piwa smakowe"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i Modern"
+                    }
+                  ],
+                  "question": "Fridge Destination",
+                  "required": 1
+                }
+              ]
+            },
+            {
+              "option": "2D 120 cm",
+              "questions": [
+                {
+                  "question_type": "leaf",
+                  "options": [
+                    {
+                      "option": "Lodówka strefy 0%"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 %"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i piwa smakowe"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i Modern"
+                    }
+                  ],
+                  "question": "Fridge Destination",
+                  "required": 1
+                }
+              ]
+            },
+            {
+              "option": "2D 130 cm",
+              "questions": [
+                {
+                  "question_type": "leaf",
+                  "options": [
+                    {
+                      "option": "Lodówka strefy 0%"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 %"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i piwa smakowe"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i Modern"
+                    }
+                  ],
+                  "question": "Fridge Destination",
+                  "required": 1
+                }
+              ]
+            },
+            {
+              "option": "Open front 70 cm",
+              "questions": [
+                {
+                  "question_type": "leaf",
+                  "options": [
+                    {
+                      "option": "Lodówka strefy 0%"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 %"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i piwa smakowe"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i Modern"
+                    }
+                  ],
+                  "question": "Fridge Destination",
+                  "required": 1
+                }
+              ]
+            },
+            {
+              "option": "Open front 90 cm",
+              "questions": [
+                {
+                  "question_type": "leaf",
+                  "options": [
+                    {
+                      "option": "Lodówka strefy 0%"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 %"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i piwa smakowe"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i Modern"
+                    }
+                  ],
+                  "question": "Fridge Destination",
+                  "required": 1
+                }
+              ]
+            },
+            {
+              "option": "Open front 110 cm",
+              "questions": [
+                {
+                  "question_type": "leaf",
+                  "options": [
+                    {
+                      "option": "Lodówka strefy 0%"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 %"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i piwa smakowe"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i Modern"
+                    }
+                  ],
+                  "question": "Fridge Destination",
+                  "required": 1
+                }
+              ]
+            },
+            {
+              "option": "Open front 130 cm",
+              "questions": [
+                {
+                  "question_type": "leaf",
+                  "options": [
+                    {
+                      "option": "Lodówka strefy 0%"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 %"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i piwa smakowe"
+                    },
+                    {
+                      "option": "Lodówka buforowa - strefa 0.0 % i Modern"
+                    }
+                  ],
+                  "question": "Fridge Destination",
+                  "required": 1
+                }
+              ]
+            },
+            {
+              "option": "Open Top"
+            },
+            {
+              "option": "Paletowa \/ Roll"
+            },
+            {
+              "option": "Coolio"
+            },
+            {
+              "option": "ciąg chłodniczy \/ lodówka własna detalisty",
+              "questions": [
+                {
+                  "question_type": "leaf",
+                  "options": [
+                    {
+                      "option": "strefa 0% w ciagu \/ lodowce wlasnej detalisty"
+                    },
+                    {
+                      "option": "strefa 0% w lodowce Delikatesy Centrum"
+                    }
+                  ],
+                  "question": "Fridge Destination",
+                  "required": 1
+                }
+              ]
+            }
+          ],
+          "question": "Fridge Model"
+        }
+      ],
+      "annotationFileName": "",
+      "image_id": "",
+      "shelfType": "Cold Zone - KP 0.0 Fridge"
+    }
+  ]

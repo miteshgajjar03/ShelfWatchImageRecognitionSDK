@@ -141,7 +141,7 @@ extension Swift.Encodable {
     get
   }
   public func toData() -> Foundation.Data?
-  public func asDictionary() throws -> [Swift.String : Any]
+  public func asDictionary() -> [Swift.String : Any]
   public func toRequestData() -> Foundation.Data?
 }
 extension ShelfWatchImageRecognitionFramework.CDCommercialStandardMapping {
@@ -353,6 +353,7 @@ public class ShelfWatchCamera {
 }
 extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
   public func logInitSDK(logMessage: Swift.String)
+  public func logCameraOpen(mode: Swift.String)
 }
 extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
   public func imageFromUnity(image: UIKit.UIImage)
@@ -453,6 +454,10 @@ extension ShelfWatchImageRecognitionFramework.CDShopData {
     @objc get
     @objc set
   }
+  @objc @NSManaged dynamic public var recordNumber: Swift.String? {
+    @objc get
+    @objc set
+  }
 }
 extension ShelfWatchImageRecognitionFramework.CDShopData : Swift.Identifiable {
   public typealias ID = Swift.ObjectIdentifier
@@ -539,6 +544,10 @@ extension ShelfWatchImageRecognitionFramework.CDARSessionData {
     @objc set
   }
   @objc @NSManaged dynamic public var uploadStatus: Swift.Bool {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var planogramName: Swift.String? {
     @objc get
     @objc set
   }

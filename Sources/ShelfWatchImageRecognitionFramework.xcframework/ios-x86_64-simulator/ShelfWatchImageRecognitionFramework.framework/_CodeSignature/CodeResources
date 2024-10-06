@@ -90,7 +90,7 @@
 		</data>
 		<key>Asahi.mlmodelc/coremldata.bin</key>
 		<data>
-		MqDlRuAWXiKt++9lu8h6Sm2/wC4=
+		VKgIvQMgyHdPEvk7EhKQB4f7x7E=
 		</data>
 		<key>Asahi.mlmodelc/metadata.json</key>
 		<data>
@@ -230,11 +230,11 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		kotAB8fRSWT88ONRjJC8Hk1YY+Q=
+		swZTF5U2EVuWNq3LFkywFIro/Ls=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		YYx3zvjtoJXFxRyvhurzMS0UDSE=
+		jAiXuX85Ol5ndSLYG1HY29V4htI=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -242,11 +242,11 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		YYx3zvjtoJXFxRyvhurzMS0UDSE=
+		jAiXuX85Ol5ndSLYG1HY29V4htI=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7qsU3MRFW9zHygR6YfR1jCFOIfk=
+		WDUpVfNbCQp9Gi0vnyGIXnwVAo4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -255,6 +255,18 @@
 		<key>PopoverViewController.nib</key>
 		<data>
 		bx4PQKrOnHzqB83IBjwpR8MADnI=
+		</data>
+		<key>Session_14.json</key>
+		<data>
+		4BgtYMv8VDUmpEIAuE1uYhujneg=
+		</data>
+		<key>Session_15.json</key>
+		<data>
+		qxk2OGnUGZqOi8S8p2Vhve1VVb4=
+		</data>
+		<key>Session_2.json</key>
+		<data>
+		MVcQNaPmiRqdREWBNgnUOYNjKCc=
 		</data>
 		<key>ShelfWatch.momd/ShelfWatch.mom</key>
 		<data>
@@ -272,13 +284,17 @@
 		<data>
 		mpMNXw0FCvSQ4EQDm3LOOqIqrlo=
 		</data>
-		<key>ShelfWatch.momd/ShelfWatch_1.0.2.omo</key>
+		<key>ShelfWatch.momd/ShelfWatch_1.0.3.mom</key>
 		<data>
-		BqXZ09xWmTJacQI8elCE091vsAI=
+		j+643OipQpQolurB4r6TaqgeS4o=
+		</data>
+		<key>ShelfWatch.momd/ShelfWatch_1.0.3.omo</key>
+		<data>
+		1mEKyLnOj6h22NOqVTWznhMcKbY=
 		</data>
 		<key>ShelfWatch.momd/VersionInfo.plist</key>
 		<data>
-		DrJFvFlU5MCo5IjkPzmfOp1NQEg=
+		oo0Sdbd1JIW3FeBUW5V9SVzagiM=
 		</data>
 		<key>ar.lproj/Localizable.strings</key>
 		<dict>
@@ -339,11 +355,11 @@
 		</data>
 		<key>mars_mt.mlmodelc/coremldata.bin</key>
 		<data>
-		MojFRoG6Tqz2U9kxCg3JBtwckVU=
+		nxalvdwhj+QxCPBbB7VMdEf2kY0=
 		</data>
 		<key>mars_mt.mlmodelc/metadata.json</key>
 		<data>
-		wfGO9hDqrh40bCUVl1oOVeBKY3k=
+		rnGptCIU4jb4ZrnoK41RK7kcpgY=
 		</data>
 		<key>mars_mt.mlmodelc/model0/analytics/coremldata.bin</key>
 		<data>
@@ -351,7 +367,7 @@
 		</data>
 		<key>mars_mt.mlmodelc/model0/coremldata.bin</key>
 		<data>
-		KKqHX6GINjeacxvGDx7mWn4Iju8=
+		VRFKEnOwU0cyiujBtMSJ8XUiZx0=
 		</data>
 		<key>mars_mt.mlmodelc/model0/model.espresso.net</key>
 		<data>
@@ -596,7 +612,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/0ExS3AA38SCE5BoDXwEQQPNuOOudYWn7Y8uER/uLUU=
+			8JUsbKWi1RJ1oVKfjqz77WuWBvW45y5VTh4r9vRUfg8=
 			</data>
 		</dict>
 		<key>Asahi.mlmodelc/metadata.json</key>
@@ -834,14 +850,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IvvIUDcHUzH/efGHfxMWB6TY7tVkCsx2fCVGAkH+QgE=
+			vexymMPwaVaVwTp6Og72xAo/HxsJuJ8OgYjlyXpr8dM=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tj0JvENM9cfGqZujpzxSc5yrGaH+ZSnhu9ETnhIaZ2g=
+			8HOgbWR47fV0Lnfjt8/+iyJsXpgXerybJWE0vuaBRck=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -855,14 +871,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tj0JvENM9cfGqZujpzxSc5yrGaH+ZSnhu9ETnhIaZ2g=
+			8HOgbWR47fV0Lnfjt8/+iyJsXpgXerybJWE0vuaBRck=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2mEFjAcPVW12Rq1B9zaUHQgYWaFj7GDykmWczdXmbco=
+			o5PGQGqRNJDOkUn4QO/6LbsLUBz5RwTHglJp8d9g4MM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -877,6 +893,27 @@
 			<key>hash2</key>
 			<data>
 			+ANq+lwoOZIwIzwyeosHUIRdwgpAE30u21bTM7EhQSQ=
+			</data>
+		</dict>
+		<key>Session_14.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yjxbdydgL6w/mIrP2SWycFCTPzMJg1HmlQk4UWl1U2w=
+			</data>
+		</dict>
+		<key>Session_15.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iJoN52ZIvKfKhxrKZpvNvd2nxOHPLxQZJH05Xh9EisM=
+			</data>
+		</dict>
+		<key>Session_2.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			spUjxXbwJl0F6KcwX/knEqlrPJMlloaLVlpfpgd7eaE=
 			</data>
 		</dict>
 		<key>ShelfWatch.momd/ShelfWatch.mom</key>
@@ -907,18 +944,25 @@
 			RUdjTa1y5VItUJm1zCebgXqZXWmRRRe7iaz+KaQntqM=
 			</data>
 		</dict>
-		<key>ShelfWatch.momd/ShelfWatch_1.0.2.omo</key>
+		<key>ShelfWatch.momd/ShelfWatch_1.0.3.mom</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			c8MqF5OEKghSZf/SCn66G2r2huVNFerZX1pv7KCnQv0=
+			V2tRop151R9d+3Zvcsr7LXitssF99JFsQUYIGVYJrrQ=
+			</data>
+		</dict>
+		<key>ShelfWatch.momd/ShelfWatch_1.0.3.omo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cE1pMbCLzTdWmNCXdQ+lfxsZteqAH7wPGiUdXMObkQo=
 			</data>
 		</dict>
 		<key>ShelfWatch.momd/VersionInfo.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dJ7OYhvWB9YDbQ/OhppDfqnl5NWqQaUn9J4IxSCkhuk=
+			ryQEfxJw1VCMGB0wnGa0lJoOzAN9jmmXiTmm2KBuL9w=
 			</data>
 		</dict>
 		<key>ar.lproj/Localizable.strings</key>
@@ -991,14 +1035,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hv3bSN/lb3qAm55pj6z2Jp8g3Y+IRSG0Sohte2Z0YR4=
+			2IgeYKc6KVR38+yoLqvprJUCoq6AoEFkPq3AAEqahyk=
 			</data>
 		</dict>
 		<key>mars_mt.mlmodelc/metadata.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dO/MpzeiiVzF3/JtAL5SmPNENAwWaBoxt9LxbwVF7lo=
+			YKIn+g2cDoTh4tMgA5BPfSiDtAbQ5vRyliKGtLP15WA=
 			</data>
 		</dict>
 		<key>mars_mt.mlmodelc/model0/analytics/coremldata.bin</key>
@@ -1012,7 +1056,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UPfnDm4/6dAseRJFfKIbCEybVCz/+byiTWgPf6gBX7k=
+			ECveI9PVC5GmMNLNwkxTGeF31IuiC6SrRiKwT8aa1n0=
 			</data>
 		</dict>
 		<key>mars_mt.mlmodelc/model0/model.espresso.net</key>

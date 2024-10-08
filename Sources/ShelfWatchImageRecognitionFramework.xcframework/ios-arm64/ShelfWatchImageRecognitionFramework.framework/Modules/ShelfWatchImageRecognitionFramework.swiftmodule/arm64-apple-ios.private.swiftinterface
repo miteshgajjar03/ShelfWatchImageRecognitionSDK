@@ -367,6 +367,7 @@ extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
 extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
   public func uploadARData(shopId: Swift.Int, categoryId: Swift.Int, visitDate: Swift.String)
   public func getPendingARData() -> ShelfWatchImageRecognitionFramework.ARPendingData
+  public func sendAllARPendingData()
 }
 @_inheritsConvenienceInitializers @objc(CDListing) public class CDListing : CoreData.NSManagedObject {
   @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)

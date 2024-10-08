@@ -247,6 +247,10 @@ extension ShelfWatchCameraManager {
         return self.shelfWatchCamera.getPendingARData()
     }
     
+    public func sendAllARPendingData() {
+        self.shelfWatchCamera.sendAllARPendingData()
+    }
+    
     public func getAnnotation(for file: String) -> [String: Any] {
         return self.shelfWatchCamera.getAnnotation(for: file)
     }

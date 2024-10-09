@@ -205,6 +205,11 @@ extension ShelfWatchCameraManager {
     public func logSDKInitialise(message: String) {
         self.shelfWatchCamera?.logInitSDK(logMessage: message)
     }
+    
+    public
+    func logCameraOpen(mode: String) {
+        self.shelfWatchCamera.logCameraOpen(mode: mode)
+    }
 }
 
 // MARK: - Unity

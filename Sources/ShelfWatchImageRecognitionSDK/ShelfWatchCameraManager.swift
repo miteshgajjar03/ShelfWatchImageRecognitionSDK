@@ -259,4 +259,9 @@ extension ShelfWatchCameraManager {
     public func getAnnotation(for file: String) -> [String: Any] {
         return self.shelfWatchCamera.getAnnotation(for: file)
     }
+    
+    public func isShopIdExists(shopId: Int) -> String? {
+        
+        return self.shelfWatchCamera.isShopIdExists(shopId: shopId)
+    }
 }

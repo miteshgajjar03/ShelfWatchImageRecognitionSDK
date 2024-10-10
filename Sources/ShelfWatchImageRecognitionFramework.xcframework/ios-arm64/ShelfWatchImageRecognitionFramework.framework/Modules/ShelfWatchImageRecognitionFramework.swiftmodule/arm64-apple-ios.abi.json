@@ -7385,27 +7385,6 @@
           },
           {
             "kind": "Function",
-            "name": "recapture",
-            "printedName": "recapture()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:35ShelfWatchImageRecognitionFramework0aB6CameraC9recaptureyyF",
-            "mangledName": "$s35ShelfWatchImageRecognitionFramework0aB6CameraC9recaptureyyF",
-            "moduleName": "ShelfWatchImageRecognitionFramework",
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "isFromExtension": true,
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
             "name": "getKPIResults",
             "printedName": "getKPIResults(mergedImage:uploadParams:detectionsJSON:completion:)",
             "children": [
@@ -7625,6 +7604,42 @@
             "declKind": "Func",
             "usr": "s:35ShelfWatchImageRecognitionFramework0aB6CameraC20sendAllARPendingDatayyF",
             "mangledName": "$s35ShelfWatchImageRecognitionFramework0aB6CameraC20sendAllARPendingDatayyF",
+            "moduleName": "ShelfWatchImageRecognitionFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "isShopIdExists",
+            "printedName": "isShopIdExists(shopId:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:35ShelfWatchImageRecognitionFramework0aB6CameraC14isShopIdExists04shopI0SSSgSi_tF",
+            "mangledName": "$s35ShelfWatchImageRecognitionFramework0aB6CameraC14isShopIdExists04shopI0SSSgSi_tF",
             "moduleName": "ShelfWatchImageRecognitionFramework",
             "declAttributes": [
               "AccessControl"

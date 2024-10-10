@@ -360,7 +360,6 @@ extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
   public func showInsightDashboadViewController(from viewController: UIKit.UIViewController, jsonObjects: [[Swift.String : Any]], skuAvailability: [Swift.String : Any])
 }
 extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
-  public func recapture()
   public func getKPIResults(mergedImage: UIKit.UIImage, uploadParams: [Swift.String : Any], detectionsJSON: [[Swift.String : Any]], completion: @escaping ((_ kpiJson: [Swift.String : Any]) -> Swift.Void))
   public func getAnnotation(for file: Swift.String) -> [Swift.String : Any]
 }
@@ -368,6 +367,7 @@ extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
   public func uploadARData(shopId: Swift.Int, categoryId: Swift.Int, visitDate: Swift.String)
   public func getPendingARData() -> ShelfWatchImageRecognitionFramework.ARPendingData
   public func sendAllARPendingData()
+  public func isShopIdExists(shopId: Swift.Int) -> Swift.String?
 }
 @_inheritsConvenienceInitializers @objc(CDListing) public class CDListing : CoreData.NSManagedObject {
   @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)

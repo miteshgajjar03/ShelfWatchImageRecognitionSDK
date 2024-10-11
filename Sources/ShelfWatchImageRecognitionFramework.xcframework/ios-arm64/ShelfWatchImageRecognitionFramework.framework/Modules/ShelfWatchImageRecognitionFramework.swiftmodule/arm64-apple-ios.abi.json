@@ -6987,6 +6987,13 @@
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
+        "moduleName": "ShelfWatchImageRecognitionFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
         "moduleName": "ShelfWatchImageRecognitionFramework",
         "declAttributes": [
           "RawDocComment"
@@ -31200,6 +31207,41 @@
       "value": "\"multiple\""
     },
     {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_20_sub_segment_neighborhood.swift",
+      "kind": "StringLiteral",
+      "offset": 289,
+      "length": 35,
+      "value": "\"Cold Zone - Retailer Owned Fridge\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_20_sub_segment_neighborhood.swift",
+      "kind": "Array",
+      "offset": 357,
+      "length": 18,
+      "value": "[\"Producer Block\"]"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_20_sub_segment_neighborhood.swift",
+      "kind": "StringLiteral",
+      "offset": 407,
+      "length": 26,
+      "value": "\"Sub-segment Neighborhood\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_20_sub_segment_neighborhood.swift",
+      "kind": "StringLiteral",
+      "offset": 470,
+      "length": 26,
+      "value": "\"Sub-segment Neighborhood\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_20_sub_segment_neighborhood.swift",
+      "kind": "StringLiteral",
+      "offset": 510,
+      "length": 9,
+      "value": "\"default\""
+    },
+    {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Extension\/UIKit\/UIViewController\/Enum\/StoryboardName.swift",
       "kind": "StringLiteral",
       "offset": 177,
@@ -31762,56 +31804,56 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPIFormatter\/AnalyticsDefinition.swift",
       "kind": "StringLiteral",
-      "offset": 5020,
+      "offset": 5026,
       "length": 8,
       "value": "\"string\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPIFormatter\/AnalyticsDefinition.swift",
       "kind": "StringLiteral",
-      "offset": 5157,
+      "offset": 5162,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPIFormatter\/AnalyticsDefinition.swift",
       "kind": "StringLiteral",
-      "offset": 5191,
+      "offset": 5196,
       "length": 9,
       "value": "\"#808080\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPIFormatter\/AnalyticsDefinition.swift",
       "kind": "Dictionary",
-      "offset": 5246,
+      "offset": 5251,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPIFormatter\/AnalyticsDefinition.swift",
       "kind": "StringLiteral",
-      "offset": 5278,
+      "offset": 5283,
       "length": 9,
       "value": "\"#ffffff\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPIFormatter\/AnalyticsDefinition.swift",
       "kind": "Dictionary",
-      "offset": 5329,
+      "offset": 5334,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPIFormatter\/AnalyticsDefinition.swift",
       "kind": "IntegerLiteral",
-      "offset": 5363,
+      "offset": 5368,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPIFormatter\/AnalyticsDefinition.swift",
       "kind": "BooleanLiteral",
-      "offset": 5397,
+      "offset": 5402,
       "length": 5,
       "value": "false"
     },

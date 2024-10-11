@@ -31858,6 +31858,41 @@
       "value": "false"
     },
     {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_19_standard_compliance_delikatesy_centrum.swift",
+      "kind": "StringLiteral",
+      "offset": 297,
+      "length": 27,
+      "value": "\"Cold Zone - KP 0.0 Fridge\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_19_standard_compliance_delikatesy_centrum.swift",
+      "kind": "Array",
+      "offset": 357,
+      "length": 74,
+      "value": "[\"strefa 0% w lodowce Delikatesy Centrum\", \"Delikatesy Centrum 0% fridge\"]"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_19_standard_compliance_delikatesy_centrum.swift",
+      "kind": "StringLiteral",
+      "offset": 463,
+      "length": 42,
+      "value": "\"Standard Compliance - Delikatesy Centrum\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_19_standard_compliance_delikatesy_centrum.swift",
+      "kind": "StringLiteral",
+      "offset": 542,
+      "length": 42,
+      "value": "\"Standard Compliance - Delikatesy Centrum\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_19_standard_compliance_delikatesy_centrum.swift",
+      "kind": "StringLiteral",
+      "offset": 598,
+      "length": 9,
+      "value": "\"default\""
+    },
+    {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/ClassAttribute\/ClassAttribute.swift",
       "kind": "StringLiteral",
       "offset": 311,
@@ -35545,6 +35580,41 @@
       "offset": 649,
       "length": 11,
       "value": "\"planogram\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_18_standard_compliance_nab.swift",
+      "kind": "StringLiteral",
+      "offset": 268,
+      "length": 27,
+      "value": "\"Cold Zone - KP 0.0 Fridge\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_18_standard_compliance_nab.swift",
+      "kind": "Array",
+      "offset": 328,
+      "length": 78,
+      "value": "[\"strefa 0% w ciagu \/ lodowce wlasnej detalisty\", \"Retailer's own fridge NAB\"]"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_18_standard_compliance_nab.swift",
+      "kind": "StringLiteral",
+      "offset": 438,
+      "length": 27,
+      "value": "\"Standard Compliance - NAB\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_18_standard_compliance_nab.swift",
+      "kind": "StringLiteral",
+      "offset": 502,
+      "length": 27,
+      "value": "\"Standard Compliance - NAB\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_18_standard_compliance_nab.swift",
+      "kind": "StringLiteral",
+      "offset": 543,
+      "length": 9,
+      "value": "\"default\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Utility\/Environment\/Environment.swift",

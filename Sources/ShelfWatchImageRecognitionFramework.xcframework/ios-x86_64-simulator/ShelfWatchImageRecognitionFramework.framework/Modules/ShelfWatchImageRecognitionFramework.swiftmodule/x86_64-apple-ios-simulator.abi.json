@@ -22245,6 +22245,16 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ShelfWatchImageRecognitionFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "CoreData",
         "printedName": "CoreData",
         "declKind": "Import",
@@ -28869,41 +28879,6 @@
       "value": "3.0"
     },
     {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_21_listing_compliance.swift",
-      "kind": "StringLiteral",
-      "offset": 260,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_21_listing_compliance.swift",
-      "kind": "Array",
-      "offset": 305,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_21_listing_compliance.swift",
-      "kind": "StringLiteral",
-      "offset": 339,
-      "length": 20,
-      "value": "\"Listing Compliance\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_21_listing_compliance.swift",
-      "kind": "StringLiteral",
-      "offset": 396,
-      "length": 20,
-      "value": "\"Listing Compliance\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_21_listing_compliance.swift",
-      "kind": "StringLiteral",
-      "offset": 430,
-      "length": 9,
-      "value": "\"default\""
-    },
-    {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/PDConstant\/PDConstant.swift",
       "kind": "StringLiteral",
       "offset": 225,
@@ -28919,31 +28894,10 @@
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_1_sku_availability_hard_planogram.swift",
-      "kind": "Array",
-      "offset": 350,
-      "length": 18,
-      "value": "[\"Hard Planogram\"]"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_1_sku_availability_hard_planogram.swift",
       "kind": "StringLiteral",
-      "offset": 400,
-      "length": 35,
-      "value": "\"SKU Availability - Hard Planogram\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_1_sku_availability_hard_planogram.swift",
-      "kind": "StringLiteral",
-      "offset": 472,
-      "length": 35,
-      "value": "\"SKU Availability - Hard Planogram\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_1_sku_availability_hard_planogram.swift",
-      "kind": "StringLiteral",
-      "offset": 567,
-      "length": 10,
-      "value": "\"presence\""
+      "offset": 349,
+      "length": 16,
+      "value": "\"Hard Planogram\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_3_sku_availability_kp_owned_fridge.swift",
@@ -28951,34 +28905,6 @@
       "offset": 283,
       "length": 28,
       "value": "\"Cold Zone - KP Main Fridge\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_3_sku_availability_kp_owned_fridge.swift",
-      "kind": "Array",
-      "offset": 354,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_3_sku_availability_kp_owned_fridge.swift",
-      "kind": "StringLiteral",
-      "offset": 388,
-      "length": 36,
-      "value": "\"SKU Availability - KP Owned Fridge\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_3_sku_availability_kp_owned_fridge.swift",
-      "kind": "StringLiteral",
-      "offset": 461,
-      "length": 36,
-      "value": "\"SKU Availability - KP Owned Fridge\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_3_sku_availability_kp_owned_fridge.swift",
-      "kind": "StringLiteral",
-      "offset": 511,
-      "length": 10,
-      "value": "\"presence\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterDataChild\/MasterDataChild.swift",
@@ -29317,34 +29243,6 @@
       "value": "\"Cold Zone - KP Main Fridge\""
     },
     {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_12_commercial_standard_compliance_kp_owned_fridge.swift",
-      "kind": "Array",
-      "offset": 507,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_12_commercial_standard_compliance_kp_owned_fridge.swift",
-      "kind": "StringLiteral",
-      "offset": 541,
-      "length": 50,
-      "value": "\"Commercial Standard Compliance - KP Owned Fridge\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_12_commercial_standard_compliance_kp_owned_fridge.swift",
-      "kind": "StringLiteral",
-      "offset": 628,
-      "length": 50,
-      "value": "\"Commercial Standard Compliance - KP Owned Fridge\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_12_commercial_standard_compliance_kp_owned_fridge.swift",
-      "kind": "StringLiteral",
-      "offset": 692,
-      "length": 11,
-      "value": "\"planogram\""
-    },
-    {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Utility\/ActivityIndicator\/ActivityIndicatorView.swift",
       "kind": "IntegerLiteral",
       "offset": 614,
@@ -29521,31 +29419,17 @@
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_8_sku_availability_buforowa.swift",
-      "kind": "Array",
-      "offset": 340,
-      "length": 72,
-      "value": "[\"Lodówka buforowa - strefa 0.0 %\", \"Lodówka buforowa - strefa 0.0 %\"]"
+      "kind": "StringLiteral",
+      "offset": 330,
+      "length": 34,
+      "value": "\"Lodówka buforowa - strefa 0.0 %\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_8_sku_availability_buforowa.swift",
       "kind": "StringLiteral",
-      "offset": 495,
-      "length": 29,
-      "value": "\"SKU Availability - buforowa\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_8_sku_availability_buforowa.swift",
-      "kind": "StringLiteral",
-      "offset": 561,
-      "length": 29,
-      "value": "\"SKU Availability - buforowa\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_8_sku_availability_buforowa.swift",
-      "kind": "StringLiteral",
-      "offset": 604,
-      "length": 10,
-      "value": "\"presence\""
+      "offset": 399,
+      "length": 34,
+      "value": "\"Lodówka buforowa - strefa 0.0 %\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicability.swift",
@@ -29934,31 +29818,17 @@
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_10_sku_availability_modern.swift",
-      "kind": "Array",
-      "offset": 311,
-      "length": 90,
-      "value": "[\"Lodówka buforowa - strefa 0.0 % i Modern\", \"Lodówka buforowa - strefa 0.0 % i Modern\"]"
+      "kind": "StringLiteral",
+      "offset": 301,
+      "length": 43,
+      "value": "\"Lodówka buforowa - strefa 0.0 % i Modern\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_10_sku_availability_modern.swift",
       "kind": "StringLiteral",
-      "offset": 484,
-      "length": 27,
-      "value": "\"SKU Availability - Modern\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_10_sku_availability_modern.swift",
-      "kind": "StringLiteral",
-      "offset": 548,
-      "length": 27,
-      "value": "\"SKU Availability - Modern\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_10_sku_availability_modern.swift",
-      "kind": "StringLiteral",
-      "offset": 589,
-      "length": 10,
-      "value": "\"presence\""
+      "offset": 379,
+      "length": 43,
+      "value": "\"Lodówka buforowa - strefa 0.0 % i Modern\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/AR\/Popover\/PopoverViewController.swift",
@@ -30032,31 +29902,17 @@
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_9_sku_availability_piwa_smakowe.swift",
-      "kind": "Array",
-      "offset": 316,
-      "length": 102,
-      "value": "[\"Lodówka buforowa - strefa 0.0 % i piwa smakowe\", \"Lodówka buforowa - strefa 0.0 % i piwa smakowe\"]"
+      "kind": "StringLiteral",
+      "offset": 306,
+      "length": 49,
+      "value": "\"Lodówka buforowa - strefa 0.0 % i piwa smakowe\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_9_sku_availability_piwa_smakowe.swift",
       "kind": "StringLiteral",
-      "offset": 501,
-      "length": 33,
-      "value": "\"SKU Availability - piwa smakowe\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_9_sku_availability_piwa_smakowe.swift",
-      "kind": "StringLiteral",
-      "offset": 571,
-      "length": 33,
-      "value": "\"SKU Availability - piwa smakowe\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_9_sku_availability_piwa_smakowe.swift",
-      "kind": "StringLiteral",
-      "offset": 618,
-      "length": 10,
-      "value": "\"presence\""
+      "offset": 390,
+      "length": 49,
+      "value": "\"Lodówka buforowa - strefa 0.0 % i piwa smakowe\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
@@ -30130,31 +29986,17 @@
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_15_commercial_standard_compliance_buforowa.swift",
-      "kind": "Array",
-      "offset": 363,
-      "length": 72,
-      "value": "[\"Lodówka buforowa - strefa 0.0 %\", \"Lodówka buforowa - strefa 0.0 %\"]"
+      "kind": "StringLiteral",
+      "offset": 353,
+      "length": 34,
+      "value": "\"Lodówka buforowa - strefa 0.0 %\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_15_commercial_standard_compliance_buforowa.swift",
       "kind": "StringLiteral",
-      "offset": 463,
-      "length": 43,
-      "value": "\"Commercial Standard Compliance - buforowa\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_15_commercial_standard_compliance_buforowa.swift",
-      "kind": "StringLiteral",
-      "offset": 543,
-      "length": 43,
-      "value": "\"Commercial Standard Compliance - buforowa\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_15_commercial_standard_compliance_buforowa.swift",
-      "kind": "StringLiteral",
-      "offset": 600,
-      "length": 11,
-      "value": "\"planogram\""
+      "offset": 422,
+      "length": 34,
+      "value": "\"Lodówka buforowa - strefa 0.0 %\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
@@ -30167,20 +30009,6 @@
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
       "kind": "Dictionary",
       "offset": 549,
-      "length": 3,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPIApplicability\/ApplicabilityCalculator.swift",
-      "kind": "Array",
-      "offset": 303,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPIApplicability\/ApplicabilityCalculator.swift",
-      "kind": "Dictionary",
-      "offset": 347,
       "length": 3,
       "value": "[]"
     },
@@ -30675,6 +30503,20 @@
       "value": "\"Taste Segment\""
     },
     {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/KPIConstant\/KPIKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 646,
+      "length": 9,
+      "value": "\"Nab_sku\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/KPIConstant\/KPIKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 680,
+      "length": 8,
+      "value": "\"Others\""
+    },
+    {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPIApplicability\/KPISectionMap.swift",
       "kind": "Dictionary",
       "offset": 222,
@@ -30711,31 +30553,17 @@
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_14_commercial_standard_compliance_modern.swift",
-      "kind": "Array",
-      "offset": 359,
-      "length": 90,
-      "value": "[\"Lodówka buforowa - strefa 0.0 % i Modern\", \"Lodówka buforowa - strefa 0.0 % i Modern\"]"
+      "kind": "StringLiteral",
+      "offset": 349,
+      "length": 43,
+      "value": "\"Lodówka buforowa - strefa 0.0 % i Modern\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_14_commercial_standard_compliance_modern.swift",
       "kind": "StringLiteral",
-      "offset": 477,
-      "length": 41,
-      "value": "\"Commercial Standard Compliance - Modern\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_14_commercial_standard_compliance_modern.swift",
-      "kind": "StringLiteral",
-      "offset": 555,
-      "length": 41,
-      "value": "\"Commercial Standard Compliance - Modern\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_14_commercial_standard_compliance_modern.swift",
-      "kind": "StringLiteral",
-      "offset": 610,
-      "length": 11,
-      "value": "\"planogram\""
+      "offset": 427,
+      "length": 43,
+      "value": "\"Lodówka buforowa - strefa 0.0 % i Modern\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/PDConstant\/NativeParameterKeys.swift",
@@ -31215,31 +31043,10 @@
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_20_sub_segment_neighborhood.swift",
-      "kind": "Array",
-      "offset": 357,
-      "length": 18,
-      "value": "[\"Producer Block\"]"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_20_sub_segment_neighborhood.swift",
       "kind": "StringLiteral",
-      "offset": 407,
-      "length": 26,
-      "value": "\"Sub-segment Neighborhood\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_20_sub_segment_neighborhood.swift",
-      "kind": "StringLiteral",
-      "offset": 470,
-      "length": 26,
-      "value": "\"Sub-segment Neighborhood\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_20_sub_segment_neighborhood.swift",
-      "kind": "StringLiteral",
-      "offset": 510,
-      "length": 9,
-      "value": "\"default\""
+      "offset": 356,
+      "length": 16,
+      "value": "\"Producer Block\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Extension\/UIKit\/UIViewController\/Enum\/StoryboardName.swift",
@@ -31293,14 +31100,14 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/CentralCodeController\/KPICodeController.swift",
       "kind": "Dictionary",
-      "offset": 471,
+      "offset": 472,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/CentralCodeController\/KPICodeController.swift",
       "kind": "Dictionary",
-      "offset": 525,
+      "offset": 526,
       "length": 3,
       "value": "[]"
     },
@@ -31481,31 +31288,17 @@
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_17_commercial_standard_compliance_70cm.swift",
-      "kind": "Array",
-      "offset": 356,
-      "length": 34,
-      "value": "[\"1D 70 cm\", \"Lodówka strefy 0%\"]"
+      "kind": "StringLiteral",
+      "offset": 346,
+      "length": 20,
+      "value": "\"Lodówka strefy 0%\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_17_commercial_standard_compliance_70cm.swift",
       "kind": "StringLiteral",
-      "offset": 418,
-      "length": 39,
-      "value": "\"Commercial Standard Compliance - 70cm\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_17_commercial_standard_compliance_70cm.swift",
-      "kind": "StringLiteral",
-      "offset": 494,
-      "length": 39,
-      "value": "\"Commercial Standard Compliance - 70cm\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_17_commercial_standard_compliance_70cm.swift",
-      "kind": "StringLiteral",
-      "offset": 547,
-      "length": 11,
-      "value": "\"planogram\""
+      "offset": 401,
+      "length": 19,
+      "value": "\"STREFA 0.0% 70 CM\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/BrandNeighbourhood\/BrandNeighbourhood.swift",
@@ -31597,34 +31390,6 @@
       "offset": 265,
       "length": 7,
       "value": "\"Shelf\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_4_sku_availability_shelf.swift",
-      "kind": "Array",
-      "offset": 315,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_4_sku_availability_shelf.swift",
-      "kind": "StringLiteral",
-      "offset": 349,
-      "length": 26,
-      "value": "\"SKU Availability (Shelf)\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_4_sku_availability_shelf.swift",
-      "kind": "StringLiteral",
-      "offset": 412,
-      "length": 26,
-      "value": "\"SKU Availability (Shelf)\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_4_sku_availability_shelf.swift",
-      "kind": "StringLiteral",
-      "offset": 498,
-      "length": 10,
-      "value": "\"presence\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/DatabaseManager.swift",
@@ -31866,31 +31631,31 @@
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_19_standard_compliance_delikatesy_centrum.swift",
-      "kind": "Array",
-      "offset": 357,
-      "length": 74,
-      "value": "[\"strefa 0% w lodowce Delikatesy Centrum\", \"Delikatesy Centrum 0% fridge\"]"
+      "kind": "StringLiteral",
+      "offset": 356,
+      "length": 40,
+      "value": "\"strefa 0% w lodowce Delikatesy Centrum\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_19_standard_compliance_delikatesy_centrum.swift",
       "kind": "StringLiteral",
-      "offset": 463,
-      "length": 42,
-      "value": "\"Standard Compliance - Delikatesy Centrum\""
+      "offset": 435,
+      "length": 30,
+      "value": "\"Delikatesy Centrum 0% fridge\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_19_standard_compliance_delikatesy_centrum.swift",
-      "kind": "StringLiteral",
-      "offset": 542,
-      "length": 42,
-      "value": "\"Standard Compliance - Delikatesy Centrum\""
+      "kind": "IntegerLiteral",
+      "offset": 504,
+      "length": 2,
+      "value": "17"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_19_standard_compliance_delikatesy_centrum.swift",
-      "kind": "StringLiteral",
-      "offset": 598,
-      "length": 9,
-      "value": "\"default\""
+      "kind": "IntegerLiteral",
+      "offset": 545,
+      "length": 2,
+      "value": "40"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/ClassAttribute\/ClassAttribute.swift",
@@ -31914,67 +31679,11 @@
       "value": "\"Cold Zone - Other fridges\""
     },
     {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_5_sku_availability_other_fridge.swift",
-      "kind": "Array",
-      "offset": 356,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_5_sku_availability_other_fridge.swift",
-      "kind": "StringLiteral",
-      "offset": 385,
-      "length": 32,
-      "value": "\"SKU Availability Other Fridges\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_5_sku_availability_other_fridge.swift",
-      "kind": "StringLiteral",
-      "offset": 454,
-      "length": 32,
-      "value": "\"SKU Availability Other Fridges\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_5_sku_availability_other_fridge.swift",
-      "kind": "StringLiteral",
-      "offset": 551,
-      "length": 10,
-      "value": "\"presence\""
-    },
-    {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_2_sku_availability_others.swift",
       "kind": "StringLiteral",
       "offset": 267,
       "length": 8,
       "value": "\"Others\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_2_sku_availability_others.swift",
-      "kind": "Array",
-      "offset": 318,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_2_sku_availability_others.swift",
-      "kind": "StringLiteral",
-      "offset": 348,
-      "length": 25,
-      "value": "\"SKU Availability Others\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_2_sku_availability_others.swift",
-      "kind": "StringLiteral",
-      "offset": 410,
-      "length": 25,
-      "value": "\"SKU Availability Others\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_2_sku_availability_others.swift",
-      "kind": "StringLiteral",
-      "offset": 449,
-      "length": 10,
-      "value": "\"presence\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIData.swift",
@@ -32427,126 +32136,126 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/ARDataMapping\/CDARSessionData+CoreDataProperties.swift",
       "kind": "StringLiteral",
-      "offset": 5306,
+      "offset": 5416,
       "length": 12,
       "value": "\"session_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/ARDataMapping\/CDARSessionData+CoreDataProperties.swift",
       "kind": "StringLiteral",
-      "offset": 5344,
+      "offset": 5454,
       "length": 11,
       "value": "\"shelfType\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/ARDataMapping\/CDARSessionData+CoreDataProperties.swift",
       "kind": "StringLiteral",
-      "offset": 5388,
+      "offset": 5498,
       "length": 18,
       "value": "\"captureTimestamp\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/ARDataMapping\/CDARSessionData+CoreDataProperties.swift",
       "kind": "StringLiteral",
-      "offset": 5441,
+      "offset": 5551,
       "length": 20,
       "value": "\"annotationFileName\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/ARDataMapping\/CDARSessionData+CoreDataProperties.swift",
       "kind": "StringLiteral",
-      "offset": 5487,
+      "offset": 5597,
       "length": 11,
       "value": "\"questions\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/ARDataMapping\/CDARSessionData+CoreDataProperties.swift",
       "kind": "StringLiteral",
-      "offset": 5526,
+      "offset": 5636,
       "length": 13,
       "value": "\"annotations\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/ARDataMapping\/CDARSessionData+CoreDataProperties.swift",
       "kind": "StringLiteral",
-      "offset": 5568,
+      "offset": 5678,
       "length": 14,
       "value": "\"uploadStatus\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/ARDataMapping\/CDARSessionData+CoreDataProperties.swift",
       "kind": "StringLiteral",
-      "offset": 5606,
+      "offset": 5716,
       "length": 10,
       "value": "\"image_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/ARDataMapping\/CDARSessionData+CoreDataProperties.swift",
       "kind": "StringLiteral",
-      "offset": 5646,
+      "offset": 5756,
       "length": 16,
       "value": "\"planogram_name\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/ARDataMapping\/CDARSessionData+CoreDataProperties.swift",
       "kind": "StringLiteral",
-      "offset": 5306,
+      "offset": 5416,
       "length": 12,
       "value": "\"session_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/ARDataMapping\/CDARSessionData+CoreDataProperties.swift",
       "kind": "StringLiteral",
-      "offset": 5344,
+      "offset": 5454,
       "length": 11,
       "value": "\"shelfType\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/ARDataMapping\/CDARSessionData+CoreDataProperties.swift",
       "kind": "StringLiteral",
-      "offset": 5388,
+      "offset": 5498,
       "length": 18,
       "value": "\"captureTimestamp\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/ARDataMapping\/CDARSessionData+CoreDataProperties.swift",
       "kind": "StringLiteral",
-      "offset": 5441,
+      "offset": 5551,
       "length": 20,
       "value": "\"annotationFileName\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/ARDataMapping\/CDARSessionData+CoreDataProperties.swift",
       "kind": "StringLiteral",
-      "offset": 5487,
+      "offset": 5597,
       "length": 11,
       "value": "\"questions\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/ARDataMapping\/CDARSessionData+CoreDataProperties.swift",
       "kind": "StringLiteral",
-      "offset": 5526,
+      "offset": 5636,
       "length": 13,
       "value": "\"annotations\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/ARDataMapping\/CDARSessionData+CoreDataProperties.swift",
       "kind": "StringLiteral",
-      "offset": 5568,
+      "offset": 5678,
       "length": 14,
       "value": "\"uploadStatus\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/ARDataMapping\/CDARSessionData+CoreDataProperties.swift",
       "kind": "StringLiteral",
-      "offset": 5606,
+      "offset": 5716,
       "length": 10,
       "value": "\"image_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/ARDataMapping\/CDARSessionData+CoreDataProperties.swift",
       "kind": "StringLiteral",
-      "offset": 5646,
+      "offset": 5756,
       "length": 16,
       "value": "\"planogram_name\""
     },
@@ -34406,34 +34115,6 @@
       "value": "\"Shelf\""
     },
     {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_22_share_of_shelf.swift",
-      "kind": "Array",
-      "offset": 295,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_22_share_of_shelf.swift",
-      "kind": "StringLiteral",
-      "offset": 329,
-      "length": 16,
-      "value": "\"Share of Shelf\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_22_share_of_shelf.swift",
-      "kind": "StringLiteral",
-      "offset": 382,
-      "length": 16,
-      "value": "\"Share of Shelf\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_22_share_of_shelf.swift",
-      "kind": "StringLiteral",
-      "offset": 412,
-      "length": 9,
-      "value": "\"default\""
-    },
-    {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Extension\/UIKit\/UIImage\/UIImage+BlurCheck.swift",
       "kind": "FloatLiteral",
       "offset": 263,
@@ -35009,31 +34690,17 @@
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_7_sku_availability_70cm.swift",
-      "kind": "Array",
-      "offset": 332,
-      "length": 34,
-      "value": "[\"1D 70 cm\", \"Lodówka strefy 0%\"]"
+      "kind": "StringLiteral",
+      "offset": 322,
+      "length": 20,
+      "value": "\"Lodówka strefy 0%\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_7_sku_availability_70cm.swift",
       "kind": "StringLiteral",
-      "offset": 449,
-      "length": 25,
-      "value": "\"SKU Availability - 70cm\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_7_sku_availability_70cm.swift",
-      "kind": "StringLiteral",
-      "offset": 511,
-      "length": 25,
-      "value": "\"SKU Availability - 70cm\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_7_sku_availability_70cm.swift",
-      "kind": "StringLiteral",
-      "offset": 550,
-      "length": 10,
-      "value": "\"presence\""
+      "offset": 377,
+      "length": 19,
+      "value": "\"STREFA 0.0% 70 CM\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/MotionManager\/MotionManager.swift",
@@ -35261,31 +34928,10 @@
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_11_sku_availability_quantitative_rules.swift",
-      "kind": "Array",
-      "offset": 359,
-      "length": 18,
-      "value": "[\"Producer Block\"]"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_11_sku_availability_quantitative_rules.swift",
       "kind": "StringLiteral",
-      "offset": 409,
-      "length": 37,
-      "value": "\"SKU Availability Quantitative Rules\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_11_sku_availability_quantitative_rules.swift",
-      "kind": "StringLiteral",
-      "offset": 483,
-      "length": 37,
-      "value": "\"SKU Availability Quantitative Rules\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_11_sku_availability_quantitative_rules.swift",
-      "kind": "StringLiteral",
-      "offset": 580,
-      "length": 10,
-      "value": "\"presence\""
+      "offset": 358,
+      "length": 16,
+      "value": "\"Producer Block\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicabilityMatrix.swift",
@@ -35520,31 +35166,17 @@
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_16_commercial_standard_compliance_45cm.swift",
-      "kind": "Array",
-      "offset": 356,
-      "length": 37,
-      "value": "[\"1D 45-50 cm\", \"Lodówka strefy 0%\"]"
+      "kind": "StringLiteral",
+      "offset": 346,
+      "length": 20,
+      "value": "\"Lodówka strefy 0%\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_16_commercial_standard_compliance_45cm.swift",
       "kind": "StringLiteral",
-      "offset": 421,
-      "length": 39,
-      "value": "\"Commercial Standard Compliance - 45cm\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_16_commercial_standard_compliance_45cm.swift",
-      "kind": "StringLiteral",
-      "offset": 497,
-      "length": 39,
-      "value": "\"Commercial Standard Compliance - 45cm\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_16_commercial_standard_compliance_45cm.swift",
-      "kind": "StringLiteral",
-      "offset": 550,
-      "length": 11,
-      "value": "\"planogram\""
+      "offset": 401,
+      "length": 19,
+      "value": "\"STREFA 0.0% 45 CM\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_13_commercial_standard_compliance_piwa_smakowe.swift",
@@ -35555,31 +35187,17 @@
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_13_commercial_standard_compliance_piwa_smakowe.swift",
-      "kind": "Array",
-      "offset": 370,
-      "length": 102,
-      "value": "[\"Lodówka buforowa - strefa 0.0 % i piwa smakowe\", \"Lodówka buforowa - strefa 0.0 % i piwa smakowe\"]"
+      "kind": "StringLiteral",
+      "offset": 360,
+      "length": 49,
+      "value": "\"Lodówka buforowa - strefa 0.0 % i piwa smakowe\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_13_commercial_standard_compliance_piwa_smakowe.swift",
       "kind": "StringLiteral",
-      "offset": 504,
-      "length": 47,
-      "value": "\"Commercial Standard Compliance - piwa smakowe\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_13_commercial_standard_compliance_piwa_smakowe.swift",
-      "kind": "StringLiteral",
-      "offset": 588,
-      "length": 47,
-      "value": "\"Commercial Standard Compliance - piwa smakowe\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_13_commercial_standard_compliance_piwa_smakowe.swift",
-      "kind": "StringLiteral",
-      "offset": 649,
-      "length": 11,
-      "value": "\"planogram\""
+      "offset": 444,
+      "length": 49,
+      "value": "\"Lodówka buforowa - strefa 0.0 % i piwa smakowe\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_18_standard_compliance_nab.swift",
@@ -35590,31 +35208,31 @@
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_18_standard_compliance_nab.swift",
-      "kind": "Array",
-      "offset": 328,
-      "length": 78,
-      "value": "[\"strefa 0% w ciagu \/ lodowce wlasnej detalisty\", \"Retailer's own fridge NAB\"]"
+      "kind": "StringLiteral",
+      "offset": 327,
+      "length": 47,
+      "value": "\"strefa 0% w ciagu \/ lodowce wlasnej detalisty\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_18_standard_compliance_nab.swift",
       "kind": "StringLiteral",
-      "offset": 438,
+      "offset": 413,
       "length": 27,
-      "value": "\"Standard Compliance - NAB\""
+      "value": "\"Retailer's own fridge NAB\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_18_standard_compliance_nab.swift",
-      "kind": "StringLiteral",
-      "offset": 502,
-      "length": 27,
-      "value": "\"Standard Compliance - NAB\""
+      "kind": "IntegerLiteral",
+      "offset": 480,
+      "length": 2,
+      "value": "15"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_18_standard_compliance_nab.swift",
-      "kind": "StringLiteral",
-      "offset": 543,
-      "length": 9,
-      "value": "\"default\""
+      "kind": "IntegerLiteral",
+      "offset": 521,
+      "length": 2,
+      "value": "45"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Utility\/Environment\/Environment.swift",
@@ -35821,31 +35439,17 @@
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_6_sku_availability_45cm.swift",
-      "kind": "Array",
-      "offset": 332,
-      "length": 37,
-      "value": "[\"1D 45-50 cm\", \"Lodówka strefy 0%\"]"
+      "kind": "StringLiteral",
+      "offset": 322,
+      "length": 20,
+      "value": "\"Lodówka strefy 0%\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_6_sku_availability_45cm.swift",
       "kind": "StringLiteral",
-      "offset": 452,
-      "length": 25,
-      "value": "\"SKU Availability - 45cm\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_6_sku_availability_45cm.swift",
-      "kind": "StringLiteral",
-      "offset": 514,
-      "length": 25,
-      "value": "\"SKU Availability - 45cm\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_6_sku_availability_45cm.swift",
-      "kind": "StringLiteral",
-      "offset": 553,
-      "length": 10,
-      "value": "\"presence\""
+      "offset": 377,
+      "length": 19,
+      "value": "\"STREFA 0.0% 45 CM\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_23_share_of_cold_zone.swift",
@@ -35853,27 +35457,6 @@
       "offset": 244,
       "length": 19,
       "value": "[\"Shelf\", \"Others\"]"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_23_share_of_cold_zone.swift",
-      "kind": "StringLiteral",
-      "offset": 295,
-      "length": 20,
-      "value": "\"Share of Cold Zone\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_23_share_of_cold_zone.swift",
-      "kind": "StringLiteral",
-      "offset": 352,
-      "length": 20,
-      "value": "\"Share of Cold Zone\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_23_share_of_cold_zone.swift",
-      "kind": "StringLiteral",
-      "offset": 386,
-      "length": 9,
-      "value": "\"default\""
     },
     {
       "filePath": "\/Users\/mitesh\/Library\/Developer\/Xcode\/DerivedData\/ShelfWatchImageRecognitionFramework-ekqdvaoybivfsydjquxzgfnyniyi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ShelfWatchImageRecognitionFramework\/IntermediateBuildFilesPath\/ShelfWatchImageRecognitionFramework.build\/Release-iphonesimulator\/ShelfWatchImageRecognitionFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",

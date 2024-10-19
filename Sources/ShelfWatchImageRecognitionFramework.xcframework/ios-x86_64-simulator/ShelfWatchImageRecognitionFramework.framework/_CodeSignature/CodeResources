@@ -94,7 +94,7 @@
 		</data>
 		<key>Asahi.mlmodelc/metadata.json</key>
 		<data>
-		yUduZM7VSiLi/PCHtw+S0eOtlvU=
+		sWWhsl7lBx+xVX9HA0xBC/LopqU=
 		</data>
 		<key>Asahi.mlmodelc/model0/analytics/coremldata.bin</key>
 		<data>
@@ -246,7 +246,7 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		cUSsaRKvw9fnTQ5CPBMP189vkqM=
+		JW7Hueka3wdtepR97b6UoPTJr/U=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -355,7 +355,7 @@
 		</data>
 		<key>mars_mt.mlmodelc/coremldata.bin</key>
 		<data>
-		MojFRoG6Tqz2U9kxCg3JBtwckVU=
+		nxalvdwhj+QxCPBbB7VMdEf2kY0=
 		</data>
 		<key>mars_mt.mlmodelc/metadata.json</key>
 		<data>
@@ -619,7 +619,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YOAfo43Jg59WKHI3w1YqUVz90kba1aTKE0JeI2lUve8=
+			KJ60AmzPxSw6Lmez7cy9FAVFUIe1IsrvvtwH/WA947E=
 			</data>
 		</dict>
 		<key>Asahi.mlmodelc/model0/analytics/coremldata.bin</key>
@@ -878,7 +878,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1Bh1jIXctdneveec9H0SVUP8/trmIhtJg7hKLmSOKbg=
+			Pcx2iIATJdkv4/8TCTL9mDOOGB9aD7Q3TDQ0Vg/WHQw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1035,7 +1035,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hv3bSN/lb3qAm55pj6z2Jp8g3Y+IRSG0Sohte2Z0YR4=
+			2IgeYKc6KVR38+yoLqvprJUCoq6AoEFkPq3AAEqahyk=
 			</data>
 		</dict>
 		<key>mars_mt.mlmodelc/metadata.json</key>

@@ -140,7 +140,7 @@ extension ShelfWatchCameraManager: ImageUploadDelegate {
         self.delegate?.didImageUploadButtonPressed(uploadEventMeta: uploadEventMeta)
     }
     
-    public func downloadDataProgress(progressMeta: DownloadProgressMeta) {
+    public func downloadDataProgress(progressMeta: DownloadProgressMeta, sendUpdates: Bool) {
         
         let downloadMeta = DownloadMeta(
             title: progressMeta.title,
@@ -263,7 +263,7 @@ extension ShelfWatchCameraManager {
         return self.shelfWatchCamera.isShopIdExists(shopId: shopId)
     }
     
-    public func getGroupNames(shopId: Int) -> [String] {
-        return self.shelfWatchCamera.getGroupNames(shopId: shopId)
-    }
+//    public func getGroupNames(shopId: Int) -> [String] {
+//        return self.shelfWatchCamera.getGroupNames(shopId: shopId)
+//    }
 }

@@ -90,7 +90,7 @@
 		</data>
 		<key>Asahi.mlmodelc/coremldata.bin</key>
 		<data>
-		UVJalNfPi1JMwTMw2AkrJUSaY3c=
+		MqDlRuAWXiKt++9lu8h6Sm2/wC4=
 		</data>
 		<key>Asahi.mlmodelc/metadata.json</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Asahi.mlmodelc/model0/coremldata.bin</key>
 		<data>
-		XFD8UShRuL7r+gypsIEUyHtG5/U=
+		OM97oPg195D+2XCWIOA9kU6qEE4=
 		</data>
 		<key>Asahi.mlmodelc/model0/model.espresso.net</key>
 		<data>
@@ -230,7 +230,7 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		uPhlG+PwnpQJcjqxYT4UB/bNees=
+		blRWOOXKeALovtDeQuo0StXpwrc=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -246,7 +246,7 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		zNLJHRYEFs4/Vo7ZoTHJicx6HJM=
+		vYW5Pc/4HJiK9pimn6GqKXgxOSI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -612,7 +612,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QqnJA3/V+nfV6Txd6EyOqqVyxR1CzvxF9DlgUTl9NPg=
+			/0ExS3AA38SCE5BoDXwEQQPNuOOudYWn7Y8uER/uLUU=
 			</data>
 		</dict>
 		<key>Asahi.mlmodelc/metadata.json</key>
@@ -633,7 +633,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OhrmSssAnu7spVYkofuyirfd7Yj6VmORM+fB2kfp4ss=
+			5m2+kz7vKLz41skIG2iXvRUQiUqWo3qZ5Z20ntpPa7Y=
 			</data>
 		</dict>
 		<key>Asahi.mlmodelc/model0/model.espresso.net</key>
@@ -850,7 +850,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6tsD+3IaT6TuQ4BW+Zfh8l3O5AU1K+C6J8ihpWSfcx4=
+			UV/sXY3sJJPB7T2fxUQ+lYhquC+aqy9fmL6LdbN+JoU=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -878,7 +878,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ef/pZqlnzSjFm4MKRX4lLLrcepQIRF37xTTFz9PonCU=
+			fTIa+SactOGnq1PcxPnup01KgH8qoWES5oHXcTtHXAw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

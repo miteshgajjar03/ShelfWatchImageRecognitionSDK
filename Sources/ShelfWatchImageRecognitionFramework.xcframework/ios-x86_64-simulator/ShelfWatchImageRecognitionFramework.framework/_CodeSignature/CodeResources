@@ -94,7 +94,7 @@
 		</data>
 		<key>Asahi.mlmodelc/metadata.json</key>
 		<data>
-		sWWhsl7lBx+xVX9HA0xBC/LopqU=
+		wFvOgAJxQNgAHfy6ccKEESpVqQg=
 		</data>
 		<key>Asahi.mlmodelc/model0/analytics/coremldata.bin</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Asahi.mlmodelc/model0/coremldata.bin</key>
 		<data>
-		OM97oPg195D+2XCWIOA9kU6qEE4=
+		XFD8UShRuL7r+gypsIEUyHtG5/U=
 		</data>
 		<key>Asahi.mlmodelc/model0/model.espresso.net</key>
 		<data>
@@ -230,7 +230,7 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		9r0xLf+RLMxkT0JnZmhsx8rs8hA=
+		HiEDaHndzm/0yd/Zv+YvgjNIyrM=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -246,7 +246,7 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		SIjXRKuQJUK5wP92P+9iGHS+5bs=
+		XDkCXEgVyJHvqGrU2ILVmLQdtnU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -619,7 +619,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KJ60AmzPxSw6Lmez7cy9FAVFUIe1IsrvvtwH/WA947E=
+			hgDQXZ5lXsnJKKvAuoAP2qX0qjSkVb8jtdsW3pT5+sc=
 			</data>
 		</dict>
 		<key>Asahi.mlmodelc/model0/analytics/coremldata.bin</key>
@@ -633,7 +633,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5m2+kz7vKLz41skIG2iXvRUQiUqWo3qZ5Z20ntpPa7Y=
+			OhrmSssAnu7spVYkofuyirfd7Yj6VmORM+fB2kfp4ss=
 			</data>
 		</dict>
 		<key>Asahi.mlmodelc/model0/model.espresso.net</key>
@@ -850,7 +850,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6WX9OHaqvH84bJwbWN9l4u5BRBIwhObUcT0LTcv2s4I=
+			SqkufDkP8RIohrByI3lf63yb8SOhqINsgZNRQCwsG2Y=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -878,7 +878,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ariYcOVYx+z4WbAMGwqbJQ8M1eKaoBJNxZ6PgqhSDEM=
+			pQ1zY4O9LXAqeNc4zTLT57qJrSx4lyFeSDh0bP6oS4U=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

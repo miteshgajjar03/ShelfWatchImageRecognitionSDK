@@ -30040,15 +30040,8 @@
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 449,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/ShelfWatchViewModel.swift",
       "kind": "Dictionary",
-      "offset": 549,
+      "offset": 500,
       "length": 3,
       "value": "[]"
     },
@@ -30583,6 +30576,13 @@
       "offset": 264,
       "length": 13,
       "value": "\"ShelfWatchImageRecognitionFramework.CameraManager\""
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/RefreshKPIData\/RefreshDataManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 305,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_14_commercial_standard_compliance_modern.swift",

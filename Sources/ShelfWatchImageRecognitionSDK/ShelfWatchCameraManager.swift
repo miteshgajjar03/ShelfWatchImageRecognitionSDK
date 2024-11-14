@@ -263,7 +263,7 @@ extension ShelfWatchCameraManager {
         return self.shelfWatchCamera.isShopIdExists(shopId: shopId)
     }
     
-//    public func getGroupNames(shopId: Int) -> [String] {
-//        return self.shelfWatchCamera.getGroupNames(shopId: shopId)
-//    }
+    public func getGroupNames(shopId: Int) -> [String] {
+        return self.shelfWatchCamera.getGroupNames(shopId: shopId)
+    }
 }

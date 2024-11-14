@@ -369,6 +369,9 @@ extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
   public func sendAllARPendingData()
   public func isShopIdExists(shopId: Swift.Int) -> Swift.String?
 }
+extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
+  public func getGroupNames(shopId: Swift.Int) -> [Swift.String]
+}
 @_inheritsConvenienceInitializers @objc(CDListing) public class CDListing : CoreData.NSManagedObject {
   @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
   @objc deinit
@@ -474,7 +477,7 @@ public protocol ImageUploadDelegate : AnyObject {
   func didReceiveBatchUpload(result: ShelfWatchImageRecognitionFramework.BatchUploadResult)
   func didCloseCameraSDK()
   func onUploadImagePressed(uploadImageEventMeta: ShelfWatchImageRecognitionFramework.UploadImageEventMeta)
-  func downloadDataProgress(progressMeta: ShelfWatchImageRecognitionFramework.DownloadProgressMeta, sendUpdates: Swift.Bool)
+  func downloadDataProgress(progressMeta: ShelfWatchImageRecognitionFramework.DownloadProgressMeta)
   func didReceivePendingARData(item: ShelfWatchImageRecognitionFramework.ARPendingData)
 }
 public enum BatchUploadResult {

@@ -219,14 +219,14 @@ extension ShelfWatchCameraManager {
     public func showInsightDashboadViewController(
         from viewController: UIViewController,
         jsonObjects: [[String: Any]],
-        kpiAvailability: [String: Any]
+        kpiAvailability: [String: Any] = [:]
     ) {
         
-//        self.shelfWatchCamera.showInsightDashboadViewController(
-//            from: viewController,
-//            jsonObjects: jsonObjects,
-//            skuAvailability: kpiAvailability
-//        )
+        self.shelfWatchCamera.showInsightDashboadViewController(
+            from: viewController,
+            jsonObjects: jsonObjects,
+            skuAvailability: kpiAvailability
+        )
     }
     
     public func getKPIResult(mergedImage: UIImage, detectionJSON: [[String: Any]], completion: @escaping ((_ kpiJSON: [String: Any]) -> Void)) {

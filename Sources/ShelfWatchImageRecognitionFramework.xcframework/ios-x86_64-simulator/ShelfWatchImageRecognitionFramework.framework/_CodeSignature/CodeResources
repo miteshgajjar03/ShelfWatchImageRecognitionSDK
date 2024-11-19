@@ -74,59 +74,15 @@
 		</data>
 		<key>AR.storyboardc/pdK-oq-scA-view-aKn-CN-PNf.nib/objects-14.0+.nib</key>
 		<data>
-		Be3GeFZzeq6QWZ4km73ViMZEoIY=
+		tQik8/6vdlbSozDjMkd8Xw4dQOA=
 		</data>
 		<key>AR.storyboardc/pdK-oq-scA-view-aKn-CN-PNf.nib/runtime.nib</key>
 		<data>
-		DO61RmGQUyP5e1QUfIu3y6fyP7M=
+		SWziiw/q34plNN7EHWopiqcnOwg=
 		</data>
 		<key>ActivityIndicatorView.nib</key>
 		<data>
 		7GGhf99PVcMiCif66SZgph1OvJA=
-		</data>
-		<key>Asahi.mlmodelc/analytics/coremldata.bin</key>
-		<data>
-		/22TszWnRiEq+lE3EfG+CFfOcSg=
-		</data>
-		<key>Asahi.mlmodelc/coremldata.bin</key>
-		<data>
-		UVJalNfPi1JMwTMw2AkrJUSaY3c=
-		</data>
-		<key>Asahi.mlmodelc/metadata.json</key>
-		<data>
-		yUduZM7VSiLi/PCHtw+S0eOtlvU=
-		</data>
-		<key>Asahi.mlmodelc/model0/analytics/coremldata.bin</key>
-		<data>
-		fKyDdkREUD29a01QEJ3OG60fkfc=
-		</data>
-		<key>Asahi.mlmodelc/model0/coremldata.bin</key>
-		<data>
-		XFD8UShRuL7r+gypsIEUyHtG5/U=
-		</data>
-		<key>Asahi.mlmodelc/model0/model.espresso.net</key>
-		<data>
-		wRgBPouugprqCnd9YlboD/FdGd4=
-		</data>
-		<key>Asahi.mlmodelc/model0/model.espresso.shape</key>
-		<data>
-		0mLziElpBKzWPfNi8KB7QHGD9+0=
-		</data>
-		<key>Asahi.mlmodelc/model0/model.espresso.weights</key>
-		<data>
-		kptDdK0MTFNOkwQGiyl9KvyD1Ck=
-		</data>
-		<key>Asahi.mlmodelc/model0/model/coremldata.bin</key>
-		<data>
-		tGU7K8v0jbmLrWPOZkDsl7EBsZk=
-		</data>
-		<key>Asahi.mlmodelc/model0/neural_network_optionals/coremldata.bin</key>
-		<data>
-		tkgF5pxT7RlO+9uypQti9obolyA=
-		</data>
-		<key>Asahi.mlmodelc/model1/coremldata.bin</key>
-		<data>
-		Mvj02jg+xPo+VGhTlMehuxp45S0=
 		</data>
 		<key>Assets.car</key>
 		<data>
@@ -158,11 +114,11 @@
 		</data>
 		<key>Colgate.mlmodelc/coremldata.bin</key>
 		<data>
-		oCDMrvvnx/Oy0vvuZIKFmYPDvis=
+		EWRsmQvIXhdf5ZiHrKINOsVumWs=
 		</data>
 		<key>Colgate.mlmodelc/metadata.json</key>
 		<data>
-		+1xyMy30Afu2D/Qhdky5kJ4lQxY=
+		eU60BRPYApPk4rsSZDxWoG3gXOY=
 		</data>
 		<key>Colgate.mlmodelc/model0/analytics/coremldata.bin</key>
 		<data>
@@ -274,7 +230,7 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		2NOWqBd41EaBMD+8oq7DW8j9MQ8=
+		F1rFEhEiXowWlIDnzxGmutmiNPQ=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -290,7 +246,7 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		8YZJwXTdT6/hMr68nAmQFcQAZnY=
+		wcefrw78GkJD64jUNAaPULVtr3k=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -392,50 +348,6 @@
 		<key>kpi_applicability_matrix.json</key>
 		<data>
 		gbduQn4Y2JXDi4rRe/aOtnfc5Gw=
-		</data>
-		<key>mars_mt.mlmodelc/analytics/coremldata.bin</key>
-		<data>
-		B3m/PCjzFVNMG7AQOWOpdfi1tzs=
-		</data>
-		<key>mars_mt.mlmodelc/coremldata.bin</key>
-		<data>
-		MojFRoG6Tqz2U9kxCg3JBtwckVU=
-		</data>
-		<key>mars_mt.mlmodelc/metadata.json</key>
-		<data>
-		rnGptCIU4jb4ZrnoK41RK7kcpgY=
-		</data>
-		<key>mars_mt.mlmodelc/model0/analytics/coremldata.bin</key>
-		<data>
-		xQZ6F2WFXrJjhmX7hhI8fLcLYaQ=
-		</data>
-		<key>mars_mt.mlmodelc/model0/coremldata.bin</key>
-		<data>
-		KKqHX6GINjeacxvGDx7mWn4Iju8=
-		</data>
-		<key>mars_mt.mlmodelc/model0/model.espresso.net</key>
-		<data>
-		Ew+lRzogBdzNJ1SlO5RBQbJIKOY=
-		</data>
-		<key>mars_mt.mlmodelc/model0/model.espresso.shape</key>
-		<data>
-		t46zKg3SLN4PYKpkSz5TMgfEQXc=
-		</data>
-		<key>mars_mt.mlmodelc/model0/model.espresso.weights</key>
-		<data>
-		biD2ZO1zeWc5+l097ytRy2pSFzs=
-		</data>
-		<key>mars_mt.mlmodelc/model0/model/coremldata.bin</key>
-		<data>
-		tGU7K8v0jbmLrWPOZkDsl7EBsZk=
-		</data>
-		<key>mars_mt.mlmodelc/model0/neural_network_optionals/coremldata.bin</key>
-		<data>
-		tkgF5pxT7RlO+9uypQti9obolyA=
-		</data>
-		<key>mars_mt.mlmodelc/model1/coremldata.bin</key>
-		<data>
-		SIBw50M6uGcG9uJLDecXhXxkHoA=
 		</data>
 		<key>pl.lproj/Localizable.strings</key>
 		<dict>
@@ -628,14 +540,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			e2Ji0/Y0Lw9Lzmzrd4VbGjshweUyDsz7rU7RRHts1rI=
+			nmZiEXFp4GIRuM/UyIfURlxyOc/2a6SNHL+fO1FQhEk=
 			</data>
 		</dict>
 		<key>AR.storyboardc/pdK-oq-scA-view-aKn-CN-PNf.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kw1aq2ppfzbuOA/c7SCpIxkMdwaEnt7X/u0FE+xlr2o=
+			z/gD+icNgVMhdcXTJvUu4wdaf9CDbV7hk//jtBEAw8k=
 			</data>
 		</dict>
 		<key>ActivityIndicatorView.nib</key>
@@ -643,83 +555,6 @@
 			<key>hash2</key>
 			<data>
 			HrD235X29m5tAOBv5qBicW34grbwaIIgteI4Km1fLZk=
-			</data>
-		</dict>
-		<key>Asahi.mlmodelc/analytics/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/Fu1unP9nQucd499idAP2nBOAuIP+mOKzEGpQo7H9XI=
-			</data>
-		</dict>
-		<key>Asahi.mlmodelc/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			QqnJA3/V+nfV6Txd6EyOqqVyxR1CzvxF9DlgUTl9NPg=
-			</data>
-		</dict>
-		<key>Asahi.mlmodelc/metadata.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			YOAfo43Jg59WKHI3w1YqUVz90kba1aTKE0JeI2lUve8=
-			</data>
-		</dict>
-		<key>Asahi.mlmodelc/model0/analytics/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			SRD/lBJSM2OieEoduflbkqtuOzGpnTNdNnsJFbYLUdU=
-			</data>
-		</dict>
-		<key>Asahi.mlmodelc/model0/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			OhrmSssAnu7spVYkofuyirfd7Yj6VmORM+fB2kfp4ss=
-			</data>
-		</dict>
-		<key>Asahi.mlmodelc/model0/model.espresso.net</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			6Dqqrx1eZivN5lvJ6OCq3/noWBUEwl0av9Ywr4O4qxQ=
-			</data>
-		</dict>
-		<key>Asahi.mlmodelc/model0/model.espresso.shape</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LyuMXRYeCbELjv0aogvSEPPtNqtJwtADe3gq8JjGSbY=
-			</data>
-		</dict>
-		<key>Asahi.mlmodelc/model0/model.espresso.weights</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			E/jgotPSRJa49q0ydJx1UQTHDPR6qe3Vgh4VenxnxMw=
-			</data>
-		</dict>
-		<key>Asahi.mlmodelc/model0/model/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JsMfzXP3J1PCXEF2nqub8rHW9vXpXkr2ag9c2kxRcE8=
-			</data>
-		</dict>
-		<key>Asahi.mlmodelc/model0/neural_network_optionals/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			WTG9U2xFUClKISxvyNPBvuddqBeYC6C2cchgPa+zYjg=
-			</data>
-		</dict>
-		<key>Asahi.mlmodelc/model1/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			HgjCtNMadbrjRNsicutUCkxtUqEOwMY95dCjjdpOxrM=
 			</data>
 		</dict>
 		<key>Assets.car</key>
@@ -775,14 +610,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MMoPOsONDf6wK95uIG2E16y823CgotD8vpaVkCF6FC8=
+			SGGyKEsCqgsAqsQ+upHomFdEqVJRhKB++iK2SmF3o/M=
 			</data>
 		</dict>
 		<key>Colgate.mlmodelc/metadata.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2txVTVsqYQdMWjO3n7/oiGIMPxPQ1vdH00ZalZ5VF7o=
+			tD2nyrOy5XQOJB3snxMAWJMwB4D69MyyORT8bmPja24=
 			</data>
 		</dict>
 		<key>Colgate.mlmodelc/model0/analytics/coremldata.bin</key>
@@ -971,7 +806,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bJuBQgxQkXcZrSbOpL73Ulj2nwDNTn6imGea8BCNzoU=
+			x8DQK/etb2tj9xqqVKXsBR3/QQP9iQxrH6RttkggyU8=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -999,7 +834,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yKxe0ded4I0p4yij9daZ2Kz1NeyjXR9vuS9nLRr+x4c=
+			8KcCbPld8WW0woKTf7Hxif4yNf7BDNZOa6hlO2v3/l0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1143,83 +978,6 @@
 			<key>hash2</key>
 			<data>
 			shbGgD+CUDAe2/pwcPdtUuUnkoIGXBjq1kg4y9AQ+R4=
-			</data>
-		</dict>
-		<key>mars_mt.mlmodelc/analytics/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ZF0rVIydBujGSG+Wf6nUym9UpSLrfMl9l4ykVQkUas8=
-			</data>
-		</dict>
-		<key>mars_mt.mlmodelc/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			hv3bSN/lb3qAm55pj6z2Jp8g3Y+IRSG0Sohte2Z0YR4=
-			</data>
-		</dict>
-		<key>mars_mt.mlmodelc/metadata.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			YKIn+g2cDoTh4tMgA5BPfSiDtAbQ5vRyliKGtLP15WA=
-			</data>
-		</dict>
-		<key>mars_mt.mlmodelc/model0/analytics/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			00oQcp6TlfaxUrlsAOZmvGK7ZTWiLjTByfatfmof4yw=
-			</data>
-		</dict>
-		<key>mars_mt.mlmodelc/model0/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			UPfnDm4/6dAseRJFfKIbCEybVCz/+byiTWgPf6gBX7k=
-			</data>
-		</dict>
-		<key>mars_mt.mlmodelc/model0/model.espresso.net</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			XsGtbSbpkx60XRnVN1ih4H2vYhR2JtgKUJSXf+IsbQQ=
-			</data>
-		</dict>
-		<key>mars_mt.mlmodelc/model0/model.espresso.shape</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			YC1QjpX2U15y/dUA49LUnYlHgZJG4nJByNtoSjQP/mw=
-			</data>
-		</dict>
-		<key>mars_mt.mlmodelc/model0/model.espresso.weights</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			OxDQ9L7mpKBhmDOFKOMS4lmgeMnRxBeCrhbWaWtitWA=
-			</data>
-		</dict>
-		<key>mars_mt.mlmodelc/model0/model/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JsMfzXP3J1PCXEF2nqub8rHW9vXpXkr2ag9c2kxRcE8=
-			</data>
-		</dict>
-		<key>mars_mt.mlmodelc/model0/neural_network_optionals/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			WTG9U2xFUClKISxvyNPBvuddqBeYC6C2cchgPa+zYjg=
-			</data>
-		</dict>
-		<key>mars_mt.mlmodelc/model1/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			gq80ymj70MCYO5+izz3kuvBKU7LeJ3jmIB6oJOZjBLc=
 			</data>
 		</dict>
 		<key>pl.lproj/Localizable.strings</key>

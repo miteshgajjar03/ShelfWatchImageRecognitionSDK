@@ -108,50 +108,6 @@
 		<data>
 		NavMZRgVvk+oNAlIKrd+LkXHx58=
 		</data>
-		<key>Colgate.mlmodelc/analytics/coremldata.bin</key>
-		<data>
-		m9GDLEbZAaGsQDh1LCPgNx1FLZc=
-		</data>
-		<key>Colgate.mlmodelc/coremldata.bin</key>
-		<data>
-		EWRsmQvIXhdf5ZiHrKINOsVumWs=
-		</data>
-		<key>Colgate.mlmodelc/metadata.json</key>
-		<data>
-		+1xyMy30Afu2D/Qhdky5kJ4lQxY=
-		</data>
-		<key>Colgate.mlmodelc/model0/analytics/coremldata.bin</key>
-		<data>
-		YkKgUAYNdkbSBqOO3sTIeNp57Og=
-		</data>
-		<key>Colgate.mlmodelc/model0/coremldata.bin</key>
-		<data>
-		yy6gR5wMD4d+3QklkXFSsTPTDIk=
-		</data>
-		<key>Colgate.mlmodelc/model0/model.espresso.net</key>
-		<data>
-		2NbJNXrw9EpQhtKnOYmMCjBr0kY=
-		</data>
-		<key>Colgate.mlmodelc/model0/model.espresso.shape</key>
-		<data>
-		kG7vWnPsmdG4+yL+1g+UPdQ5an8=
-		</data>
-		<key>Colgate.mlmodelc/model0/model.espresso.weights</key>
-		<data>
-		E6Baemxoc944ZblY1HsyK5brNjo=
-		</data>
-		<key>Colgate.mlmodelc/model0/model/coremldata.bin</key>
-		<data>
-		tGU7K8v0jbmLrWPOZkDsl7EBsZk=
-		</data>
-		<key>Colgate.mlmodelc/model0/neural_network_optionals/coremldata.bin</key>
-		<data>
-		tkgF5pxT7RlO+9uypQti9obolyA=
-		</data>
-		<key>Colgate.mlmodelc/model1/coremldata.bin</key>
-		<data>
-		JpFfH96XkO1Y8H3MOhgME+hYNho=
-		</data>
 		<key>FixOrientationView.nib</key>
 		<data>
 		Qtt/9PZtMjpfy6+MO29p9U+KapE=
@@ -226,15 +182,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Mplr7jx9T8gMtI5TSnrnl9tuB2k=
+		A4HZdgUfFuckSWs7tS5CI49nUWI=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		vd1sGhpIldwKp5T7Ej7em/E70NM=
+		Pe22QjLlh9QWxfvRARuGUzZQwqo=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		hulQ72gYLX+6Dchi5oWrk6pQJtc=
+		FEvro4GGmFc/4829a5D9wHTnKbI=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -242,11 +198,11 @@
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		hulQ72gYLX+6Dchi5oWrk6pQJtc=
+		FEvro4GGmFc/4829a5D9wHTnKbI=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		LevN3GvqD//VD0AAqWd4MB7ZlL4=
+		QK8a4lhmi0Y10yQMdngh9B2FVeQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -599,83 +555,6 @@
 			nZKcWsTe4mBf4l352ygiunejO5HKpwjL6PKJjgQANX4=
 			</data>
 		</dict>
-		<key>Colgate.mlmodelc/analytics/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			N4q8r+3umCwaIWXSXUQ7UsXrj85BjiP0SzxVYjlER3E=
-			</data>
-		</dict>
-		<key>Colgate.mlmodelc/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			SGGyKEsCqgsAqsQ+upHomFdEqVJRhKB++iK2SmF3o/M=
-			</data>
-		</dict>
-		<key>Colgate.mlmodelc/metadata.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			2txVTVsqYQdMWjO3n7/oiGIMPxPQ1vdH00ZalZ5VF7o=
-			</data>
-		</dict>
-		<key>Colgate.mlmodelc/model0/analytics/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			q0uN8irUL55PV6Q8D2pv2ecveQGtFqe2Aodw+97UJrg=
-			</data>
-		</dict>
-		<key>Colgate.mlmodelc/model0/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			fei8slrcvU1d0ylKD9h1nxD/mF7tpWfwFJ6XJwWi+RM=
-			</data>
-		</dict>
-		<key>Colgate.mlmodelc/model0/model.espresso.net</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Jq4N6a3X2TM7sBs8mzbcyjJpvjhJoc4kFobWJdbpxJE=
-			</data>
-		</dict>
-		<key>Colgate.mlmodelc/model0/model.espresso.shape</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			dhAIUkqHadxnyWJhbMqR9fxlg1PEi3WFPZKc9Pva3DQ=
-			</data>
-		</dict>
-		<key>Colgate.mlmodelc/model0/model.espresso.weights</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			lBj0mu18Qb6nixM4x2oU5cLBUmcq8H+vEXM5bnBZNY0=
-			</data>
-		</dict>
-		<key>Colgate.mlmodelc/model0/model/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JsMfzXP3J1PCXEF2nqub8rHW9vXpXkr2ag9c2kxRcE8=
-			</data>
-		</dict>
-		<key>Colgate.mlmodelc/model0/neural_network_optionals/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			WTG9U2xFUClKISxvyNPBvuddqBeYC6C2cchgPa+zYjg=
-			</data>
-		</dict>
-		<key>Colgate.mlmodelc/model1/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/zlhEJDmouYbKlvmt1zGJMzJQuZrkYSUg4SKJobjoA8=
-			</data>
-		</dict>
 		<key>FixOrientationView.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -806,14 +685,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bc9/RRJp+i7pG0Dc23amdUKfD74b2v9JoLFKUucR07g=
+			EZGebE0w3oKA966BobLsMeeLYVTDN1oMkdpqcpfeu1Q=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QvKypwVgnvBnxaDoepal/z+Tu1y0V8OEK4IQMkB7B7Y=
+			/PHEPWJOoa//6YjMS5eGEBoBYJXZApbHz4DoY6OtRQA=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -827,14 +706,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QvKypwVgnvBnxaDoepal/z+Tu1y0V8OEK4IQMkB7B7Y=
+			/PHEPWJOoa//6YjMS5eGEBoBYJXZApbHz4DoY6OtRQA=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Vcx/3aO2kAmLrnNrll9Bm+dOEjxWQK4m0UlRcXDWMo0=
+			HIioyNkF2ckmomUBkd7hNh8vvwNV0jUbGEv3zu9DwfU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

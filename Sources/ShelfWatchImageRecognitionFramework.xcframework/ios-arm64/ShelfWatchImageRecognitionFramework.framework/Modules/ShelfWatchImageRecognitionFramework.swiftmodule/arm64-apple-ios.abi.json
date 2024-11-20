@@ -26336,16 +26336,6 @@
       },
       {
         "kind": "Import",
-        "name": "CoreML",
-        "printedName": "CoreML",
-        "declKind": "Import",
-        "moduleName": "ShelfWatchImageRecognitionFramework",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",

@@ -1,8 +1,8 @@
 {
   "ABIRoot": {
     "kind": "Root",
-    "name": "TopLevel",
-    "printedName": "TopLevel",
+    "name": "ShelfWatchImageRecognitionFramework",
+    "printedName": "ShelfWatchImageRecognitionFramework",
     "children": [
       {
         "kind": "Import",
@@ -184,7 +184,23 @@
         "declAttributes": [
           "AccessControl"
         ],
-        "hasMissingDesignatedInitializers": true
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
       },
       {
         "kind": "TypeDecl",
@@ -359,7 +375,23 @@
         "declAttributes": [
           "AccessControl"
         ],
-        "hasMissingDesignatedInitializers": true
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
       },
       {
         "kind": "TypeDecl",
@@ -660,6 +692,22 @@
         "moduleName": "ShelfWatchImageRecognitionFramework",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -991,6 +1039,22 @@
         "moduleName": "ShelfWatchImageRecognitionFramework",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -1003,6 +1067,22 @@
         "moduleName": "ShelfWatchImageRecognitionFramework",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -1166,6 +1246,20 @@
         ],
         "enumRawTypeName": "String",
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -1589,6 +1683,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -1888,6 +1996,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -2114,6 +2238,20 @@
           "AccessControl"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -2452,6 +2590,20 @@
           "AccessControl"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -4039,25 +4191,17 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Identifiable",
-            "printedName": "Identifiable",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "ID",
-                "printedName": "ID",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ObjectIdentifier",
-                    "printedName": "Swift.ObjectIdentifier",
-                    "usr": "s:SO"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:s12IdentifiableP",
-            "mangledName": "$ss12IdentifiableP"
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -4129,6 +4273,28 @@
             ],
             "usr": "s:7Combine16ObservableObjectP",
             "mangledName": "$s7Combine16ObservableObjectP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Identifiable",
+            "printedName": "Identifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ID",
+                "printedName": "ID",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ObjectIdentifier",
+                    "printedName": "Swift.ObjectIdentifier",
+                    "usr": "s:SO"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12IdentifiableP",
+            "mangledName": "$ss12IdentifiableP"
           }
         ]
       },
@@ -4682,25 +4848,17 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Identifiable",
-            "printedName": "Identifiable",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "ID",
-                "printedName": "ID",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ObjectIdentifier",
-                    "printedName": "Swift.ObjectIdentifier",
-                    "usr": "s:SO"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:s12IdentifiableP",
-            "mangledName": "$ss12IdentifiableP"
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -4772,6 +4930,28 @@
             ],
             "usr": "s:7Combine16ObservableObjectP",
             "mangledName": "$s7Combine16ObservableObjectP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Identifiable",
+            "printedName": "Identifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ID",
+                "printedName": "ID",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ObjectIdentifier",
+                    "printedName": "Swift.ObjectIdentifier",
+                    "usr": "s:SO"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12IdentifiableP",
+            "mangledName": "$ss12IdentifiableP"
           }
         ]
       },
@@ -5144,6 +5324,22 @@
         "moduleName": "ShelfWatchImageRecognitionFramework",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -5866,25 +6062,17 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Identifiable",
-            "printedName": "Identifiable",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "ID",
-                "printedName": "ID",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ObjectIdentifier",
-                    "printedName": "Swift.ObjectIdentifier",
-                    "usr": "s:SO"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:s12IdentifiableP",
-            "mangledName": "$ss12IdentifiableP"
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -5956,6 +6144,28 @@
             ],
             "usr": "s:7Combine16ObservableObjectP",
             "mangledName": "$s7Combine16ObservableObjectP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Identifiable",
+            "printedName": "Identifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ID",
+                "printedName": "ID",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ObjectIdentifier",
+                    "printedName": "Swift.ObjectIdentifier",
+                    "usr": "s:SO"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12IdentifiableP",
+            "mangledName": "$ss12IdentifiableP"
           }
         ]
       },
@@ -6765,25 +6975,17 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Identifiable",
-            "printedName": "Identifiable",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "ID",
-                "printedName": "ID",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ObjectIdentifier",
-                    "printedName": "Swift.ObjectIdentifier",
-                    "usr": "s:SO"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:s12IdentifiableP",
-            "mangledName": "$ss12IdentifiableP"
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -6855,6 +7057,28 @@
             ],
             "usr": "s:7Combine16ObservableObjectP",
             "mangledName": "$s7Combine16ObservableObjectP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Identifiable",
+            "printedName": "Identifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ID",
+                "printedName": "ID",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ObjectIdentifier",
+                    "printedName": "Swift.ObjectIdentifier",
+                    "usr": "s:SO"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12IdentifiableP",
+            "mangledName": "$ss12IdentifiableP"
           }
         ]
       },
@@ -7697,6 +7921,22 @@
         "moduleName": "ShelfWatchImageRecognitionFramework",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -8523,25 +8763,17 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Identifiable",
-            "printedName": "Identifiable",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "ID",
-                "printedName": "ID",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ObjectIdentifier",
-                    "printedName": "Swift.ObjectIdentifier",
-                    "usr": "s:SO"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:s12IdentifiableP",
-            "mangledName": "$ss12IdentifiableP"
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -8613,6 +8845,28 @@
             ],
             "usr": "s:7Combine16ObservableObjectP",
             "mangledName": "$s7Combine16ObservableObjectP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Identifiable",
+            "printedName": "Identifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ID",
+                "printedName": "ID",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ObjectIdentifier",
+                    "printedName": "Swift.ObjectIdentifier",
+                    "usr": "s:SO"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12IdentifiableP",
+            "mangledName": "$ss12IdentifiableP"
           }
         ]
       },
@@ -9648,25 +9902,17 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Identifiable",
-            "printedName": "Identifiable",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "ID",
-                "printedName": "ID",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ObjectIdentifier",
-                    "printedName": "Swift.ObjectIdentifier",
-                    "usr": "s:SO"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:s12IdentifiableP",
-            "mangledName": "$ss12IdentifiableP"
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -9738,6 +9984,28 @@
             ],
             "usr": "s:7Combine16ObservableObjectP",
             "mangledName": "$s7Combine16ObservableObjectP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Identifiable",
+            "printedName": "Identifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ID",
+                "printedName": "ID",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ObjectIdentifier",
+                    "printedName": "Swift.ObjectIdentifier",
+                    "usr": "s:SO"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12IdentifiableP",
+            "mangledName": "$ss12IdentifiableP"
           }
         ]
       },
@@ -11960,25 +12228,17 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Identifiable",
-            "printedName": "Identifiable",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "ID",
-                "printedName": "ID",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ObjectIdentifier",
-                    "printedName": "Swift.ObjectIdentifier",
-                    "usr": "s:SO"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:s12IdentifiableP",
-            "mangledName": "$ss12IdentifiableP"
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -12050,6 +12310,28 @@
             ],
             "usr": "s:7Combine16ObservableObjectP",
             "mangledName": "$s7Combine16ObservableObjectP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Identifiable",
+            "printedName": "Identifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ID",
+                "printedName": "ID",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ObjectIdentifier",
+                    "printedName": "Swift.ObjectIdentifier",
+                    "usr": "s:SO"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12IdentifiableP",
+            "mangledName": "$ss12IdentifiableP"
           }
         ]
       },
@@ -12325,6 +12607,22 @@
         "sugared_genericSig": "<Self : AnyObject>",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -12576,6 +12874,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -12809,6 +13123,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -12959,6 +13289,20 @@
           "AccessControl"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Encodable",
@@ -13201,6 +13545,20 @@
           "AccessControl"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Encodable",
@@ -14390,25 +14748,17 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Identifiable",
-            "printedName": "Identifiable",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "ID",
-                "printedName": "ID",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ObjectIdentifier",
-                    "printedName": "Swift.ObjectIdentifier",
-                    "usr": "s:SO"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:s12IdentifiableP",
-            "mangledName": "$ss12IdentifiableP"
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -14480,6 +14830,28 @@
             ],
             "usr": "s:7Combine16ObservableObjectP",
             "mangledName": "$s7Combine16ObservableObjectP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Identifiable",
+            "printedName": "Identifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ID",
+                "printedName": "ID",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ObjectIdentifier",
+                    "printedName": "Swift.ObjectIdentifier",
+                    "usr": "s:SO"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12IdentifiableP",
+            "mangledName": "$ss12IdentifiableP"
           }
         ]
       },
@@ -14600,6 +14972,22 @@
         "sugared_genericSig": "<Self : AnyObject>",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -15122,25 +15510,17 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Identifiable",
-            "printedName": "Identifiable",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "ID",
-                "printedName": "ID",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ObjectIdentifier",
-                    "printedName": "Swift.ObjectIdentifier",
-                    "usr": "s:SO"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:s12IdentifiableP",
-            "mangledName": "$ss12IdentifiableP"
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -15212,6 +15592,28 @@
             ],
             "usr": "s:7Combine16ObservableObjectP",
             "mangledName": "$s7Combine16ObservableObjectP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Identifiable",
+            "printedName": "Identifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ID",
+                "printedName": "ID",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ObjectIdentifier",
+                    "printedName": "Swift.ObjectIdentifier",
+                    "usr": "s:SO"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12IdentifiableP",
+            "mangledName": "$ss12IdentifiableP"
           }
         ]
       },
@@ -15310,6 +15712,22 @@
         "moduleName": "ShelfWatchImageRecognitionFramework",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -17213,25 +17631,17 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Identifiable",
-            "printedName": "Identifiable",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "ID",
-                "printedName": "ID",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ObjectIdentifier",
-                    "printedName": "Swift.ObjectIdentifier",
-                    "usr": "s:SO"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:s12IdentifiableP",
-            "mangledName": "$ss12IdentifiableP"
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -17303,6 +17713,28 @@
             ],
             "usr": "s:7Combine16ObservableObjectP",
             "mangledName": "$s7Combine16ObservableObjectP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Identifiable",
+            "printedName": "Identifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ID",
+                "printedName": "ID",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ObjectIdentifier",
+                    "printedName": "Swift.ObjectIdentifier",
+                    "usr": "s:SO"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12IdentifiableP",
+            "mangledName": "$ss12IdentifiableP"
           }
         ]
       },
@@ -18064,25 +18496,17 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Identifiable",
-            "printedName": "Identifiable",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "ID",
-                "printedName": "ID",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ObjectIdentifier",
-                    "printedName": "Swift.ObjectIdentifier",
-                    "usr": "s:SO"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:s12IdentifiableP",
-            "mangledName": "$ss12IdentifiableP"
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -18154,6 +18578,28 @@
             ],
             "usr": "s:7Combine16ObservableObjectP",
             "mangledName": "$s7Combine16ObservableObjectP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Identifiable",
+            "printedName": "Identifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ID",
+                "printedName": "ID",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ObjectIdentifier",
+                    "printedName": "Swift.ObjectIdentifier",
+                    "usr": "s:SO"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12IdentifiableP",
+            "mangledName": "$ss12IdentifiableP"
           }
         ]
       },
@@ -18660,25 +19106,17 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Identifiable",
-            "printedName": "Identifiable",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "ID",
-                "printedName": "ID",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ObjectIdentifier",
-                    "printedName": "Swift.ObjectIdentifier",
-                    "usr": "s:SO"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:s12IdentifiableP",
-            "mangledName": "$ss12IdentifiableP"
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -18750,6 +19188,28 @@
             ],
             "usr": "s:7Combine16ObservableObjectP",
             "mangledName": "$s7Combine16ObservableObjectP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Identifiable",
+            "printedName": "Identifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ID",
+                "printedName": "ID",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ObjectIdentifier",
+                    "printedName": "Swift.ObjectIdentifier",
+                    "usr": "s:SO"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12IdentifiableP",
+            "mangledName": "$ss12IdentifiableP"
           }
         ]
       },
@@ -18886,6 +19346,20 @@
         ],
         "hasMissingDesignatedInitializers": true,
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Decodable",
@@ -19716,25 +20190,17 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Identifiable",
-            "printedName": "Identifiable",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "ID",
-                "printedName": "ID",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ObjectIdentifier",
-                    "printedName": "Swift.ObjectIdentifier",
-                    "usr": "s:SO"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:s12IdentifiableP",
-            "mangledName": "$ss12IdentifiableP"
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -19806,6 +20272,28 @@
             ],
             "usr": "s:7Combine16ObservableObjectP",
             "mangledName": "$s7Combine16ObservableObjectP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Identifiable",
+            "printedName": "Identifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ID",
+                "printedName": "ID",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ObjectIdentifier",
+                    "printedName": "Swift.ObjectIdentifier",
+                    "usr": "s:SO"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12IdentifiableP",
+            "mangledName": "$ss12IdentifiableP"
           }
         ]
       },
@@ -20295,25 +20783,17 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Identifiable",
-            "printedName": "Identifiable",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "ID",
-                "printedName": "ID",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ObjectIdentifier",
-                    "printedName": "Swift.ObjectIdentifier",
-                    "usr": "s:SO"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:s12IdentifiableP",
-            "mangledName": "$ss12IdentifiableP"
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -20385,6 +20865,28 @@
             ],
             "usr": "s:7Combine16ObservableObjectP",
             "mangledName": "$s7Combine16ObservableObjectP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Identifiable",
+            "printedName": "Identifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ID",
+                "printedName": "ID",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ObjectIdentifier",
+                    "printedName": "Swift.ObjectIdentifier",
+                    "usr": "s:SO"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12IdentifiableP",
+            "mangledName": "$ss12IdentifiableP"
           }
         ]
       },
@@ -20843,25 +21345,17 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Identifiable",
-            "printedName": "Identifiable",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "ID",
-                "printedName": "ID",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ObjectIdentifier",
-                    "printedName": "Swift.ObjectIdentifier",
-                    "usr": "s:SO"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:s12IdentifiableP",
-            "mangledName": "$ss12IdentifiableP"
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -20933,6 +21427,28 @@
             ],
             "usr": "s:7Combine16ObservableObjectP",
             "mangledName": "$s7Combine16ObservableObjectP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Identifiable",
+            "printedName": "Identifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ID",
+                "printedName": "ID",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ObjectIdentifier",
+                    "printedName": "Swift.ObjectIdentifier",
+                    "usr": "s:SO"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12IdentifiableP",
+            "mangledName": "$ss12IdentifiableP"
           }
         ]
       },
@@ -21570,25 +22086,17 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Identifiable",
-            "printedName": "Identifiable",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "ID",
-                "printedName": "ID",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ObjectIdentifier",
-                    "printedName": "Swift.ObjectIdentifier",
-                    "usr": "s:SO"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:s12IdentifiableP",
-            "mangledName": "$ss12IdentifiableP"
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -21660,6 +22168,28 @@
             ],
             "usr": "s:7Combine16ObservableObjectP",
             "mangledName": "$s7Combine16ObservableObjectP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Identifiable",
+            "printedName": "Identifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ID",
+                "printedName": "ID",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ObjectIdentifier",
+                    "printedName": "Swift.ObjectIdentifier",
+                    "usr": "s:SO"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12IdentifiableP",
+            "mangledName": "$ss12IdentifiableP"
           }
         ]
       },
@@ -22069,25 +22599,17 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Identifiable",
-            "printedName": "Identifiable",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "ID",
-                "printedName": "ID",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ObjectIdentifier",
-                    "printedName": "Swift.ObjectIdentifier",
-                    "usr": "s:SO"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:s12IdentifiableP",
-            "mangledName": "$ss12IdentifiableP"
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -22159,6 +22681,28 @@
             ],
             "usr": "s:7Combine16ObservableObjectP",
             "mangledName": "$s7Combine16ObservableObjectP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Identifiable",
+            "printedName": "Identifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ID",
+                "printedName": "ID",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ObjectIdentifier",
+                    "printedName": "Swift.ObjectIdentifier",
+                    "usr": "s:SO"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12IdentifiableP",
+            "mangledName": "$ss12IdentifiableP"
           }
         ]
       },
@@ -23022,25 +23566,17 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Identifiable",
-            "printedName": "Identifiable",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "ID",
-                "printedName": "ID",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ObjectIdentifier",
-                    "printedName": "Swift.ObjectIdentifier",
-                    "usr": "s:SO"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:s12IdentifiableP",
-            "mangledName": "$ss12IdentifiableP"
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -23112,6 +23648,28 @@
             ],
             "usr": "s:7Combine16ObservableObjectP",
             "mangledName": "$s7Combine16ObservableObjectP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Identifiable",
+            "printedName": "Identifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ID",
+                "printedName": "ID",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ObjectIdentifier",
+                    "printedName": "Swift.ObjectIdentifier",
+                    "usr": "s:SO"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12IdentifiableP",
+            "mangledName": "$ss12IdentifiableP"
           }
         ]
       },
@@ -26231,25 +26789,17 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Identifiable",
-            "printedName": "Identifiable",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "ID",
-                "printedName": "ID",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ObjectIdentifier",
-                    "printedName": "Swift.ObjectIdentifier",
-                    "usr": "s:SO"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:s12IdentifiableP",
-            "mangledName": "$ss12IdentifiableP"
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -26321,6 +26871,28 @@
             ],
             "usr": "s:7Combine16ObservableObjectP",
             "mangledName": "$s7Combine16ObservableObjectP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Identifiable",
+            "printedName": "Identifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ID",
+                "printedName": "ID",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ObjectIdentifier",
+                    "printedName": "Swift.ObjectIdentifier",
+                    "usr": "s:SO"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12IdentifiableP",
+            "mangledName": "$ss12IdentifiableP"
           }
         ]
       },
@@ -26409,6 +26981,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -26423,6 +26996,7 @@
         "intro_iOS": "2.0",
         "objc_name": "UIViewController",
         "declAttributes": [
+          "Preconcurrency",
           "Available",
           "ObjC",
           "NonSendable",
@@ -26437,6 +27011,20 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -26638,7 +27226,23 @@
         "usr": "s:SE",
         "mangledName": "$sSE",
         "moduleName": "Swift",
-        "isExternal": true
+        "isExternal": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
+        ]
       },
       {
         "kind": "TypeDecl",
@@ -26915,6 +27519,20 @@
             "isFromExtension": true,
             "enumRawTypeName": "String",
             "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
               {
                 "kind": "Conformance",
                 "name": "Equatable",
@@ -27363,6 +27981,20 @@
           },
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "ReferenceConvertible",
             "printedName": "ReferenceConvertible",
             "children": [
@@ -27460,12 +28092,6 @@
                         "name": "TransferRepresentation",
                         "printedName": "CoreTransferable.TransferRepresentation",
                         "usr": "s:16CoreTransferable22TransferRepresentationP"
-                      },
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Sendable",
-                        "printedName": "Swift.Sendable",
-                        "usr": "s:s8SendableP"
                       }
                     ]
                   }
@@ -27503,6 +28129,7 @@
               "HasInitialValue",
               "Final",
               "HasStorage",
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -27552,6 +28179,7 @@
             "mangledName": "$sSo8UIDeviceC35ShelfWatchImageRecognitionFrameworkE15exifOrientations6UInt32Vvp",
             "moduleName": "ShelfWatchImageRecognitionFramework",
             "declAttributes": [
+              "Preconcurrency",
               "Custom"
             ],
             "isFromExtension": true,
@@ -27585,6 +28213,7 @@
         "intro_iOS": "2.0",
         "objc_name": "UIDevice",
         "declAttributes": [
+          "Preconcurrency",
           "Available",
           "ObjC",
           "NonSendable",
@@ -27598,6 +28227,20 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -27892,6 +28535,20 @@
             "conformances": [
               {
                 "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
                 "name": "Equatable",
                 "printedName": "Equatable",
                 "usr": "s:SQ",
@@ -27956,6 +28613,20 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -28042,6 +28713,7 @@
             "mangledName": "$sSo6UIViewC35ShelfWatchImageRecognitionFrameworkE9setCorner6radiusy12CoreGraphics7CGFloatV_tF",
             "moduleName": "ShelfWatchImageRecognitionFramework",
             "declAttributes": [
+              "Preconcurrency",
               "Custom",
               "AccessControl",
               "RawDocComment"
@@ -28065,6 +28737,7 @@
             "mangledName": "$sSo6UIViewC35ShelfWatchImageRecognitionFrameworkE10makeCircleyyF",
             "moduleName": "ShelfWatchImageRecognitionFramework",
             "declAttributes": [
+              "Preconcurrency",
               "Custom",
               "AccessControl",
               "RawDocComment"
@@ -28088,6 +28761,7 @@
             "mangledName": "$sSo6UIViewC35ShelfWatchImageRecognitionFrameworkE15makeWidthCircleyyF",
             "moduleName": "ShelfWatchImageRecognitionFramework",
             "declAttributes": [
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -28122,6 +28796,7 @@
             "mangledName": "$sSo6UIViewC35ShelfWatchImageRecognitionFrameworkE9setBorder5width5colory12CoreGraphics7CGFloatV_So7UIColorCtF",
             "moduleName": "ShelfWatchImageRecognitionFramework",
             "declAttributes": [
+              "Preconcurrency",
               "Custom",
               "AccessControl",
               "RawDocComment"
@@ -28157,6 +28832,7 @@
             "mangledName": "$sSo6UIViewC35ShelfWatchImageRecognitionFrameworkE12setRadiusFor7corners6radiusySo12UIRectCornerV_12CoreGraphics7CGFloatVtF",
             "moduleName": "ShelfWatchImageRecognitionFramework",
             "declAttributes": [
+              "Preconcurrency",
               "Custom",
               "AccessControl",
               "RawDocComment"
@@ -28186,6 +28862,7 @@
             "mangledName": "$sSo6UIViewC35ShelfWatchImageRecognitionFrameworkE9setShadow5colorySo7UIColorC_tF",
             "moduleName": "ShelfWatchImageRecognitionFramework",
             "declAttributes": [
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -28200,6 +28877,7 @@
         "intro_iOS": "2.0",
         "objc_name": "UIView",
         "declAttributes": [
+          "Preconcurrency",
           "Available",
           "ObjC",
           "NonSendable",
@@ -28214,6 +28892,20 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -28337,6 +29029,20 @@
         ],
         "isExternal": true,
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Decodable",
@@ -28876,12 +29582,6 @@
                         "name": "TransferRepresentation",
                         "printedName": "CoreTransferable.TransferRepresentation",
                         "usr": "s:16CoreTransferable22TransferRepresentationP"
-                      },
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Sendable",
-                        "printedName": "Swift.Sendable",
-                        "usr": "s:s8SendableP"
                       }
                     ]
                   }
@@ -28947,6 +29647,55 @@
       "value": "\"Cold Zone - KP Main Fridge\""
     },
     {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Utility\/GyroView\/Model\/GyroInfoType.swift",
+      "kind": "IntegerLiteral",
+      "offset": 936,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Utility\/GyroView\/Model\/GyroInfoType.swift",
+      "kind": "IntegerLiteral",
+      "offset": 940,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Utility\/GyroView\/Model\/GyroInfoType.swift",
+      "kind": "IntegerLiteral",
+      "offset": 952,
+      "length": 2,
+      "value": "59"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Utility\/GyroView\/Model\/GyroInfoType.swift",
+      "kind": "IntegerLiteral",
+      "offset": 955,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Utility\/GyroView\/Model\/GyroInfoType.swift",
+      "kind": "IntegerLiteral",
+      "offset": 966,
+      "length": 2,
+      "value": "48"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Utility\/GyroView\/Model\/GyroInfoType.swift",
+      "kind": "IntegerLiteral",
+      "offset": 969,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Utility\/GyroView\/Model\/GyroInfoType.swift",
+      "kind": "FloatLiteral",
+      "offset": 981,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterDataChild\/MasterDataChild.swift",
       "kind": "StringLiteral",
       "offset": 217,
@@ -28959,69 +29708,6 @@
       "offset": 251,
       "length": 2,
       "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterDataChild\/MasterDataChild.swift",
-      "kind": "StringLiteral",
-      "offset": 686,
-      "length": 16,
-      "value": "\"client_shop_id\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterDataChild\/MasterDataChild.swift",
-      "kind": "StringLiteral",
-      "offset": 731,
-      "length": 15,
-      "value": "\"category_name\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterDataChild\/MasterDataChild.swift",
-      "kind": "StringLiteral",
-      "offset": 773,
-      "length": 13,
-      "value": "\"regular_osa\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterDataChild\/MasterDataChild.swift",
-      "kind": "StringLiteral",
-      "offset": 826,
-      "length": 9,
-      "value": "\"shop_id\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterDataChild\/MasterDataChild.swift",
-      "kind": "StringLiteral",
-      "offset": 884,
-      "length": 10,
-      "value": "\"sku_name\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterDataChild\/MasterDataChild.swift",
-      "kind": "StringLiteral",
-      "offset": 918,
-      "length": 10,
-      "value": "\"class_id\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterDataChild\/MasterDataChild.swift",
-      "kind": "StringLiteral",
-      "offset": 954,
-      "length": 12,
-      "value": "\"group_name\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterDataChild\/MasterDataChild.swift",
-      "kind": "StringLiteral",
-      "offset": 990,
-      "length": 10,
-      "value": "\"group_id\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterDataChild\/MasterDataChild.swift",
-      "kind": "StringLiteral",
-      "offset": 1027,
-      "length": 13,
-      "value": "\"category_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterDataChild\/MasterDataChild.swift",
@@ -29152,76 +29838,6 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/CameraConfig\/CameraConfiguration.swift",
       "kind": "StringLiteral",
-      "offset": 2352,
-      "length": 10,
-      "value": "\"portrait\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/CameraConfig\/CameraConfiguration.swift",
-      "kind": "StringLiteral",
-      "offset": 2384,
-      "length": 11,
-      "value": "\"landscape\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/CameraConfig\/CameraConfiguration.swift",
-      "kind": "StringLiteral",
-      "offset": 2458,
-      "length": 4,
-      "value": "\"en\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/CameraConfig\/CameraConfiguration.swift",
-      "kind": "StringLiteral",
-      "offset": 2481,
-      "length": 4,
-      "value": "\"pl\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/CameraConfig\/CameraConfiguration.swift",
-      "kind": "StringLiteral",
-      "offset": 2504,
-      "length": 4,
-      "value": "\"sk\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/CameraConfig\/CameraConfiguration.swift",
-      "kind": "StringLiteral",
-      "offset": 2527,
-      "length": 4,
-      "value": "\"ar\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/CameraConfig\/CameraConfiguration.swift",
-      "kind": "StringLiteral",
-      "offset": 2562,
-      "length": 9,
-      "value": "\"zh-Hant\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/CameraConfig\/CameraConfiguration.swift",
-      "kind": "StringLiteral",
-      "offset": 2591,
-      "length": 4,
-      "value": "\"es\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/CameraConfig\/CameraConfiguration.swift",
-      "kind": "StringLiteral",
-      "offset": 2618,
-      "length": 4,
-      "value": "\"vi\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/CameraConfig\/CameraConfiguration.swift",
-      "kind": "StringLiteral",
-      "offset": 2645,
-      "length": 7,
-      "value": "\"pt-BR\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/CameraConfig\/CameraConfiguration.swift",
-      "kind": "StringLiteral",
       "offset": 2458,
       "length": 4,
       "value": "\"en\""
@@ -29313,27 +29929,6 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/KPIStorageViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 15590,
-      "length": 15,
-      "value": "\"updated_files\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/KPIStorageViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 15790,
-      "length": 12,
-      "value": "\"user_level\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/KPIStorageViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 15831,
-      "length": 15,
-      "value": "\"project_level\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/KPIStorageViewModel.swift",
-      "kind": "StringLiteral",
       "offset": 15790,
       "length": 12,
       "value": "\"user_level\""
@@ -29372,48 +29967,6 @@
       "offset": 2851,
       "length": 13,
       "value": "\"global_time\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/BugfenderHelper\/LogMeta\/LogMeta.swift",
-      "kind": "StringLiteral",
-      "offset": 2809,
-      "length": 15,
-      "value": "\"app_timestamp\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/BugfenderHelper\/LogMeta\/LogMeta.swift",
-      "kind": "StringLiteral",
-      "offset": 2851,
-      "length": 13,
-      "value": "\"global_time\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/CommonUtils\/ListingColorScheme.swift",
-      "kind": "StringLiteral",
-      "offset": 228,
-      "length": 11,
-      "value": "\"Mandatory\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/CommonUtils\/ListingColorScheme.swift",
-      "kind": "StringLiteral",
-      "offset": 263,
-      "length": 13,
-      "value": "\"Recommended\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/CommonUtils\/ListingColorScheme.swift",
-      "kind": "StringLiteral",
-      "offset": 292,
-      "length": 5,
-      "value": "\"New\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/CommonUtils\/ListingColorScheme.swift",
-      "kind": "StringLiteral",
-      "offset": 315,
-      "length": 7,
-      "value": "\"Extra\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/CommonUtils\/ListingColorScheme.swift",
@@ -29661,195 +30214,6 @@
       "value": "\"image_captured\""
     },
     {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicability.swift",
-      "kind": "StringLiteral",
-      "offset": 1453,
-      "length": 15,
-      "value": "\"shelf_section\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicability.swift",
-      "kind": "StringLiteral",
-      "offset": 1533,
-      "length": 33,
-      "value": "\"sku_availability_hard_planogram\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicability.swift",
-      "kind": "StringLiteral",
-      "offset": 1604,
-      "length": 25,
-      "value": "\"sku_availability_others\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicability.swift",
-      "kind": "StringLiteral",
-      "offset": 1674,
-      "length": 34,
-      "value": "\"sku_availability_kp_owned_fridge\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicability.swift",
-      "kind": "StringLiteral",
-      "offset": 1745,
-      "length": 24,
-      "value": "\"sku_availability_shelf\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicability.swift",
-      "kind": "StringLiteral",
-      "offset": 1819,
-      "length": 38,
-      "value": "\"sku_availability_secondary_placement\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicability.swift",
-      "kind": "StringLiteral",
-      "offset": 1915,
-      "length": 48,
-      "value": "\"commercial_standard_compliance_kp_owned_fridge\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicability.swift",
-      "kind": "StringLiteral",
-      "offset": 2019,
-      "length": 45,
-      "value": "\"commercial_standard_compliance_piwa_smakowe\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicability.swift",
-      "kind": "StringLiteral",
-      "offset": 2115,
-      "length": 39,
-      "value": "\"commercial_standard_compliance_modern\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicability.swift",
-      "kind": "StringLiteral",
-      "offset": 2207,
-      "length": 41,
-      "value": "\"commercial_standard_compliance_buforowa\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicability.swift",
-      "kind": "StringLiteral",
-      "offset": 2297,
-      "length": 37,
-      "value": "\"commercial_standard_compliance_45cm\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicability.swift",
-      "kind": "StringLiteral",
-      "offset": 2383,
-      "length": 37,
-      "value": "\"commercial_standard_compliance_70cm\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicability.swift",
-      "kind": "StringLiteral",
-      "offset": 2458,
-      "length": 25,
-      "value": "\"standard_compliance_nab\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicability.swift",
-      "kind": "StringLiteral",
-      "offset": 2535,
-      "length": 40,
-      "value": "\"standard_compliance_delikatesy_centrum\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicability.swift",
-      "kind": "StringLiteral",
-      "offset": 2611,
-      "length": 23,
-      "value": "\"sku_availability_45cm\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicability.swift",
-      "kind": "StringLiteral",
-      "offset": 2670,
-      "length": 23,
-      "value": "\"sku_availability_70cm\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicability.swift",
-      "kind": "StringLiteral",
-      "offset": 2733,
-      "length": 27,
-      "value": "\"sku_availability_buforowa\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicability.swift",
-      "kind": "StringLiteral",
-      "offset": 2803,
-      "length": 31,
-      "value": "\"sku_availability_piwa_smakowe\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicability.swift",
-      "kind": "StringLiteral",
-      "offset": 2872,
-      "length": 25,
-      "value": "\"sku_availability_modern\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicability.swift",
-      "kind": "StringLiteral",
-      "offset": 2946,
-      "length": 37,
-      "value": "\"sku_availability_quantitative_rules\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicability.swift",
-      "kind": "StringLiteral",
-      "offset": 3022,
-      "length": 26,
-      "value": "\"sub-segment_neighborhood\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicability.swift",
-      "kind": "StringLiteral",
-      "offset": 3125,
-      "length": 21,
-      "value": "\"brand_neighbourhood\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicability.swift",
-      "kind": "StringLiteral",
-      "offset": 3191,
-      "length": 32,
-      "value": "\"outlet_availability_compliance\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicability.swift",
-      "kind": "StringLiteral",
-      "offset": 3257,
-      "length": 20,
-      "value": "\"listing_compliance\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicability.swift",
-      "kind": "StringLiteral",
-      "offset": 3335,
-      "length": 23,
-      "value": "\"kompan_compliance_3.0\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicability.swift",
-      "kind": "StringLiteral",
-      "offset": 3396,
-      "length": 27,
-      "value": "\"kompan_compliance_3.0_max\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicability.swift",
-      "kind": "StringLiteral",
-      "offset": 3453,
-      "length": 16,
-      "value": "\"image_captured\""
-    },
-    {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_10_sku_availability_modern.swift",
       "kind": "StringLiteral",
       "offset": 242,
@@ -29869,13 +30233,6 @@
       "offset": 379,
       "length": 43,
       "value": "\"Lodówka buforowa - strefa 0.0 % i Modern\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/AR\/Popover\/PopoverViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 123,
-      "length": 21,
-      "value": "\"ShelfWatchImageRecognitionFramework.PopoverViewController\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/AR\/Insight\/InsightDetail\/View\/InsightDetailViewController.swift",
@@ -29977,6 +30334,55 @@
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 7981,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8435,
+      "length": 3,
+      "value": "100"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8526,
+      "length": 3,
+      "value": "100"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8889,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 8950,
+      "length": 3,
+      "value": "6.0"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 9010,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9381,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/View\/CameraViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 31135,
       "length": 5,
@@ -29988,20 +30394,6 @@
       "offset": 370,
       "length": 3,
       "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/UserDefaultManager\/UserDefaultManager.swift",
-      "kind": "StringLiteral",
-      "offset": 1038,
-      "length": 15,
-      "value": "\"CoreMLVersion\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/UserDefaultManager\/UserDefaultManager.swift",
-      "kind": "StringLiteral",
-      "offset": 1077,
-      "length": 13,
-      "value": "\"refreshData\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/UserDefaultManager\/UserDefaultManager.swift",
@@ -30319,125 +30711,6 @@
       "value": "\"record_number\""
     },
     {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/ShopData\/ShopData.swift",
-      "kind": "StringLiteral",
-      "offset": 743,
-      "length": 9,
-      "value": "\"shop_id\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/ShopData\/ShopData.swift",
-      "kind": "StringLiteral",
-      "offset": 778,
-      "length": 12,
-      "value": "\"project_id\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/ShopData\/ShopData.swift",
-      "kind": "StringLiteral",
-      "offset": 818,
-      "length": 15,
-      "value": "\"td_version_id\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/ShopData\/ShopData.swift",
-      "kind": "StringLiteral",
-      "offset": 862,
-      "length": 16,
-      "value": "\"client_shop_id\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/ShopData\/ShopData.swift",
-      "kind": "StringLiteral",
-      "offset": 903,
-      "length": 11,
-      "value": "\"shop_name\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/ShopData\/ShopData.swift",
-      "kind": "StringLiteral",
-      "offset": 1007,
-      "length": 12,
-      "value": "\"created_at\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/ShopData\/ShopData.swift",
-      "kind": "StringLiteral",
-      "offset": 1046,
-      "length": 13,
-      "value": "\"modified_at\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/ShopData\/ShopData.swift",
-      "kind": "StringLiteral",
-      "offset": 1082,
-      "length": 9,
-      "value": "\"file_id\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/ShopData\/ShopData.swift",
-      "kind": "StringLiteral",
-      "offset": 1117,
-      "length": 12,
-      "value": "\"is_deleted\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/ShopData\/ShopData.swift",
-      "kind": "StringLiteral",
-      "offset": 1154,
-      "length": 11,
-      "value": "\"shop_type\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/ShopData\/ShopData.swift",
-      "kind": "StringLiteral",
-      "offset": 1193,
-      "length": 14,
-      "value": "\"shop_address\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/ShopData\/ShopData.swift",
-      "kind": "StringLiteral",
-      "offset": 1231,
-      "length": 10,
-      "value": "\"column_1\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/ShopData\/ShopData.swift",
-      "kind": "StringLiteral",
-      "offset": 1265,
-      "length": 10,
-      "value": "\"column_2\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/ShopData\/ShopData.swift",
-      "kind": "StringLiteral",
-      "offset": 1299,
-      "length": 10,
-      "value": "\"column_6\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/ShopData\/ShopData.swift",
-      "kind": "StringLiteral",
-      "offset": 1333,
-      "length": 10,
-      "value": "\"column_7\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/ShopData\/ShopData.swift",
-      "kind": "StringLiteral",
-      "offset": 1368,
-      "length": 11,
-      "value": "\"column_12\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/ShopData\/ShopData.swift",
-      "kind": "StringLiteral",
-      "offset": 1408,
-      "length": 15,
-      "value": "\"record_number\""
-    },
-    {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/LocationManager\/LocationServiceError.swift",
       "kind": "StringLiteral",
       "offset": 1357,
@@ -30569,13 +30842,6 @@
       "offset": 801,
       "length": 5,
       "value": "false"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/CameraManager\/CameraManager.swift",
-      "kind": "StringLiteral",
-      "offset": 264,
-      "length": 13,
-      "value": "\"ShelfWatchImageRecognitionFramework.CameraManager\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/RefreshKPIData\/RefreshDataManager.swift",
@@ -31042,34 +31308,6 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/ViewModel\/Enum\/SelectedOrientation.swift",
       "kind": "StringLiteral",
-      "offset": 203,
-      "length": 10,
-      "value": "\"portrait\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/ViewModel\/Enum\/SelectedOrientation.swift",
-      "kind": "StringLiteral",
-      "offset": 235,
-      "length": 11,
-      "value": "\"landscape\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/ViewModel\/Enum\/SelectedOrientation.swift",
-      "kind": "StringLiteral",
-      "offset": 1022,
-      "length": 8,
-      "value": "\"single\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/ViewModel\/Enum\/SelectedOrientation.swift",
-      "kind": "StringLiteral",
-      "offset": 1051,
-      "length": 10,
-      "value": "\"multiple\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/ViewModel\/Enum\/SelectedOrientation.swift",
-      "kind": "StringLiteral",
       "offset": 1022,
       "length": 8,
       "value": "\"single\""
@@ -31094,27 +31332,6 @@
       "offset": 356,
       "length": 16,
       "value": "\"Producer Block\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Extension\/UIKit\/UIViewController\/Enum\/StoryboardName.swift",
-      "kind": "StringLiteral",
-      "offset": 177,
-      "length": 8,
-      "value": "\"Camera\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Extension\/UIKit\/UIViewController\/Enum\/StoryboardName.swift",
-      "kind": "StringLiteral",
-      "offset": 210,
-      "length": 14,
-      "value": "\"ImagePreview\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Extension\/UIKit\/UIViewController\/Enum\/StoryboardName.swift",
-      "kind": "StringLiteral",
-      "offset": 239,
-      "length": 4,
-      "value": "\"AR\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Extension\/UIKit\/UIViewController\/Enum\/StoryboardName.swift",
@@ -31192,48 +31409,6 @@
       "offset": 1201,
       "length": 15,
       "value": "\"category_uids\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/UserMapping\/UserResponse.swift",
-      "kind": "StringLiteral",
-      "offset": 1127,
-      "length": 13,
-      "value": "\"bucket_name\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/UserMapping\/UserResponse.swift",
-      "kind": "StringLiteral",
-      "offset": 1163,
-      "length": 10,
-      "value": "\"user_uid\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/ViewModel\/UserMapping\/UserResponse.swift",
-      "kind": "StringLiteral",
-      "offset": 1201,
-      "length": 15,
-      "value": "\"category_uids\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/DateFormatter\/DateFormatManager.swift",
-      "kind": "StringLiteral",
-      "offset": 1456,
-      "length": 21,
-      "value": "\"yyyy-MM-dd HH:mm:ss\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/DateFormatter\/DateFormatManager.swift",
-      "kind": "StringLiteral",
-      "offset": 1493,
-      "length": 29,
-      "value": "\"EEE, dd MMM yyyy HH:mm:ss z\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/DateFormatter\/DateFormatManager.swift",
-      "kind": "StringLiteral",
-      "offset": 1548,
-      "length": 12,
-      "value": "\"yyyy-MM-dd\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/DateFormatter\/DateFormatManager.swift",
@@ -31355,13 +31530,6 @@
       "value": "\"kp_brand\""
     },
     {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/BrandNeighbourhood\/BrandNeighbourhood.swift",
-      "kind": "StringLiteral",
-      "offset": 323,
-      "length": 10,
-      "value": "\"kp_brand\""
-    },
-    {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/APIManager\/MultipartRequest\/MultipartRequest.swift",
       "kind": "StringLiteral",
       "offset": 124,
@@ -31388,6 +31556,13 @@
       "offset": 1209,
       "length": 4,
       "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/ImagePreview\/View\/ImagePreviewViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2549,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/Camera\/ViewModel\/CameraViewModel.swift",
@@ -31521,27 +31696,6 @@
       "offset": 1839,
       "length": 1,
       "value": "0"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/Protocol\/ImageUploadDelegate.swift",
-      "kind": "StringLiteral",
-      "offset": 1413,
-      "length": 9,
-      "value": "\"shop_id\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/Protocol\/ImageUploadDelegate.swift",
-      "kind": "StringLiteral",
-      "offset": 1449,
-      "length": 13,
-      "value": "\"category_id\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/Protocol\/ImageUploadDelegate.swift",
-      "kind": "StringLiteral",
-      "offset": 1491,
-      "length": 15,
-      "value": "\"pending_items\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/InitSDK\/Protocol\/ImageUploadDelegate.swift",
@@ -31712,13 +31866,6 @@
       "value": "\"class_id\""
     },
     {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/ClassAttribute\/ClassAttribute.swift",
-      "kind": "StringLiteral",
-      "offset": 311,
-      "length": 10,
-      "value": "\"class_id\""
-    },
-    {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_5_sku_availability_other_fridge.swift",
       "kind": "StringLiteral",
       "offset": 286,
@@ -31742,58 +31889,9 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIData.swift",
       "kind": "StringLiteral",
-      "offset": 306,
-      "length": 17,
-      "value": "\"global_insights\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIData.swift",
-      "kind": "StringLiteral",
       "offset": 1239,
       "length": 12,
       "value": "\"WidgetType\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIData.swift",
-      "kind": "StringLiteral",
-      "offset": 1239,
-      "length": 12,
-      "value": "\"WidgetType\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIData.swift",
-      "kind": "StringLiteral",
-      "offset": 1851,
-      "length": 16,
-      "value": "\"auxiliary_data\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIData.swift",
-      "kind": "StringLiteral",
-      "offset": 1891,
-      "length": 10,
-      "value": "\"bg_color\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIData.swift",
-      "kind": "StringLiteral",
-      "offset": 1955,
-      "length": 15,
-      "value": "\"feedback_flag\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIData.swift",
-      "kind": "StringLiteral",
-      "offset": 2043,
-      "length": 13,
-      "value": "\"is_accepted\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIData.swift",
-      "kind": "StringLiteral",
-      "offset": 2112,
-      "length": 16,
-      "value": "\"recapture_flag\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIData.swift",
@@ -31903,69 +32001,6 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIData.swift",
       "kind": "StringLiteral",
-      "offset": 4688,
-      "length": 16,
-      "value": "\"ideal_sequence\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIData.swift",
-      "kind": "StringLiteral",
-      "offset": 4733,
-      "length": 15,
-      "value": "\"template_name\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIData.swift",
-      "kind": "StringLiteral",
-      "offset": 4776,
-      "length": 15,
-      "value": "\"max_set_value\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIData.swift",
-      "kind": "StringLiteral",
-      "offset": 4813,
-      "length": 8,
-      "value": "\"set_id\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIData.swift",
-      "kind": "StringLiteral",
-      "offset": 4845,
-      "length": 10,
-      "value": "\"set_type\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIData.swift",
-      "kind": "StringLiteral",
-      "offset": 4920,
-      "length": 15,
-      "value": "\"record_number\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIData.swift",
-      "kind": "StringLiteral",
-      "offset": 4959,
-      "length": 10,
-      "value": "\"sku_list\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIData.swift",
-      "kind": "StringLiteral",
-      "offset": 5795,
-      "length": 11,
-      "value": "\"aggregate\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIData.swift",
-      "kind": "StringLiteral",
-      "offset": 5829,
-      "length": 12,
-      "value": "\"individual\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIData.swift",
-      "kind": "StringLiteral",
       "offset": 5795,
       "length": 11,
       "value": "\"aggregate\""
@@ -32001,27 +32036,6 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIData.swift",
       "kind": "StringLiteral",
-      "offset": 5901,
-      "length": 11,
-      "value": "\"planogram\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIData.swift",
-      "kind": "StringLiteral",
-      "offset": 5933,
-      "length": 10,
-      "value": "\"presence\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIData.swift",
-      "kind": "StringLiteral",
-      "offset": 5965,
-      "length": 9,
-      "value": "\"default\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIData.swift",
-      "kind": "StringLiteral",
       "offset": 6027,
       "length": 8,
       "value": "\"string\""
@@ -32032,27 +32046,6 @@
       "offset": 6054,
       "length": 8,
       "value": "\"binary\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIData.swift",
-      "kind": "StringLiteral",
-      "offset": 6027,
-      "length": 8,
-      "value": "\"string\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIData.swift",
-      "kind": "StringLiteral",
-      "offset": 6054,
-      "length": 8,
-      "value": "\"binary\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/SubSegmentNeighbourhood\/SubSegmentNeighbourhood.swift",
-      "kind": "StringLiteral",
-      "offset": 340,
-      "length": 15,
-      "value": "\"product_group\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/SubSegmentNeighbourhood\/SubSegmentNeighbourhood.swift",
@@ -32067,48 +32060,6 @@
       "offset": 537,
       "length": 1,
       "value": "0"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/Listing\/Listing.swift",
-      "kind": "StringLiteral",
-      "offset": 612,
-      "length": 15,
-      "value": "\"max_set_value\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/Listing\/Listing.swift",
-      "kind": "StringLiteral",
-      "offset": 654,
-      "length": 13,
-      "value": "\"record_name\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/Listing\/Listing.swift",
-      "kind": "StringLiteral",
-      "offset": 696,
-      "length": 15,
-      "value": "\"record_number\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/Listing\/Listing.swift",
-      "kind": "StringLiteral",
-      "offset": 735,
-      "length": 10,
-      "value": "\"sfa_name\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/Listing\/Listing.swift",
-      "kind": "StringLiteral",
-      "offset": 767,
-      "length": 8,
-      "value": "\"set_id\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/Listing\/Listing.swift",
-      "kind": "StringLiteral",
-      "offset": 799,
-      "length": 10,
-      "value": "\"set_type\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/Listing\/Listing.swift",
@@ -32242,76 +32193,6 @@
       "offset": 5756,
       "length": 16,
       "value": "\"planogram_name\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/ARDataMapping\/CDARSessionData+CoreDataProperties.swift",
-      "kind": "StringLiteral",
-      "offset": 5416,
-      "length": 12,
-      "value": "\"session_id\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/ARDataMapping\/CDARSessionData+CoreDataProperties.swift",
-      "kind": "StringLiteral",
-      "offset": 5454,
-      "length": 11,
-      "value": "\"shelfType\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/ARDataMapping\/CDARSessionData+CoreDataProperties.swift",
-      "kind": "StringLiteral",
-      "offset": 5498,
-      "length": 18,
-      "value": "\"captureTimestamp\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/ARDataMapping\/CDARSessionData+CoreDataProperties.swift",
-      "kind": "StringLiteral",
-      "offset": 5551,
-      "length": 20,
-      "value": "\"annotationFileName\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/ARDataMapping\/CDARSessionData+CoreDataProperties.swift",
-      "kind": "StringLiteral",
-      "offset": 5597,
-      "length": 11,
-      "value": "\"questions\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/ARDataMapping\/CDARSessionData+CoreDataProperties.swift",
-      "kind": "StringLiteral",
-      "offset": 5636,
-      "length": 13,
-      "value": "\"annotations\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/ARDataMapping\/CDARSessionData+CoreDataProperties.swift",
-      "kind": "StringLiteral",
-      "offset": 5678,
-      "length": 14,
-      "value": "\"uploadStatus\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/ARDataMapping\/CDARSessionData+CoreDataProperties.swift",
-      "kind": "StringLiteral",
-      "offset": 5716,
-      "length": 10,
-      "value": "\"image_id\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/DatabaseManager\/ManagedObjectClasses\/ARDataMapping\/CDARSessionData+CoreDataProperties.swift",
-      "kind": "StringLiteral",
-      "offset": 5756,
-      "length": 16,
-      "value": "\"planogram_name\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterData.swift",
-      "kind": "StringLiteral",
-      "offset": 298,
-      "length": 9,
-      "value": "\"shop_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/MasterData\/MasterData.swift",
@@ -34036,118 +33917,6 @@
       "value": "8"
     },
     {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Extension\/UIKit\/UIDevice\/UIDevice+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 8928,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Extension\/UIKit\/UIDevice\/UIDevice+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 8962,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Extension\/UIKit\/UIDevice\/UIDevice+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 8999,
-      "length": 1,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Extension\/UIKit\/UIDevice\/UIDevice+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9035,
-      "length": 1,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Extension\/UIKit\/UIDevice\/UIDevice+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9068,
-      "length": 1,
-      "value": "5"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Extension\/UIKit\/UIDevice\/UIDevice+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9102,
-      "length": 1,
-      "value": "6"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Extension\/UIKit\/UIDevice\/UIDevice+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9139,
-      "length": 1,
-      "value": "7"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Extension\/UIKit\/UIDevice\/UIDevice+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9175,
-      "length": 1,
-      "value": "8"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Extension\/UIKit\/UIDevice\/UIDevice+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 8928,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Extension\/UIKit\/UIDevice\/UIDevice+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 8962,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Extension\/UIKit\/UIDevice\/UIDevice+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 8999,
-      "length": 1,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Extension\/UIKit\/UIDevice\/UIDevice+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9035,
-      "length": 1,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Extension\/UIKit\/UIDevice\/UIDevice+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9068,
-      "length": 1,
-      "value": "5"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Extension\/UIKit\/UIDevice\/UIDevice+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9102,
-      "length": 1,
-      "value": "6"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Extension\/UIKit\/UIDevice\/UIDevice+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9139,
-      "length": 1,
-      "value": "7"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Extension\/UIKit\/UIDevice\/UIDevice+Extension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9175,
-      "length": 1,
-      "value": "8"
-    },
-    {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/ReferenceImageViewer\/ReferenceImageViewerViewController.swift",
       "kind": "StringLiteral",
       "offset": 513,
@@ -34276,83 +34045,6 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
       "kind": "StringLiteral",
-      "offset": 460,
-      "length": 12,
-      "value": "\"project_id\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
-      "kind": "StringLiteral",
-      "offset": 500,
-      "length": 15,
-      "value": "\"td_version_id\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
-      "kind": "StringLiteral",
-      "offset": 538,
-      "length": 9,
-      "value": "\"shop_id\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
-      "kind": "StringLiteral",
-      "offset": 574,
-      "length": 13,
-      "value": "\"category_id\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
-      "kind": "StringLiteral",
-      "offset": 610,
-      "length": 9,
-      "value": "\"user_id\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
-      "kind": "StringLiteral",
-      "offset": 645,
-      "length": 11,
-      "value": "\"file_name\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
-      "kind": "StringLiteral",
-      "offset": 680,
-      "length": 17,
-      "value": "\"crop_coordinate\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
-      "kind": "StringLiteral",
-      "offset": 738,
-      "length": 13,
-      "value": "\"annotations\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
-      "kind": "StringLiteral",
-      "offset": 2241,
-      "length": 10,
-      "value": "\"sku_name\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
-      "kind": "StringLiteral",
-      "offset": 2275,
-      "length": 10,
-      "value": "\"class_id\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
-      "kind": "StringLiteral",
-      "offset": 2309,
-      "length": 10,
-      "value": "\"group_id\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ARDataMappingDatabaseHelper\/ARAnnotation.swift",
-      "kind": "StringLiteral",
       "offset": 2241,
       "length": 10,
       "value": "\"sku_name\""
@@ -34475,153 +34167,6 @@
       "offset": 933,
       "length": 15,
       "value": "\"sn_image_type\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
-      "kind": "StringLiteral",
-      "offset": 744,
-      "length": 14,
-      "value": "\"column_count\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
-      "kind": "StringLiteral",
-      "offset": 802,
-      "length": 12,
-      "value": "\"group_name\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
-      "kind": "StringLiteral",
-      "offset": 856,
-      "length": 11,
-      "value": "\"row_count\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
-      "kind": "StringLiteral",
-      "offset": 893,
-      "length": 12,
-      "value": "\"shelf_type\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
-      "kind": "StringLiteral",
-      "offset": 933,
-      "length": 15,
-      "value": "\"sn_image_type\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
-      "kind": "StringLiteral",
-      "offset": 2025,
-      "length": 12,
-      "value": "\"aoi_coords\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
-      "kind": "StringLiteral",
-      "offset": 2066,
-      "length": 15,
-      "value": "\"app_timestamp\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
-      "kind": "StringLiteral",
-      "offset": 2110,
-      "length": 16,
-      "value": "\"asset_image_id\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
-      "kind": "StringLiteral",
-      "offset": 2152,
-      "length": 12,
-      "value": "\"created_at\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
-      "kind": "StringLiteral",
-      "offset": 2195,
-      "length": 17,
-      "value": "\"crop_coordinate\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
-      "kind": "StringLiteral",
-      "offset": 2242,
-      "length": 16,
-      "value": "\"grid_positions\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
-      "kind": "StringLiteral",
-      "offset": 2284,
-      "length": 12,
-      "value": "\"image_type\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
-      "kind": "StringLiteral",
-      "offset": 2347,
-      "length": 17,
-      "value": "\"last_image_flag\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
-      "kind": "StringLiteral",
-      "offset": 2427,
-      "length": 14,
-      "value": "\"overlap_area\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
-      "kind": "StringLiteral",
-      "offset": 2500,
-      "length": 26,
-      "value": "\"recapture_camera_options\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
-      "kind": "StringLiteral",
-      "offset": 2554,
-      "length": 15,
-      "value": "\"retake_seq_no\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
-      "kind": "StringLiteral",
-      "offset": 2595,
-      "length": 12,
-      "value": "\"session_id\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
-      "kind": "StringLiteral",
-      "offset": 2636,
-      "length": 16,
-      "value": "\"shelf_image_id\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
-      "kind": "StringLiteral",
-      "offset": 2684,
-      "length": 19,
-      "value": "\"stitched_image_id\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
-      "kind": "StringLiteral",
-      "offset": 2736,
-      "length": 20,
-      "value": "\"stitched_image_url\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
-      "kind": "StringLiteral",
-      "offset": 2784,
-      "length": 15,
-      "value": "\"test_image_id\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPIData\/KPIDataImage.swift",
@@ -34785,27 +34330,6 @@
       "value": "\"sub_brand\""
     },
     {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/CommercialStandardMapping\/CommercialStandardMapping.swift",
-      "kind": "StringLiteral",
-      "offset": 397,
-      "length": 16,
-      "value": "\"planogram_name\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/CommercialStandardMapping\/CommercialStandardMapping.swift",
-      "kind": "StringLiteral",
-      "offset": 456,
-      "length": 10,
-      "value": "\"column_1\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/CommercialStandardMapping\/CommercialStandardMapping.swift",
-      "kind": "StringLiteral",
-      "offset": 513,
-      "length": 11,
-      "value": "\"sub_brand\""
-    },
-    {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Constant\/Messages\/AppMessage.swift",
       "kind": "StringLiteral",
       "offset": 2596,
@@ -34869,83 +34393,6 @@
       "value": "\"id_sap_material_number\""
     },
     {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/PriceListProduct\/PriceListProduct.swift",
-      "kind": "StringLiteral",
-      "offset": 333,
-      "length": 10,
-      "value": "\"sfa_name\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/PriceListProduct\/PriceListProduct.swift",
-      "kind": "StringLiteral",
-      "offset": 369,
-      "length": 12,
-      "value": "\"product_id\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/PriceListProduct\/PriceListProduct.swift",
-      "kind": "StringLiteral",
-      "offset": 417,
-      "length": 24,
-      "value": "\"id_sap_material_number\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageResize\/ImageResizeManager.swift",
-      "kind": "IntegerLiteral",
-      "offset": 10384,
-      "length": 4,
-      "value": "2048"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageResize\/ImageResizeManager.swift",
-      "kind": "IntegerLiteral",
-      "offset": 10407,
-      "length": 4,
-      "value": "2592"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageResize\/ImageResizeManager.swift",
-      "kind": "IntegerLiteral",
-      "offset": 10428,
-      "length": 4,
-      "value": "3840"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageResize\/ImageResizeManager.swift",
-      "kind": "IntegerLiteral",
-      "offset": 10452,
-      "length": 4,
-      "value": "5334"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageResize\/ImageResizeManager.swift",
-      "kind": "IntegerLiteral",
-      "offset": 10384,
-      "length": 4,
-      "value": "2048"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageResize\/ImageResizeManager.swift",
-      "kind": "IntegerLiteral",
-      "offset": 10407,
-      "length": 4,
-      "value": "2592"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageResize\/ImageResizeManager.swift",
-      "kind": "IntegerLiteral",
-      "offset": 10428,
-      "length": 4,
-      "value": "3840"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageResize\/ImageResizeManager.swift",
-      "kind": "IntegerLiteral",
-      "offset": 10452,
-      "length": 4,
-      "value": "5334"
-    },
-    {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/ImageResize\/ImageResizeManager.swift",
       "kind": "IntegerLiteral",
       "offset": 10384,
@@ -35004,20 +34451,6 @@
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicabilityMatrix.swift",
       "kind": "StringLiteral",
-      "offset": 325,
-      "length": 15,
-      "value": "\"shelf_section\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicabilityMatrix.swift",
-      "kind": "StringLiteral",
-      "offset": 384,
-      "length": 10,
-      "value": "\"kpi_list\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicabilityMatrix.swift",
-      "kind": "StringLiteral",
       "offset": 1943,
       "length": 28,
       "value": "\"Cold Zone - KP Main Fridge\""
@@ -35056,97 +34489,6 @@
       "offset": 2184,
       "length": 8,
       "value": "\"Others\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicabilityMatrix.swift",
-      "kind": "StringLiteral",
-      "offset": 1943,
-      "length": 28,
-      "value": "\"Cold Zone - KP Main Fridge\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicabilityMatrix.swift",
-      "kind": "StringLiteral",
-      "offset": 2003,
-      "length": 35,
-      "value": "\"Cold Zone - Retailer Owned Fridge\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicabilityMatrix.swift",
-      "kind": "StringLiteral",
-      "offset": 2056,
-      "length": 7,
-      "value": "\"Shelf\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicabilityMatrix.swift",
-      "kind": "StringLiteral",
-      "offset": 2088,
-      "length": 27,
-      "value": "\"Cold Zone - Other fridges\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicabilityMatrix.swift",
-      "kind": "StringLiteral",
-      "offset": 2138,
-      "length": 27,
-      "value": "\"Cold Zone - KP 0.0 Fridge\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicabilityMatrix.swift",
-      "kind": "StringLiteral",
-      "offset": 2184,
-      "length": 8,
-      "value": "\"Others\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicabilityMatrix.swift",
-      "kind": "StringLiteral",
-      "offset": 2260,
-      "length": 18,
-      "value": "\"SKU Availability\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicabilityMatrix.swift",
-      "kind": "StringLiteral",
-      "offset": 2309,
-      "length": 32,
-      "value": "\"Commercial Standard Compliance\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicabilityMatrix.swift",
-      "kind": "StringLiteral",
-      "offset": 2371,
-      "length": 20,
-      "value": "\"Listing Compliance\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicabilityMatrix.swift",
-      "kind": "StringLiteral",
-      "offset": 2416,
-      "length": 16,
-      "value": "\"Share of Shelf\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicabilityMatrix.swift",
-      "kind": "StringLiteral",
-      "offset": 2458,
-      "length": 26,
-      "value": "\"Sub-segment Neighborhood\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicabilityMatrix.swift",
-      "kind": "StringLiteral",
-      "offset": 2512,
-      "length": 20,
-      "value": "\"Share of Cold Zone\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicabilityMatrix.swift",
-      "kind": "StringLiteral",
-      "offset": 2563,
-      "length": 21,
-      "value": "\"Standard Compliance\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPIApplicability\/KPIApplicabilityMatrix.swift",
@@ -35203,13 +34545,6 @@
       "offset": 520,
       "length": 3,
       "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/ViewController\/AR\/ARViewController\/View\/ARView\/ARView.swift",
-      "kind": "StringLiteral",
-      "offset": 10604,
-      "length": 9,
-      "value": "\"ShelfWatchImageRecognitionFramework.PDSCNNode\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_16_commercial_standard_compliance_45cm.swift",
@@ -35287,27 +34622,6 @@
       "offset": 521,
       "length": 2,
       "value": "45"
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Utility\/Environment\/Environment.swift",
-      "kind": "StringLiteral",
-      "offset": 437,
-      "length": 5,
-      "value": "\"dev\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Utility\/Environment\/Environment.swift",
-      "kind": "StringLiteral",
-      "offset": 460,
-      "length": 7,
-      "value": "\"stage\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Utility\/Environment\/Environment.swift",
-      "kind": "StringLiteral",
-      "offset": 484,
-      "length": 6,
-      "value": "\"prod\""
     },
     {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Utility\/Environment\/Environment.swift",
@@ -35450,41 +34764,6 @@
       "value": "\"attribute_value\""
     },
     {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/ClassAttribute\/ClassAttributeChild\/ClassAttributeData.swift",
-      "kind": "StringLiteral",
-      "offset": 410,
-      "length": 10,
-      "value": "\"class_id\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/ClassAttribute\/ClassAttributeChild\/ClassAttributeData.swift",
-      "kind": "StringLiteral",
-      "offset": 446,
-      "length": 12,
-      "value": "\"class_name\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/ClassAttribute\/ClassAttributeChild\/ClassAttributeData.swift",
-      "kind": "StringLiteral",
-      "offset": 485,
-      "length": 13,
-      "value": "\"client_name\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/ClassAttribute\/ClassAttributeChild\/ClassAttributeData.swift",
-      "kind": "StringLiteral",
-      "offset": 528,
-      "length": 16,
-      "value": "\"attribute_name\""
-    },
-    {
-      "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/ClassAttribute\/ClassAttributeChild\/ClassAttributeData.swift",
-      "kind": "StringLiteral",
-      "offset": 575,
-      "length": 17,
-      "value": "\"attribute_value\""
-    },
-    {
       "filePath": "\/Users\/mitesh\/Mitesh\/ParallelDots\/Projects\/ShelfWatchSDK\/Framework\/PDRepoFramework\/ShelfWatchImageRecognitionFramework\/ShelfWatchImageRecognitionFramework\/Source\/Helper\/KPIReport\/Model\/KPI\/KPI_v2\/KPILogics\/KPIs\/kpi_6_sku_availability_45cm.swift",
       "kind": "StringLiteral",
       "offset": 263,
@@ -35511,6 +34790,20 @@
       "offset": 244,
       "length": 19,
       "value": "[\"Shelf\", \"Others\"]"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Library\/Developer\/Xcode\/DerivedData\/ShelfWatchImageRecognitionFramework-ekqdvaoybivfsydjquxzgfnyniyi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ShelfWatchImageRecognitionFramework\/IntermediateBuildFilesPath\/ShelfWatchImageRecognitionFramework.build\/Release-iphonesimulator\/ShelfWatchImageRecognitionFramework.build\/DerivedSources\/CoreMLGenerated\/mars_mt\/mars_mt.swift",
+      "kind": "Array",
+      "offset": 615,
+      "length": 48,
+      "value": "[\"image\", \"iouThreshold\", \"confidenceThreshold\"]"
+    },
+    {
+      "filePath": "\/Users\/mitesh\/Library\/Developer\/Xcode\/DerivedData\/ShelfWatchImageRecognitionFramework-ekqdvaoybivfsydjquxzgfnyniyi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ShelfWatchImageRecognitionFramework\/IntermediateBuildFilesPath\/ShelfWatchImageRecognitionFramework.build\/Release-iphonesimulator\/ShelfWatchImageRecognitionFramework.build\/DerivedSources\/CoreMLGenerated\/Asahi\/Asahi.swift",
+      "kind": "Array",
+      "offset": 611,
+      "length": 48,
+      "value": "[\"image\", \"iouThreshold\", \"confidenceThreshold\"]"
     },
     {
       "filePath": "\/Users\/mitesh\/Library\/Developer\/Xcode\/DerivedData\/ShelfWatchImageRecognitionFramework-ekqdvaoybivfsydjquxzgfnyniyi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ShelfWatchImageRecognitionFramework\/IntermediateBuildFilesPath\/ShelfWatchImageRecognitionFramework.build\/Release-iphonesimulator\/ShelfWatchImageRecognitionFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",

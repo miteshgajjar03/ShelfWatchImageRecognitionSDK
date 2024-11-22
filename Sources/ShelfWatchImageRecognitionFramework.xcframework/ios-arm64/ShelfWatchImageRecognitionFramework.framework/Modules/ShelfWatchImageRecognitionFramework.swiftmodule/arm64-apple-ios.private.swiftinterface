@@ -1,6 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
+// swift-compiler-version: Apple Swift version 6.0.2 effective-5.10 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)
 // swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name ShelfWatchImageRecognitionFramework
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface
 import ARKit
 import AVFoundation
 import AVKit
@@ -311,7 +312,7 @@ extension ShelfWatchImageRecognitionFramework.CDClassAttributeData : Swift.Ident
   public typealias ID = Swift.ObjectIdentifier
 }
 extension UIKit.UIViewController : UIKit.UIPopoverPresentationControllerDelegate {
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func adaptivePresentationStyle(for controller: UIKit.UIPresentationController, traitCollection: UIKit.UITraitCollection) -> UIKit.UIModalPresentationStyle
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func adaptivePresentationStyle(for controller: UIKit.UIPresentationController, traitCollection: UIKit.UITraitCollection) -> UIKit.UIModalPresentationStyle
 }
 extension ShelfWatchImageRecognitionFramework.CDARCapturedImageMeta {
   @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<ShelfWatchImageRecognitionFramework.CDARCapturedImageMeta>
@@ -686,8 +687,8 @@ extension ShelfWatchImageRecognitionFramework.CDKPIApplicability : Swift.Identif
   @objc deinit
 }
 extension UIKit.UIDevice {
-  @_Concurrency.MainActor(unsafe) public static let modelName: Swift.String
-  @_Concurrency.MainActor(unsafe) public var exifOrientation: Swift.UInt32 {
+  @_Concurrency.MainActor @preconcurrency public static let modelName: Swift.String
+  @_Concurrency.MainActor @preconcurrency public var exifOrientation: Swift.UInt32 {
     get
   }
 }
@@ -807,6 +808,7 @@ extension UIKit.UIImage {
   public enum DataUnits : Swift.String {
     case byte, kilobyte, megabyte, gigabyte
     public init?(rawValue: Swift.String)
+    @available(iOS 2.0, *)
     public typealias RawValue = Swift.String
     public var rawValue: Swift.String {
       get
@@ -868,12 +870,12 @@ extension ShelfWatchImageRecognitionFramework.CDMasterDataChild : Swift.Identifi
   public typealias ID = Swift.ObjectIdentifier
 }
 extension UIKit.UIView {
-  @_Concurrency.MainActor(unsafe) public func setCorner(radius: CoreFoundation.CGFloat)
-  @_Concurrency.MainActor(unsafe) public func makeCircle()
-  @_Concurrency.MainActor(unsafe) public func makeWidthCircle()
-  @_Concurrency.MainActor(unsafe) public func setBorder(width: CoreFoundation.CGFloat, color: UIKit.UIColor)
-  @_Concurrency.MainActor(unsafe) public func setRadiusFor(corners: UIKit.UIRectCorner, radius: CoreFoundation.CGFloat)
-  @_Concurrency.MainActor(unsafe) public func setShadow(color: UIKit.UIColor)
+  @_Concurrency.MainActor @preconcurrency public func setCorner(radius: CoreFoundation.CGFloat)
+  @_Concurrency.MainActor @preconcurrency public func makeCircle()
+  @_Concurrency.MainActor @preconcurrency public func makeWidthCircle()
+  @_Concurrency.MainActor @preconcurrency public func setBorder(width: CoreFoundation.CGFloat, color: UIKit.UIColor)
+  @_Concurrency.MainActor @preconcurrency public func setRadiusFor(corners: UIKit.UIRectCorner, radius: CoreFoundation.CGFloat)
+  @_Concurrency.MainActor @preconcurrency public func setShadow(color: UIKit.UIColor)
 }
 extension ShelfWatchImageRecognitionFramework.CDCapturedImageBatch {
   @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<ShelfWatchImageRecognitionFramework.CDCapturedImageBatch>
@@ -907,6 +909,7 @@ extension Foundation.Data {
   public enum DataUnits : Swift.String {
     case byte, kilobyte, megabyte, gigabyte
     public init?(rawValue: Swift.String)
+    @available(iOS 8.0, tvOS 9.0, watchOS 2.0, macOS 10.10, *)
     public typealias RawValue = Swift.String
     public var rawValue: Swift.String {
       get

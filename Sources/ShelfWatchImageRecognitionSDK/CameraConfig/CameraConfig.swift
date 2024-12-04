@@ -25,6 +25,7 @@ public struct CameraConfig {
     let showSingleOverlap: Bool
     let overlapImageOpacity: Double
     let setOverlapArea: Bool
+    let tiltAngle: Int
     let uploadParams: [String : Any]
     
     public init(
@@ -44,6 +45,7 @@ public struct CameraConfig {
         showSingleOverlap: Bool,
         overlapImageOpacity: Double,
         setOverlapArea: Bool,
+        tiltAngle: Int,
         uploadParams: [String : Any]
     ) {
         self.orientation = orientation
@@ -62,6 +64,7 @@ public struct CameraConfig {
         self.showSingleOverlap = showSingleOverlap
         self.overlapImageOpacity = overlapImageOpacity
         self.setOverlapArea = setOverlapArea
+        self.tiltAngle = tiltAngle
         self.uploadParams = uploadParams
     }
 }

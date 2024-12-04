@@ -55,6 +55,7 @@ public class ShelfWatchCameraManager {
             showSingleOverlap: config.showSingleOverlap,
             overlapImageOpacity: config.overlapImageOpacity,
             setOverlapArea: config.setOverlapArea,
+            tiltAngle: config.tiltAngle,
             uploadParams: config.uploadParams
         )
         

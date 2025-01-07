@@ -2,13 +2,11 @@
 // swift-compiler-version: Apple Swift version 6.0.2 effective-5.10 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)
 // swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name ShelfWatchImageRecognitionFramework
 // swift-module-flags-ignorable: -no-verify-emitted-module-interface
-import ARKit
 import AVFoundation
 import AVKit
 import Accelerate
 import CoreData
 import CoreLocation
-import CoreML
 import CoreMotion
 import DeveloperToolsSupport
 import Foundation
@@ -24,7 +22,6 @@ import Vision
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-import simd
 @_hasMissingDesignatedInitializers public class ImageBatch {
   final public let sessionId: Swift.String
   public var images: [ShelfWatchImageRecognitionFramework.ImageBatchMeta]
@@ -42,6 +39,13 @@ public struct ImageUploadStatusMeta {
   public let imageMetaData: [Swift.String : Swift.String]
   public let error: (any Swift.Error)?
   public init(uri: Swift.String, status: Swift.Bool, imageMetaData: [Swift.String : Swift.String], error: (any Swift.Error)?)
+}
+public struct DownloadProgressMeta {
+  public let title: Swift.String
+  public let subTitle: Swift.String
+  public let progress: Swift.Float
+  public let finished: Swift.Bool
+  public let type: ShelfWatchImageRecognitionFramework.ProgressType
 }
 public struct CameraConfiguration {
   public init(orientation: Swift.String, widthPercentage: CoreFoundation.CGFloat, resolution: CoreFoundation.CGFloat, referenceUrl: Swift.String, allowCrop: Swift.Bool, allowBlurCheck: Swift.Bool, zoomLevel: Swift.String, isRetake: Swift.Bool, showOverlapToggleButton: Swift.Bool, showGridlines: Swift.Bool, languageCode: Swift.String, appName: Swift.String, wideAngleMode: ShelfWatchImageRecognitionFramework.WideAngleMode, showSingleOverlap: Swift.Bool, overlapImageOpacity: Swift.Double, setOverlapArea: Swift.Bool, uploadParams: [Swift.String : Any])
@@ -69,24 +73,6 @@ public enum LanguageCode : Swift.String {
   public init?(rawValue: Swift.String)
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
-    get
-  }
-}
-public struct DownloadProgressMeta {
-  public let title: Swift.String
-  public let subTitle: Swift.String
-  public let progress: Swift.Float
-  public let finished: Swift.Bool
-  public let type: ShelfWatchImageRecognitionFramework.ProgressType
-}
-public enum ProgressType {
-  case checkingForUpdate, downloadingFile
-  public var value: Swift.String {
-    get
-  }
-  public static func == (a: ShelfWatchImageRecognitionFramework.ProgressType, b: ShelfWatchImageRecognitionFramework.ProgressType) -> Swift.Bool
-  public func hash(into hasher: inout Swift.Hasher)
-  public var hashValue: Swift.Int {
     get
   }
 }
@@ -261,26 +247,6 @@ extension ShelfWatchImageRecognitionFramework.CDARDataMapping {
 extension ShelfWatchImageRecognitionFramework.CDARDataMapping : Swift.Identifiable {
   public typealias ID = Swift.ObjectIdentifier
 }
-extension ShelfWatchImageRecognitionFramework.CDARCapturedImage {
-  @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<ShelfWatchImageRecognitionFramework.CDARCapturedImage>
-  @objc @NSManaged dynamic public var sessionId: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var images: [ShelfWatchImageRecognitionFramework.CDARCapturedImageMeta]? {
-    @objc get
-    @objc set
-  }
-}
-extension ShelfWatchImageRecognitionFramework.CDARCapturedImage {
-  @objc(addImagesObject:) @NSManaged dynamic public func addToImages(_ value: ShelfWatchImageRecognitionFramework.CDARCapturedImageMeta)
-  @objc(removeImagesObject:) @NSManaged dynamic public func removeFromImages(_ value: ShelfWatchImageRecognitionFramework.CDARCapturedImageMeta)
-  @objc(addImages:) @NSManaged dynamic public func addToImages(_ values: Foundation.NSOrderedSet)
-  @objc(removeImages:) @NSManaged dynamic public func removeFromImages(_ values: Foundation.NSOrderedSet)
-}
-extension ShelfWatchImageRecognitionFramework.CDARCapturedImage : Swift.Identifiable {
-  public typealias ID = Swift.ObjectIdentifier
-}
 @_inheritsConvenienceInitializers @objc(CDUserDetail) public class CDUserDetail : CoreData.NSManagedObject {
   @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
   @objc deinit
@@ -311,39 +277,15 @@ extension ShelfWatchImageRecognitionFramework.CDClassAttributeData {
 extension ShelfWatchImageRecognitionFramework.CDClassAttributeData : Swift.Identifiable {
   public typealias ID = Swift.ObjectIdentifier
 }
+#if compiler(>=5.3) && $RetroactiveAttribute
+extension UIKit.UIViewController : @retroactive UIKit.UIPopoverPresentationControllerDelegate {
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func adaptivePresentationStyle(for controller: UIKit.UIPresentationController, traitCollection: UIKit.UITraitCollection) -> UIKit.UIModalPresentationStyle
+}
+#else
 extension UIKit.UIViewController : UIKit.UIPopoverPresentationControllerDelegate {
   @_Concurrency.MainActor @preconcurrency @objc dynamic public func adaptivePresentationStyle(for controller: UIKit.UIPresentationController, traitCollection: UIKit.UITraitCollection) -> UIKit.UIModalPresentationStyle
 }
-extension ShelfWatchImageRecognitionFramework.CDARCapturedImageMeta {
-  @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<ShelfWatchImageRecognitionFramework.CDARCapturedImageMeta>
-  @objc @NSManaged dynamic public var sessionId: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var projectId: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var appTimestamp: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var name: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var detections: Foundation.Data? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var uploadParam: Foundation.Data? {
-    @objc get
-    @objc set
-  }
-}
-extension ShelfWatchImageRecognitionFramework.CDARCapturedImageMeta : Swift.Identifiable {
-  public typealias ID = Swift.ObjectIdentifier
-}
+#endif
 public class ShelfWatchCamera {
   public init(projectId: Swift.String, userId: Swift.String, userInfo: [Swift.String : Any], delegate: any ShelfWatchImageRecognitionFramework.ImageUploadDelegate, objectDetectionDelegate: any ShelfWatchImageRecognitionFramework.ObjectDetectionDelegate)
   public func setupCamera(configuration: ShelfWatchImageRecognitionFramework.CameraConfiguration)
@@ -358,7 +300,6 @@ extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
 }
 extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
   public func imageFromUnity(image: UIKit.UIImage)
-  public func showInsightDashboadViewController(from viewController: UIKit.UIViewController, jsonObjects: [[Swift.String : Any]], skuAvailability: [Swift.String : Any])
 }
 extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
   public func getKPIResults(mergedImage: UIKit.UIImage, uploadParams: [Swift.String : Any], detectionsJSON: [[Swift.String : Any]], completion: @escaping ((_ kpiJson: [Swift.String : Any]) -> Swift.Void))
@@ -372,6 +313,17 @@ extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
 }
 extension ShelfWatchImageRecognitionFramework.ShelfWatchCamera {
   public func getGroupNames(shopId: Swift.Int) -> [Swift.String]
+}
+public enum ProgressType {
+  case checkingForUpdate, downloadingFile
+  public var value: Swift.String {
+    get
+  }
+  public static func == (a: ShelfWatchImageRecognitionFramework.ProgressType, b: ShelfWatchImageRecognitionFramework.ProgressType) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
 }
 @_inheritsConvenienceInitializers @objc(CDListing) public class CDListing : CoreData.NSManagedObject {
   @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
@@ -511,10 +463,6 @@ public struct ARPendingMetaData : Swift.Encodable {
 public protocol ObjectDetectionDelegate : AnyObject {
   func didReceiveDetections(result: Swift.Result<[ShelfWatchImageRecognitionFramework.ObjectDetectionResponse], any Swift.Error>)
 }
-@_inheritsConvenienceInitializers @objc(CDARCapturedImage) public class CDARCapturedImage : CoreData.NSManagedObject {
-  @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
-  @objc deinit
-}
 public struct WideAngleMode {
   public init(flag: Swift.Bool, freeze: Swift.Bool)
 }
@@ -558,128 +506,6 @@ extension ShelfWatchImageRecognitionFramework.CDARSessionData {
   }
 }
 extension ShelfWatchImageRecognitionFramework.CDARSessionData : Swift.Identifiable {
-  public typealias ID = Swift.ObjectIdentifier
-}
-extension ShelfWatchImageRecognitionFramework.CDKPIApplicability {
-  @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<ShelfWatchImageRecognitionFramework.CDKPIApplicability>
-  @objc @NSManaged dynamic public var shelfSection: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var answer: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var skuAvailabilityHardPlanogram: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var skuAvailabilityOthers: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var skuAvailabilityKpOwnedFridge: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var skuAvailabilityShelf: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var skuAvailabilitySecondaryPlacement: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var commercialStandardComplianceKpOwnedFridge: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var commercialStandardCompliancePiwaSmakowe: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var commercialStandardComplianceModern: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var commercialStandardComplianceBuforowa: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var commercialStandardCompliance45cm: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var commercialStandardCompliance70cm: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var standardComplianceNab: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var standardComplianceDelikatesyCentrum: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var skuAvailability45cm: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var skuAvailability70cm: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var skuAvailabilityBuforowa: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var skuAvailabilityPiwaSmakowe: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var skuAvailabilityModern: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var skuAvailabilityQuantitativeRules: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var subSegmentNeighborhood: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var brandNeighbourhood: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var outletAvailabilityCompliance: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var listingCompliance: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var novelties: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var kompanCompliance30: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var kompanCompliance30Max: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var imageCaptured: Swift.String? {
-    @objc get
-    @objc set
-  }
-}
-extension ShelfWatchImageRecognitionFramework.CDKPIApplicability : Swift.Identifiable {
   public typealias ID = Swift.ObjectIdentifier
 }
 @_inheritsConvenienceInitializers @objc(CDImageMetaData) public class CDImageMetaData : CoreData.NSManagedObject {
@@ -935,32 +761,6 @@ extension ShelfWatchImageRecognitionFramework.CDSubSegmentNeighbourhood {
 extension ShelfWatchImageRecognitionFramework.CDSubSegmentNeighbourhood : Swift.Identifiable {
   public typealias ID = Swift.ObjectIdentifier
 }
-@_inheritsConvenienceInitializers @objc(CDARCapturedImageMeta) public class CDARCapturedImageMeta : CoreData.NSManagedObject {
-  @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
-  @objc deinit
-}
-@_inheritsConvenienceInitializers @objc(CDKPIApplicabilityMatrix) public class CDKPIApplicabilityMatrix : CoreData.NSManagedObject {
-  @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
-  @objc deinit
-}
-extension ShelfWatchImageRecognitionFramework.CDKPIApplicabilityMatrix {
-  @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<ShelfWatchImageRecognitionFramework.CDKPIApplicabilityMatrix>
-  @objc @NSManaged dynamic public var shelfSection: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var answer: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var kpiList: [Swift.String]? {
-    @objc get
-    @objc set
-  }
-}
-extension ShelfWatchImageRecognitionFramework.CDKPIApplicabilityMatrix : Swift.Identifiable {
-  public typealias ID = Swift.ObjectIdentifier
-}
 @_inheritsConvenienceInitializers @objc(CDPriceListProduct) public class CDPriceListProduct : CoreData.NSManagedObject {
   @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
   @objc deinit
@@ -1030,20 +830,16 @@ extension ShelfWatchImageRecognitionFramework.CDListing : Swift.Identifiable {
   @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
   @objc deinit
 }
-@_inheritsConvenienceInitializers @objc(CDKPIApplicability) public class CDKPIApplicability : CoreData.NSManagedObject {
-  @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
-  @objc deinit
-}
 extension ShelfWatchImageRecognitionFramework.CameraOrientation : Swift.Equatable {}
 extension ShelfWatchImageRecognitionFramework.CameraOrientation : Swift.Hashable {}
 extension ShelfWatchImageRecognitionFramework.CameraOrientation : Swift.RawRepresentable {}
 extension ShelfWatchImageRecognitionFramework.LanguageCode : Swift.Equatable {}
 extension ShelfWatchImageRecognitionFramework.LanguageCode : Swift.Hashable {}
 extension ShelfWatchImageRecognitionFramework.LanguageCode : Swift.RawRepresentable {}
-extension ShelfWatchImageRecognitionFramework.ProgressType : Swift.Equatable {}
-extension ShelfWatchImageRecognitionFramework.ProgressType : Swift.Hashable {}
 extension ShelfWatchImageRecognitionFramework.ResizeFramework : Swift.Equatable {}
 extension ShelfWatchImageRecognitionFramework.ResizeFramework : Swift.Hashable {}
+extension ShelfWatchImageRecognitionFramework.ProgressType : Swift.Equatable {}
+extension ShelfWatchImageRecognitionFramework.ProgressType : Swift.Hashable {}
 extension UIKit.UIImage.DataUnits : Swift.Equatable {}
 extension UIKit.UIImage.DataUnits : Swift.Hashable {}
 extension UIKit.UIImage.DataUnits : Swift.RawRepresentable {}

@@ -4,133 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>AR.storyboardc/ARViewController.nib/objects-14.0+.nib</key>
-		<data>
-		oED0qBi1zTFLfgY3ylbWH91iNvc=
-		</data>
-		<key>AR.storyboardc/ARViewController.nib/runtime.nib</key>
-		<data>
-		g6XgalrIzcQboHhcexxu4qWhdRU=
-		</data>
-		<key>AR.storyboardc/Info.plist</key>
-		<data>
-		bdwsZvnK0i6yRCPjYcl7c6PhxQk=
-		</data>
-		<key>AR.storyboardc/InsightDashboardViewController.nib/objects-14.0+.nib</key>
-		<data>
-		8+kTJNhaatHE8OviLwEXRCJqB9Y=
-		</data>
-		<key>AR.storyboardc/InsightDashboardViewController.nib/runtime.nib</key>
-		<data>
-		WegWaRa4bBGbGU9ikMsyAI5L940=
-		</data>
-		<key>AR.storyboardc/InsightDetailViewController.nib/objects-14.0+.nib</key>
-		<data>
-		hDPp1BoZYaW8TbOMCIa8wUiyUJ8=
-		</data>
-		<key>AR.storyboardc/InsightDetailViewController.nib/runtime.nib</key>
-		<data>
-		hDPp1BoZYaW8TbOMCIa8wUiyUJ8=
-		</data>
-		<key>AR.storyboardc/ToY-51-xNi-view-KUH-ge-xy2.nib/objects-14.0+.nib</key>
-		<data>
-		VuUKG5X1zF1a+45kmt+fvVLOTv8=
-		</data>
-		<key>AR.storyboardc/ToY-51-xNi-view-KUH-ge-xy2.nib/runtime.nib</key>
-		<data>
-		4VKhGHGLUL3/0HqLAU1DAxpbMzM=
-		</data>
-		<key>AR.storyboardc/TutorialViewController.nib/objects-14.0+.nib</key>
-		<data>
-		4jJ/M/2e2diV2Zl8qiXlJESBDtM=
-		</data>
-		<key>AR.storyboardc/TutorialViewController.nib/runtime.nib</key>
-		<data>
-		4jJ/M/2e2diV2Zl8qiXlJESBDtM=
-		</data>
-		<key>AR.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/objects-14.0+.nib</key>
-		<data>
-		8ljm+a8WM1bDVZn+6zySyFiLMpw=
-		</data>
-		<key>AR.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/runtime.nib</key>
-		<data>
-		NYSfdrnt3eqXWHrTAPI5tEXPxS8=
-		</data>
-		<key>AR.storyboardc/a39-to-Q1P-view-qdp-5E-pXa.nib/objects-14.0+.nib</key>
-		<data>
-		FgQaQuIDW7JAQLhtVWPa+D4/608=
-		</data>
-		<key>AR.storyboardc/a39-to-Q1P-view-qdp-5E-pXa.nib/runtime.nib</key>
-		<data>
-		FW592euhOCAVXUyhP55gmSGNyuo=
-		</data>
-		<key>AR.storyboardc/navARViewController.nib/objects-14.0+.nib</key>
-		<data>
-		2SeAuWoKNTj5ghyPEuzmrFak+/8=
-		</data>
-		<key>AR.storyboardc/navARViewController.nib/runtime.nib</key>
-		<data>
-		wzEan4ybizMgVCzw6GyjOvB5Eco=
-		</data>
-		<key>AR.storyboardc/pdK-oq-scA-view-aKn-CN-PNf.nib/objects-14.0+.nib</key>
-		<data>
-		NYdyYLSdMO4UIAu9+jm50bQceDc=
-		</data>
-		<key>AR.storyboardc/pdK-oq-scA-view-aKn-CN-PNf.nib/runtime.nib</key>
-		<data>
-		iWw7WUp1488xOfiDjNWVgnfDFOY=
-		</data>
 		<key>ActivityIndicatorView.nib</key>
 		<data>
 		7GGhf99PVcMiCif66SZgph1OvJA=
 		</data>
-		<key>Asahi.mlmodelc/analytics/coremldata.bin</key>
-		<data>
-		/22TszWnRiEq+lE3EfG+CFfOcSg=
-		</data>
-		<key>Asahi.mlmodelc/coremldata.bin</key>
-		<data>
-		MqDlRuAWXiKt++9lu8h6Sm2/wC4=
-		</data>
-		<key>Asahi.mlmodelc/metadata.json</key>
-		<data>
-		yUduZM7VSiLi/PCHtw+S0eOtlvU=
-		</data>
-		<key>Asahi.mlmodelc/model0/analytics/coremldata.bin</key>
-		<data>
-		fKyDdkREUD29a01QEJ3OG60fkfc=
-		</data>
-		<key>Asahi.mlmodelc/model0/coremldata.bin</key>
-		<data>
-		XFD8UShRuL7r+gypsIEUyHtG5/U=
-		</data>
-		<key>Asahi.mlmodelc/model0/model.espresso.net</key>
-		<data>
-		wRgBPouugprqCnd9YlboD/FdGd4=
-		</data>
-		<key>Asahi.mlmodelc/model0/model.espresso.shape</key>
-		<data>
-		0mLziElpBKzWPfNi8KB7QHGD9+0=
-		</data>
-		<key>Asahi.mlmodelc/model0/model.espresso.weights</key>
-		<data>
-		kptDdK0MTFNOkwQGiyl9KvyD1Ck=
-		</data>
-		<key>Asahi.mlmodelc/model0/model/coremldata.bin</key>
-		<data>
-		tGU7K8v0jbmLrWPOZkDsl7EBsZk=
-		</data>
-		<key>Asahi.mlmodelc/model0/neural_network_optionals/coremldata.bin</key>
-		<data>
-		tkgF5pxT7RlO+9uypQti9obolyA=
-		</data>
-		<key>Asahi.mlmodelc/model1/coremldata.bin</key>
-		<data>
-		Mvj02jg+xPo+VGhTlMehuxp45S0=
-		</data>
 		<key>Assets.car</key>
 		<data>
-		KDwUuhMTINHlCBLGURxS+p79rBw=
+		8MavL52xSCYDBDYzaRIxC8dbt7U=
 		</data>
 		<key>Camera.storyboardc/CameraViewController.nib/objects-14.0+.nib</key>
 		<data>
@@ -146,11 +26,11 @@
 		</data>
 		<key>Camera.storyboardc/t0e-vp-mUz-view-d8S-Fb-bVN.nib/objects-14.0+.nib</key>
 		<data>
-		LshXe9O+H6ZQcWWts+DzaFAwooc=
+		YhYKX3C29PuCmBQAgUBxQKO4AG8=
 		</data>
 		<key>Camera.storyboardc/t0e-vp-mUz-view-d8S-Fb-bVN.nib/runtime.nib</key>
 		<data>
-		NavMZRgVvk+oNAlIKrd+LkXHx58=
+		wpjrt9F0hLiR/uENiiRAz/zNdoQ=
 		</data>
 		<key>FixOrientationView.nib</key>
 		<data>
@@ -226,75 +106,63 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Ta0E2rC/aIrCA2TTqKZISbwaj5A=
+		qnyxygagCwgF3hLZXn6MiBspCUo=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		IJgF594npmdqMVORU2MJQdprAwY=
+		gbxYT8VOLIPFHCi1P8NF+RZs8+A=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		pKKHMwdOBFXxffZrFkM+mIs9aDs=
+		pE1lOcbK1vH4Fls8pi7Yn+tzZgQ=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		o4rCJLlvV0/szQAJ987xNLg9P/U=
+		HTLdm8nAq/98Xh3VDEqitymp05o=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		pKKHMwdOBFXxffZrFkM+mIs9aDs=
+		pE1lOcbK1vH4Fls8pi7Yn+tzZgQ=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		JW7Hueka3wdtepR97b6UoPTJr/U=
+		2Nfk+gGYQTBds7i3F1oA234pBBI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		Yi0EwyUOafUlNd5lU9dRiqG501U=
 		</data>
-		<key>PopoverViewController.nib</key>
-		<data>
-		bx4PQKrOnHzqB83IBjwpR8MADnI=
-		</data>
-		<key>Session_14.json</key>
-		<data>
-		4BgtYMv8VDUmpEIAuE1uYhujneg=
-		</data>
-		<key>Session_15.json</key>
-		<data>
-		qxk2OGnUGZqOi8S8p2Vhve1VVb4=
-		</data>
-		<key>Session_2.json</key>
-		<data>
-		MVcQNaPmiRqdREWBNgnUOYNjKCc=
-		</data>
 		<key>ShelfWatch.momd/ShelfWatch.mom</key>
 		<data>
-		W1umi+XO/1rfr2Y52CrVata6ckM=
+		hecHRJ2PGnZvf7x1ccGM8OsJgGs=
 		</data>
 		<key>ShelfWatch.momd/ShelfWatch_1.0.0.mom</key>
 		<data>
-		09XNz4Pk7gWb06hYku0M8W/qDOc=
+		MyA4i8qtWmR2ic+XHrFdDvDR6hg=
 		</data>
 		<key>ShelfWatch.momd/ShelfWatch_1.0.1.mom</key>
 		<data>
-		R9gY5mQgWP5JT84i779icZWMWWA=
+		Q2whrNqfuJyKCIHsUL9DXxMXL4c=
 		</data>
 		<key>ShelfWatch.momd/ShelfWatch_1.0.2.mom</key>
 		<data>
-		mpMNXw0FCvSQ4EQDm3LOOqIqrlo=
+		wG0yT4ODW1uNxidiMwjZUbVkTQc=
 		</data>
 		<key>ShelfWatch.momd/ShelfWatch_1.0.3.mom</key>
 		<data>
-		j+643OipQpQolurB4r6TaqgeS4o=
+		wT+eguo8ngaPrkPDGSpKCcrgqOw=
 		</data>
-		<key>ShelfWatch.momd/ShelfWatch_1.0.3.omo</key>
+		<key>ShelfWatch.momd/ShelfWatch_1.0.4.mom</key>
 		<data>
-		1mEKyLnOj6h22NOqVTWznhMcKbY=
+		StBpW5N/DMzlTKY3e67EeXYEiMw=
+		</data>
+		<key>ShelfWatch.momd/ShelfWatch_1.0.4.omo</key>
+		<data>
+		KuaUY7zPrCIkF3Ae8I9mbYNJTA0=
 		</data>
 		<key>ShelfWatch.momd/VersionInfo.plist</key>
 		<data>
-		oo0Sdbd1JIW3FeBUW5V9SVzagiM=
+		ykbzNNr1sICcEXK8zjpr+nAjHbA=
 		</data>
 		<key>ar.lproj/Localizable.strings</key>
 		<dict>
@@ -345,54 +213,6 @@
 		<data>
 		urn+VxRm2U+esiXjfKzQcU3q/40=
 		</data>
-		<key>kpi_applicability_matrix.json</key>
-		<data>
-		gbduQn4Y2JXDi4rRe/aOtnfc5Gw=
-		</data>
-		<key>mars_mt.mlmodelc/analytics/coremldata.bin</key>
-		<data>
-		B3m/PCjzFVNMG7AQOWOpdfi1tzs=
-		</data>
-		<key>mars_mt.mlmodelc/coremldata.bin</key>
-		<data>
-		DHNA5GgJTi5BCMRFwuWIgreasRQ=
-		</data>
-		<key>mars_mt.mlmodelc/metadata.json</key>
-		<data>
-		rnGptCIU4jb4ZrnoK41RK7kcpgY=
-		</data>
-		<key>mars_mt.mlmodelc/model0/analytics/coremldata.bin</key>
-		<data>
-		xQZ6F2WFXrJjhmX7hhI8fLcLYaQ=
-		</data>
-		<key>mars_mt.mlmodelc/model0/coremldata.bin</key>
-		<data>
-		KKqHX6GINjeacxvGDx7mWn4Iju8=
-		</data>
-		<key>mars_mt.mlmodelc/model0/model.espresso.net</key>
-		<data>
-		Ew+lRzogBdzNJ1SlO5RBQbJIKOY=
-		</data>
-		<key>mars_mt.mlmodelc/model0/model.espresso.shape</key>
-		<data>
-		t46zKg3SLN4PYKpkSz5TMgfEQXc=
-		</data>
-		<key>mars_mt.mlmodelc/model0/model.espresso.weights</key>
-		<data>
-		biD2ZO1zeWc5+l097ytRy2pSFzs=
-		</data>
-		<key>mars_mt.mlmodelc/model0/model/coremldata.bin</key>
-		<data>
-		tGU7K8v0jbmLrWPOZkDsl7EBsZk=
-		</data>
-		<key>mars_mt.mlmodelc/model0/neural_network_optionals/coremldata.bin</key>
-		<data>
-		tkgF5pxT7RlO+9uypQti9obolyA=
-		</data>
-		<key>mars_mt.mlmodelc/model1/coremldata.bin</key>
-		<data>
-		SIBw50M6uGcG9uJLDecXhXxkHoA=
-		</data>
 		<key>pl.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
@@ -411,14 +231,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>sample_data_failure.json</key>
-		<data>
-		6wRgozsYNkLOpgzJgNEgbuSGAZs=
-		</data>
-		<key>sample_data_success.json</key>
-		<data>
-		/l8bB2pCPTywiVNaRpwHOFI76pw=
-		</data>
 		<key>sk.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
@@ -461,139 +273,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>AR.storyboardc/ARViewController.nib/objects-14.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			OlG8vFfGZn6QSHUBuGJHttKhBe2WDcVdD/XzSqJiDkg=
-			</data>
-		</dict>
-		<key>AR.storyboardc/ARViewController.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			mEe2pNSbu2MUMNO9GVhhGXHXZcm48h1UNadboRrUq3k=
-			</data>
-		</dict>
-		<key>AR.storyboardc/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			SdtnxIcvbZRIaJLc/dfPVxm7omv0I2eeLJRzZsPvZUU=
-			</data>
-		</dict>
-		<key>AR.storyboardc/InsightDashboardViewController.nib/objects-14.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			IbLLnUxqaWmCJSYossF71QunGKxB8eyHnmgkN1jZ3is=
-			</data>
-		</dict>
-		<key>AR.storyboardc/InsightDashboardViewController.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			YYgw4wmB6u4CJeo75Bv3yjDxif/Ir/B2xkDCBjN8iJE=
-			</data>
-		</dict>
-		<key>AR.storyboardc/InsightDetailViewController.nib/objects-14.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			mxVC2jpDXX9u/w0u0ybsInhtuPwVblkG6DGJWqq+bYc=
-			</data>
-		</dict>
-		<key>AR.storyboardc/InsightDetailViewController.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			mxVC2jpDXX9u/w0u0ybsInhtuPwVblkG6DGJWqq+bYc=
-			</data>
-		</dict>
-		<key>AR.storyboardc/ToY-51-xNi-view-KUH-ge-xy2.nib/objects-14.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Tg9AQGrUJBYlI0Fb2H5FYix3D4JrfH+jQRwnFlG18sY=
-			</data>
-		</dict>
-		<key>AR.storyboardc/ToY-51-xNi-view-KUH-ge-xy2.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			IiwJxsC+xNtSztDpW7BNYqeORwq4OBqOdB9UZ6+1dZA=
-			</data>
-		</dict>
-		<key>AR.storyboardc/TutorialViewController.nib/objects-14.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			WDOdGmRWfiH2eob8JzxiB8IeYLdeApkE9mshZRl6Dnc=
-			</data>
-		</dict>
-		<key>AR.storyboardc/TutorialViewController.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			WDOdGmRWfiH2eob8JzxiB8IeYLdeApkE9mshZRl6Dnc=
-			</data>
-		</dict>
-		<key>AR.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/objects-14.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			KPUc7BDRtmHAL1DpnAPVqXlTb8IQ0+blny/DwUu9V5s=
-			</data>
-		</dict>
-		<key>AR.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			pSUEMZrRygI5PWAtrZed3cnVPdBW3uKo7c12wSBoLT4=
-			</data>
-		</dict>
-		<key>AR.storyboardc/a39-to-Q1P-view-qdp-5E-pXa.nib/objects-14.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			xLAw+GafXvQOe78Rm4D8kHJATaIR5iR62u0vPz1zO6w=
-			</data>
-		</dict>
-		<key>AR.storyboardc/a39-to-Q1P-view-qdp-5E-pXa.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			T/+7rFEZa6m1zDnkJK4MiDDOPp53SNX5z3P47zAjQ/U=
-			</data>
-		</dict>
-		<key>AR.storyboardc/navARViewController.nib/objects-14.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5ScrwfhUtTH2HXU/zxMeuhKILV/Zh7cJEp/ZKB4k5hc=
-			</data>
-		</dict>
-		<key>AR.storyboardc/navARViewController.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Zh6dyX/Pd5LWLlwwPqkAr5c/FG0xK+xWRdnHkMzgviw=
-			</data>
-		</dict>
-		<key>AR.storyboardc/pdK-oq-scA-view-aKn-CN-PNf.nib/objects-14.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			R6r/ePsoTYdSE6dL9LA7g9yUk5qbFrvoiKvZIP6Bnn8=
-			</data>
-		</dict>
-		<key>AR.storyboardc/pdK-oq-scA-view-aKn-CN-PNf.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			2jgnoJh3gqU7yzQ6x4zF80HJm3tCbg8i/ewjyc8rTNY=
-			</data>
-		</dict>
 		<key>ActivityIndicatorView.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -601,88 +280,11 @@
 			HrD235X29m5tAOBv5qBicW34grbwaIIgteI4Km1fLZk=
 			</data>
 		</dict>
-		<key>Asahi.mlmodelc/analytics/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/Fu1unP9nQucd499idAP2nBOAuIP+mOKzEGpQo7H9XI=
-			</data>
-		</dict>
-		<key>Asahi.mlmodelc/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/0ExS3AA38SCE5BoDXwEQQPNuOOudYWn7Y8uER/uLUU=
-			</data>
-		</dict>
-		<key>Asahi.mlmodelc/metadata.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			YOAfo43Jg59WKHI3w1YqUVz90kba1aTKE0JeI2lUve8=
-			</data>
-		</dict>
-		<key>Asahi.mlmodelc/model0/analytics/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			SRD/lBJSM2OieEoduflbkqtuOzGpnTNdNnsJFbYLUdU=
-			</data>
-		</dict>
-		<key>Asahi.mlmodelc/model0/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			OhrmSssAnu7spVYkofuyirfd7Yj6VmORM+fB2kfp4ss=
-			</data>
-		</dict>
-		<key>Asahi.mlmodelc/model0/model.espresso.net</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			6Dqqrx1eZivN5lvJ6OCq3/noWBUEwl0av9Ywr4O4qxQ=
-			</data>
-		</dict>
-		<key>Asahi.mlmodelc/model0/model.espresso.shape</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LyuMXRYeCbELjv0aogvSEPPtNqtJwtADe3gq8JjGSbY=
-			</data>
-		</dict>
-		<key>Asahi.mlmodelc/model0/model.espresso.weights</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			E/jgotPSRJa49q0ydJx1UQTHDPR6qe3Vgh4VenxnxMw=
-			</data>
-		</dict>
-		<key>Asahi.mlmodelc/model0/model/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JsMfzXP3J1PCXEF2nqub8rHW9vXpXkr2ag9c2kxRcE8=
-			</data>
-		</dict>
-		<key>Asahi.mlmodelc/model0/neural_network_optionals/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			WTG9U2xFUClKISxvyNPBvuddqBeYC6C2cchgPa+zYjg=
-			</data>
-		</dict>
-		<key>Asahi.mlmodelc/model1/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			HgjCtNMadbrjRNsicutUCkxtUqEOwMY95dCjjdpOxrM=
-			</data>
-		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uwu+MLZ0+/xFq31zTWro5lEuyAZaNCQwUxEAPbDhUQA=
+			KRB50lG2byHE1yKrhORDVbG4K68yr0G4as+jFm9davw=
 			</data>
 		</dict>
 		<key>Camera.storyboardc/CameraViewController.nib/objects-14.0+.nib</key>
@@ -710,14 +312,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZYQL/goa4hyszRrVewIjhPqHh3BHIrZsJMNL2mku9yM=
+			vxY9mlMFcwoqpB40/yy8h3JNVDGqCCtRspNO0DSOpdM=
 			</data>
 		</dict>
 		<key>Camera.storyboardc/t0e-vp-mUz-view-d8S-Fb-bVN.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nZKcWsTe4mBf4l352ygiunejO5HKpwjL6PKJjgQANX4=
+			IXIVbcKK63NSornHu1VH/YqBuovfk07f6+qvxLRwbpE=
 			</data>
 		</dict>
 		<key>FixOrientationView.nib</key>
@@ -850,35 +452,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4OtP9ExIWnpU5pXvWre2M3X4GA7AiQpLwDDZq2nA+Cs=
+			2fZDHsMFas71/BEAIWJnU7uZ2JT9lYUi0XNasXELR8E=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			j8xYxV+OEeEnRpc2oyA0YnFmumut6CHTgooURRC77ss=
+			l4jqJVttQ90pCqEzPnpVUBZvtK3wx1o7z+MVDbtCHtk=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hkhQ8ID9VfUXDkhukc9zyHu9W6Wf+pFKWCul31x9L+c=
+			3hd3z3YAKxskp07gybIcfjODmiGY1l290ZNZWHnRGtg=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			j8xYxV+OEeEnRpc2oyA0YnFmumut6CHTgooURRC77ss=
+			l4jqJVttQ90pCqEzPnpVUBZvtK3wx1o7z+MVDbtCHtk=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pcx2iIATJdkv4/8TCTL9mDOOGB9aD7Q3TDQ0Vg/WHQw=
+			RRckRxRr32oZggE5QCaXMiSlkA1AXv7F9gINb9bs0fg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -888,81 +490,60 @@
 			Hv25PdXsOU25LMpMJKHkMB3zU9gITS1B/VfInqI2Snw=
 			</data>
 		</dict>
-		<key>PopoverViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+ANq+lwoOZIwIzwyeosHUIRdwgpAE30u21bTM7EhQSQ=
-			</data>
-		</dict>
-		<key>Session_14.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			yjxbdydgL6w/mIrP2SWycFCTPzMJg1HmlQk4UWl1U2w=
-			</data>
-		</dict>
-		<key>Session_15.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			iJoN52ZIvKfKhxrKZpvNvd2nxOHPLxQZJH05Xh9EisM=
-			</data>
-		</dict>
-		<key>Session_2.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			spUjxXbwJl0F6KcwX/knEqlrPJMlloaLVlpfpgd7eaE=
-			</data>
-		</dict>
 		<key>ShelfWatch.momd/ShelfWatch.mom</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4AUWoAllpalNokTBjkK9lzGFLYbaefGlBprf5u0ol84=
+			umLtVSvnuvPvrLhZTt7pctTz4a8YkXBGEruW0ZoMXLk=
 			</data>
 		</dict>
 		<key>ShelfWatch.momd/ShelfWatch_1.0.0.mom</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			deEq0Ghbtd+/c5BEvSxqVvfvzmpPebDx3/G+mWG+cNU=
+			J4i63kBPYP5uD3gBUTsNxyB9LdSb/E5Ipyaf6Q1IYcg=
 			</data>
 		</dict>
 		<key>ShelfWatch.momd/ShelfWatch_1.0.1.mom</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UOojfwE7HYk5Lr/l00OEj9XLImPnpH3LcVy4u4xv0gA=
+			JiwaVVb7+AU9TWEzg52UDox8QfQgw74/TyXoOTRDAsA=
 			</data>
 		</dict>
 		<key>ShelfWatch.momd/ShelfWatch_1.0.2.mom</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RUdjTa1y5VItUJm1zCebgXqZXWmRRRe7iaz+KaQntqM=
+			O1ajMQ/Bmrs6bvOweqDZkzV2Lgvll1gr1nOrmpTcGWc=
 			</data>
 		</dict>
 		<key>ShelfWatch.momd/ShelfWatch_1.0.3.mom</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			V2tRop151R9d+3Zvcsr7LXitssF99JFsQUYIGVYJrrQ=
+			MZ0K+Pb3NTDngd5mPBlTkLm00Ohu7am8eCXliJl4W+A=
 			</data>
 		</dict>
-		<key>ShelfWatch.momd/ShelfWatch_1.0.3.omo</key>
+		<key>ShelfWatch.momd/ShelfWatch_1.0.4.mom</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cE1pMbCLzTdWmNCXdQ+lfxsZteqAH7wPGiUdXMObkQo=
+			AdWqb7szazXRic50s/v+miiWyOKng6dWizD7oQBDvRk=
+			</data>
+		</dict>
+		<key>ShelfWatch.momd/ShelfWatch_1.0.4.omo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Fu3AWLBe3ORQ3c7rhfp59HnYCQTuU+F8opvlIYW/0v4=
 			</data>
 		</dict>
 		<key>ShelfWatch.momd/VersionInfo.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ryQEfxJw1VCMGB0wnGa0lJoOzAN9jmmXiTmm2KBuL9w=
+			C/Z2vQkhkQlaFtRji8NipyrvcyC8yzWg4IU7HAYUgIA=
 			</data>
 		</dict>
 		<key>ar.lproj/Localizable.strings</key>
@@ -1017,90 +598,6 @@
 			y2t1DC9MnXDZSoV+slJhRPA6iWfflKQloJIrULJdEqY=
 			</data>
 		</dict>
-		<key>kpi_applicability_matrix.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			shbGgD+CUDAe2/pwcPdtUuUnkoIGXBjq1kg4y9AQ+R4=
-			</data>
-		</dict>
-		<key>mars_mt.mlmodelc/analytics/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ZF0rVIydBujGSG+Wf6nUym9UpSLrfMl9l4ykVQkUas8=
-			</data>
-		</dict>
-		<key>mars_mt.mlmodelc/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+POeedvO6QyO3r+BcBYpao2YLj+WY73QMHGIh2hwfyw=
-			</data>
-		</dict>
-		<key>mars_mt.mlmodelc/metadata.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			YKIn+g2cDoTh4tMgA5BPfSiDtAbQ5vRyliKGtLP15WA=
-			</data>
-		</dict>
-		<key>mars_mt.mlmodelc/model0/analytics/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			00oQcp6TlfaxUrlsAOZmvGK7ZTWiLjTByfatfmof4yw=
-			</data>
-		</dict>
-		<key>mars_mt.mlmodelc/model0/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			UPfnDm4/6dAseRJFfKIbCEybVCz/+byiTWgPf6gBX7k=
-			</data>
-		</dict>
-		<key>mars_mt.mlmodelc/model0/model.espresso.net</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			XsGtbSbpkx60XRnVN1ih4H2vYhR2JtgKUJSXf+IsbQQ=
-			</data>
-		</dict>
-		<key>mars_mt.mlmodelc/model0/model.espresso.shape</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			YC1QjpX2U15y/dUA49LUnYlHgZJG4nJByNtoSjQP/mw=
-			</data>
-		</dict>
-		<key>mars_mt.mlmodelc/model0/model.espresso.weights</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			OxDQ9L7mpKBhmDOFKOMS4lmgeMnRxBeCrhbWaWtitWA=
-			</data>
-		</dict>
-		<key>mars_mt.mlmodelc/model0/model/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JsMfzXP3J1PCXEF2nqub8rHW9vXpXkr2ag9c2kxRcE8=
-			</data>
-		</dict>
-		<key>mars_mt.mlmodelc/model0/neural_network_optionals/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			WTG9U2xFUClKISxvyNPBvuddqBeYC6C2cchgPa+zYjg=
-			</data>
-		</dict>
-		<key>mars_mt.mlmodelc/model1/coremldata.bin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			gq80ymj70MCYO5+izz3kuvBKU7LeJ3jmIB6oJOZjBLc=
-			</data>
-		</dict>
 		<key>pl.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -1118,20 +615,6 @@
 			</data>
 			<key>optional</key>
 			<true/>
-		</dict>
-		<key>sample_data_failure.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			gMkB8Lf+zYdmFioXp8/b64I0suKV8LWtZtzBbzRccoM=
-			</data>
-		</dict>
-		<key>sample_data_success.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			4KONa6a5Rpy0QWYvWjenCQSYKF3dQRXPhGJ7k8y0rSw=
-			</data>
 		</dict>
 		<key>sk.lproj/Localizable.strings</key>
 		<dict>

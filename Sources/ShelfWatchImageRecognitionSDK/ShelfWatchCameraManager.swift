@@ -157,8 +157,18 @@ extension ShelfWatchCameraManager: ImageUploadDelegate {
     public func didReceivePendingARData(item: ARPendingData) {
         self.delegate?.didReceivePendingUploadARData(data: item)
     }
-    // 112 - 2449042_7874_2024-09-30_KPIData.json | AB0C6173-C7F0-467B-8FC3-DDBE522B52F3_1_AnnotationData.json
-    // 113 - 2449043_7874_2024-09-30_KPIData.json | 4F56DE77-75B4-4FC9-9670-3B2F9F75ECF0_1_AnnotationData.json
+    
+    public func downloadDataProgress(progressMeta: DownloadProgressMeta) {
+        
+        let downloadMeta = DownloadMeta(
+            title: progressMeta.title,
+            subTitle: progressMeta.subTitle,
+            progress: progressMeta.progress,
+            finished: progressMeta.finished,
+            type: progressMeta.type.value
+        )
+        self.delegate?.downloadDataProgress(downloadMeta: downloadMeta)
+    }
 }
 
 // MARK: - Receive Event From React Native

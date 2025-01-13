@@ -140,24 +140,6 @@ extension ShelfWatchCameraManager: ImageUploadDelegate {
         self.delegate?.didImageUploadButtonPressed(uploadEventMeta: uploadEventMeta)
     }
     
-    public func downloadDataProgress(progressMeta: DownloadProgressMeta, sendUpdates: Bool) {
-        
-        // guard sendUpdates else { return }
-        
-        let downloadMeta = DownloadMeta(
-            title: progressMeta.title,
-            subTitle: progressMeta.subTitle,
-            progress: progressMeta.progress,
-            finished: progressMeta.finished, 
-            type: progressMeta.type.value
-        )
-        self.delegate?.downloadDataProgress(downloadMeta: downloadMeta)
-    }
-    
-    public func didReceivePendingARData(item: ARPendingData) {
-        self.delegate?.didReceivePendingUploadARData(data: item)
-    }
-    
     public func downloadDataProgress(progressMeta: DownloadProgressMeta) {
         
         let downloadMeta = DownloadMeta(
@@ -168,6 +150,10 @@ extension ShelfWatchCameraManager: ImageUploadDelegate {
             type: progressMeta.type.value
         )
         self.delegate?.downloadDataProgress(downloadMeta: downloadMeta)
+    }
+    
+    public func didReceivePendingARData(item: ARPendingData) {
+        self.delegate?.didReceivePendingUploadARData(data: item)
     }
 }
 
@@ -275,5 +261,9 @@ extension ShelfWatchCameraManager {
     public func isShopIdExists(shopId: Int) -> String? {
         
         return self.shelfWatchCamera.isShopIdExists(shopId: shopId)
+    }
+    
+    public func getGroupNames(shopId: Int) -> [String] {
+        return self.shelfWatchCamera.getGroupNames(shopId: shopId)
     }
 }

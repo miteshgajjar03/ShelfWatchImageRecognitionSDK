@@ -10,7 +10,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		v9JLCZQW+agEO5c7wJQimiP1v+o=
+		8MavL52xSCYDBDYzaRIxC8dbt7U=
 		</data>
 		<key>Camera.storyboardc/CameraViewController.nib/objects-14.0+.nib</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Camera.storyboardc/t0e-vp-mUz-view-d8S-Fb-bVN.nib/objects-14.0+.nib</key>
 		<data>
-		ZybkcgLEMjAN+ZoxXB9Prbf+dnU=
+		n8mG49jZHkdslBX82sUN0fKUHHc=
 		</data>
 		<key>Camera.storyboardc/t0e-vp-mUz-view-d8S-Fb-bVN.nib/runtime.nib</key>
 		<data>
-		0DdVuVyhANeMvJ2Ke6gwB/dU358=
+		7XMTU7gFCj8aNHb/1BZCNng3b9g=
 		</data>
 		<key>FixOrientationView.nib</key>
 		<data>
@@ -106,27 +106,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		rPXKIHnwpEUe2P/23hOv3EJRo9Y=
+		GGU/Dlwtka6TP3gw2jqmumLZI28=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		Kso4Hd011AzLZ/b5SMrltnc8PHQ=
+		mNaSN3DDFmTCW4nYaaPRqXXP6F0=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		/IhD4mcyWABg29G8LFjDRcVwauI=
+		BlT8XWxw7rHwuYSmQcsmi65/cjA=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		WQm3qDdxmQ2sbikXF5CdDLBcQtc=
+		cVXGq66uga1FRrAdfjKXz94ujtY=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		/IhD4mcyWABg29G8LFjDRcVwauI=
+		BlT8XWxw7rHwuYSmQcsmi65/cjA=
 		</data>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		GIFf5il5xPGCQlxYoqyw78sPtLw=
+		8/a2n27CtHI2iVTbr1x4aUK9NeU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -138,11 +138,11 @@
 		</data>
 		<key>ShelfWatch.momd/ShelfWatch.mom</key>
 		<data>
-		47A5lLRv2iF0+CAd07yn9B0OS6Q=
+		hecHRJ2PGnZvf7x1ccGM8OsJgGs=
 		</data>
 		<key>ShelfWatch.momd/ShelfWatch_1.0.1.mom</key>
 		<data>
-		aRcnA/KZKX38g+sC1vX4HIH0OIw=
+		BuTTBqH7kiIL66pqehUDAyLL0JE=
 		</data>
 		<key>ShelfWatch.momd/ShelfWatch_1.0.1.omo</key>
 		<data>
@@ -245,7 +245,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ygjOfXg5LL3JH/jJQ0HI431XoV5nYFo22Ij7FyshpRQ=
+			KRB50lG2byHE1yKrhORDVbG4K68yr0G4as+jFm9davw=
 			</data>
 		</dict>
 		<key>Camera.storyboardc/CameraViewController.nib/objects-14.0+.nib</key>
@@ -273,14 +273,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tO4hNrpMGLkAY1icFoA68hsZFnYVwg2Ejy3ngauLtlw=
+			vmAGyHPZC+MqZT3W7POIdsN+o0g1J5124JUZD0EXgzQ=
 			</data>
 		</dict>
 		<key>Camera.storyboardc/t0e-vp-mUz-view-d8S-Fb-bVN.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DKQx+f/A0DL1xbOM4VyVRz3AyIeHAWNtVTuCHn6dBPg=
+			gEXCUCviZfnMkAKO4iG2alupPetnsOUEuRqGU0HuQmI=
 			</data>
 		</dict>
 		<key>FixOrientationView.nib</key>
@@ -413,35 +413,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lIidPkP1/6CAH+8Z37SwwgNuDTGS34qOsc0VwLL9zC8=
+			Dd0YUVmrGPy6mb2D2hu5uOORL9NbuvrdMJI5hFSUBVc=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			inlxqfEbl2F3yJXdNnxJm0ddTn0GgKiW/f5zqLFIdec=
+			nAXqAiPQx6PMk84Ot3pp2QPEFEvkGu44uqq0WZ7X7Rs=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LY5RwfKKxB42XFkonOUGUHTrRKWSQLQkRHtOSVp8y0Y=
+			G9ktZc5KmIIC8DyTlE4P97SBlX06TbgzyRWxSW6SlDw=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			inlxqfEbl2F3yJXdNnxJm0ddTn0GgKiW/f5zqLFIdec=
+			nAXqAiPQx6PMk84Ot3pp2QPEFEvkGu44uqq0WZ7X7Rs=
 			</data>
 		</dict>
 		<key>Modules/ShelfWatchImageRecognitionFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			e6gTcVJHro4m5STAQE3vv/7WpZtENm+ntTlKivzxJ18=
+			uGZG76ulg5cmpf7jZdZEmcnHlwPy1vHDQllTQXw0S+Q=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -462,14 +462,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yFb5Tlml1mlWFNdxt7Jd/o7B94m1LXTavaag9auOEW0=
+			umLtVSvnuvPvrLhZTt7pctTz4a8YkXBGEruW0ZoMXLk=
 			</data>
 		</dict>
 		<key>ShelfWatch.momd/ShelfWatch_1.0.1.mom</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g7VUUjpboD+a36VDeTmULvGl+Zp8+Upt7ViWsSHxtQ4=
+			Gc3GLz0s1Fh1HBzE9lhi9TV3FBiLOrK1rP53PqlJZzE=
 			</data>
 		</dict>
 		<key>ShelfWatch.momd/ShelfWatch_1.0.1.omo</key>
